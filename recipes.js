@@ -286,7 +286,8 @@ const RECIPES = [
     gear: ["Kamado Joe Big Joe III", "The Good Charcoal lump charcoal"],
     notes: "Cooked on the Kamado Joe Big Joe III with The Good Charcoal lump charcoal."
   },
-  {
+  {,
+{
     "id":  "this-iberico-pork-is-on-another-level",
     "title":  "This Iberico Pork Is on Another Level",
     "date":  "2026-10-28",
@@ -312,7 +313,7 @@ const RECIPES = [
                   "Would you crush this rib rack with your hands or slice it up with a knife? 👇🐖🔥"
               ]
 },
-  {
+{
     "id":  "lemon-chipotle-crema-wings",
     "title":  "Lemon Chipotle Crema Wings",
     "date":  "2026-09-23",
@@ -340,7 +341,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "smoked-over-the-top-chili",
     "title":  "Smoked Over-the-Top Chili",
     "date":  "2026-08-07",
@@ -387,7 +388,7 @@ const RECIPES = [
                   "Skim off any excess fat and serve with diced onions, shredded cheese, and green onions."
               ]
 },
-  {
+{
     "id":  "lomo-saltado",
     "title":  "Lomo Saltado",
     "date":  "2026-07-28",
@@ -431,7 +432,7 @@ const RECIPES = [
                   "Serve immediately with crispy French fries and steamed rice."
               ]
 },
-  {
+{
     "id":  "pancit-canton",
     "title":  "Pancit Canton",
     "date":  "2026-07-21",
@@ -473,7 +474,7 @@ const RECIPES = [
                   "Season to taste and serve hot."
               ]
 },
-  {
+{
     "id":  "pork-rib-rack-with-filipino-adobo-glaze",
     "title":  "Pork Rib Rack with Filipino Adobo Glaze",
     "date":  "2026-07-07",
@@ -503,7 +504,7 @@ const RECIPES = [
                   "Brush the adobo glaze over the pork during the final few minutes of cooking, allowing it to caramelize before serving."
               ]
 },
-  {
+{
     "id":  "iberico-secreto-steaks-with-chimichurri",
     "title":  "Iberico Secreto Steaks with Chimichurri",
     "date":  "2026-06-10",
@@ -528,7 +529,7 @@ const RECIPES = [
                   "* Salt \u0026 pepper to taste"
               ]
 },
-  {
+{
     "id":  "smoked-ribs",
     "title":  "Smoked Ribs",
     "date":  "2026-05-28",
@@ -549,7 +550,7 @@ const RECIPES = [
                   "Continue cooking for another 1.5 hours until tender."
               ]
 },
-  {
+{
     "id":  "simple-smash-burger",
     "title":  "Simple Smash Burger",
     "date":  "2026-05-26",
@@ -577,7 +578,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "vietnamese-shaking-beef-b-l-c-l-c",
     "title":  "Vietnamese Shaking Beef (Bò Lúc Lắc)",
     "date":  "2026-05-14",
@@ -610,7 +611,7 @@ const RECIPES = [
                   "Serve immediately with rice and fresh vegetables."
               ]
 },
-  {
+{
     "id":  "filipino-bbq-chicken",
     "title":  "Filipino BBQ Chicken",
     "date":  "2026-04-26",
@@ -645,7 +646,7 @@ const RECIPES = [
                   "Serve hot with steamed rice."
               ]
 },
-  {
+{
     "id":  "peruvian-bbq-chicken-pollo-a-la-brasa",
     "title":  "Peruvian BBQ Chicken (Pollo a la Brasa)",
     "date":  "2026-04-13",
@@ -680,7 +681,7 @@ const RECIPES = [
                   "Grill over charcoal and your favorite wood at 300°F until the breast reaches 155°F."
               ]
 },
-  {
+{
     "id":  "asian-style-grilled-pork-chops",
     "title":  "Asian-Style Grilled Pork Chops",
     "date":  "2026-04-01",
@@ -717,7 +718,7 @@ const RECIPES = [
                   "Grill over direct heat until internal temp reaches 140°F."
               ]
 },
-  {
+{
     "id":  "tri-tip-queso-dip",
     "title":  "Tri-Tip Queso Dip",
     "date":  "2026-03-25",
@@ -746,7 +747,7 @@ const RECIPES = [
                   "Favorite protein (ground beef, brisket, or tri-tip)"
               ]
 },
-  {
+{
     "id":  "tomahawk-steak",
     "title":  "Tomahawk Steak",
     "date":  "2026-03-03",
@@ -779,7 +780,7 @@ const RECIPES = [
                   "Salt \u0026 pepper to taste"
               ]
 },
-  {
+{
     "id":  "queso-birria-tacos",
     "title":  "Queso Birria Tacos",
     "date":  "2026-02-16",
@@ -814,7 +815,7 @@ const RECIPES = [
                   "Assemble tacos with melted queso, shredded beef, onions, cilantro, and avocado slices."
               ]
 },
-  {
+{
     "id":  "hot-honey-filipino-adobo-wings",
     "title":  "Hot Honey Filipino Adobo Wings",
     "date":  "2026-02-04",
@@ -850,7 +851,7 @@ const RECIPES = [
                   "Toss wings in the adobo glaze and serve immediately."
               ]
 },
-  {
+{
     "id":  "pulled-pork-lumpia",
     "title":  "Pulled Pork Lumpia",
     "date":  "2026-01-26",
@@ -894,7 +895,7 @@ const RECIPES = [
                   "Serve with sweet chili sauce or spicy vinegar."
               ]
 },
-  {
+{
     "id":  "smoked-tri-tip-stir-fry-noodles",
     "title":  "Smoked Tri-Tip Stir-Fry Noodles",
     "date":  "2026-01-20",
@@ -944,7 +945,7 @@ const RECIPES = [
                   "Serve hot, topped with extra tri-tip and green onions."
               ]
 },
-  {
+{
     "id":  "spinach-corned-beef-palusami",
     "title":  "Spinach \u0026 Corned Beef Palusami",
     "date":  "2026-01-06",
@@ -975,7 +976,7 @@ const RECIPES = [
                   "Cover with foil and continue cooking for 1–2 hours until tender and creamy."
               ]
 },
-  {
+{
     "id":  "island-style-smoked-pork",
     "title":  "Island-Style Smoked Pork",
     "date":  "2025-12-30",
@@ -1011,7 +1012,7 @@ const RECIPES = [
                   "Remove from smoker, slice, and pan-fry with oyster sauce, then add onions and cook until caramelized."
               ]
 },
-  {
+{
     "id":  "flank-steak-tacos",
     "title":  "Flank Steak Tacos",
     "date":  "2025-11-21",
@@ -1037,7 +1038,7 @@ const RECIPES = [
                   "Salt to taste"
               ]
 },
-  {
+{
     "id":  "prosciutto-wrapped-salmon-pinwheels",
     "title":  "Prosciutto-Wrapped Salmon Pinwheels",
     "date":  "2025-10-30",
@@ -1077,7 +1078,7 @@ const RECIPES = [
                   "Grilled over lump charcoal at 350°F until the @meatermade probe hits 140°F internal."
               ]
 },
-  {
+{
     "id":  "pancit-canton-w-iberico-steak",
     "title":  "Pancit Canton w/ Iberico Steak",
     "date":  "2025-10-07",
@@ -1119,7 +1120,7 @@ const RECIPES = [
                   "Mix well, season to taste—done!"
               ]
 },
-  {
+{
     "id":  "bbq-pork-banh-mi",
     "title":  "BBQ pork Banh Mi",
     "date":  "2025-10-02",
@@ -1148,7 +1149,7 @@ const RECIPES = [
                   "Mix well, coat the meat, and marinate in the fridge for 1–2 hours."
               ]
 },
-  {
+{
     "id":  "islander-bbq-chicken",
     "title":  "Islander BBQ Chicken",
     "date":  "2025-09-25",
@@ -1183,7 +1184,7 @@ const RECIPES = [
                   "Basted every 20 minutes until we hit an internal temp of 155°F."
               ]
 },
-  {
+{
     "id":  "cedar-plank-salmon",
     "title":  "Cedar Plank Salmon",
     "date":  "2025-09-12",
@@ -1209,7 +1210,7 @@ const RECIPES = [
                   "Brush with glaze, let it set for 5 min until sticky and glossy.⁣"
               ]
 },
-  {
+{
     "id":  "cajun-honey-iberico-rib-rack",
     "title":  "Cajun Honey Iberico Rib Rack",
     "date":  "2025-08-27",
@@ -1236,7 +1237,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "wagyu-ribeye-w-garlic-noodles",
     "title":  "Wagyu Ribeye w/ Garlic Noodles",
     "date":  "2025-08-22",
@@ -1273,7 +1274,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "filipino-adobo-glazed-iberico-ribs",
     "title":  "Filipino Adobo Glazed Iberico Ribs",
     "date":  "2025-08-19",
@@ -1302,7 +1303,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "filipino-bbq-chicken-thighs",
     "title":  "Filipino BBQ Chicken Thighs",
     "date":  "2025-07-31",
@@ -1340,7 +1341,7 @@ const RECIPES = [
                   "Serve with steamed rice, fried egg, and atchara."
               ]
 },
-  {
+{
     "id":  "momofuku-sweet-spicy-birria-noodles",
     "title":  "Momofuku Sweet \u0026 Spicy Birria Noodles",
     "date":  "2025-07-29",
@@ -1375,7 +1376,7 @@ const RECIPES = [
                   "Drizzle sweet \u0026 spicy sauce over the top and enjoy."
               ]
 },
-  {
+{
     "id":  "filipino-vietnamese-marinated-iberico-rib-rack",
     "title":  "Filipino-Vietnamese Marinated Iberico Rib Rack",
     "date":  "2025-07-13",
@@ -1410,7 +1411,7 @@ const RECIPES = [
                   "Combine all ingredients and marinate the pork for 4 to 6 hours—overnight if you’ve got the time. Fire up the @kamadojoe Big Joe III with lump charcoal and grill over direct heat until the internal temp hits 140°F on my @meatermade probe. Let it rest, slice it up, and get ready for a punch of smoky, caramelized flavor in every bite."
               ]
 },
-  {
+{
     "id":  "garlic-chili-noodles-w-grilled-iberico-pork-belly",
     "title":  "Garlic Chili Noodles w/ Grilled Iberico Pork Belly",
     "date":  "2025-07-06",
@@ -1447,7 +1448,7 @@ const RECIPES = [
                   "Toss noodles in the sauce and season with salt as needed, layer with pork, garnish, and enjoy that kick 🔥"
               ]
 },
-  {
+{
     "id":  "iberico-presa-saltado",
     "title":  "Iberico Presa Saltado",
     "date":  "2025-07-01",
@@ -1482,7 +1483,7 @@ const RECIPES = [
                   "4️⃣ Plate it up with rice and fries. Game over."
               ]
 },
-  {
+{
     "id":  "double-smashburger",
     "title":  "Double Smashburger",
     "date":  "2025-06-24",
@@ -1512,7 +1513,7 @@ const RECIPES = [
                   "And don’t forget to catch all the culinary chaos on Cutthroat Kitchen: Knives Out, Tuesdays at 9PM ET/PT on @foodnetwork — streaming next day on Max and Discovery+ 📺🍽️"
               ]
 },
-  {
+{
     "id":  "hawaiian-lau-lau-3-ways",
     "title":  "Hawaiian Lau Lau 3 Ways",
     "date":  "2025-06-22",
@@ -1540,7 +1541,7 @@ const RECIPES = [
                   "Which one are you grabbing first — pork, oxtail, or smoked oxtail?👇"
               ]
 },
-  {
+{
     "id":  "iberico-presa-steak-rolls-w-cowboy-butter",
     "title":  "Iberico Presa Steak Rolls w/ Cowboy Butter",
     "date":  "2025-06-19",
@@ -1571,7 +1572,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "iberico-st-louis-ribs-w-garlic-lemon-butter",
     "title":  "Iberico St. Louis Ribs w/ Garlic Lemon Butter",
     "date":  "2025-06-17",
@@ -1600,7 +1601,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "pancit-canton-w-iberico-flank-steak",
     "title":  "Pancit Canton w/ Iberico Flank Steak",
     "date":  "2025-06-06",
@@ -1644,7 +1645,7 @@ const RECIPES = [
                   "Drop a 🇵🇭 if you grew up with pancit—or if this is how you want to try it next!"
               ]
 },
-  {
+{
     "id":  "iberico-rib-rack-with-filipino-adobo-glaze",
     "title":  "Iberico Rib Rack with Filipino Adobo Glaze",
     "date":  "2025-06-03",
@@ -1672,7 +1673,7 @@ const RECIPES = [
                   "1 bay leaf"
               ]
 },
-  {
+{
     "id":  "hawaiian-shrimp-scampi",
     "title":  "Hawaiian Shrimp Scampi",
     "date":  "2025-05-21",
@@ -1711,7 +1712,7 @@ const RECIPES = [
                   "Serve immediately with steamed rice!"
               ]
 },
-  {
+{
     "id":  "bbq-secreto-banh-mi",
     "title":  "BBQ Secreto Banh Mi",
     "date":  "2025-05-19",
@@ -1751,7 +1752,7 @@ const RECIPES = [
                   "⸻"
               ]
 },
-  {
+{
     "id":  "chicken-kelaguen",
     "title":  "Chicken Kelaguen",
     "date":  "2025-05-13",
@@ -1781,7 +1782,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "carne-asada-wings",
     "title":  "Carne Asada Wings",
     "date":  "2025-05-07",
@@ -1800,7 +1801,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "filipino-pork-adobo",
     "title":  "Filipino Pork Adobo",
     "date":  "2025-05-04",
@@ -1832,7 +1833,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "filipino-bbq-skewers",
     "title":  "Filipino BBQ Skewers",
     "date":  "2025-05-02",
@@ -1871,7 +1872,7 @@ const RECIPES = [
                   "Fired up the flavor with the @kamadojoe Joe Jr and @thegoodcharcoal Lump Charcoal—smoky goodness in every bite."
               ]
 },
-  {
+{
     "id":  "lomo-saltado-w-grilled-ribeye-peruvian-meets-backyard-bbq",
     "title":  "Lomo Saltado w/ Grilled Ribeye — Peruvian meets backyard BBQ",
     "date":  "2025-04-28",
@@ -1905,7 +1906,7 @@ const RECIPES = [
                   "Serve with rice + fries. Done and delicious."
               ]
 },
-  {
+{
     "id":  "lemon-saffron-chicken-wraps",
     "title":  "Lemon Saffron Chicken Wraps",
     "date":  "2025-04-21",
@@ -1940,7 +1941,7 @@ const RECIPES = [
                   "Wrapped in a flour tortilla with Tzatziki, mixed greens, alfalfa sprouts, tomatoes, cucumbers, and onions."
               ]
 },
-  {
+{
     "id":  "arroz-caldo-filipino-porridge",
     "title":  "Arroz Caldo (Filipino Porridge)",
     "date":  "2025-04-13",
@@ -1992,7 +1993,7 @@ const RECIPES = [
                   "Serve hot with garnishing and enjoy"
               ]
 },
-  {
+{
     "id":  "iberico-presa-rolls-w-cowboy-butter",
     "title":  "Iberico Presa Rolls w/ Cowboy Butter",
     "date":  "2025-04-08",
@@ -2025,7 +2026,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "huli-huli-chicken",
     "title":  "Huli Huli Chicken",
     "date":  "2025-04-03",
@@ -2060,7 +2061,7 @@ const RECIPES = [
                   "Basted every 20 minutes until we hit an internal temp of 155°F."
               ]
 },
-  {
+{
     "id":  "filipino-bbq-beef-ribs",
     "title":  "Filipino BBQ Beef Ribs",
     "date":  "2025-03-23",
@@ -2093,7 +2094,7 @@ const RECIPES = [
                   "Wrap in butcher paper and rest for at least 1 hour."
               ]
 },
-  {
+{
     "id":  "buttery-lemon-pepper-wings",
     "title":  "Buttery Lemon Pepper Wings",
     "date":  "2025-03-21",
@@ -2116,7 +2117,7 @@ const RECIPES = [
                   "Toss the hot wings in the buttery lemon pepper sauce, serve, and enjoy!"
               ]
 },
-  {
+{
     "id":  "a5-wagyu-crostini",
     "title":  "A5 Wagyu Crostini",
     "date":  "2025-03-13",
@@ -2140,7 +2141,7 @@ const RECIPES = [
                   "Salt and pepper to taste"
               ]
 },
-  {
+{
     "id":  "iberico-flank-steak-tacos",
     "title":  "Iberico Flank Steak Tacos",
     "date":  "2025-03-07",
@@ -2172,7 +2173,7 @@ const RECIPES = [
                   "Assemble your tacos by adding slices of pork, layered with Tomatillo salsa, diced Onions and Cilantro. Enjoy"
               ]
 },
-  {
+{
     "id":  "pork-belly-banh-mi",
     "title":  "Pork Belly Banh Mi",
     "date":  "2025-03-03",
@@ -2192,7 +2193,7 @@ const RECIPES = [
                   "Rest for at least an hour before slicing."
               ]
 },
-  {
+{
     "id":  "iberico-pork-chop-w-asian-chimichurri",
     "title":  "Iberico Pork Chop w/ Asian Chimichurri",
     "date":  "2025-02-28",
@@ -2228,7 +2229,7 @@ const RECIPES = [
                   "Drizzle Chimichurri over the top and serve with your favorite veggies."
               ]
 },
-  {
+{
     "id":  "chamorro-short-ribs",
     "title":  "Chamorro Short Ribs",
     "date":  "2025-02-21",
@@ -2269,7 +2270,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "tritip-sliders-with-roasted-peppers",
     "title":  "Tritip Sliders with Roasted Peppers ️",
     "date":  "2025-02-18",
@@ -2297,7 +2298,7 @@ const RECIPES = [
                   "Salt and Pepper to taste"
               ]
 },
-  {
+{
     "id":  "kamado-asado-ribs",
     "title":  "Kamado Asado Ribs",
     "date":  "2025-02-12",
@@ -2321,7 +2322,7 @@ const RECIPES = [
                   "Slice into individual pieces and drizzle more lime juice right before serving."
               ]
 },
-  {
+{
     "id":  "hot-honey-sriracha-wings",
     "title":  "Hot Honey Sriracha Wings",
     "date":  "2025-02-05",
@@ -2351,7 +2352,7 @@ const RECIPES = [
                   "When wings are done, drizzle sauce over wings and sprinkle Furikake then serve!"
               ]
 },
-  {
+{
     "id":  "brisket-kimchi-fried-rice",
     "title":  "Brisket Kimchi Fried Rice",
     "date":  "2025-01-31",
@@ -2384,7 +2385,7 @@ const RECIPES = [
                   "Fried Egg"
               ]
 },
-  {
+{
     "id":  "brisket-sinigang",
     "title":  "Brisket Sinigang",
     "date":  "2025-01-26",
@@ -2422,7 +2423,7 @@ const RECIPES = [
                   "Serve hot with a side of steamed rice. Enjoy!!!"
               ]
 },
-  {
+{
     "id":  "korean-bbq-flap-meat",
     "title":  "Korean BBQ Flap Meat",
     "date":  "2025-01-20",
@@ -2449,7 +2450,7 @@ const RECIPES = [
                   "Let rest for 5 minutes before serving with your favorite sides."
               ]
 },
-  {
+{
     "id":  "korean-style-pork-wraps",
     "title":  "Korean Style Pork Wraps",
     "date":  "2025-01-17",
@@ -2476,7 +2477,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "overnight-smoked-brisket",
     "title":  "Overnight Smoked Brisket",
     "date":  "2024-12-27",
@@ -2508,7 +2509,7 @@ const RECIPES = [
                   "Salt to taste"
               ]
 },
-  {
+{
     "id":  "double-smoked-ham-w-cherry-pog-glaze",
     "title":  "Double Smoked Ham w/ Cherry POG Glaze",
     "date":  "2024-12-20",
@@ -2534,7 +2535,7 @@ const RECIPES = [
                   "When the ham hits 100°F, start glazing every 20-30 minutes until it’s done."
               ]
 },
-  {
+{
     "id":  "chicken-w-prosciutto-mozzarella",
     "title":  "Chicken w/ Prosciutto \u0026 Mozzarella",
     "date":  "2024-12-17",
@@ -2560,7 +2561,7 @@ const RECIPES = [
                   "Serve with Ajvar and side of salad."
               ]
 },
-  {
+{
     "id":  "brined-smoked-spatchcock-turkey",
     "title":  "Brined \u0026 Smoked Spatchcock Turkey",
     "date":  "2024-12-13",
@@ -2612,7 +2613,7 @@ const RECIPES = [
                   "Cool and inject turkey."
               ]
 },
-  {
+{
     "id":  "ny-steaks-w-filipino-white-sauce",
     "title":  "NY Steaks w/ Filipino White Sauce",
     "date":  "2024-12-10",
@@ -2641,7 +2642,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "beef-tapa-steak-tapsilog",
     "title":  "Beef Tapa Steak (Tapsilog)",
     "date":  "2024-12-03",
@@ -2672,7 +2673,7 @@ const RECIPES = [
                   "Serve with garlic rice, diced tomatoes, and a fried egg."
               ]
 },
-  {
+{
     "id":  "miso-baby-back-ribs",
     "title":  "Miso Baby Back Ribs",
     "date":  "2024-11-29",
@@ -2698,7 +2699,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "sinigang-lamb-chops",
     "title":  "Sinigang Lamb Chops",
     "date":  "2024-11-26",
@@ -2720,7 +2721,7 @@ const RECIPES = [
                   "Lime"
               ]
 },
-  {
+{
     "id":  "rotisserie-turkey",
     "title":  "Rotisserie Turkey",
     "date":  "2024-11-18",
@@ -2765,7 +2766,7 @@ const RECIPES = [
                   "Cook until the breast temperature reaches 160 degrees on the breast and the thighs reaches 170 degrees."
               ]
 },
-  {
+{
     "id":  "japanese-egg-sandwich-tamago-sando",
     "title":  "Japanese Egg Sandwich (Tamago Sando)",
     "date":  "2024-11-15",
@@ -2800,7 +2801,7 @@ const RECIPES = [
                   "Remove the crust and serve."
               ]
 },
-  {
+{
     "id":  "white-bean-chili-soup-w-ground-turkey",
     "title":  "White Bean Chili Soup w/ Ground Turkey",
     "date":  "2024-11-13",
@@ -2848,7 +2849,7 @@ const RECIPES = [
                   "Serve with shredded cheese, sliced avocado, and cilantro."
               ]
 },
-  {
+{
     "id":  "carne-asada-plate",
     "title":  "Carne Asada Plate",
     "date":  "2024-11-11",
@@ -2884,7 +2885,7 @@ const RECIPES = [
                   "Served with rice, beans, guacamole, sour cream, and grilled green onions."
               ]
 },
-  {
+{
     "id":  "smoked-pulled-pork-lumpia",
     "title":  "Smoked Pulled Pork Lumpia",
     "date":  "2024-11-08",
@@ -2928,7 +2929,71 @@ const RECIPES = [
                   "Serve with sweet chili sauce or spicy vinegar."
               ]
 },
-  {
+{
+    "id":  "miso-gochujang-pulled-pork-sliders",
+    "title":  "Miso \u0026 Gochujang Pulled Pork Sliders",
+    "date":  "2024-11-07",
+    "category":  "Pork",
+    "image":  "images/recipes/miso-gochujang-pulled-pork-sliders.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Miso \u0026 Gochujang Pulled Pork Sliders\n\nThis was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a slight umami flavor and a super bold bark. All seasoned with @blazingstarbbq Pork n Rub and damn this was FIYAH 🔥\n\nAdded the pork on some @kingshawaiian rolls with Kimchi, pickled onions, and chili crunch oil from @momofukugoods\n\nPulled Pork:\n1 Pork Butt\nMiso paste\nGochujang \n@blazingstarbbq Pork n Rub\n\nPickled Red Onions\n1 Medium Red Onion, sliced in 1/8th inch thick\n1/2 cup Red Wine Vinegar \u0026 1/2 cup Rice Vinegar\n1/2 cup Water\n2 tbsp Sugar\n1 Tsp Salt\n1 Bay Leaf\n1 Garlic Clove, Peeled and smashed\n1 tsp Pepper Corn\n\nSliders:\nMayonnaise \nKimchi\nPickled Onions\nChili Crunch Oil\n\n1. Lather on the Miso and Gochujang over the entire pork. \n2. Season with rub on all sides, then wrap in seran wrap and place in the refrigerator overnight. \n3. Preheat grill to 275° for indirect cooking and add your favorite wood chunks. I used oak from @countrycraftfirewood. \n4. Cook until IT of my @meatermade Pro XL hits about 165° or until you develop a nice bark. \n5. Wrap in foil and cook until IT hits 203° or probe tender. \n\n🔥 @kamadojoe Joe Jr. \n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n\n#btcooks #pulledpork #sliders #pulledporksliders #miso #gochujang #kimchi #fusion #porkbutt #porkshoulder #pickledonions #Kamadojoe #teamred #meater",
+    "description":  "This was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a",
+    "intro":  [
+                  "This was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a slight umami flavor and a super bold bark. All seasoned with @blazingstarbbq Pork n Rub and damn this was FIYAH 🔥 Added the pork on some @kingshawaiian rolls with Kimchi, pickled onions, and chili crunch oil from @momofukugoods Pulled Pork: 1 Pork Butt Miso paste Gochujang @blazingstarbbq Pork n Rub"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 Medium Red Onion, sliced in 1/8th inch thick",
+                                               "1/2 cup Red Wine Vinegar \u0026 1/2 cup Rice Vinegar",
+                                               "1/2 cup Water",
+                                               "2 tbsp Sugar",
+                                               "1 Tsp Salt",
+                                               "1 Bay Leaf",
+                                               "1 Garlic Clove, Peeled and smashed",
+                                               "1 tsp Pepper Corn"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Lather on the Miso and Gochujang over the entire pork.",
+                  "Season with rub on all sides, then wrap in seran wrap and place in the refrigerator overnight.",
+                  "Preheat grill to 275° for indirect cooking and add your favorite wood chunks. I used oak from @countrycraftfirewood.",
+                  "Cook until IT of my @meatermade Pro XL hits about 165° or until you develop a nice bark.",
+                  "Wrap in foil and cook until IT hits 203° or probe tender."
+              ]
+},
+{
+    "id":  "cheesesteak-w-smoked-queso",
+    "title":  "Cheesesteak w/ Smoked Queso",
+    "date":  "2024-11-05",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/cheesesteak-w-smoked-queso.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Cheesesteak w/ Smoked Queso 🧀\n\nCheesesteaks with leftover queso elevated this sandwich. Thinly sliced ribeye seasoned with @blazingstarbbq Beef seasoning and topped off with red and green bell peppers, onions, and mushrooms all served on a sandwich roll. \n\nIngredients\n2 ribeyes, sliced thin\n1 red bell pepper\n1 green bell pepper\n1 onions, sliced\n1 packet of mushrooms\nLeftover queso or your favorite cheese\nSandwich rolls\n\n#btcooks #ribeye #cheesesteak #sandwhich #phillycheesesteak #queso #smokedqueso",
+    "description":  "Cheesesteaks with leftover queso elevated this sandwich. Thinly sliced ribeye seasoned with @blazingstarbbq Beef seasoning and",
+    "intro":  [
+                  "Cheesesteaks with leftover queso elevated this sandwich. Thinly sliced ribeye seasoned with @blazingstarbbq Beef seasoning and topped off with red and green bell peppers, onions, and mushrooms all served on a sandwich roll."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 ribeyes, sliced thin",
+                                               "1 red bell pepper",
+                                               "1 green bell pepper",
+                                               "1 onions, sliced",
+                                               "1 packet of mushrooms"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Leftover queso or your favorite cheese",
+                  "Sandwich rolls"
+              ]
+},
+{
     "id":  "lechon-kare-kare",
     "title":  "Lechon Kare Kare",
     "date":  "2024-11-03",
@@ -2981,7 +3046,73 @@ const RECIPES = [
                   "Serve over steamed rice and pieces of Lechon Kawali. Enjoy!!! 🤙🏽"
               ]
 },
-  {
+{
+    "id":  "over-the-top-chili",
+    "title":  "Over the top Chili",
+    "date":  "2024-10-24",
+    "category":  "Soups \u0026 Stews",
+    "image":  "images/recipes/over-the-top-chili.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Over the top Chili 🥣\n\nThis chili was packed with so much flavor. All that beef flavor dripping down into the veggies and smoked. All seasoned with @blazingstarbbq All in One and Beef Seasoning. \n\nSlicing all the ingredients was so easy with the @benchmadeknifecompany Station Knife. It is so sharp and my favorite tool in the kitchen. \n\n2lbs Sweet Italian Sausage\n3lbs Ground Beef\n1/4lb Bacon, chopped\n1 Green bell pepper, diced\n1 Red bell pepper, diced\n1 Orange bell pepper, diced\n1 Yellow Onion, diced\n6 Cloves of garlic, minced\n12oz Diced Tomato (1 can)\n25.4oz Tomato Sauce (1 can)\n1 tbsp Cumin\n1 tbsp Cayenne Pepper\n1 tbsp Black pepper\n2 tbsp Chili powder\n1 cup Beef broth\n\n1. Sauté bacon, peppers, onions, and garlic, then set aside. \n2. Season meat with Salt and Pepper. \n3. Place sautéed veggies in a pan. \n4. Set aside wire rack on top of pot and add ground beef and sausage links. \n5. Smoke indirect at 275°. \n6. Cook for 2 hours or until internal temperature of my @meatermade Meater Pro XL hits 150°. \n7. Break up the meat into small crumbles and add to the chili. \n8. Slice sausages into 1 inch thick pieces and add to chili. \n9. Add sliced bacon into chili. \n10. Add beef broth, tomato sauce, diced tomatoes, cumin, cayenne, black pepper, and chili powder. Season with Beef rub or Salt and Pepper. \n11. Cook an additional 2 hours or until chili is nice and thick. Do not add more wood for smoke. \n12. Skim off extra fat from the top and serve with diced onions, shredded cheese, and green onions. \n\n🔥 @kamadojoe Big Joe III\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🌡️ @meatermade Meater Pro XL \n\n#btcooks #chili #smokedchili #overthetopchili #teamread #Kamadojoe #meater",
+    "description":  "This chili was packed with so much flavor. All that beef flavor dripping down into the veggies and smoked. All seasoned with",
+    "intro":  [
+                  "This chili was packed with so much flavor. All that beef flavor dripping down into the veggies and smoked. All seasoned with @blazingstarbbq All in One and Beef Seasoning. Slicing all the ingredients was so easy with the @benchmadeknifecompany Station Knife. It is so sharp and my favorite tool in the kitchen. 2lbs Sweet Italian Sausage 3lbs Ground Beef 1/4lb Bacon, chopped"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 Red bell pepper, diced",
+                                               "1 Orange bell pepper, diced",
+                                               "1 Yellow Onion, diced",
+                                               "6 Cloves of garlic, minced",
+                                               "12oz Diced Tomato (1 can)",
+                                               "4oz Tomato Sauce (1 can)",
+                                               "1 tbsp Cumin",
+                                               "1 tbsp Cayenne Pepper",
+                                               "1 tbsp Black pepper",
+                                               "2 tbsp Chili powder",
+                                               "1 cup Beef broth"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Sauté bacon, peppers, onions, and garlic, then set aside.",
+                  "Season meat with Salt and Pepper.",
+                  "Place sautéed veggies in a pan.",
+                  "Set aside wire rack on top of pot and add ground beef and sausage links.",
+                  "Smoke indirect at 275°.",
+                  "Cook for 2 hours or until internal temperature of my @meatermade Meater Pro XL hits 150°.",
+                  "Break up the meat into small crumbles and add to the chili.",
+                  "Slice sausages into 1 inch thick pieces and add to chili.",
+                  "Add sliced bacon into chili.",
+                  "Add beef broth, tomato sauce, diced tomatoes, cumin, cayenne, black pepper, and chili powder. Season with Beef rub or Salt and Pepper.",
+                  "Cook an additional 2 hours or until chili is nice and thick. Do not add more wood for smoke.",
+                  "Skim off extra fat from the top and serve with diced onions, shredded cheese, and green onions."
+              ]
+},
+{
+    "id":  "brisket-style-tritip",
+    "title":  "Brisket style Tritip",
+    "date":  "2024-10-23",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/brisket-style-tritip.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Brisket style Tritip 🔥\n\nSeasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. \n\nSliced to perfection using the @benchmadeknifecompany Station Kitchen Knife. This knife is so badass and cuts like butter!\n\n1 Tritip\nMayonnaise \nFavorite seasoning\n\n1. Set smoker to 275° for indirect cooking. \n2. Pull at 160-165° and wrap with butcher paper. \n3. Place back on the grill until internal temp hits 203° or once it is probe tender. \n4. Rest for an hour. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n\n#btcooks #tritip #brisket #trisket #meatermade #Kamadojoe #teamred",
+    "description":  "Seasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. Sliced to",
+    "intro":  [
+                  "Seasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. Sliced to perfection using the @benchmadeknifecompany Station Kitchen Knife. This knife is so badass and cuts like butter! 1 Tritip Mayonnaise Favorite seasoning"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Pull at 160-165° and wrap with butcher paper.",
+                  "Place back on the grill until internal temp hits 203° or once it is probe tender.",
+                  "Rest for an hour."
+              ]
+},
+{
     "id":  "smoked-queso-fries",
     "title":  "Smoked Queso Fries",
     "date":  "2024-10-21",
@@ -3021,7 +3152,157 @@ const RECIPES = [
                   "Serve over French fries and top off with toppings."
               ]
 },
-  {
+{
+    "id":  "pork-tenderloin-w-prosciutto-provolone",
+    "title":  "Pork Tenderloin w/ Prosciutto \u0026 Provolone",
+    "date":  "2024-10-18",
+    "category":  "Pork",
+    "image":  "images/recipes/pork-tenderloin-w-prosciutto-provolone.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Pork Tenderloin w/ Prosciutto \u0026 Provolone 🧀\n\nGrilled these on the Joetisserie and basket over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. Came out juicy and so good! \n\nPork Tenderloin, sliced flat\n1 bunch Parsley, chopped\n1 bunch Cilantro, chopped\nLemon wedges\nCastelvetrano olives, sliced\nSalt\n\nDressing:\n12-15 Castelvetrano olives, chopped\n1 tbsp Calabrian chili paste\n2 tbsp Capers, optional\n4 tbsp Olive oil\n1 Shallot, chopped \n4 Garlic cloves, minced\n1 Lemon, skinned \u0026 chopped\n1 Lemon juice \u0026 Zest\nSalt and pepper \n\nGarnishing: \nGreen onions\nLemon zest\n\nGrilled over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. \n\n🔥 @kamadojoe Big Joe Series III\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🌡️ @meatermade Meater Pro XL\n🧂 @alfrugoni Grilling Salt\n\n#btcooks #homecooking #tenderloin #rotisserie #pork #chimichurri #fusion #bbq #teamred #kamadojoe #meater",
+    "description":  "Grilled these on the Joetisserie and basket over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. Came",
+    "intro":  [
+                  "Grilled these on the Joetisserie and basket over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. Came out juicy and so good! Pork Tenderloin, sliced flat 1 bunch Parsley, chopped 1 bunch Cilantro, chopped Lemon wedges Castelvetrano olives, sliced Salt Dressing: 12-15 Castelvetrano olives, chopped"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 tbsp Capers, optional",
+                                               "4 tbsp Olive oil",
+                                               "1 Shallot, chopped",
+                                               "4 Garlic cloves, minced",
+                                               "1 Lemon, skinned \u0026 chopped",
+                                               "1 Lemon juice \u0026 Zest"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Salt and pepper",
+                  "Green onions",
+                  "Lemon zest",
+                  "Grilled over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour."
+              ]
+},
+{
+    "id":  "brisket-dishes",
+    "title":  "Brisket Dishes",
+    "date":  "2024-10-15",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/brisket-dishes.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Brisket Dishes 🍴\n\nMultiple dishes made from the past brisket I made. \n\n1. Simple slices of brisket topped off with Chimichurri. \n2. Brisket sliders on Hawaiian bread, mayo, @blazingstarbbq BBQ sauce and pickled red onions. \n3. Brisket fried rice. \n\n#btcooks #homecooking #brisket #hotandfast #lowandslow #beef #smokedmeat #chimichurri #fusion #bbq #sliders #friedrice #Kamadojoe #teamred",
+    "description":  "Multiple dishes made from the past brisket I made.",
+    "intro":  [
+                  "Multiple dishes made from the past brisket I made."
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Brisket sliders on Hawaiian bread, mayo, @blazingstarbbq BBQ sauce and pickled red onions.",
+                  "Brisket fried rice."
+              ]
+},
+{
+    "id":  "grilled-shrimp-tacos",
+    "title":  "Grilled Shrimp Tacos",
+    "date":  "2024-10-08",
+    "category":  "Seafood",
+    "image":  "images/recipes/grilled-shrimp-tacos.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Grilled Shrimp Tacos 🌮 \n\nQuick and easy shrimp tacos grilled over charcoal and served on warm corn tortillas, topped off with cabbage, avocados, cilantro, and crema. \n\n2-3 pounds of shrimp, peeled and deveined\n@blazingstarbbq All in One Seasoning\nCorn Tortillas\nRed cabbage, sliced thin\nAvocados, sliced\nCilantro\n\nChipotle Crema\n1 cup Mexican Crema or Sour Cream\n1/2 cup Mayonnaise \n2 tbsp Chipotle paste\n1 tbsp Smoked Paprika\n1 lime, juiced\n2 tsp salt\n\n🔥 @nomadgrills Portable Grill\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n\n#btcooks #homecooking #shrimp #tacos #shrimptacos #chipotle #fusion #bbq #baja #mexicanfood #nomadgrills",
+    "description":  "Quick and easy shrimp tacos grilled over charcoal and served on warm corn tortillas, topped off with cabbage, avocados,",
+    "intro":  [
+                  "Quick and easy shrimp tacos grilled over charcoal and served on warm corn tortillas, topped off with cabbage, avocados, cilantro, and crema. 2-3 pounds of shrimp, peeled and deveined @blazingstarbbq All in One Seasoning Corn Tortillas Red cabbage, sliced thin Avocados, sliced Cilantro Chipotle Crema"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1/2 cup Mayonnaise",
+                                               "2 tbsp Chipotle paste",
+                                               "1 tbsp Smoked Paprika",
+                                               "1 lime, juiced",
+                                               "2 tsp salt"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+
+              ]
+},
+{
+    "id":  "lumpia-shanghai-filipino-eggrolls",
+    "title":  "Lumpia Shanghai (Filipino Eggrolls)",
+    "date":  "2024-10-04",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/lumpia-shanghai-filipino-eggrolls.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Lumpia Shanghai (Filipino Eggrolls) 🇵🇭\n\nYou should already know!!!! This is straight Filipino crack 🤣\n\n1/2 lb Ground beef\n1/2 lb Ground pork\n2-3 Carrots, grated\n1 Onion, finely chopped\n4 Garlic cloves, finely minced\n1 tbsp Sesame oil\n1 tbsp Fish sauce\n1 tbsp Low Sodium Soy sauce\n1/2 tsp Salt\n1/2 tsp White pepper\n1/2 tsp Ground pepper\n2 eggs (1 egg reserved to seal wrappers)\n25 pack Egg Roll Wrapper, cut in half\n\n1. Combine all ingredients into a bowl. \n2. 1 tbsp of filling per wrapper. \n3. Roll and seal with a dab of beaten egg. \n4. Heat oil to 375 degrees and fry until golden brown. \n5. Serve with sweet chilli or sweet and sour sauce. \n \n#btcooks #lumpia #lumpiashanghai #eggrolls #islanderfood #filipinofood #fingerfood #filipino #philippines #deepfried #homecooking",
+    "description":  "You should already know!!!! This is straight Filipino crack 🤣 1/2 lb Ground beef 1/2 lb Ground pork 2-3 Carrots, grated",
+    "intro":  [
+                  "You should already know!!!! This is straight Filipino crack 🤣 1/2 lb Ground beef 1/2 lb Ground pork 2-3 Carrots, grated"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "4 Garlic cloves, finely minced",
+                                               "1 tbsp Sesame oil",
+                                               "1 tbsp Fish sauce",
+                                               "1 tbsp Low Sodium Soy sauce",
+                                               "1/2 tsp Salt",
+                                               "1/2 tsp White pepper",
+                                               "1/2 tsp Ground pepper",
+                                               "2 eggs (1 egg reserved to seal wrappers)",
+                                               "25 pack Egg Roll Wrapper, cut in half"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine all ingredients into a bowl.",
+                  "1 tbsp of filling per wrapper.",
+                  "Roll and seal with a dab of beaten egg.",
+                  "Heat oil to 375 degrees and fry until golden brown.",
+                  "Serve with sweet chilli or sweet and sour sauce."
+              ]
+},
+{
+    "id":  "smoked-tritip-queso-dip",
+    "title":  "Smoked Tritip Queso Dip",
+    "date":  "2024-09-30",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/smoked-tritip-queso-dip.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Smoked Tritip Queso Dip 🧀\n\n* 1 block of cream cheese\n* 1 block of Velveeta cheese (32 oz) or your favorite cheese. \n* 1 can low sodium cream of mushroom\n* 1/4 cup milk \n* 2 tomatoes, diced\n* Favorite cooked protein (tritip, brisket, or ground beef)\n* 2 Jalapeños, cored and diced\n* 2 Green onions, chopped \n* @BlazingStarBBQ Pork n Rub\n\n1. Add cheese, cream of mushroom, milk, and protein into a pan. \n2. Lightly drizzle seasoning over cheese. \n3. Place on grill indirect and smoke at 300°, about 45 minutes or until cheese has melted. \n4. Add Jalapeños, tomatoes, and mix melted cheese together, cook for another 15 minutes. \n5. Top off with fresh green onions. \n6. Serve with tortilla chips and enjoy! 🍻\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🌡️ @meatermade Meater Pro XL\n🧤 @cleanspaceproject Nitrile Gloves\n ————————————————————————\n#btcooks #tritip #smokedqueso #dip #gameday #teamred #kamadojoe #meater",
+    "description":  "* 1 block of cream cheese",
+    "intro":  [
+                  "* 1 block of cream cheese"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "* 1 can low sodium cream of mushroom",
+                                               "* 1/4 cup milk",
+                                               "* 2 tomatoes, diced",
+                                               "* 2 Jalapeños, cored and diced"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "* 2 Green onions, chopped",
+                  "* @BlazingStarBBQ Pork n Rub",
+                  "Add cheese, cream of mushroom, milk, and protein into a pan.",
+                  "Lightly drizzle seasoning over cheese.",
+                  "Place on grill indirect and smoke at 300°, about 45 minutes or until cheese has melted.",
+                  "Add Jalapeños, tomatoes, and mix melted cheese together, cook for another 15 minutes.",
+                  "Top off with fresh green onions.",
+                  "Serve with tortilla chips and enjoy! 🍻"
+              ]
+},
+{
     "id":  "crispy-scorpion-wings",
     "title":  "Crispy Scorpion Wings",
     "date":  "2024-09-25",
@@ -3064,7 +3345,93 @@ const RECIPES = [
                   "Combine all ingredients in a blender until smooth."
               ]
 },
-  {
+{
+    "id":  "adobo-ribs-or-chamorro-bbq-ribs",
+    "title":  "Adobo Ribs or Chamorro BBQ Ribs",
+    "date":  "2024-09-20",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/adobo-ribs-or-chamorro-bbq-ribs.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Adobo Ribs or Chamorro BBQ Ribs 🇵🇭🇬🇺\n\nPork Adobo marinated ribs or Guamanian BBQ ribs. Call it what you want it’s the same ingredients but taste so damn good! 🍻🤙🏽\n\nSmoked on the @nomadgrills indirect at 250 degrees for 2 hours, then seared over lump charcoal and Guava Strawberry wood chunks. \n\nIngredients \n1 Rack Spareribs\n1/2 cup Soy Sauce\n1/2 cup Vinegar\n1 head garlic cloves, smashed \n1 Small onion, sliced\n1/2 Brown sugar\n1 tsp Chicken bouillon powder\n1 tsp Black pepper\n\nCombine all Ingredients together and marinate for at least 4-6 hours, preferably overnight. \n\n🔥 @nomadgrills Portable Grill \u0026 Smoker\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n ————————————————————————\n#btcooks #guamanianfood #filipinofood #porkadobo #chamorro #pinoy",
+    "description":  "Pork Adobo marinated ribs or Guamanian BBQ ribs. Call it what you want it’s the same ingredients but taste so damn good! 🍻🤙🏽",
+    "intro":  [
+                  "Pork Adobo marinated ribs or Guamanian BBQ ribs. Call it what you want it’s the same ingredients but taste so damn good! 🍻🤙🏽 Smoked on the @nomadgrills indirect at 250 degrees for 2 hours, then seared over lump charcoal and Guava Strawberry wood chunks."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 Rack Spareribs",
+                                               "1/2 cup Soy Sauce",
+                                               "1/2 cup Vinegar",
+                                               "1 head garlic cloves, smashed",
+                                               "1 Small onion, sliced",
+                                               "1/2 Brown sugar",
+                                               "1 tsp Chicken bouillon powder",
+                                               "1 tsp Black pepper"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine all Ingredients together and marinate for at least 4-6 hours, preferably overnight."
+              ]
+},
+{
+    "id":  "chicken-lettuce-wraps",
+    "title":  "Chicken Lettuce Wraps",
+    "date":  "2024-09-17",
+    "category":  "Poultry",
+    "image":  "images/recipes/chicken-lettuce-wraps.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Chicken Lettuce Wraps 🐓🌯\n\nLettuce wrap on the Kamado Joe! Straight cooked these right on the grill and it came out so good! \n\nIngredients:\n1 Tbs Olive Oil\n2 Pounds Ground chicken or ground turkey\n1 Medium Onion, diced\n1 8-ounce can water chestnut, diced\n1 Knob Fresh Ginger, minced\n3 Garlic cloves, minced\n3 Green onions, sliced\n2 Cups Shitake mushrooms, diced\nSalt and pepper\n\nSauce:\n1/3 Cup Oyster Sauce or Hoisin Sauce\n2 Tbs low sodium soy sauce\n1 Tbs Rice wine vinegar\n1 Tbs Chili Oil\n1 Tbs Sesame Oil\n\nDipping sauce:\n4 Tbs low sodium soy sauce\n2 Tbs Rice wine vinegar\n1 Tbs Sesame Oil\n1 Tbs Chili Oil\n\n1. Combine all of the sauce ingredients and set aside. \n2. Over high heat, heat your pot or large wok with Oil. \n3. Brown ground chicken and lightly season with salt and pepper. \n4. Add the remaining fresh ingredients and cook for 2-3 minutes.\n5. Add sauce and cook for another 3-5 minutes making sure to mix well. \n6. Serve with Butter Lettuce and top off with some dipping sauce. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n ————————————————————————\n#btcooks #chicken #lettucewraps #wok #kamadojoe #teamred",
+    "description":  "Lettuce wrap on the Kamado Joe! Straight cooked these right on the grill and it came out so good!",
+    "intro":  [
+                  "Lettuce wrap on the Kamado Joe! Straight cooked these right on the grill and it came out so good!"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 Tbs Olive Oil",
+                                               "2 Pounds Ground chicken or ground turkey",
+                                               "1 Medium Onion, diced",
+                                               "1 8-ounce can water chestnut, diced",
+                                               "1 Knob Fresh Ginger, minced",
+                                               "3 Garlic cloves, minced",
+                                               "3 Green onions, sliced",
+                                               "2 Cups Shitake mushrooms, diced"
+                                           ]
+                             },
+                             {
+                                 "heading":  "Sauce",
+                                 "items":  [
+                                               "1/3 Cup Oyster Sauce or Hoisin Sauce",
+                                               "2 Tbs low sodium soy sauce",
+                                               "1 Tbs Rice wine vinegar",
+                                               "1 Tbs Chili Oil",
+                                               "1 Tbs Sesame Oil"
+                                           ]
+                             },
+                             {
+                                 "heading":  "Dipping sauce",
+                                 "items":  [
+                                               "4 Tbs low sodium soy sauce",
+                                               "2 Tbs Rice wine vinegar",
+                                               "1 Tbs Sesame Oil",
+                                               "1 Tbs Chili Oil"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine all of the sauce ingredients and set aside.",
+                  "Over high heat, heat your pot or large wok with Oil.",
+                  "Brown ground chicken and lightly season with salt and pepper.",
+                  "Add the remaining fresh ingredients and cook for 2-3 minutes.",
+                  "Add sauce and cook for another 3-5 minutes making sure to mix well.",
+                  "Serve with Butter Lettuce and top off with some dipping sauce."
+              ]
+},
+{
     "id":  "hawaiian-style-smoked-pork",
     "title":  "Hawaiian Style Smoked Pork",
     "date":  "2024-09-15",
@@ -3100,7 +3467,281 @@ const RECIPES = [
                   "Remove pork from the smoker. Slice and pan fry with oyster sauce, then add sliced onions."
               ]
 },
-  {
+{
+    "id":  "smoked-tritip-stirfry-noodles",
+    "title":  "Smoked Tritip Stirfry Noodles",
+    "date":  "2024-09-12",
+    "category":  "Pasta \u0026 Noodles",
+    "image":  "images/recipes/smoked-tritip-stirfry-noodles.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Smoked Tritip Stirfry Noodles 🍝\n\nStirfry noodles with smoked Tritip was a big hit and all cooked on the Kamado Joe Series III. Seasoned meat with Blazing Star Beef rub and maintained perfect meat temps with the new Meater Pro XL 🍻\n\nThe new Meater Pro XL has some dope new features that include:\n• Built-in WiFi for whole-home coverage\n• Open flame grilling and high heat searing up to 1000°F\n• Perfect for deep frying and sous vide cooking\n\nIngredients\nSmoked tri tip\n18 oz thick chow mein noodles\n1/2 red onion, sliced\n1 large carrot, julienned \n1/4 cabbage, sliced\n2 stalks green onion\n1 cup bean sprouts\n4 tbsp cooking oil\n\nSauce\n2 tbsp oyster sauce\n2 tbsp soy sauce\n1 tsp sugar\n1 tsp chicken bouillon powder\n1 tbsp sesame oil\n\n1. Smoke tritip until IT hits 135°. Sear over direct heat to develop a nice crust. Let it rest for 10-15 minutes. \n2. Slice half of the tri tip into cubes and the other half into thin slices. \n3. In a wok, under medium-high heat, add 2 tbsp of oil then add red onions and cook until slightly soften.\n4. Add the cabbage and carrots and cook for 1-2 minutes.\n5. Add the remaining veggies and cook for 2-4 minutes. \n6. Remove stirfry mixture from wok and set aside. \n7. Add 2 tbsp of oil in wok and stir fry noodles. \n8. Add the sauce mixture and incorporate into noodles. \n9. Add veggies and tritip into wok and mix well. \n10. Serve hot with extra slices of tritip and garnish with green onions. \n\n🧤 @cleanspaceproject Black Nitrile Gloves\n🔥 @kamadojoe Big Joe Series III\n🪵 @thegoodcharcoal Lump Charcoal\n🌡️ @meatermade Meater Pro XL\n🧂 @blazingstarbbq Beef Rub \u0026 Seasoning\n ————————————————————————\n#btcooks #bbq #grilling #backyardgrilling #outdoorcooking #recipes #stirfrynoodles #noodles #tritip #asianfusion #chowmein #pancit #Kamadojoe #teamred #MEATER #MEATERmade #MEATERProXL",
+    "description":  "Stirfry noodles with smoked Tritip was a big hit and all cooked on the Kamado Joe Series III. Seasoned meat with Blazing Star",
+    "intro":  [
+                  "Stirfry noodles with smoked Tritip was a big hit and all cooked on the Kamado Joe Series III. Seasoned meat with Blazing Star Beef rub and maintained perfect meat temps with the new Meater Pro XL 🍻 The new Meater Pro XL has some dope new features that include: • Built-in WiFi for whole-home coverage • Open flame grilling and high heat searing up to 1000°F • Perfect for deep frying and sous vide cooking"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "Smoked tri tip",
+                                               "18 oz thick chow mein noodles",
+                                               "1/2 red onion, sliced",
+                                               "1 large carrot, julienned",
+                                               "1/4 cabbage, sliced",
+                                               "2 stalks green onion",
+                                               "1 cup bean sprouts",
+                                               "4 tbsp cooking oil"
+                                           ]
+                             },
+                             {
+                                 "heading":  "Sauce",
+                                 "items":  [
+                                               "2 tbsp oyster sauce",
+                                               "2 tbsp soy sauce",
+                                               "1 tsp sugar",
+                                               "1 tsp chicken bouillon powder",
+                                               "1 tbsp sesame oil"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Smoke tritip until IT hits 135°. Sear over direct heat to develop a nice crust. Let it rest for 10-15 minutes.",
+                  "Slice half of the tri tip into cubes and the other half into thin slices.",
+                  "In a wok, under medium-high heat, add 2 tbsp of oil then add red onions and cook until slightly soften.",
+                  "Add the cabbage and carrots and cook for 1-2 minutes.",
+                  "Add the remaining veggies and cook for 2-4 minutes.",
+                  "Remove stirfry mixture from wok and set aside.",
+                  "Add 2 tbsp of oil in wok and stir fry noodles.",
+                  "Add the sauce mixture and incorporate into noodles.",
+                  "Add veggies and tritip into wok and mix well.",
+                  "Serve hot with extra slices of tritip and garnish with green onions."
+              ]
+},
+{
+    "id":  "grilled-chicken-sisig",
+    "title":  "Grilled Chicken Sisig",
+    "date":  "2024-09-05",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/grilled-chicken-sisig.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Grilled Chicken Sisig 🐓🇵🇭\n\nTypically made with deep fried pork belly (Lechon Kawali), but made this batch with grilled BBQ Chicken. Perfect dish to go with a cold beer 🍻\n\nBBQ Chicken Marinade\n* 3-4 lbs Chicken thighs \n* 1/2 cup soy sauce\n* 4 cloves garlic, chopped\n* 2 tablespoon calamansi or 1 lemon juice\n* 1 tbsp chicken bouillon \n* 1/2 tbsp black pepper\n\nSisig Ingredients \n* BBQ Chicken, chopped\n* 1 medium red bell pepper, diced\n* 1 medium green bell pepper, diced\n* 4 stalks green onions, chopped\n* 1 red onion, diced\n* 1/4 cup calamansi or 2 lemons, juiced\n* 1 tbsp chicken bouillon\n* 1 tbsp low sodium soy sauce\n* 2 tbsp mayonnaise \n* 1/2 - 1 tbsp Dried chili flakes, (optional)\n* salt and pepper to taste\n\n1. Marinate chicken for 4-6 hours. \n2. Bbq chicken over charcoal. \n3. Once cooked, set aside then chop meat into chunks. \n4. In a skillet on medium high heat, add a tablespoon of olive oil and cook half of the chopped onions, bell peppers. \n5. Add the chicken back in and add calamansi or lemon juice, soy sauce, bouillon, and mayonnaise. \n6. Transfer to a plate excluding any liquid that may have developed in the pan and garnish with fresh onions, green onions, and chicharron. \n7. Serve with a side of steamed rice. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🍳 @hexclad 12” Wok\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #easyrecipes #recipes #asianfood #marinatedmeat #grilled #bbqporn #meatporn #chicken #thighs #meat #sisig #pinoy #filipinofood #islanderfood #philippines #grilledchicken #chickensisig #hexclad #teamred #Kamadojoe",
+    "description":  "Typically made with deep fried pork belly (Lechon Kawali), but made this batch with grilled BBQ Chicken. Perfect dish to go with",
+    "intro":  [
+                  "Typically made with deep fried pork belly (Lechon Kawali), but made this batch with grilled BBQ Chicken. Perfect dish to go with a cold beer 🍻 BBQ Chicken Marinade"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "* 1/2 cup soy sauce",
+                                               "* 4 cloves garlic, chopped",
+                                               "* 2 tablespoon calamansi or 1 lemon juice",
+                                               "* 1 tbsp chicken bouillon",
+                                               "* 1/2 tbsp black pepper",
+                                               "Sisig Ingredients",
+                                               "* BBQ Chicken, chopped",
+                                               "* 1 medium red bell pepper, diced"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "* 1 medium green bell pepper, diced",
+                  "* 4 stalks green onions, chopped",
+                  "* 1 red onion, diced",
+                  "* 1/4 cup calamansi or 2 lemons, juiced",
+                  "* 1 tbsp chicken bouillon",
+                  "* 1 tbsp low sodium soy sauce",
+                  "* 2 tbsp mayonnaise",
+                  "* 1/2 - 1 tbsp Dried chili flakes, (optional)",
+                  "* salt and pepper to taste",
+                  "Marinate chicken for 4-6 hours.",
+                  "Bbq chicken over charcoal.",
+                  "Once cooked, set aside then chop meat into chunks.",
+                  "In a skillet on medium high heat, add a tablespoon of olive oil and cook half of the chopped onions, bell peppers.",
+                  "Add the chicken back in and add calamansi or lemon juice, soy sauce, bouillon, and mayonnaise.",
+                  "Transfer to a plate excluding any liquid that may have developed in the pan and garnish with fresh onions, green onions, and chicharron.",
+                  "Serve with a side of steamed rice."
+              ]
+},
+{
+    "id":  "pig-shots-with-pog-bbq-sauce",
+    "title":  "Pig Shots with POG BBQ Sauce",
+    "date":  "2024-09-02",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/pig-shots-with-pog-bbq-sauce.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Pig Shots with POG BBQ Sauce 🐷🥃\n\nSeasoned with Blazing Star Pork n Rub and Reaper seasoning, then topped off with Smokey BBQ sauce with POG Syrup from our friends at Da Kine Hawaiian. 🤙🏽\n\nIngredients\n8 oz cream cheese, softened at room temp\n¼ cup Shredded Triple Cheddar \n2 Jalapeños, diced\n1 tbsp Blazing Star Pork n Rub Seasoning \n1 tbsp Blazing Star Reaper Seasoning\n12 oz Andouille Sausage\n1 pack of bacon, sliced in half\n\nBBQ Sauce:\n1/2 cup Favorite BBQ sauce\n2-3 tbsp Da Kine Hawaiian POG Syrup\n\nInstructions\n1. Cut the Sausage into 1 inch pieces and wrap the bacon around the Sausage so it forms a shot glass. Take a toothpick and secure the bacon and the sausage.\n2. Take the softened cream cheese, triple cheddar, diced jalapeños and the bbq rubs and mix together in a bowl until well combine.\n3. Place the mixture into a piping bag or a ziplock bag. \n4. Pipe the mixture into the shot until it is just below the top of the bacon.\n5. Dust some extra Reaper seasoning over each pig shot. \n6. Set smoker to 350 and smoke for about 30-45 minutes.\n7. Mix together BBQ sauce and mop it over each shot, cook for another 5 minutes. \n8. Remove from grill and rest for 5-10 before serving. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Pork n Rub and Reaper Seasoning\n@dkhawaiian Smokey BBQ Sauce and POG Syrup\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #pigshots #bacon #sausage #pog #teamred #Kamadojoe #bites #gamedaybites #laborday #labordayweekend",
+    "description":  "Seasoned with Blazing Star Pork n Rub and Reaper seasoning, then topped off with Smokey BBQ sauce with POG Syrup from our",
+    "intro":  [
+                  "Seasoned with Blazing Star Pork n Rub and Reaper seasoning, then topped off with Smokey BBQ sauce with POG Syrup from our friends at Da Kine Hawaiian. 🤙🏽"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "8 oz cream cheese, softened at room temp",
+                                               "cup Shredded Triple Cheddar",
+                                               "2 Jalapeños, diced",
+                                               "1 tbsp Blazing Star Pork n Rub Seasoning",
+                                               "1 tbsp Blazing Star Reaper Seasoning",
+                                               "12 oz Andouille Sausage",
+                                               "1 pack of bacon, sliced in half"
+                                           ]
+                             },
+                             {
+                                 "heading":  "BBQ Sauce",
+                                 "items":  [
+                                               "1/2 cup Favorite BBQ sauce",
+                                               "2-3 tbsp Da Kine Hawaiian POG Syrup"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Cut the Sausage into 1 inch pieces and wrap the bacon around the Sausage so it forms a shot glass. Take a toothpick and secure the bacon and the sausage.",
+                  "Take the softened cream cheese, triple cheddar, diced jalapeños and the bbq rubs and mix together in a bowl until well combine.",
+                  "Place the mixture into a piping bag or a ziplock bag.",
+                  "Pipe the mixture into the shot until it is just below the top of the bacon.",
+                  "Dust some extra Reaper seasoning over each pig shot.",
+                  "Set smoker to 350 and smoke for about 30-45 minutes.",
+                  "Mix together BBQ sauce and mop it over each shot, cook for another 5 minutes.",
+                  "Remove from grill and rest for 5-10 before serving."
+              ]
+},
+{
+    "id":  "smoked-oxtail-pho",
+    "title":  "Smoked Oxtail Pho",
+    "date":  "2024-08-29",
+    "category":  "Soups \u0026 Stews",
+    "image":  "images/recipes/smoked-oxtail-pho.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Smoked Oxtail Pho 🍲\n\nOxtails and Pho!!! Gotta give this a try. The smokiness from the meat combined with the savory broth is just perfect. \n\nIngredients:\n2-3 lbs beef Oxtails cut and trimmed\nFavorite Beef Seasoning\n\nBraising:\n2 cups Pho broth\n\n1. Season meat liberally with favorite seasoning and let sit for 1 hour before cooking. \n2. Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.\n3. Remove meat and place into a roasting pan. \n4. Add broth and cover with aluminum foil. \n5. Place back into smoker and cook for another 3 hours. \u2028\nBroth\n1 lb beef bones or marrow bones\u202812 cups water\n3 knobs ginger\n1 large onion, halved\n1 small daikon, peeled and cut into 1-inch thick slices\n2 carrots\n2 tbsp sugar or rock sugar\n2 tbsp beef bouillon powder\n2 tbsp fish sauce\n4 tbsp Pho Soup Base with seasoning packet (Quoc Viet Foods), add more as needed. \n\n1. Boil all ingredients in a large stock pot for 3 hours. \n2. Using a strainer, discard all solids. \n3. Serve with your favorite meat and noodles, garnish with thin sliced onions, green onions, bean sprouts, cilantro, jalapeños, and lime. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #vietnamese #vietnamesefood #soup #broth #oxtailsoup #pho #comfortfood #noodles #teamred #kamadojoe",
+    "description":  "Oxtails and Pho!!! Gotta give this a try. The smokiness from the meat combined with the savory broth is just perfect.",
+    "intro":  [
+                  "Oxtails and Pho!!! Gotta give this a try. The smokiness from the meat combined with the savory broth is just perfect."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2-3 lbs beef Oxtails cut and trimmed"
+                                           ]
+                             },
+                             {
+                                 "heading":  "Braising",
+                                 "items":  [
+                                               "2 cups Pho broth"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Season meat liberally with favorite seasoning and let sit for 1 hour before cooking.",
+                  "Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.",
+                  "Remove meat and place into a roasting pan.",
+                  "Add broth and cover with aluminum foil.",
+                  "Place back into smoker and cook for another 3 hours.",
+                  "Broth",
+                  "1 lb beef bones or marrow bones 12 cups water",
+                  "3 knobs ginger",
+                  "1 large onion, halved",
+                  "1 small daikon, peeled and cut into 1-inch thick slices",
+                  "2 carrots",
+                  "2 tbsp sugar or rock sugar",
+                  "2 tbsp beef bouillon powder",
+                  "2 tbsp fish sauce",
+                  "4 tbsp Pho Soup Base with seasoning packet (Quoc Viet Foods), add more as needed.",
+                  "Boil all ingredients in a large stock pot for 3 hours.",
+                  "Using a strainer, discard all solids.",
+                  "Serve with your favorite meat and noodles, garnish with thin sliced onions, green onions, bean sprouts, cilantro, jalapeños, and lime."
+              ]
+},
+{
+    "id":  "smoked-sinigang-ribs",
+    "title":  "Smoked Sinigang Ribs",
+    "date":  "2024-08-27",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/smoked-sinigang-ribs.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Smoked Sinigang Ribs 🇵🇭🐖\n\nHot and fast baby back ribs seasoned with Tamarind powder (Sinigang) then topped off with a squeeze of fresh lime juice. \n\n1 packed Sinigang Powder\n1 rack Pork Back Ribs\nOlive oil\n1 lime\n\n1. Lather up with olive oil. \n2. Season ribs with Sinigang powder and let sit for 30 minutes. \n3. Set grill to 300° over direct charcoal. This will crisp up the bottom membrane and overall cook. \n4. Flip ribs every 30 minutes until internal temp hits 203°. Overall cook took about 3 hours. \n5. Let it rest for 10-15 minutes. \n6. Slice and squeeze lime juice. \n\nServe with side of steamed rice and spiced vinegar. \n\n🔥 @kamadojoe Big Joe Series III\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n🌡️ @meatermade Meater Block\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #pork #babybackribs #sinigangribs #sinigang #pinoy #filipinofood #meater #teamred #kamadojoe",
+    "description":  "Hot and fast baby back ribs seasoned with Tamarind powder (Sinigang) then topped off with a squeeze of fresh lime juice. 1",
+    "intro":  [
+                  "Hot and fast baby back ribs seasoned with Tamarind powder (Sinigang) then topped off with a squeeze of fresh lime juice. 1 packed Sinigang Powder 1 rack Pork Back Ribs Olive oil"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Lather up with olive oil.",
+                  "Season ribs with Sinigang powder and let sit for 30 minutes.",
+                  "Set grill to 300° over direct charcoal. This will crisp up the bottom membrane and overall cook.",
+                  "Flip ribs every 30 minutes until internal temp hits 203°. Overall cook took about 3 hours.",
+                  "Let it rest for 10-15 minutes.",
+                  "Slice and squeeze lime juice.",
+                  "Serve with side of steamed rice and spiced vinegar."
+              ]
+},
+{
+    "id":  "smoked-kalua-pork",
+    "title":  "Smoked Kalua Pork",
+    "date":  "2024-08-20",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/smoked-kalua-pork.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Smoked Kalua Pork 🤙🏽\n\nEasy way to make Kalua pork on any smoker. Banana leaves are the key to making this Islander dish. \n\nKiawe or Mesquite Wood chunks\n4 lb pork shoulder, or Boston butt\n2-3 tbsp Hawaiian sea salt or regular sea salt \nBanana Leaves\nCabbage, chopped\n\n1. Preheat smoker to 250-300°. \n2. Rub the sea salt into the pork and wrap it in banana leaves.\n3. Add Kiawe or Mesquite wood chunks and smoke until it has reached an internal temperature of 203°. \n4. Remove the meat from the smoker and let it rest for 30-60 minutes before unwrapping and shredding. Discard any large chunks of fat before shredding. \n5. Add, chopped cabbage, salt to taste, and cover for 5-10 minutes. \n \n \n🧤 @cleanspaceproject Black Nitrile Gloves\n🌡️ @meatermade Meater Block\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n ————————————————————————\n#btcooks #yummyfood #tastyfood #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #backyardgrilling #grilledmeat #meatporn #meat #outdoorcooking #foodporn #recipes #islanderbbq #hawaii #aloha #lechon #roastedpig #pork #kaluapork #smokedpork #porkbutt #meater #teamred #kamadojoe",
+    "description":  "Easy way to make Kalua pork on any smoker. Banana leaves are the key to making this Islander dish. Kiawe or Mesquite Wood chunks",
+    "intro":  [
+                  "Easy way to make Kalua pork on any smoker. Banana leaves are the key to making this Islander dish. Kiawe or Mesquite Wood chunks"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2-3 tbsp Hawaiian sea salt or regular sea salt",
+                                               "Banana Leaves"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Preheat smoker to 250-300°.",
+                  "Rub the sea salt into the pork and wrap it in banana leaves.",
+                  "Add Kiawe or Mesquite wood chunks and smoke until it has reached an internal temperature of 203°.",
+                  "Remove the meat from the smoker and let it rest for 30-60 minutes before unwrapping and shredding. Discard any large chunks of fat before shredding.",
+                  "Add, chopped cabbage, salt to taste, and cover for 5-10 minutes."
+              ]
+},
+{
+    "id":  "bacon-wrapped-jalapeno-poppers",
+    "title":  "Bacon Wrapped Jalapeno Poppers ️",
+    "date":  "2024-08-15",
+    "category":  "Pork",
+    "image":  "images/recipes/bacon-wrapped-jalapeno-poppers.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Bacon Wrapped Jalapeno Poppers 🌶️🥓\n\nBacon wrapped Jalapeno’s poppers, inspired by @tfti.bbq . These may not be Texas twinkies, but they were so damn good. Jalapeños stuffed with left over smoked tritip, cream cheese, cheddar cheese, and seasoned with @blazingstarbbq Pork n Rub. \n\nIngredients \u0026 Recipe\n1 lb Jalapeno peppers, cut in half and cored\nSmoked tritip or any left over bbq meat\n1 8oz block Cream Cheese, room temp\n1 package Bacon\n1/2 cup Cheddar or Pepper Jack shredded cheese\nFavorite pork rub \nFavorite bbq sauce\n\n1. Combine meat, cream cheese, shredded cheese, and green onions in a bowl and mix well. \n2. Spoon in a generous layer of cheese mixture inside pepper. \n3. Wrap pepper with bacon. \n4. Lightly season with rub. \n5. Smoke indirect at 250° for 1 hour and 30 minutes. \n6. Lather your favorite bbq sauce on top and cook for another 5-10 minutes. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #popper #jalapenopoppers #bacon ##bbqsauce #tritip #teamred #Kamadojoe #appetizer",
+    "description":  "Bacon wrapped Jalapeno’s poppers, inspired by @tfti.bbq . These may not be Texas twinkies, but they were so damn good. Jalapeños",
+    "intro":  [
+                  "Bacon wrapped Jalapeno’s poppers, inspired by @tfti.bbq . These may not be Texas twinkies, but they were so damn good. Jalapeños stuffed with left over smoked tritip, cream cheese, cheddar cheese, and seasoned with @blazingstarbbq Pork n Rub."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 lb Jalapeno peppers, cut in half and cored",
+                                               "Smoked tritip or any left over bbq meat",
+                                               "1 8oz block Cream Cheese, room temp",
+                                               "1 package Bacon",
+                                               "1/2 cup Cheddar or Pepper Jack shredded cheese"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine meat, cream cheese, shredded cheese, and green onions in a bowl and mix well.",
+                  "Spoon in a generous layer of cheese mixture inside pepper.",
+                  "Wrap pepper with bacon.",
+                  "Lightly season with rub.",
+                  "Smoke indirect at 250° for 1 hour and 30 minutes.",
+                  "Lather your favorite bbq sauce on top and cook for another 5-10 minutes."
+              ]
+},
+{
     "id":  "chicken-afritada",
     "title":  "Chicken Afritada",
     "date":  "2024-08-12",
@@ -3146,7 +3787,102 @@ const RECIPES = [
                   "Serve with steamed rice."
               ]
 },
-  {
+{
+    "id":  "bistek-tagalog-filipino-beef-steak",
+    "title":  "Bistek Tagalog - Filipino Beef Steak",
+    "date":  "2024-08-02",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/bistek-tagalog-filipino-beef-steak.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Bistek Tagalog - Filipino Beef Steak 🇵🇭\n\nFilipino dish consisting of thinly sliced beef braised in soy sauce, calamansi juice, garlic, ground black pepper, and onions cut into rings. Served with steamed rice, So damn good 🍻🤙🏽\n\nIngredients \u0026 Recipe:\nMarinade\n3 lbs Chuck Steaks, sliced thinly\n1/4 cup juiced Calamansi or Lemon \n1 head garlic, peeled and crushed\n1/3 cup low sodium soy sauce\n1/2 tbsp Beef Bouillon \n1/2 tsp onion powder\n1/2 tsp black pepper\n\n2 tbsp Butter\n1 tbsp Olive Oil\n1 cup water\n1 large onion, peeled and sliced into rings\nSalt and pepper for seasoning, as needed\n\n1. Marinate sliced chuck steaks with calamansi or lemon juice, garlic, onion powder, beef bouillon, and soy sauce for 1-2 hours. \n2. In a pot under Medium heat, add water and entire contents of marinade. Cook for 45 minutes or until meat is tender. \n3. Strain liquid into a bowl and set aside. \n4. Heat pot under medium-high heat with butter and oil. \n5. Add strained contents into pot and sear meat until a crust is formed on each side. \n6. Add reserved marinade and water into pot, cover and simmer for about 5 minutes.\n7. Add sliced onion rings. Season with salt as needed, cover and cook for an additional 3-5 minutes. \n8. Serve with steamed rice. \n\n🥘 @hexclad 5.5qt Sauté Pan\n🧤 @cleanspaceproject Black Nitrile Gloves \n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #easyrecipes #recipes #filipinofood #pinoy #islanderfood #asianfood #umami #grilled #panseared #braised #beef #meat #chuckroast #steak #bistek #beefsteak #hexclad #meatlovers",
+    "description":  "Filipino dish consisting of thinly sliced beef braised in soy sauce, calamansi juice, garlic, ground black pepper, and onions",
+    "intro":  [
+                  "Filipino dish consisting of thinly sliced beef braised in soy sauce, calamansi juice, garlic, ground black pepper, and onions cut into rings. Served with steamed rice, So damn good 🍻🤙🏽"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  "Marinade",
+                                 "items":  [
+                                               "3 lbs Chuck Steaks, sliced thinly",
+                                               "1/4 cup juiced Calamansi or Lemon",
+                                               "1 head garlic, peeled and crushed",
+                                               "1/3 cup low sodium soy sauce",
+                                               "1/2 tbsp Beef Bouillon",
+                                               "1/2 tsp onion powder",
+                                               "1/2 tsp black pepper",
+                                               "2 tbsp Butter",
+                                               "1 tbsp Olive Oil",
+                                               "1 cup water",
+                                               "1 large onion, peeled and sliced into rings"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Marinate sliced chuck steaks with calamansi or lemon juice, garlic, onion powder, beef bouillon, and soy sauce for 1-2 hours.",
+                  "In a pot under Medium heat, add water and entire contents of marinade. Cook for 45 minutes or until meat is tender.",
+                  "Strain liquid into a bowl and set aside.",
+                  "Heat pot under medium-high heat with butter and oil.",
+                  "Add strained contents into pot and sear meat until a crust is formed on each side.",
+                  "Add reserved marinade and water into pot, cover and simmer for about 5 minutes.",
+                  "Add sliced onion rings. Season with salt as needed, cover and cook for an additional 3-5 minutes.",
+                  "Serve with steamed rice."
+              ]
+},
+{
+    "id":  "grilled-lamb-chops",
+    "title":  "Grilled Lamb Chops",
+    "date":  "2024-07-31",
+    "category":  "Beef \u0026 Steak",
+    "image":  "images/recipes/grilled-lamb-chops.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Grilled Lamb Chops 🐑\n\nGrilled little meat sticks lightly seasoned with Salt, Pepper, and Garlic. \n\nGrilled at 300-350° to develop a crispy crust. I like my meat medium, so when internal temps hit 130° remove from grill and rest for 10 minutes. Slice between the bones and return back to the grill to give it a nice sear on all sides.\n\nTop off with a squeeze of lime juice and Al Frugoni’s Chimichurri mix. @alfrugoni \n\nIngredients:\nRack of lamb\nSalt, Pepper, and Garlic\nOlive oil, as a binder\nLime \nChimichurri sauce\n\n🔥 @nomadgrills Portable Grill \u0026 Smoker\n🪵 @thegoodcharcoal Super Briquettes\n🧤 @cleanspaceproject Nitrile Gloves \n🌡️ @meatermade Meater Block\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #grilledlamb #chops #lambchops #lamb #meater #chimichurri #cali",
+    "description":  "Grilled little meat sticks lightly seasoned with Salt, Pepper, and Garlic. Grilled at 300-350° to develop a crispy crust. I like",
+    "intro":  [
+                  "Grilled little meat sticks lightly seasoned with Salt, Pepper, and Garlic. Grilled at 300-350° to develop a crispy crust. I like my meat medium, so when internal temps hit 130° remove from grill and rest for 10 minutes. Slice between the bones and return back to the grill to give it a nice sear on all sides. Top off with a squeeze of lime juice and Al Frugoni’s Chimichurri mix. @alfrugoni"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Rack of lamb",
+                  "Salt, Pepper, and Garlic",
+                  "Olive oil, as a binder",
+                  "Lime",
+                  "Chimichurri sauce"
+              ]
+},
+{
+    "id":  "asian-bang-beef-rib-wraps",
+    "title":  "Asian Bang Beef Rib Wraps",
+    "date":  "2024-07-25",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/asian-bang-beef-rib-wraps.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Asian Bang Beef Rib Wraps🐄\n\nAsian Bang Sauce used as a binder then seasoned with Beef seasoning all from Blazing Star BBQ. Wrapped in beef tallow making these ribs extra juicy. This combination is so damn good. 🍻🤙🏽\n\nIngredients\n1 4-rib rack beef short ribs, about 6 lbs\nAsian Bang Sauce\nBeef Seasoning\nWagyu Tallow\n\nInstructions\n1. Slather the ribs with the Asian Bang sauce, then apply the Beef rub. \n2. Preheat the smoker to about 250 degrees.\n3. Smoke ribs until the internal temperature reaches 160 or until you get a good bark.\n4. Wrap with butcher paper or foil lathering up with some Wagyu Tallow, grill until internal temp hits 203 and probe goes in like butter. \n5. Let it rest for 1 hour, then slice and wrap them in butter lettuce, kimchi, and pickled radish. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🧂Rubs and Sauces: \n@blazingstarbbq Beef Seasoning \u0026 Asian Bang Sauce\n@southchicagopacking Wagyu Tallow\n ————————————————————————\n#btcooks #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #easyrecipes #foodvideo #recipes #beef #beefribs #asianbbq #shortribs #tallow #smokedmeat #lettucewraps #kimchi #healthy #koreanbbq #kbbq",
+    "description":  "Asian Bang Sauce used as a binder then seasoned with Beef seasoning all from Blazing Star BBQ. Wrapped in beef tallow making",
+    "intro":  [
+                  "Asian Bang Sauce used as a binder then seasoned with Beef seasoning all from Blazing Star BBQ. Wrapped in beef tallow making these ribs extra juicy. This combination is so damn good. 🍻🤙🏽"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 4-rib rack beef short ribs, about 6 lbs",
+                                               "Asian Bang Sauce",
+                                               "Beef Seasoning",
+                                               "Wagyu Tallow"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Slather the ribs with the Asian Bang sauce, then apply the Beef rub.",
+                  "Preheat the smoker to about 250 degrees.",
+                  "Smoke ribs until the internal temperature reaches 160 or until you get a good bark.",
+                  "Wrap with butcher paper or foil lathering up with some Wagyu Tallow, grill until internal temp hits 203 and probe goes in like butter.",
+                  "Let it rest for 1 hour, then slice and wrap them in butter lettuce, kimchi, and pickled radish."
+              ]
+},
+{
     "id":  "filipino-style-grilled-pork-chops",
     "title":  "Filipino Style Grilled Pork Chops",
     "date":  "2024-07-22",
@@ -3183,7 +3919,7 @@ const RECIPES = [
                   "Grill pork over direct heat until IT hits 140 degrees."
               ]
 },
-  {
+{
     "id":  "prosciutto-salmon-pinwheels",
     "title":  "Prosciutto Salmon Pinwheels",
     "date":  "2024-07-17",
@@ -3225,7 +3961,7 @@ const RECIPES = [
                   "Grill over lump charcoal at 350° until my @meatermade probe hit 140°."
               ]
 },
-  {
+{
     "id":  "smoked-braised-chuck",
     "title":  "Smoked \u0026 Braised Chuck",
     "date":  "2024-07-14",
@@ -3262,7 +3998,7 @@ const RECIPES = [
                   "Set for 30 minutes on high pressure."
               ]
 },
-  {
+{
     "id":  "prosciutto-wrapped-branzino",
     "title":  "Prosciutto Wrapped Branzino",
     "date":  "2024-05-26",
@@ -3304,7 +4040,28 @@ const RECIPES = [
                   "Grill indirect over lump charcoal at 400 for 25-30 minutes, flipping half way through."
               ]
 },
-  {
+{
+    "id":  "smoked-salmon-tacos",
+    "title":  "Smoked Salmon Tacos",
+    "date":  "2024-05-21",
+    "category":  "Seafood",
+    "image":  "images/recipes/smoked-salmon-tacos.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Smoked Salmon Tacos 🌮 \n\nSmoked Salmon tacos served with pickled onions and bell peppers. Topped off with Cilantro Lime Chipotle crema and fresh Cilantro 🔥\n\n4 Salmon Fillets\nBlazing Star Pork n Rub Seasoning\nPickled onions and bell peppers\nCilantro Lime Chipotle Crema Sauce\nFresh Cilantro \n\n1. Season Salmon Fillets with seasoning, let it sit for about 10-15 minutes. \n2. Preheat grill to 180 degrees using lump charcoal and setup for indirect. \n3. Add your favorite wood chunks, I used Strawberry Guava from @firewoodhawaii \n4. Smoke fillets until internal temp hits 145. \n\n🔥 @nomadgrills Portable Grill \u0026 Smoker\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n🔪 @spaceman_knives Triton Santoku\n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #meat #sandiego #homecooking #fancy #salmon #baja #mexico #tj #salmontacos #tacos #grilledfish #fresh #seafood #sd #socal #fresh",
+    "description":  "Smoked Salmon tacos served with pickled onions and bell peppers. Topped off with Cilantro Lime Chipotle crema and fresh Cilantro",
+    "intro":  [
+                  "Smoked Salmon tacos served with pickled onions and bell peppers. Topped off with Cilantro Lime Chipotle crema and fresh Cilantro 🔥 4 Salmon Fillets Blazing Star Pork n Rub Seasoning Pickled onions and bell peppers Cilantro Lime Chipotle Crema Sauce Fresh Cilantro"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Preheat grill to 180 degrees using lump charcoal and setup for indirect.",
+                  "Add your favorite wood chunks, I used Strawberry Guava from @firewoodhawaii",
+                  "Smoke fillets until internal temp hits 145."
+              ]
+},
+{
     "id":  "tortang-giniling-filipino-beef-omelette",
     "title":  "Tortang Giniling (Filipino Beef Omelette)",
     "date":  "2024-05-17",
@@ -3345,7 +4102,166 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
+    "id":  "grilled-longanisa-filipino-sausage",
+    "title":  "Grilled Longanisa (Filipino Sausage)",
+    "date":  "2024-05-10",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/grilled-longanisa-filipino-sausage.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Grilled Longanisa (Filipino Sausage)🇵🇭\n\nSweet and Savory Filipino Sausages 😉Perfect meal for anytime of the day. Grilling these sausages is the way to go. Served with Garlic Rice, Fresh chopped Tomatoes, Fried Egg, and Vinegar Dipping sauce LFG!!! 🍻🤙🏽\n\nThis jam also hits the spot. Check out my boy @kusta408 for the drop 🤙🏽\n\nAll ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!! \n\nLonganisa Cooking Instructions:\n1 package of Longanisa\n\n1. Set grill to about 350-375. \n2. Cook for about 15 minutes, flipping half way through. \n3. After 15 minutes I like to cut them to flatten them a little and get a nice char to get that crunch all over. Cook for an additional 5 minutes. \n\nGarlic Rice\n2 cups uncooked rice\n1.5 cups water (just a guess since I’m Filipino and don’t measure my water 😉. You want your rice to cook on the dry side and not so mushy)\n6 Garlic cloves, minced\n1 tsp salt\n2 tbsp soy sauce\n\n1. Rinse your rice thoroughly and then add water and cook in rice cooker or stove top on low heat. Let it set for 30 minutes to an hour in room temp with lid off. \n2. In a large pan or wok, add about 1 tbsp of oil on medium high heat. \n3. Quickly fry the garlic for about a minute before careful not to burn it. \n4. Add the cooked rice, salt, and soy sauce. \n\nVinegar Dipping Sauce (Sawsawan)\n1/2 cup Vinegar or Spicy Vinegar\n1 tbsp Red Onion Chopped\n2 Garlic cloves, minced\n1 tsp Ground Black Pepper\n1 tbsp Soy sauce\n1 tbsp water\n\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n ————————————————————————\n#btcooks #outdoorcooking #foodporn #easyrecipes #recipes #longanisa #longsilog #garlicrice #filipinofood #pinoy #filipino #philippines #sausage #grilled #sd #socal #sandiego #islanderfood #breakfast #lunch #dinner",
+    "description":  "Sweet and Savory Filipino Sausages 😉Perfect meal for anytime of the day. Grilling these sausages is the way to go. Served with",
+    "intro":  [
+                  "Sweet and Savory Filipino Sausages 😉Perfect meal for anytime of the day. Grilling these sausages is the way to go. Served with Garlic Rice, Fresh chopped Tomatoes, Fried Egg, and Vinegar Dipping sauce LFG!!! 🍻🤙🏽 This jam also hits the spot. Check out my boy @kusta408 for the drop 🤙🏽 All ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!!"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 package of Longanisa"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Set grill to about 350-375.",
+                  "Cook for about 15 minutes, flipping half way through.",
+                  "After 15 minutes I like to cut them to flatten them a little and get a nice char to get that crunch all over. Cook for an additional 5 minutes.",
+                  "Garlic Rice",
+                  "2 cups uncooked rice",
+                  "5 cups water (just a guess since I’m Filipino and don’t measure my water 😉. You want your rice to cook on the dry side and not so mushy)",
+                  "6 Garlic cloves, minced",
+                  "1 tsp salt",
+                  "2 tbsp soy sauce",
+                  "Rinse your rice thoroughly and then add water and cook in rice cooker or stove top on low heat. Let it set for 30 minutes to an hour in room temp with lid off.",
+                  "In a large pan or wok, add about 1 tbsp of oil on medium high heat.",
+                  "Quickly fry the garlic for about a minute before careful not to burn it.",
+                  "Add the cooked rice, salt, and soy sauce.",
+                  "Vinegar Dipping Sauce (Sawsawan)",
+                  "1/2 cup Vinegar or Spicy Vinegar",
+                  "1 tbsp Red Onion Chopped",
+                  "2 Garlic cloves, minced",
+                  "1 tsp Ground Black Pepper",
+                  "1 tbsp Soy sauce",
+                  "1 tbsp water"
+              ]
+},
+{
+    "id":  "lemon-saffron-chicken",
+    "title":  "Lemon Saffron Chicken",
+    "date":  "2024-04-21",
+    "category":  "Poultry",
+    "image":  "images/recipes/lemon-saffron-chicken.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Lemon Saffron Chicken 🍋 🍗\n\nThis is an easy recipe if you are looking to change up your chicken meals. Perfects for salads, wraps, or even with just rice.\n\nIngredients\n2 pounds chicken breast, sliced\n2 tbs olive oil\n1 lemon juice, juiced\n3 tbs mayonnaise\n1 small yellow onion, diced\n3-4 garlic cloves, minced\n1 cup parsley, chopped\n1 cup cilantro, chopped\n1 pinch Saffron\n1 tsp red pepper flakes\n1 tbsp Chicken Bouillon\n1 tsp black pepper\n\n1. Combine all ingredients and let it marinade over night or at least 4-6 hours.\n2. Over direct heat, grill chicken.\n3. Serve with salad or as a healthy wrap.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n🔪 @spaceman_knives Triton Santoku\n📦 @vacmasterfresh VP95 Vacuum Chamber\n ————————————————————————\n\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #chicken #wraps #sandiego #homecooking #healthy #mediterranean #mediterraneanfood #chickenkabob #saffron #salad #diet #easyrecipe #foodporn #sandiego #spring",
+    "description":  "This is an easy recipe if you are looking to change up your chicken meals. Perfects for salads, wraps, or even with just rice.",
+    "intro":  [
+                  "This is an easy recipe if you are looking to change up your chicken meals. Perfects for salads, wraps, or even with just rice."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 pounds chicken breast, sliced",
+                                               "2 tbs olive oil",
+                                               "1 lemon juice, juiced",
+                                               "3 tbs mayonnaise",
+                                               "1 small yellow onion, diced",
+                                               "3-4 garlic cloves, minced",
+                                               "1 cup parsley, chopped",
+                                               "1 cup cilantro, chopped",
+                                               "1 pinch Saffron",
+                                               "1 tsp red pepper flakes",
+                                               "1 tbsp Chicken Bouillon",
+                                               "1 tsp black pepper"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine all ingredients and let it marinade over night or at least 4-6 hours.",
+                  "Over direct heat, grill chicken.",
+                  "Serve with salad or as a healthy wrap."
+              ]
+},
+{
+    "id":  "fish-sauce-wings",
+    "title":  "Fish Sauce Wings",
+    "date":  "2024-04-17",
+    "category":  "Wings",
+    "image":  "images/recipes/fish-sauce-wings.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Fish Sauce Wings 🐟🍗\n\nFlavor packed wings full of umami. Smashing these up like umbrellas, inspo from my boy @tfti.bbq . \n\nIngredients:\n5-6 lbs Chicken wings\n1/2 cup Fish sauce\n1/2 cup Sugar\n2 tbsp Low Sodium Spy Sauce\n2 tbsp Black pepper\n1 tbsp Vinegar\n1 tbsp Vegetable oil\n8 Garlic cloves, minced\n1 Lemon, juiced \n1 Stalk Lemongrass or 1 knob of Ginger, minced\n\n1. Combine all ingredients in a ziplock bag and marinate for 4-6 hours. \n2. Heat grill to 375-400 degrees for indirect cooking. \n3. Place wings on indirect side and cook for about 45-60 minutes flipping half way through. \n4. Internal temp should be around 200 degrees. \n\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #easyrecipes #recipes #foodreels #patis #fishsauce #wings #fishsaucewings #asianbbq #islanderbbq #asianfood #vietnamesefood #wingwednesday #filipinobbq #pinoy #wingwednesday #spring",
+    "description":  "Flavor packed wings full of umami. Smashing these up like umbrellas, inspo from my boy @tfti.bbq .",
+    "intro":  [
+                  "Flavor packed wings full of umami. Smashing these up like umbrellas, inspo from my boy @tfti.bbq ."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "5-6 lbs Chicken wings",
+                                               "1/2 cup Fish sauce",
+                                               "1/2 cup Sugar",
+                                               "2 tbsp Low Sodium Spy Sauce",
+                                               "2 tbsp Black pepper",
+                                               "1 tbsp Vinegar",
+                                               "1 tbsp Vegetable oil",
+                                               "8 Garlic cloves, minced",
+                                               "1 Lemon, juiced",
+                                               "1 Stalk Lemongrass or 1 knob of Ginger, minced"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine all ingredients in a ziplock bag and marinate for 4-6 hours.",
+                  "Heat grill to 375-400 degrees for indirect cooking.",
+                  "Place wings on indirect side and cook for about 45-60 minutes flipping half way through.",
+                  "Internal temp should be around 200 degrees."
+              ]
+},
+{
+    "id":  "scorpion-baby-back-ribs",
+    "title":  "Scorpion Baby Back Ribs",
+    "date":  "2024-03-29",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/scorpion-baby-back-ribs.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Scorpion Baby Back Ribs 🐖\n\nCheck out this perfect bite! Smoked ribs using mustard as a binder then seasoned with Pork’n Rub and Scorpion Seasoning, giving the perfect sweetness and heat. Wrapped using POG syrup, brown sugar, butter. 💦💦 💦\n\n1. Smoke at 250 for 4 hours. \n2. Double wrap with foil and layer Brown sugar, butter, and POG syrup on both sides. Cook for another hour. \n3. Remove foil and lather up with your favorite BBQ sauce then return to the grill and cook for another 30 minutes. \n4. Let rest before serving. Enjoy! \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Pork’n Rub and Scorpion Seasoning\n@dkhawaiian Smokey BBQ Sauce and POG Syrup\n ————————————————————————\n#btcooks #outdoorcooking #food #smokedmeat #grilledfood #smoked #outdoor #backyardgrilling #foodporn #tasty #easyrecipes #foodvideo #recipes #ribs #babybackribs #rub #bbq #pork",
+    "description":  "Check out this perfect bite! Smoked ribs using mustard as a binder then seasoned with Pork’n Rub and Scorpion Seasoning, giving",
+    "intro":  [
+                  "Check out this perfect bite! Smoked ribs using mustard as a binder then seasoned with Pork’n Rub and Scorpion Seasoning, giving the perfect sweetness and heat. Wrapped using POG syrup, brown sugar, butter. 💦💦 💦"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Double wrap with foil and layer Brown sugar, butter, and POG syrup on both sides. Cook for another hour.",
+                  "Remove foil and lather up with your favorite BBQ sauce then return to the grill and cook for another 30 minutes.",
+                  "Let rest before serving. Enjoy!"
+              ]
+},
+{
+    "id":  "smoked-corned-beef",
+    "title":  "Smoked Corned Beef ️",
+    "date":  "2024-03-16",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/smoked-corned-beef.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Smoked Corned Beef ☘️\n\nYou have to try smoked corned beef. This brisket point was injected with Wagyu Tallow and seasoned with Blazing Star Beef Rub made this so damn good. \n\n3-4 pound Corned Beef, soaked in water over night to reduce saltiness\nBeef Rub\nWagyu Tallow\n\n1. Lightly season beef with beef rub and let it come to room temp. \n2. Inject with Wagyu Tallow. \n3. Grill over indirect heat at 275 degrees using charcoal and your favorite wood chunks. \n4. Once the internal temp hit 160 degrees, I wrapped in a foil boat and cooked it until it hit 200 degrees and probe tender. \n5. Remove from grill and wrap with foil and rest for 1 hour before slicing. \n\n🔥 @kamado Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Beef Rub\n🛢️ @southchicagopacking Wagyu Tallow\n🔪 @spaceman_knives Triton Santoku \n🌡️ @themeatstickig MeatStick 4X\n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #cornedbeef #brisket #steak #meat #beef #wagyu #tallow #stpatricksday #stpattysday #irish #leprechaun #green #cheers #sandiego",
+    "description":  "You have to try smoked corned beef. This brisket point was injected with Wagyu Tallow and seasoned with Blazing Star Beef Rub",
+    "intro":  [
+                  "You have to try smoked corned beef. This brisket point was injected with Wagyu Tallow and seasoned with Blazing Star Beef Rub made this so damn good. 3-4 pound Corned Beef, soaked in water over night to reduce saltiness Beef Rub Wagyu Tallow"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Inject with Wagyu Tallow.",
+                  "Grill over indirect heat at 275 degrees using charcoal and your favorite wood chunks.",
+                  "Once the internal temp hit 160 degrees, I wrapped in a foil boat and cooked it until it hit 200 degrees and probe tender.",
+                  "Remove from grill and wrap with foil and rest for 1 hour before slicing."
+              ]
+},
+{
     "id":  "shaking-beef-bo-luc-lac",
     "title":  "Shaking Beef (Bo Luc Lac)",
     "date":  "2024-03-14",
@@ -3374,7 +4290,424 @@ const RECIPES = [
                   "Serve with steamed rice, watercress, fresh sliced tomatoes, pickled onions, and lime dipping sauce. 🍻"
               ]
 },
-  {
+{
+    "id":  "santa-maria-tri-tip-w-caper-chimichurri",
+    "title":  "Santa Maria Tri-Tip w/ Caper Chimichurri",
+    "date":  "2024-03-11",
+    "category":  "Beef \u0026 Steak",
+    "image":  "images/recipes/santa-maria-tri-tip-w-caper-chimichurri.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Santa Maria Tri-Tip w/ Caper Chimichurri\n\nReverse seared Santa Maria Tri-Tip from Costco, turned out quite delicious. Elevated this dish with a topping of homemade Caper Chimichurri, making it an ideal combination.\n\n3lb Tri-Tip pre marinated or seasoned with favorite rub\n\n1. Setup grill for indirect cooking at 225 degrees. \n2. Smoked steak until IT hits 130 degrees over lump charcoal and Pecan wood blocks. The end result will be about Medium. \n3. Increase heat to 500 degrees and sear both sides of steak. \n4. Let rest for 10-15 minutes before serving. \n\nChimichurri:\n1/2 bunch Italian parsley, finely chopped\n1/2 bunch Cilantro, finely chopped\n2 tbsp capers, finely chopped\n1-2 garlic cloves, minced\n1 tbsp Shallots, minced\n1 tsp salt\n1 tsp fresh ground black pepper\n1/2 tbsp red pepper flakes\n1/2 lime\n1/4 cup red wine vinegar\n1/4 cup olive oil\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🌡️ @themeatstickig ChefX\n🧤 @cleanspaceproject Black Nitril Gloves\n\n ————————————————————————\n#btcooks #kamadojoe #kamadogrill #instadaily #bbqlovers #smoker #bbqporn #bbq #grilling #backyardgrilling #foodporn #easyrecipes #foodvideo #recipes #foodreels #chimichurri #sauce #tritip #steak #reversesear #marinatedmeat #santamaria #meat",
+    "description":  "Reverse seared Santa Maria Tri-Tip from Costco, turned out quite delicious. Elevated this dish with a topping of homemade Caper",
+    "intro":  [
+                  "Reverse seared Santa Maria Tri-Tip from Costco, turned out quite delicious. Elevated this dish with a topping of homemade Caper Chimichurri, making it an ideal combination. 3lb Tri-Tip pre marinated or seasoned with favorite rub"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Smoked steak until IT hits 130 degrees over lump charcoal and Pecan wood blocks. The end result will be about Medium.",
+                  "Increase heat to 500 degrees and sear both sides of steak.",
+                  "Let rest for 10-15 minutes before serving.",
+                  "1/2 bunch Italian parsley, finely chopped",
+                  "1/2 bunch Cilantro, finely chopped",
+                  "2 tbsp capers, finely chopped",
+                  "1-2 garlic cloves, minced",
+                  "1 tbsp Shallots, minced",
+                  "1 tsp salt",
+                  "1 tsp fresh ground black pepper",
+                  "1/2 tbsp red pepper flakes",
+                  "1/2 lime",
+                  "1/4 cup red wine vinegar",
+                  "1/4 cup olive oil"
+              ]
+},
+{
+    "id":  "grilled-branzino-w-lemon-caper-dressing",
+    "title":  "Grilled Branzino w/Lemon Caper Dressing",
+    "date":  "2024-02-28",
+    "category":  "Seafood",
+    "image":  "images/recipes/grilled-branzino-w-lemon-caper-dressing.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Grilled Branzino w/Lemon Caper Dressing 🐟🍋\n\nThis Mediterranean style grilled Branzino was seasoned with Spanglish Asadero’s Surf and Turf Seasoning. Served with roasted broccoli and cilantro lime basmati rice 🔥. \n\nInspired by one of my wife’s favorite restaurants @kokkarisf \n\nIngredients\n1-2 Whole Branzino, scaled and gutted\nExtra virgin olive oil\nFavorite Surf and Turf seasoning or Sea salt and fresh ground pepper\n2-3 lemons — 1 lemon sliced and the rest for spreading the juice over fish\nFresh Thyme\n\nDressing\n6 tablespoons Extra virgin olive oil\n2 teaspoons Capers, minced\n2 teaspoons Shallots, minced\n1 teaspoon Garlic, minced\n1 tablespoon Italian parsley, minced\n½ teaspoon fresh Oregano, minced\nSalt and freshly ground black pepper\n1 Lemon, juiced\n\n1. In a small bowl, combine all the Dressing ingredients. Set aside\n2. Clean fish and make a lengthwise slit down the middle of each side, from the gill to the tail, slicing all the way to the bone.\n3. Lather extra virgin olive oil all over fish.\n4. Season with seasoning or Salt and fresh ground black pepper. \n5. Stuff slices of lemon and fresh Thyme into the belly.\n6. Heat grill to 500 degrees and setup up for direct cooking. \n7. Place fish over charcoal and cook for 15 minutes on each side.\n8. Transfer the fish to a plate a squeeze fresh lemon juice over fish. \n9. Season the fish lightly with salt and pepper, then spoon Dressing over it.\n\n🔥 @kamado Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @spanglishasadero_official Surf \u0026 Turf Seasoning\n ————————————————————————\n#btcooks #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #foodporn #easyrecipes #recipes #grilledfish #branzino #mediterraneandiet #mediterraneanfood #italianfood #healthy #dinner #fish #seafood",
+    "description":  "This Mediterranean style grilled Branzino was seasoned with Spanglish Asadero’s Surf and Turf Seasoning. Served with roasted",
+    "intro":  [
+                  "This Mediterranean style grilled Branzino was seasoned with Spanglish Asadero’s Surf and Turf Seasoning. Served with roasted broccoli and cilantro lime basmati rice 🔥. Inspired by one of my wife’s favorite restaurants @kokkarisf"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "2-3 lemons — 1 lemon sliced and the rest for spreading the juice over fish",
+                  "Fresh Thyme",
+                  "6 tablespoons Extra virgin olive oil",
+                  "2 teaspoons Capers, minced",
+                  "2 teaspoons Shallots, minced",
+                  "1 teaspoon Garlic, minced",
+                  "1 tablespoon Italian parsley, minced",
+                  "teaspoon fresh Oregano, minced",
+                  "Salt and freshly ground black pepper",
+                  "1 Lemon, juiced",
+                  "In a small bowl, combine all the Dressing ingredients. Set aside",
+                  "Clean fish and make a lengthwise slit down the middle of each side, from the gill to the tail, slicing all the way to the bone.",
+                  "Lather extra virgin olive oil all over fish.",
+                  "Season with seasoning or Salt and fresh ground black pepper.",
+                  "Stuff slices of lemon and fresh Thyme into the belly.",
+                  "Heat grill to 500 degrees and setup up for direct cooking.",
+                  "Place fish over charcoal and cook for 15 minutes on each side.",
+                  "Transfer the fish to a plate a squeeze fresh lemon juice over fish.",
+                  "Season the fish lightly with salt and pepper, then spoon Dressing over it."
+              ]
+},
+{
+    "id":  "braised-oxtails-and-chuck",
+    "title":  "Braised Oxtails and Chuck",
+    "date":  "2024-02-22",
+    "category":  "Beef \u0026 Steak",
+    "image":  "images/recipes/braised-oxtails-and-chuck.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Braised Oxtails and Chuck 🐄\n\nI can eat these all day! Smoked and then braised in beef stock with sliced onions and bell peppers. \n\nPlaced in my VacMaster VP95 vacuum chamber to add that extra flavor. 🔥\n\nIngredients:\n2-3 lbs beef Oxtails cut and trimmed\n2 lbs Chuck Roast cut into large cubes\nBlazing Star Beef Seasoning\nBlazing Star Reaper Seasoning\nW Sauce as a binder\n\nBraising:\n2 cups Beef broth, enough to cover half of meat\n1 Onion, sliced\n1 Green Bell pepper, sliced\u2028\n1. Season meat liberally with BBQ rub and let sit for 1 hour before cooking. \n2. Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.\n3. Remove meat and place into a roasting pan. \n4. Add beef broth, onions, and Bell Peppers, cover with aluminum foil. \n5. Place back into smoker and cook for another 3 hours. \u2028\nYou can braise it in the instant pot for 30 minutes high pressure. Then add the veggies, and pressure cook for an additional 10 minutes. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🗃️ @vacmasterfresh VP95 Vacuum Chamber\n🧤 @cleanspaceproject Nitrile Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Beef and Reaper Seasoning\n@wsauceofficial Worcestershire \n ————————————————————————\n#btcooks #food #foodporn #bbqporn #tasty #easyrecipes #foodvideo #recipes #oxtail #chuckroast #burntends #briased #meat #smoked #candyred #nuggets #smoker #fox5newssandiego #sandiego #grilled",
+    "description":  "I can eat these all day! Smoked and then braised in beef stock with sliced onions and bell peppers. Placed in my VacMaster VP95",
+    "intro":  [
+                  "I can eat these all day! Smoked and then braised in beef stock with sliced onions and bell peppers. Placed in my VacMaster VP95 vacuum chamber to add that extra flavor. 🔥"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2-3 lbs beef Oxtails cut and trimmed",
+                                               "2 lbs Chuck Roast cut into large cubes",
+                                               "Blazing Star Beef Seasoning",
+                                               "Blazing Star Reaper Seasoning",
+                                               "W Sauce as a binder"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "2 cups Beef broth, enough to cover half of meat",
+                  "1 Onion, sliced",
+                  "1 Green Bell pepper, sliced",
+                  "Season meat liberally with BBQ rub and let sit for 1 hour before cooking.",
+                  "Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.",
+                  "Remove meat and place into a roasting pan.",
+                  "Add beef broth, onions, and Bell Peppers, cover with aluminum foil.",
+                  "Place back into smoker and cook for another 3 hours.",
+                  "You can braise it in the instant pot for 30 minutes high pressure. Then add the veggies, and pressure cook for an additional 10 minutes."
+              ]
+},
+{
+    "id":  "chicken-chicharron",
+    "title":  "Chicken Chicharron",
+    "date":  "2024-02-19",
+    "category":  "Poultry",
+    "image":  "images/recipes/chicken-chicharron.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Chicken Chicharron 🐓\n\nDont let chicken skin trimmings go to waste. Whip up some easy chicken skin chicharron 🤙🏽\n\nIngredients provided fresh from\nOur friends at @islandpacificmarket \n\n1. Dry chicken skin and dust a little of your favorite seasoning. \n2. Set air fryer to 350 degrees for 15-20 minutes, flipping half way through. \n\n————————————————————————\n#btcooks #sogood #airfryer #airfried #chicharron #chililime #airfryerrecipes #chickenskin #sandiego #crispy #pinoy #filipino #islander #filipinosnack #snack #cholesterolfree #cholesterol #heathly #vegan #grilling #bbq",
+    "description":  "Dont let chicken skin trimmings go to waste. Whip up some easy chicken skin chicharron 🤙🏽",
+    "intro":  [
+                  "Dont let chicken skin trimmings go to waste. Whip up some easy chicken skin chicharron 🤙🏽"
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Dry chicken skin and dust a little of your favorite seasoning.",
+                  "Set air fryer to 350 degrees for 15-20 minutes, flipping half way through.",
+                  ""
+              ]
+},
+{
+    "id":  "bacon-wrapped-chicken-and-asparagus",
+    "title":  "Bacon Wrapped Chicken and Asparagus",
+    "date":  "2024-02-15",
+    "category":  "Pork",
+    "image":  "images/recipes/bacon-wrapped-chicken-and-asparagus.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Bacon Wrapped Chicken and Asparagus 🍗🥓\n\nLittle bite sized goodness seasoned with Blazing Star Pork n Rub and topped with sweet BBQ Sauce. \n\nIngredients:\n2 boneless and skinless chicken breast, sliced 1/2 thick. \n1 bunch fresh asparagus, cut in half\nFavorite sweet BBQ seasoning\n\nSauce:\nFavorite BBQ sauce\n1 tbsp brown sugar\n\n1. Season chicken with favorite rub. \n2. Wrap each piece of chicken with 3 pieces of asparagus with bacon, sprinkle a light dusting of seasoning. \n3. Set 375 and grill indirectly over charcoal for 30 minutes. \n4. Combine brown sugar and bbq sauce in a small bowl. \n5. Half way through cook, brush BBQ sauce \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Pork n Rub Seasoning\n🔪 @spaceman_knives Triton Santoku \n\n————————————————————————\n#btcooks #baconwrapped #bacon #chicken #asparagus #grilled #bbqsauce #usher #fox5sandiego #sandiego #bites #fingerfood #charcoal #bbqporn #smoker #foodporn",
+    "description":  "Little bite sized goodness seasoned with Blazing Star Pork n Rub and topped with sweet BBQ Sauce.",
+    "intro":  [
+                  "Little bite sized goodness seasoned with Blazing Star Pork n Rub and topped with sweet BBQ Sauce."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 boneless and skinless chicken breast, sliced 1/2 thick.",
+                                               "1 bunch fresh asparagus, cut in half"
+                                           ]
+                             },
+                             {
+                                 "heading":  "Sauce",
+                                 "items":  [
+                                               "Favorite BBQ sauce",
+                                               "1 tbsp brown sugar"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Season chicken with favorite rub.",
+                  "Wrap each piece of chicken with 3 pieces of asparagus with bacon, sprinkle a light dusting of seasoning.",
+                  "Set 375 and grill indirectly over charcoal for 30 minutes.",
+                  "Combine brown sugar and bbq sauce in a small bowl.",
+                  "Half way through cook, brush BBQ sauce"
+              ]
+},
+{
+    "id":  "lemongrass-chicken-thighs",
+    "title":  "Lemongrass Chicken Thighs",
+    "date":  "2024-02-10",
+    "category":  "Poultry",
+    "image":  "images/recipes/lemongrass-chicken-thighs.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Lemongrass Chicken Thighs 🍗\n\nFinally a break in the rain and quickly grilled up some of my favorite chicken thighs. Packed with so much flavor! Serve with a side of steamed rice and your favorite veggies. You gotta try this 🍻\n\nI picked up all these ingredients from our friends at @islandpacificmarket \n\n2-3 Ibs Boneless skinless chicken thighs\n4 tbsp Fish sauce\n2 tbsp Oyster Sauce\n2 tbsp Light soy sauce\n2 tbsp Banana Ketchup \n1/2 bottle of Beer (I used Modelo)\n4 Garlic cloves, minced\n3 stalks Green Onion, chopped\n4-5 stalks Lemon Grass, finely minced\n1 tbsp Sesame Oil\n3 tbsp Sugar\n1/4 cup Pineapple juice\n2 tsp Ground pepper\n\n1. Mix all ingredients together.\n2. Marinate for 2-3 hrs. or overnight in the refrigerator. \n3. Preheat the grill using lump charcoal and setup for direct grilling.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoak Lump Charcoal\n ————————————————————————\n#btcooks #chickenbbq #filipinobbq #vietnamesebbq #marinade #chicken #thighs #chickenthighs #filipinofood #vietnamesefood #islanderfood #asianfood #asianfusion #asianbbq #islanderbbq",
+    "description":  "Finally a break in the rain and quickly grilled up some of my favorite chicken thighs. Packed with so much flavor! Serve with a",
+    "intro":  [
+                  "Finally a break in the rain and quickly grilled up some of my favorite chicken thighs. Packed with so much flavor! Serve with a side of steamed rice and your favorite veggies. You gotta try this 🍻 I picked up all these ingredients from our friends at @islandpacificmarket 2-3 Ibs Boneless skinless chicken thighs"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 tbsp Oyster Sauce",
+                                               "2 tbsp Light soy sauce",
+                                               "2 tbsp Banana Ketchup",
+                                               "1/2 bottle of Beer (I used Modelo)",
+                                               "4 Garlic cloves, minced",
+                                               "3 stalks Green Onion, chopped",
+                                               "4-5 stalks Lemon Grass, finely minced",
+                                               "1 tbsp Sesame Oil",
+                                               "3 tbsp Sugar",
+                                               "1/4 cup Pineapple juice",
+                                               "2 tsp Ground pepper"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Mix all ingredients together.",
+                  "Marinate for 2-3 hrs. or overnight in the refrigerator.",
+                  "Preheat the grill using lump charcoal and setup for direct grilling."
+              ]
+},
+{
+    "id":  "spaghetti-all-amatriciana",
+    "title":  "Spaghetti all’Amatriciana",
+    "date":  "2024-02-08",
+    "category":  "Pasta \u0026 Noodles",
+    "image":  "images/recipes/spaghetti-all-amatriciana.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Spaghetti all’Amatriciana 🍝\n\nJust a simple pasta dish with red onions and bite size pieces of Pancetta makes this so good! 🍻🤙🏽\n\nIngredients \u0026 Recipe\n1 packet of Spaghetti, cooked based on instructions \n4 ounces Pancetta, diced\n½ cup freshly-grated Pecorino Romano\n1 14oz canned San Marzano tomatoes\n¼ cup tomato paste\n1 medium red onion, cut lengthwise into small slices\n4 Garlic cloves, minced on\n1/3 cup chopped fresh Italian parsley\n¼ cup extra virgin olive oil\n2 teaspoons red pepper flakes\nSalt, to taste\n\n1. In a large pot cook pasta noodles according to packaging instructions. Once cooked, reserving about 1/4 cup of the pasta water.\n2. Combine the olive oil, Pancetta, and onion in another large pot. Cook over medium-high heat, until the Pancetta is lightly browned.\n3. Add garlic and cook for 2 minutes, making sure not to burn.\n4. Stir in the tomato paste and red pepper flakes, cook for about 1 minute.\n5. Add canned San Marzano tomatoes and mix well, smashing tomatoes into a sauce.\n6. Add the cooked pasta and 1/4 cup of the reserved pasta water to the Pancetta mixture.\n7. Stir in the cheese and parsley.\n8. Serve immediately with side of grated Pecorino Romano and parsley.\n\n🧤 @cleanspaceproject Black Nitril Gloves \n📜 @bbq_boards Cutting Board\n🔪 @spaceman_knives Triton Santoku \n ————————————————————————\n#btcooks #pasta #spaghetti #wetdays #raining #demascus #italian #italianfood #fresh #pancetta #cheese #homecooking #look #sogood",
+    "description":  "Just a simple pasta dish with red onions and bite size pieces of Pancetta makes this so good! 🍻🤙🏽",
+    "intro":  [
+                  "Just a simple pasta dish with red onions and bite size pieces of Pancetta makes this so good! 🍻🤙🏽"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 packet of Spaghetti, cooked based on instructions",
+                                               "4 ounces Pancetta, diced",
+                                               "cup freshly-grated Pecorino Romano",
+                                               "1 14oz canned San Marzano tomatoes",
+                                               "cup tomato paste",
+                                               "1 medium red onion, cut lengthwise into small slices",
+                                               "4 Garlic cloves, minced on",
+                                               "1/3 cup chopped fresh Italian parsley",
+                                               "cup extra virgin olive oil",
+                                               "2 teaspoons red pepper flakes",
+                                               "Salt, to taste"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "In a large pot cook pasta noodles according to packaging instructions. Once cooked, reserving about 1/4 cup of the pasta water.",
+                  "Combine the olive oil, Pancetta, and onion in another large pot. Cook over medium-high heat, until the Pancetta is lightly browned.",
+                  "Add garlic and cook for 2 minutes, making sure not to burn.",
+                  "Stir in the tomato paste and red pepper flakes, cook for about 1 minute.",
+                  "Add canned San Marzano tomatoes and mix well, smashing tomatoes into a sauce.",
+                  "Add the cooked pasta and 1/4 cup of the reserved pasta water to the Pancetta mixture.",
+                  "Stir in the cheese and parsley.",
+                  "Serve immediately with side of grated Pecorino Romano and parsley."
+              ]
+},
+{
+    "id":  "reverse-seared-picanha",
+    "title":  "Reverse Seared Picanha",
+    "date":  "2024-02-06",
+    "category":  "Other",
+    "image":  "images/recipes/reverse-seared-picanha.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Reverse Seared Picanha 🥩 \n\nSlices of Picanha steaks seasoned with Blazing Star Beef Rub and All in One Seasoning!! Smoked over lump charcoal and Pecan wood chunks 💦💦💦\n\n1. Cut the steaks going with the grain into 2 inch thick slices.\n2. Lightly season steaks with Kosher salt to Dry brine overnight. \n3. Remove steaks from fridge 45 minutes before cooking and lightly season with salt or SPG. \n4. Smoke at 225 indirect IT hits about 115 degrees. About 35-40 minutes. \n5. Sear each steak for 1-2 minutes on each side. \n6. Let it rest for 10 minutes before slicing against the grain. \n\n🔥 @kamado Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Beef and All in One Seasoning\n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #picanha #topsirloin #steak #reversesear #churrasco #brazilianbbq #meat",
+    "description":  "Reverse Seared Picanha",
+    "intro":  [
+
+              ],
+    "ingredientGroups":  [
+
+                         ],
+    "steps":  [
+                  "Cut the steaks going with the grain into 2 inch thick slices.",
+                  "Lightly season steaks with Kosher salt to Dry brine overnight.",
+                  "Remove steaks from fridge 45 minutes before cooking and lightly season with salt or SPG.",
+                  "Smoke at 225 indirect IT hits about 115 degrees. About 35-40 minutes.",
+                  "Sear each steak for 1-2 minutes on each side.",
+                  "Let it rest for 10 minutes before slicing against the grain."
+              ]
+},
+{
+    "id":  "tocino-pulled-pork-tacos",
+    "title":  "Tocino pulled pork Tacos",
+    "date":  "2024-01-30",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/tocino-pulled-pork-tacos.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Tocino pulled pork Tacos 🐖🌮\n\nThis recipe is taking a classic Filipino recipe and mixing it up. This Islander Mexican fusion reminds me of Yucatán tacos when we went to Cancun. 🤙🏽\n\nWe are going to cook this hot and fast at 300 degrees because I am hungry! 😉\n\n5-6 lbs pork shoulder\n1/2 tbsp salt\n5 garlic cloves, minced\n1/2 tbsp chicken bouillon powder\n1 tbsp paprika\n1 tsp white pepper or ground black pepper\n1/2 cup brown sugar\n1/4 cup banana ketchup\n1 cup pineapple juice\n1 tbsp oil\n\nGarnish:\nPickled Onions\nCheese\nCilantro\nCrema (optional)\n\nPickled Red Onions Ingredients:\n1 medium red onion, sliced\n1/2 cup rice vinegar\n1/4 cup water\u20281 1/2 tbs sugar\u20281/2 tbs salt\u20281-2 tsp chili flakes\n\nInstructions:\n1. Combine all marinade ingredients.\n2. Cover and marinate in the fridge for 48 hours.\n3. Pat dry then season with Blazing Star Pork N Rub. Do not discard Marinade, this will be used later to braise the pork. \n4. Setup grill for indirect cooking and smoke at 300 degrees until internal temp reaches 160-170 degrees, around 4-5 hours.\n5. Place pork in a foil pan and pour in leftover marinade. It should come up half way and if it does not, add a little pineapple juice. Cover with foil and place back on the smoker until internal temp reaches 200 degrees, or 2-3 hours. \n6. Remove from braising liquid and rest for 30-45 minutes before shredding. \n7. Shred pork and pour in 1/4 cup braising liquid if it is too dry. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Pork n Rub \n ————————————————————————\n#btcooks #tacos #fusion #filipino #pinoy #alpastor #conchintapibil #yucatan #cancun #pulledpork #tocino #tocinopulledpork #tocinotacos #tacotuesday #tocinotursday",
+    "description":  "This recipe is taking a classic Filipino recipe and mixing it up. This Islander Mexican fusion reminds me of Yucatán tacos when",
+    "intro":  [
+                  "This recipe is taking a classic Filipino recipe and mixing it up. This Islander Mexican fusion reminds me of Yucatán tacos when we went to Cancun. 🤙🏽 We are going to cook this hot and fast at 300 degrees because I am hungry! 😉"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1/2 tbsp salt",
+                                               "5 garlic cloves, minced",
+                                               "1/2 tbsp chicken bouillon powder",
+                                               "1 tbsp paprika",
+                                               "1 tsp white pepper or ground black pepper",
+                                               "1/2 cup brown sugar",
+                                               "1/4 cup banana ketchup",
+                                               "1 cup pineapple juice",
+                                               "1 tbsp oil"
+                                           ]
+                             },
+                             {
+                                 "heading":  "Pickled Onions",
+                                 "items":  [
+                                               "Cheese",
+                                               "Cilantro",
+                                               "Crema (optional)"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "1 medium red onion, sliced",
+                  "1/2 cup rice vinegar",
+                  "1/4 cup water 1 1/2 tbs sugar 1/2 tbs salt 1-2 tsp chili flakes",
+                  "Combine all marinade ingredients.",
+                  "Cover and marinate in the fridge for 48 hours.",
+                  "Pat dry then season with Blazing Star Pork N Rub. Do not discard Marinade, this will be used later to braise the pork.",
+                  "Setup grill for indirect cooking and smoke at 300 degrees until internal temp reaches 160-170 degrees, around 4-5 hours.",
+                  "Place pork in a foil pan and pour in leftover marinade. It should come up half way and if it does not, add a little pineapple juice. Cover with foil and place back on the smoker until internal temp reaches 200 degrees, or 2-3 hours.",
+                  "Remove from braising liquid and rest for 30-45 minutes before shredding.",
+                  "Shred pork and pour in 1/4 cup braising liquid if it is too dry."
+              ]
+},
+{
+    "id":  "creamy-chimichurri-ribeye-wraps",
+    "title":  "Creamy Chimichurri Ribeye Wraps",
+    "date":  "2024-01-26",
+    "category":  "Beef \u0026 Steak",
+    "image":  "images/recipes/creamy-chimichurri-ribeye-wraps.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Creamy Chimichurri Ribeye Wraps 🌯\n\nGive these wraps a try the next time you feel like having BBQ but don’t want to feel guilty 😂\n\nGrilled Ribeye steaks seasoned with W Sauce and Blazing Star All in One Seasoning, then wrapped with your favorite mixed greens, onions, tomatoes and a creamy Chimichurri sauce 🔥🔥🔥\n\nSteaks vacuum seal in my @vacmasterfresh VP95 to lock in those flavors 🍻\n\nIngredients:\n2 Ribeye Steaks\nWorcestershire sauce \nAll in One Seasoning\n\nCreamy Chimichurri:\n2 tbsp Chimichurri seasoning\n2 tbsp red wine vinegar\n2 tbsp olive oil\n2 tbsp mayonnaise \n\nWrap ingredients:\nBurrito size tortillas \nTomatoes\nRed onions\nMixed greens\nShredded cheese\n\n🪵 @thegoodcharcoal Super Briquettes \n🧤 @cleanspaceproject Gloves \n🔪 @kumaknives Japanese Damascus Knife\n🧂 Seasoning and Sauces: \n@blazingstarbbq All in One Seasoning\n@bearandburtons W Sauce\n@alfrugoni Chimichurri Seasoning\n ————————————————————————\n#btcooks #steak #steakwraps #ribeye #worcestershire #chimichurri #tortillas #healthyfood #grilled #fresh #salad #greens #homecook #bbq #foodporn #delicious #sogood #charcoal",
+    "description":  "Give these wraps a try the next time you feel like having BBQ but don’t want to feel guilty 😂 Grilled Ribeye steaks seasoned",
+    "intro":  [
+                  "Give these wraps a try the next time you feel like having BBQ but don’t want to feel guilty 😂 Grilled Ribeye steaks seasoned with W Sauce and Blazing Star All in One Seasoning, then wrapped with your favorite mixed greens, onions, tomatoes and a creamy Chimichurri sauce 🔥🔥🔥 Steaks vacuum seal in my @vacmasterfresh VP95 to lock in those flavors 🍻"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 Ribeye Steaks"
+                                           ]
+                             },
+                             {
+                                 "heading":  "Creamy Chimichurri",
+                                 "items":  [
+                                               "2 tbsp Chimichurri seasoning",
+                                               "2 tbsp red wine vinegar",
+                                               "2 tbsp olive oil",
+                                               "2 tbsp mayonnaise"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Burrito size tortillas",
+                  "Tomatoes",
+                  "Red onions",
+                  "Mixed greens",
+                  "Shredded cheese"
+              ]
+},
+{
+    "id":  "lemongrass-bbq-skewers",
+    "title":  "Lemongrass BBQ Skewers",
+    "date":  "2024-01-23",
+    "category":  "BBQ \u0026 Smoked",
+    "image":  "images/recipes/lemongrass-bbq-skewers.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Lemongrass BBQ Skewers 🐖🐓\n\nThis recipe is a fusion between Filipino and Vietnamese BBQ. The lemongrass adds a little freshness while the fish sauce and banana ketchup provides that savory goodness. 🇵🇭🇻🇳 Served these up with a side of steamed rice and spiced vinegar (Suka). 🤙🏽\n\nPerfectly marinated using my VP95 vacuum chamber. 🍻\n\nAll ingredients brought to you by my friends at @islandpacificmarket \n\n2-3 Ibs skinless pork belly or chicken thighs (sliced thin)\n4 tbsp Fish sauce\n2 tbsp Oyster Sauce\n2 tbsp Light soy sauce\n2 tbsp Banana Ketchup \n4 Garlic cloves, minced\n3 stalks Green Onion, chopped\n4-5 stalks Lemon Grass\n1 tbsp Sesame Oil\n3 tbsp Sugar\n2 tbsp Honey \n1 tsp Ground pepper\n\n1. Mix all ingredients together.\n2. Marinate for 2-3 hrs or overnight in the refrigerator. \n3. Skewer the meat. \n4. Preheat the grill and setup for direct grilling over charcoal for best flavor.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🔪 @kumaknives Japanese Damascus Knife\n🛒 @islandpacificmarket Ingredients\n ————————————————————————\n#btcooks #porkbbq #chickenbbq #filipinobbq #vietnamesebbq #bbqskewers #marinade #pork #chicken #filipinofood #vietnamesefood #kabob #islanderfood #asianfood #asianfusion #pinoy #spicedvinegar #suka #foodporn #streetfood",
+    "description":  "This recipe is a fusion between Filipino and Vietnamese BBQ. The lemongrass adds a little freshness while the fish sauce and",
+    "intro":  [
+                  "This recipe is a fusion between Filipino and Vietnamese BBQ. The lemongrass adds a little freshness while the fish sauce and banana ketchup provides that savory goodness. 🇵🇭🇻🇳 Served these up with a side of steamed rice and spiced vinegar (Suka). 🤙🏽 Perfectly marinated using my VP95 vacuum chamber. 🍻 All ingredients brought to you by my friends at @islandpacificmarket 2-3 Ibs skinless pork belly or chicken thighs (sliced thin)"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 tbsp Oyster Sauce",
+                                               "2 tbsp Light soy sauce",
+                                               "2 tbsp Banana Ketchup",
+                                               "4 Garlic cloves, minced",
+                                               "3 stalks Green Onion, chopped",
+                                               "4-5 stalks Lemon Grass",
+                                               "1 tbsp Sesame Oil",
+                                               "3 tbsp Sugar",
+                                               "2 tbsp Honey",
+                                               "1 tsp Ground pepper"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Mix all ingredients together.",
+                  "Marinate for 2-3 hrs or overnight in the refrigerator.",
+                  "Skewer the meat.",
+                  "Preheat the grill and setup for direct grilling over charcoal for best flavor."
+              ]
+},
+{
+    "id":  "lemon-caper-chimichurri-grilled-salmon",
+    "title":  "Lemon Caper Chimichurri Grilled Salmon",
+    "date":  "2024-01-19",
+    "category":  "Seafood",
+    "image":  "images/recipes/lemon-caper-chimichurri-grilled-salmon.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Lemon Caper Chimichurri Grilled Salmon 🐟\n\nQuick and easy dish to prepare and the Lemon Caper Chimichurri is a must!!! \n\n4 salmon fillets\nSalt and pepper\n\nLemon Caper Chimichurri:\n4 tbsp Chimichurri seasoning\n2 tsp Capers, chopped\n1/2 Lemon, juiced\n4 tbsp Red wine vinegar \n4 tbsp Olive oil\n\n1. Season salmon fillets with salt and pepper. \n2. Grill directly over charcoal skin side down. \n3. After 3-5 minutes check to see if skin is stuck to the grates. If so, cook a little longer until it no longer sticks. \n4. Flip fillets and cook for another 3-5 minutes. \n5. Drizzle Chimichurri sauce over salmon fillets and serve with favorite salads or veggies. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🔪 @kumaknives Japanese Damascus Knife\n ————————————————————————\n#btcooks #salmon #grilledsalmon #Chimichurri #healthy #grilledfish #capers",
+    "description":  "Quick and easy dish to prepare and the Lemon Caper Chimichurri is a must!!! 4 salmon fillets Salt and pepper",
+    "intro":  [
+                  "Quick and easy dish to prepare and the Lemon Caper Chimichurri is a must!!! 4 salmon fillets Salt and pepper"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "4 tbsp Chimichurri seasoning",
+                                               "2 tsp Capers, chopped",
+                                               "1/2 Lemon, juiced",
+                                               "4 tbsp Red wine vinegar",
+                                               "4 tbsp Olive oil"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Season salmon fillets with salt and pepper.",
+                  "Grill directly over charcoal skin side down.",
+                  "After 3-5 minutes check to see if skin is stuck to the grates. If so, cook a little longer until it no longer sticks.",
+                  "Flip fillets and cook for another 3-5 minutes.",
+                  "Drizzle Chimichurri sauce over salmon fillets and serve with favorite salads or veggies."
+              ]
+},
+{
     "id":  "birria-de-res",
     "title":  "Birria de Res",
     "date":  "2024-01-14",
@@ -3396,7 +4729,155 @@ const RECIPES = [
                   "Serve with diced onions, cilantro, and a side of tortilla."
               ]
 },
-  {
+{
+    "id":  "filipino-pork-bbq-skewers",
+    "title":  "Filipino Pork BBQ Skewers",
+    "date":  "2024-01-10",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/filipino-pork-bbq-skewers.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Filipino Pork BBQ Skewers 🇵🇭🐖\n\nThese skewers are so good and perfect for parties. Packed with flavor and so addicting. 🍻\n\nIngredients:\n3 lbs pork shoulder or belly, sliced 1/4 inch thick\n1/2 cup low sodium soy sauce\n1/4 cup Oyster sauce\n1/2 cup Banana Ketchup\n1/2 bottle of Beer (I used Modelo)\n1/2 cup Pineapple Juice\n1/2 lemon, juiced\n1 head garlic, crushed\n2 tsp chicken bouillon powder\n1/2 cup brown sugar\n1 tsp ground black pepper\nBamboo skewers, soaked in water for 30 min\n\n1. Combine all ingredients, but separate 1/4 cup of marinade on the side for basting. \n2. Add pork into marinade and refrigerate for at least 4 hours, preferably overnight. \n3. Skewer pork into soaked bamboo skewers. \n4. Grill over lump charcoal, turning every 1-2 minutes to prevent the sugar from burning. \n5. Baste skewers throughout cook. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoak Lump Charcoal\n🧤 @cleanspaceproject Gloves \n ————————————————————————\n#btcooks #porkbbq #filipinobbq #bbqskewers #marinade #pork #filipinofood #kabobs #hawaiianfood #islanderfood",
+    "description":  "These skewers are so good and perfect for parties. Packed with flavor and so addicting. 🍻",
+    "intro":  [
+                  "These skewers are so good and perfect for parties. Packed with flavor and so addicting. 🍻"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "3 lbs pork shoulder or belly, sliced 1/4 inch thick",
+                                               "1/2 cup low sodium soy sauce",
+                                               "1/4 cup Oyster sauce",
+                                               "1/2 cup Banana Ketchup",
+                                               "1/2 bottle of Beer (I used Modelo)",
+                                               "1/2 cup Pineapple Juice",
+                                               "1/2 lemon, juiced",
+                                               "1 head garlic, crushed",
+                                               "2 tsp chicken bouillon powder",
+                                               "1/2 cup brown sugar",
+                                               "1 tsp ground black pepper"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine all ingredients, but separate 1/4 cup of marinade on the side for basting.",
+                  "Add pork into marinade and refrigerate for at least 4 hours, preferably overnight.",
+                  "Skewer pork into soaked bamboo skewers.",
+                  "Grill over lump charcoal, turning every 1-2 minutes to prevent the sugar from burning.",
+                  "Baste skewers throughout cook."
+              ]
+},
+{
+    "id":  "bbq-chicken-tocino",
+    "title":  "BBQ Chicken Tocino",
+    "date":  "2024-01-07",
+    "category":  "Filipino \u0026 Islander",
+    "image":  "images/recipes/bbq-chicken-tocino.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "BBQ Chicken Tocino 🇵🇭🍗\n\nThis is a twist to the classic Filipino Tocino that is usually cooked with thin slices of marinated pork, pan fried and served with garlic rice. 🍻🤙🏽\n\nAll ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!! \n\nMarinade:\n3-4 lbs chicken thighs, boneless, skinless\n1/2 tbsp salt\n1 tbsp garlic powder\n1/2 tbsp chicken bouillon powder\n1 tbsp paprika\n1 tsp white pepper or ground black pepper\n1/2 cup brown sugar\n1/4 cup banana ketchup\n1 cup pineapple juice\n1 tbsp avocado oil\n\n1. In a bowl, add all the ingredients together and mix well. \n2. Add chicken into marinade, and refrigerate for 4-6 hours, preferably overnight. \n3. Set smoker to 225 and smoke for 30 minutes. \n4. Increase temp to 450 and cook for 30 minutes flipping half way through. \n5. Serve hot with a side of rice and grilled veggies. Enjoy!!!! \n\n————————————————————————\n#btcooks #outdoorcooking #food #easyrecipes #recipes #easyrecipes #filipinofood #grilledchicken #pinoyfood #marinaderecipe #chickenmarinade #tocino #chickentocino #marinatedmeat",
+    "description":  "This is a twist to the classic Filipino Tocino that is usually cooked with thin slices of marinated pork, pan fried and served",
+    "intro":  [
+                  "This is a twist to the classic Filipino Tocino that is usually cooked with thin slices of marinated pork, pan fried and served with garlic rice. 🍻🤙🏽 All ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!!"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "3-4 lbs chicken thighs, boneless, skinless",
+                                               "1/2 tbsp salt",
+                                               "1 tbsp garlic powder",
+                                               "1/2 tbsp chicken bouillon powder",
+                                               "1 tbsp paprika",
+                                               "1 tsp white pepper or ground black pepper",
+                                               "1/2 cup brown sugar",
+                                               "1/4 cup banana ketchup",
+                                               "1 cup pineapple juice",
+                                               "1 tbsp avocado oil"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "In a bowl, add all the ingredients together and mix well.",
+                  "Add chicken into marinade, and refrigerate for 4-6 hours, preferably overnight.",
+                  "Set smoker to 225 and smoke for 30 minutes.",
+                  "Increase temp to 450 and cook for 30 minutes flipping half way through.",
+                  "Serve hot with a side of rice and grilled veggies. Enjoy!!!!",
+                  ""
+              ]
+},
+{
+    "id":  "bbq-reaper-pineapple-wings",
+    "title":  "BBQ Reaper Pineapple Wings",
+    "date":  "2023-12-27",
+    "category":  "Wings",
+    "image":  "images/recipes/bbq-reaper-pineapple-wings.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "BBQ Reaper Pineapple Wings 🔥🍗\n\nThese wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine Smokey BBQ sauce with Pineapple Syrup. Perfect balance of sweetness and spice. 🤙🏽\n\nIngredients:\n2-3 pounds chicken wings\nOlive Oil\nBlazing Star Reaper Seasoning\nRanch Seasoning\nDa Kine Hawaiian Smokey BBQ Sauce\nDa Kine Pineapple Syrup\n\n1. Add oil to chicken wings to serve as a binder. \n2. Liberally season with Reaper and Ranch Seasoning, and place in the fridge uncovered for 2-3 hours. \n3. Preheat grill to 400 degrees using Lump Charcoal. \n4. Place wings on grill for indirect cooking and cook each side for 15 minutes, with lid closed. \n5. Mix together 1/2 cup of BBQ sauce and 1/4 cup of syrup into a bowl. \n6. Drizzle over cooked chicken wings and enjoy.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Black Nitrile Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Reaper Seasoning\n@dkhawaiian Smokey BBQ Sauce and Pineapple Syrup\n@hidden.valley Ranch Seasoning\n ————————————————————————\n#btcooks #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #easyrecipes #delicious #foodvideo #recipes #bbqwings #wings #wingwednesday #reaper #smokedwings #bbqsauce",
+    "description":  "These wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine",
+    "intro":  [
+                  "These wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine Smokey BBQ sauce with Pineapple Syrup. Perfect balance of sweetness and spice. 🤙🏽"
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2-3 pounds chicken wings",
+                                               "Olive Oil",
+                                               "Blazing Star Reaper Seasoning",
+                                               "Ranch Seasoning"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Da Kine Hawaiian Smokey BBQ Sauce",
+                  "Da Kine Pineapple Syrup",
+                  "Add oil to chicken wings to serve as a binder.",
+                  "Liberally season with Reaper and Ranch Seasoning, and place in the fridge uncovered for 2-3 hours.",
+                  "Preheat grill to 400 degrees using Lump Charcoal.",
+                  "Place wings on grill for indirect cooking and cook each side for 15 minutes, with lid closed.",
+                  "Mix together 1/2 cup of BBQ sauce and 1/4 cup of syrup into a bowl.",
+                  "Drizzle over cooked chicken wings and enjoy."
+              ]
+},
+{
+    "id":  "asian-bang-chicken-wings",
+    "title":  "Asian Bang Chicken Wings",
+    "date":  "2023-12-07",
+    "category":  "Wings",
+    "image":  "images/recipes/asian-bang-chicken-wings.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Asian Bang Chicken Wings 🔥🪽\n\nAsian Style marinated chicken wings 🍻. Perfectly paired with steamed rice and your favorite veggies. \n\nVacuum sealed in my VacMaster VP95 to add that extra flavor. \n\nIngredients:\n3-4 lbs party wings\n1/4 cup @blazingstarbbq Asian Bang Sauce\n1/2 cup low sodium soy sauce\n1/4 cup Oyster sauce\n1/2 cup Banana Ketchup\n1/2 bottle of Beer (I used Modelo)\n1/2 lemon, juiced\n1 head garlic, crushed\n2 tsp chicken bouillon \n1/2 cup brown sugar\n1/2 tsp ground black pepper\n\n1. Combine all ingredients, but separate 1/4 cup of marinade on the side for basting. \n2. Add marinade to chicken and refrigerate for at least 4-6 hours, preferably overnight. \n3. Set grill for indirect grilling at 400 degrees. \n4. Grill wings for 30-45 minutes flipping half way through. \n5. Baste wings throughout cook. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Asian Bang Sauce\n🗃️ @vacmasterfresh VP95 Vacuum Chamber\n\n ————————————————————————\n#btcooks #instadaily #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #igfood #easyrecipes #delicious #foodvideo #recipes #foodreels #reelfood #reelsinstagram #bbqwings #asianbbq #asianfood #wings",
+    "description":  "Asian Style marinated chicken wings 🍻. Perfectly paired with steamed rice and your favorite veggies. Vacuum sealed in my",
+    "intro":  [
+                  "Asian Style marinated chicken wings 🍻. Perfectly paired with steamed rice and your favorite veggies. Vacuum sealed in my VacMaster VP95 to add that extra flavor."
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "3-4 lbs party wings",
+                                               "1/4 cup @blazingstarbbq Asian Bang Sauce",
+                                               "1/2 cup low sodium soy sauce",
+                                               "1/4 cup Oyster sauce",
+                                               "1/2 cup Banana Ketchup",
+                                               "1/2 bottle of Beer (I used Modelo)",
+                                               "1/2 lemon, juiced",
+                                               "1 head garlic, crushed",
+                                               "2 tsp chicken bouillon",
+                                               "1/2 cup brown sugar",
+                                               "1/2 tsp ground black pepper"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Combine all ingredients, but separate 1/4 cup of marinade on the side for basting.",
+                  "Add marinade to chicken and refrigerate for at least 4-6 hours, preferably overnight.",
+                  "Set grill for indirect grilling at 400 degrees.",
+                  "Grill wings for 30-45 minutes flipping half way through.",
+                  "Baste wings throughout cook."
+              ]
+},
+{
     "id":  "grilled-tocino-wings",
     "title":  "Grilled Tocino Wings",
     "date":  "2023-11-29",
@@ -3432,7 +4913,7 @@ const RECIPES = [
                   "Serve hot with garlic rice and fried eggs. Enjoy!!!!"
               ]
 },
-  {
+{
     "id":  "pancit-bihon",
     "title":  "Pancit Bihon",
     "date":  "2023-11-16",
@@ -3476,7 +4957,7 @@ const RECIPES = [
                   "Serve with slices of lemon or calamansi and sprinkles of fresh green onions. Enjoy!!!"
               ]
 },
-  {
+{
     "id":  "smoked-turkey",
     "title":  "Smoked Turkey",
     "date":  "2023-11-14",
@@ -3518,7 +4999,7 @@ const RECIPES = [
                   "Cook until the breast temperature reaches 165 degrees on the breast and the thighs reaches 175 degrees. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "carne-asada-tacos",
     "title":  "Carne Asada Tacos",
     "date":  "2023-11-07",
@@ -3561,7 +5042,7 @@ const RECIPES = [
                   "Place all in a blender and blend until semi chunky and smooth."
               ]
 },
-  {
+{
     "id":  "steak-fajitas",
     "title":  "Steak Fajitas",
     "date":  "2023-11-02",
@@ -3605,7 +5086,7 @@ const RECIPES = [
                   "Serve with warm tortillas and guacamole."
               ]
 },
-  {
+{
     "id":  "salmon-dynamite",
     "title":  "Salmon Dynamite",
     "date":  "2023-10-24",
@@ -3642,7 +5123,7 @@ const RECIPES = [
                   "Serve with side of steamed rice and enjoy 🤙"
               ]
 },
-  {
+{
     "id":  "garlic-parmesan-reaper-wings",
     "title":  "Garlic Parmesan Reaper Wings",
     "date":  "2023-10-19",
@@ -3674,7 +5155,7 @@ const RECIPES = [
                   "In a large bowl, toss wings with Garlic Parmesan dressing."
               ]
 },
-  {
+{
     "id":  "reaper-beef-jerky",
     "title":  "Reaper Beef Jerky ️",
     "date":  "2023-10-10",
@@ -3705,7 +5186,7 @@ const RECIPES = [
                   "When done, let it cool down for 30 minutes then place in a zip lock back into the refrigerator. 7."
               ]
 },
-  {
+{
     "id":  "grilled-pork-belly-inihaw-na-liempo",
     "title":  "Grilled Pork Belly (Inihaw na Liempo)",
     "date":  "2023-10-06",
@@ -3742,7 +5223,7 @@ const RECIPES = [
                   "1 small red onion, finely diced"
               ]
 },
-  {
+{
     "id":  "picanha-steaks",
     "title":  "Picanha Steaks",
     "date":  "2023-09-24",
@@ -3766,7 +5247,7 @@ const RECIPES = [
                   "Let it rest for 10 minutes before slicing against the grain."
               ]
 },
-  {
+{
     "id":  "chicken-katsu",
     "title":  "Chicken Katsu",
     "date":  "2023-09-21",
@@ -3791,7 +5272,7 @@ const RECIPES = [
                   "1/2 tbsp sugar"
               ]
 },
-  {
+{
     "id":  "buttery-buffalo-air-fried-wings",
     "title":  "Buttery Buffalo Air Fried Wings",
     "date":  "2023-09-12",
@@ -3835,7 +5316,7 @@ const RECIPES = [
                   "Drizzle butter sauce over wings and serve."
               ]
 },
-  {
+{
     "id":  "whiskey-apple-italian-sausage-rolls-with-french-onion-crema",
     "title":  "Whiskey Apple Italian Sausage Rolls with French Onion Crema",
     "date":  "2023-09-08",
@@ -3870,7 +5351,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "smoked-pork-adobo-ribs",
     "title":  "Smoked Pork Adobo Ribs",
     "date":  "2023-09-06",
@@ -3912,7 +5393,7 @@ const RECIPES = [
                   "Serve with garlic rice and side of boiled eggs."
               ]
 },
-  {
+{
     "id":  "pineapple-teriyaki-chicken",
     "title":  "Pineapple Teriyaki Chicken",
     "date":  "2023-08-24",
@@ -3942,7 +5423,7 @@ const RECIPES = [
                   "Serve with steamed rice and Hawaiian Mac salad, drizzle a little more of that sauce too 🤙🏽"
               ]
 },
-  {
+{
     "id":  "pog-citrus-cooler",
     "title":  "POG Citrus Cooler",
     "date":  "2023-08-23",
@@ -3969,7 +5450,7 @@ const RECIPES = [
                   "Combine together and enjoy! 🍻"
               ]
 },
-  {
+{
     "id":  "jalape-o-reaper-ranch-pickles",
     "title":  "Jalapeño Reaper Ranch Pickles",
     "date":  "2023-08-18",
@@ -3996,7 +5477,7 @@ const RECIPES = [
                   "Refrigerate for 48 hours before serving."
               ]
 },
-  {
+{
     "id":  "smoked-beef-ribs",
     "title":  "Smoked Beef Ribs",
     "date":  "2023-08-17",
@@ -4025,7 +5506,7 @@ const RECIPES = [
                   "Let rest for 1-2 hours before serving."
               ]
 },
-  {
+{
     "id":  "grilled-miso-salmon",
     "title":  "Grilled Miso Salmon",
     "date":  "2023-08-07",
@@ -4049,7 +5530,7 @@ const RECIPES = [
                   "When done drizzle more sauce over fillets and serve with rice or salad."
               ]
 },
-  {
+{
     "id":  "filipino-eggplant-omelette",
     "title":  "Filipino Eggplant Omelette",
     "date":  "2023-08-02",
@@ -4075,7 +5556,7 @@ const RECIPES = [
                   "Serve with steamed rice and ketchup."
               ]
 },
-  {
+{
     "id":  "yuzu-bbq-chicken",
     "title":  "Yuzu BBQ Chicken",
     "date":  "2023-08-01",
@@ -4106,7 +5587,7 @@ const RECIPES = [
                   "Serve with steamed rice and a side of Mac salad. 🤙🏽"
               ]
 },
-  {
+{
     "id":  "grilled-filipino-bistek",
     "title":  "Grilled Filipino Bistek",
     "date":  "2023-07-19",
@@ -4142,7 +5623,7 @@ const RECIPES = [
                   "Serve with steamed rice and top with grilled onions."
               ]
 },
-  {
+{
     "id":  "fried-sinigang-wings",
     "title":  "Fried Sinigang Wings",
     "date":  "2023-07-17",
@@ -4175,7 +5656,7 @@ const RECIPES = [
                   "Fry in batches until golden brown."
               ]
 },
-  {
+{
     "id":  "spam-fried-rice",
     "title":  "Spam Fried Rice",
     "date":  "2023-07-12",
@@ -4212,7 +5693,7 @@ const RECIPES = [
                   "Taste and adjust for seasoning."
               ]
 },
-  {
+{
     "id":  "pork-belly-burnt-ends",
     "title":  "Pork Belly Burnt Ends",
     "date":  "2023-07-07",
@@ -4241,7 +5722,7 @@ const RECIPES = [
                   "Allow to cool for 15 minutes and enjoy!"
               ]
 },
-  {
+{
     "id":  "grilled-sinigang-wings",
     "title":  "Grilled Sinigang Wings",
     "date":  "2023-07-05",
@@ -4274,7 +5755,7 @@ const RECIPES = [
                   "Preheat grill to 375 degrees and cook for 45-60 minutes indirect with lid closed, flipping half way through."
               ]
 },
-  {
+{
     "id":  "bacon-wrapped-serrano-chili-s-stuffed-with-cream-cheese-and",
     "title":  "Bacon wrapped Serrano Chili’s stuffed with Cream Cheese and Shrimp.",
     "date":  "2023-06-23",
@@ -4302,7 +5783,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "buttery-whiskey-chipotle-baby-back-ribs",
     "title":  "Buttery Whiskey Chipotle Baby Back Ribs.",
     "date":  "2023-06-12",
@@ -4325,7 +5806,7 @@ const RECIPES = [
                   "Let rest before serving."
               ]
 },
-  {
+{
     "id":  "clam-chowder-has-to-be-one-of-my-favorite-and-my-family-enjo",
     "title":  "Clam chowder has to be one of my favorite and my family enjoyed this one. Here",
     "date":  "2023-06-08",
@@ -4368,7 +5849,7 @@ const RECIPES = [
                   "Season with salt as needed and top with fresh ground pepper."
               ]
 },
-  {
+{
     "id":  "grilled-chipotle-jalape-o-chicken-thighs-came-out",
     "title":  "Grilled Chipotle \u0026 Jalapeño Chicken thighs came out .",
     "date":  "2023-05-26",
@@ -4395,37 +5876,7 @@ const RECIPES = [
                   "Grill over charcoal or wood until IT hits 165."
               ]
 },
-  {
-    "id":  "bone-marrow-shots",
-    "title":  "Bone Marrow Shots!!!!",
-    "date":  "2023-05-19",
-    "category":  "Sides \u0026 Snacks",
-    "image":  "images/recipes/bone-marrow-shots.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Bone Marrow Shots!!!! Scoops of bone marrow in a glass with green onions and lemon juice. So damn good 🤙🏽\n\nIngredients:\n4 split bone marrows\nBoard Night Out White Lightning Seasoning\nGreen onions\nLemon wedges\n\n1. Season bones marrow with seasoning. \n2. Smoke at 300°F for about 40 minutes. \n3. Scoop out marrow and place into a shot glass. \n4. Add green onions and a squeeze of lemon juice. \n5. Serve immediately and enjoy 🍻\n\n@traegergrills\n@boarsnightout \n ————————————————————————\n#btcooks #traeger #traegergrills #instadaily #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilllife #food #foodporn #protein #meatlover #tasty #igfood #easyrecipes #foodie #newrecipe #delicious #foodvideo #foodblogger #foodstagram #bonemarrow #shots #bonemarrowshots #seasoning #beef",
-    "description":  "Bone Marrow Shots!!!!",
-    "intro":  [
-
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "4 split bone marrows",
-                                               "Green onions",
-                                               "Lemon wedges"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Season bones marrow with seasoning.",
-                  "Smoke at 300°F for about 40 minutes.",
-                  "Scoop out marrow and place into a shot glass.",
-                  "Add green onions and a squeeze of lemon juice.",
-                  "Serve immediately and enjoy 🍻"
-              ]
-},
-  {
+{
     "id":  "beef-pad-see-ew-is-one-of-my-favorite-thai-dishes",
     "title":  "Beef Pad See Ew is one of my favorite Thai dishes.",
     "date":  "2023-05-19",
@@ -4472,7 +5923,37 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
+    "id":  "bone-marrow-shots",
+    "title":  "Bone Marrow Shots!!!!",
+    "date":  "2023-05-19",
+    "category":  "Sides \u0026 Snacks",
+    "image":  "images/recipes/bone-marrow-shots.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Bone Marrow Shots!!!! Scoops of bone marrow in a glass with green onions and lemon juice. So damn good 🤙🏽\n\nIngredients:\n4 split bone marrows\nBoard Night Out White Lightning Seasoning\nGreen onions\nLemon wedges\n\n1. Season bones marrow with seasoning. \n2. Smoke at 300°F for about 40 minutes. \n3. Scoop out marrow and place into a shot glass. \n4. Add green onions and a squeeze of lemon juice. \n5. Serve immediately and enjoy 🍻\n\n@traegergrills\n@boarsnightout \n ————————————————————————\n#btcooks #traeger #traegergrills #instadaily #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilllife #food #foodporn #protein #meatlover #tasty #igfood #easyrecipes #foodie #newrecipe #delicious #foodvideo #foodblogger #foodstagram #bonemarrow #shots #bonemarrowshots #seasoning #beef",
+    "description":  "Bone Marrow Shots!!!!",
+    "intro":  [
+
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "4 split bone marrows",
+                                               "Green onions",
+                                               "Lemon wedges"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Season bones marrow with seasoning.",
+                  "Smoke at 300°F for about 40 minutes.",
+                  "Scoop out marrow and place into a shot glass.",
+                  "Add green onions and a squeeze of lemon juice.",
+                  "Serve immediately and enjoy 🍻"
+              ]
+},
+{
     "id":  "aidells-chicken-apple-sausage-sliders-with-pineapple-salsa-d",
     "title":  "Aidells Chicken \u0026 Apple Sausage Sliders with Pineapple salsa, drizzled with",
     "date":  "2023-05-12",
@@ -4491,7 +5972,7 @@ const RECIPES = [
 
               ]
 },
-  {
+{
     "id":  "filipino-pork-bbq-the-marinade-is-packed-with-flavor-and-the",
     "title":  "Filipino Pork BBQ The marinade is packed with flavor and the smokiness brings",
     "date":  "2023-05-09",
@@ -4528,7 +6009,7 @@ const RECIPES = [
                   "Serve with steamed rice and a bowl of soy sauce with a squeeze of lemon juice for dipping."
               ]
 },
-  {
+{
     "id":  "arroz-caldo-is-my-ultimate-comfort-food",
     "title":  "Arroz Caldo is my ultimate comfort food.",
     "date":  "2023-05-06",
@@ -4576,7 +6057,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "pig-shots-were-on-point-last-night",
     "title":  "Pig Shots were on point last night.",
     "date":  "2023-05-04",
@@ -4619,7 +6100,7 @@ const RECIPES = [
                   "Remove from grill and cook for 5-10 before serving."
               ]
 },
-  {
+{
     "id":  "steak-and-chicken-tacos-with-roasted-tomatillo-avocado-salsa",
     "title":  "Steak and Chicken Tacos with Roasted Tomatillo Avocado Salsa, melted Queso",
     "date":  "2023-05-02",
@@ -4653,7 +6134,7 @@ const RECIPES = [
                   "Place all in a blender and blend until semi chunky and smooth."
               ]
 },
-  {
+{
     "id":  "trisket-smoked-tritip-cooked-just-like-a-brisket",
     "title":  "Trisket?!!!! Smoked Tritip cooked just like a Brisket.",
     "date":  "2023-05-01",
@@ -4680,7 +6161,7 @@ const RECIPES = [
                   "Let it rest for about 1 hour before serving."
               ]
 },
-  {
+{
     "id":  "smoked-chicken-thighs-seasoned-with-chipotle-blend-seasoning",
     "title":  "Smoked chicken thighs seasoned with Chipotle Blend Seasoning, Lime, and Cuties",
     "date":  "2023-04-29",
@@ -4713,7 +6194,7 @@ const RECIPES = [
                   "When done, dust some seasoning on top of chicken. Enjoy!"
               ]
 },
-  {
+{
     "id":  "smoked-flap-meat-carne-asada-seasoned-with-spanglish-asadero",
     "title":  "Smoked Flap Meat Carne Asada seasoned with Spanglish Asadero’s Chipotle Blend",
     "date":  "2023-04-26",
@@ -4744,7 +6225,7 @@ const RECIPES = [
                   "Let it rest for 5-10 minutes before serving."
               ]
 },
-  {
+{
     "id":  "smoked-ribs-seasoned-with-honey-bbq-rub-buttery-steakhouse-a",
     "title":  "Smoked ribs, seasoned with Honey BBQ Rub, Buttery Steakhouse, and Weekend at",
     "date":  "2023-04-18",
@@ -4767,7 +6248,7 @@ const RECIPES = [
                   "Let rest before serving."
               ]
 },
-  {
+{
     "id":  "paella-mixta-made-with-a-combination-of-chicken-andouille-sa",
     "title":  "Paella Mixta made with a combination of Chicken, Andouille Sausage, Fish, and",
     "date":  "2023-04-05",
@@ -4822,7 +6303,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "proud-dad-moment-here",
     "title":  "Proud Dad moment here!!!",
     "date":  "2023-04-04",
@@ -4861,7 +6342,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-oxtails-came-out-so-tender",
     "title":  "Smoked Oxtails came out so tender!!!",
     "date":  "2023-04-02",
@@ -4905,7 +6386,7 @@ const RECIPES = [
                   "Place back into smoker and cook for another 2 hours. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "smoked-kalbi-is-one-of-my-favorite",
     "title":  "Smoked Kalbi is one of my favorite!!!",
     "date":  "2023-03-31",
@@ -4934,7 +6415,7 @@ const RECIPES = [
                   "Best served medium/rare or medium. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "smoked-wings-seasoned-with-honey-bbq-rub-and-brushed-with-br",
     "title":  "Smoked Wings seasoned with Honey BBQ Rub and brushed with Brown Sugar BBQ",
     "date":  "2023-03-29",
@@ -4965,7 +6446,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "chuck-roast-burnt-ends-leftover-smoked-chuck-seasoned-and-re",
     "title":  "Chuck roast burnt ends Leftover smoked Chuck, seasoned and reheated with a",
     "date":  "2023-03-27",
@@ -4996,7 +6477,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-chuck-recipe-is-quick-and-easy-and-turns-out-tender-a",
     "title":  "Smoked Chuck recipe is quick and easy and turns out tender and juicy",
     "date":  "2023-03-25",
@@ -5026,7 +6507,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "this-smoked-italian-meatball-garlic-bread-sub-was-money",
     "title":  "This Smoked Italian Meatball Garlic Bread Sub was Money!!!!",
     "date":  "2023-03-20",
@@ -5068,7 +6549,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "corned-beef-nilaga-recipe",
     "title":  "Corned Beef Nilaga Recipe!!!",
     "date":  "2023-03-17",
@@ -5104,7 +6585,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "there-is-just-something-about-thighs-for-more",
     "title":  "There is just something about thighs! for more",
     "date":  "2023-03-14",
@@ -5143,7 +6624,7 @@ const RECIPES = [
                   "Serve with steamed rice and enjoy! ————————————————————————"
               ]
 },
-  {
+{
     "id":  "smoked-ny-steak-fajita-recipe",
     "title":  "Smoked NY Steak Fajita Recipe.",
     "date":  "2023-03-09",
@@ -5188,7 +6669,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-bacon-wrapped-chicken-and-asparagus",
     "title":  "Smoked bacon wrapped chicken and asparagus.",
     "date":  "2023-03-06",
@@ -5226,7 +6707,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-and-seared-shaking-beef-recipe",
     "title":  "Smoked and Seared Shaking Beef recipe.",
     "date":  "2023-03-03",
@@ -5262,7 +6743,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "easy-asian-style-pickled-red-onions-recipe",
     "title":  "Easy Asian style Pickled Red Onions Recipe.",
     "date":  "2023-03-02",
@@ -5289,7 +6770,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-lemon-saffron-chicken-recipe",
     "title":  "Smoked Lemon Saffron Chicken recipe.",
     "date":  "2023-02-24",
@@ -5325,7 +6806,7 @@ const RECIPES = [
                   "Serve with your favorite salad, grilled veggies, and rice. Enjoy 🤙🏽 ————————————————————————"
               ]
 },
-  {
+{
     "id":  "sinigang-smoked-wings-recipe",
     "title":  "Sinigang Smoked Wings Recipe!!!!",
     "date":  "2023-02-06",
@@ -5360,7 +6841,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "easy-shrimp-pasta-recipe-using-gemelli-pasta",
     "title":  "Easy shrimp pasta recipe using Gemelli pasta.",
     "date":  "2023-02-01",
@@ -5400,7 +6881,7 @@ const RECIPES = [
                   "Adjust seasoning as needed. Enjoy!!! 🍻 ————————————————————————"
               ]
 },
-  {
+{
     "id":  "smoked-bbq-wings-seasoned-with-iowa-meats-house-rub-soy-sauc",
     "title":  "Smoked BBQ wings seasoned with Iowa Meats house rub, soy sauce, and fish",
     "date":  "2023-01-29",
@@ -5430,7 +6911,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "this-the-ultimate-comfort-food-called-sinigang-filipino-pork",
     "title":  "This the ultimate comfort food called Sinigang (Filipino Pork Stew).",
     "date":  "2023-01-27",
@@ -5474,7 +6955,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "fried-filipino-pork-adobo",
     "title":  "Fried Filipino Pork Adobo!!!!!",
     "date":  "2023-01-25",
@@ -5514,7 +6995,7 @@ const RECIPES = [
                   "Serve with a side of steamed rice, pouring liquid on top of rice like a gravy. Enjoy!!! ————————————————————————"
               ]
 },
-  {
+{
     "id":  "birria-de-res-recipe-with-smoked-chuck-roast-then-finished-o",
     "title":  "Birria de Res recipe with smoked chuck roast then finished off in the Instant",
     "date":  "2023-01-23",
@@ -5574,7 +7055,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-asian-style-bbq-chicken-thighs-with-fish-sauce",
     "title":  "Smoked Asian style BBQ Chicken Thighs with Fish Sauce",
     "date":  "2023-01-20",
@@ -5616,7 +7097,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "kimchi-spam-fried-rice-is-always-great-any-time-during-the-d",
     "title":  "Kimchi \u0026 Spam fried rice is always great any time during the day.",
     "date":  "2023-01-14",
@@ -5648,7 +7129,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "stuffed-chicken-breast-served-with-roasted-peppers-and-mashe",
     "title":  "Stuffed chicken breast served with roasted peppers and mashed potatoes",
     "date":  "2023-01-12",
@@ -5684,7 +7165,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "marinated-smoked-spatchcock-chicken",
     "title":  "Marinated smoked spatchcock chicken.",
     "date":  "2023-01-02",
@@ -5724,7 +7205,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "spam-fried-rice-with-gochujang-chili-paste",
     "title":  "Spam fried rice with Gochujang chili paste.",
     "date":  "2022-12-24",
@@ -5756,7 +7237,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-torta-recipe-that-is-easy-to-make",
     "title":  "Filipino Torta recipe that is easy to make.",
     "date":  "2022-12-22",
@@ -5797,7 +7278,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "beef-marinade-that-i-use-on-mostly-all-my-beef",
     "title":  "Beef marinade that I use on mostly all my beef.",
     "date":  "2022-12-19",
@@ -5844,7 +7325,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "islander-style-bbq-chicken-thighs-recipe-below",
     "title":  "Islander style bbq chicken thighs. Recipe below",
     "date":  "2022-12-15",
@@ -5875,7 +7356,7 @@ const RECIPES = [
                   "Grill until internal temp hits 165 degrees over charcoal or wood for optimal flavor. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "easy-steak-marinade-that-goes-well-with-any-side",
     "title":  "Easy steak marinade that goes well with any side.",
     "date":  "2022-12-10",
@@ -5910,7 +7391,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "japanese-bbq-is-probably-one-of-my-favorite-style-of-bbq",
     "title":  "Japanese BBQ is probably one of my favorite style of BBQ.",
     "date":  "2022-11-15",
@@ -5948,7 +7429,7 @@ const RECIPES = [
                   "Marinate Flap meat in miso marinade for 2-3 hours. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "this-bang-bang-salmon-recipe-is-probably-one-of-my-new-favor",
     "title":  "This Bang Bang Salmon recipe is probably one of my new favorite salmon dishes.",
     "date":  "2022-10-28",
@@ -5977,7 +7458,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "lechon-lawali-recipe",
     "title":  "Lechon Lawali Recipe!!!",
     "date":  "2022-10-26",
@@ -6017,7 +7498,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "pancit-and-lumpia-cooking-for-the-homies-less-go",
     "title":  "Pancit and Lumpia!!!! Cooking for the homies. Less go",
     "date":  "2022-10-09",
@@ -6063,7 +7544,7 @@ const RECIPES = [
                   "Serve with slices of lemon or calamansi and sprinkles of fresh green onions. Enjoy!!! ————————————————————————"
               ]
 },
-  {
+{
     "id":  "filipino-chicken-tinola",
     "title":  "Filipino Chicken Tinola.",
     "date":  "2022-10-03",
@@ -6105,7 +7586,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "my-grandmas-filipino-chicken-adobo-recipe",
     "title":  "My Grandmas Filipino Chicken Adobo recipe.",
     "date":  "2022-10-01",
@@ -6149,7 +7630,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "gojuchang-pasta-sauce-and-pan-seared-shrimp",
     "title":  "Gojuchang pasta sauce and pan seared shrimp.",
     "date":  "2022-09-11",
@@ -6186,7 +7667,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "homemade-apple-sauce-cooked-in-the-instantpot",
     "title":  "Homemade Apple sauce cooked in the InstantPot.",
     "date":  "2022-09-07",
@@ -6223,7 +7704,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "what-do-you-know-about-that-korean-style-sesame-broccoli",
     "title":  "What do you know about that Korean style sesame broccoli",
     "date":  "2022-08-29",
@@ -6258,7 +7739,7 @@ const RECIPES = [
                   "#yummy #foodporn #quickmeals #recipes #fresh #tasty #delicious #eating #foodpics #hungry #foodgasm #homemadechef #homecooking #homecooks #sd #sdcook #btcooks #foodlover #easyrecipe #easyrecipes #koreanbbq #sesamebroccoli #broccoli #appetizer #veggies #fresh #greens"
               ]
 },
-  {
+{
     "id":  "bacon-wrapped-serrano-peppers",
     "title":  "Bacon wrapped Serrano peppers.",
     "date":  "2022-08-22",
@@ -6290,7 +7771,7 @@ const RECIPES = [
                   "Smoke for 30 minutes then grill at high heat or 375 for another 30 minutes. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "filipino-chicken-noodle-soup-sopas",
     "title":  "Filipino Chicken Noodle Soup (Sopas).",
     "date":  "2022-07-25",
@@ -6338,7 +7819,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "one-of-my-favorite-world-comfort-foods-called-chicken-adobo",
     "title":  "One of my favorite world comfort foods called Chicken Adobo.",
     "date":  "2022-07-10",
@@ -6377,7 +7858,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "need-a-summer-dish",
     "title":  "Need a Summer Dish?!!",
     "date":  "2022-07-06",
@@ -6417,7 +7898,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-sisig-is-a-savory-spicy-and-sour-appetizer-or-main",
     "title":  "Filipino Sisig is a savory, spicy, and sour appetizer or main dish.",
     "date":  "2022-06-27",
@@ -6461,7 +7942,7 @@ const RECIPES = [
                   "Toss together and serve immediately ————————————————————————"
               ]
 },
-  {
+{
     "id":  "beef-asado-is-a-popular-filipino-beef-dish-similar-to-beef-s",
     "title":  "Beef asado is a popular Filipino beef dish similar to beef stew.",
     "date":  "2022-06-15",
@@ -6503,7 +7984,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "marinated-rib-eye-steak",
     "title":  "Marinated rib eye steak.",
     "date":  "2022-06-07",
@@ -6536,7 +8017,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "islander-bbq-chicken-and-ribs",
     "title":  "Islander BBQ Chicken and Ribs.",
     "date":  "2022-06-03",
@@ -6567,7 +8048,7 @@ const RECIPES = [
                   "Grill over charcoal or wood for optimal flavor. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "poisson-cru-is-one-of-my-favorite-dishes-that-i-had-in-tahit",
     "title":  "Poisson Cru is one of my favorite dishes that I had in Tahiti Mo’orea.",
     "date":  "2022-05-28",
@@ -6600,7 +8081,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "spaghetti-all-amatriciana-for-dinner",
     "title":  "Spaghetti all’Amatriciana for dinner",
     "date":  "2022-04-19",
@@ -6633,7 +8114,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "chicken-lettuce-wraps-recipe-that-can-be-made-as-a-snack-or",
     "title":  "Chicken lettuce wraps recipe that can be made as a snack or meal",
     "date":  "2022-04-15",
@@ -6698,7 +8179,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "bo-luc-lac-shaking-beef-is-one-of-my-my-favorite-dishes-that",
     "title":  "Bo Luc Lac (Shaking Beef) is one of my my favorite dishes that is easy to",
     "date":  "2022-04-05",
@@ -6726,7 +8207,7 @@ const RECIPES = [
                   "Serve with steamed rice. 🍻 ————————————————————————"
               ]
 },
-  {
+{
     "id":  "filipino-pancit-bihon",
     "title":  "Filipino Pancit Bihon.",
     "date":  "2022-03-31",
@@ -6775,7 +8256,7 @@ const RECIPES = [
                   "Serve with slices of lemon or calamansi and sprinkles of fresh green onions. Enjoy!!! ————————————————————————"
               ]
 },
-  {
+{
     "id":  "filipino-pork-bbq-the-marinade-is-packed-with-flavor-and-the-2",
     "title":  "Filipino Pork BBQ The marinade is packed with flavor and the smokiness from",
     "date":  "2022-03-24",
@@ -6812,7 +8293,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "this-miso-glazed-cod-salmon-recipe-has-so-much-flavor",
     "title":  "This Miso Glazed Cod \u0026 Salmon recipe has so much flavor.",
     "date":  "2022-03-21",
@@ -6851,7 +8332,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "easy-mushroom-risotto-recipe",
     "title":  "Easy Mushroom Risotto Recipe",
     "date":  "2022-03-11",
@@ -6894,7 +8375,7 @@ const RECIPES = [
                   "Serve immediately with your favorite protein. Enjoy 🍻"
               ]
 },
-  {
+{
     "id":  "beef-with-broccoli-recipe-below-that-the-entire-family-loves",
     "title":  "Beef with Broccoli recipe below that the entire family loves.",
     "date":  "2022-03-04",
@@ -6956,7 +8437,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-beef-steak-cuts-of-chuck-steaks-braised-with-calama",
     "title":  "Filipino Beef Steak, cuts of chuck steaks braised with calamansi or lemons,",
     "date":  "2022-03-03",
@@ -6998,7 +8479,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "birria-and-ramen-shredded-beef-with-ramen-noodles-in-a-savor",
     "title":  "Birria and Ramen, shredded beef with ramen noodles in a savory and comforting",
     "date":  "2022-03-01",
@@ -7057,7 +8538,7 @@ const RECIPES = [
                   "Serve in a medium bowl with Ramen noodles, hard boiled eggs, diced onions, chopped cilantro, and lime. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "cellentani-all-amatriciana-recipe",
     "title":  "Cellentani all’Amatriciana Recipe",
     "date":  "2022-02-23",
@@ -7090,7 +8571,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "air-fried-chickpeas-with-a-ginger-and-garlic-dressing-that-c",
     "title":  "Air fried chickpeas with a ginger and garlic dressing that can be used on any",
     "date":  "2022-02-21",
@@ -7132,7 +8613,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "i-had-many-people-hit-me-up-for-the-recipe-on-the-shrimp-cev",
     "title":  "I had many people hit me up for the recipe on the shrimp ceviche that I made",
     "date":  "2022-02-15",
@@ -7177,7 +8658,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-vietnamese-lumpia-s",
     "title":  "Filipino/Vietnamese Lumpia’s!!!!",
     "date":  "2022-02-11",
@@ -7217,7 +8698,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "sukhisindian-sukhi-s-chicken-tikka-masala-from-costco-was-a",
     "title":  "@sukhisindian Sukhi’s Chicken Tikka Masala from @costco was a quick meal to",
     "date":  "2022-02-06",
@@ -7270,7 +8751,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "easy-open-faced-prosciutto-and-egg-sandwich",
     "title":  "Easy Open-Faced Prosciutto and Egg Sandwich.",
     "date":  "2022-02-01",
@@ -7308,7 +8789,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "fresh-spring-rolls-with-salmon-mixed-greens-jalape-os-green",
     "title":  "Fresh spring rolls with salmon, mixed greens, jalapeños, green onions,",
     "date":  "2022-01-31",
@@ -7358,7 +8839,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "chicken-piccata-w-mushroom-risotto",
     "title":  "Chicken Piccata w/ Mushroom Risotto.",
     "date":  "2022-01-26",
@@ -7419,7 +8900,7 @@ const RECIPES = [
                   "Serve immediately with chicken piccata. Enjoy 🍻"
               ]
 },
-  {
+{
     "id":  "filipino-menudo-pork-stew-made-with-fresh-tomatoes-green-pea",
     "title":  "Filipino Menudo, pork stew made with fresh tomatoes, green peas, carrots, and",
     "date":  "2022-01-25",
@@ -7465,7 +8946,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "this-arroz-caldo-filipino-porridge-recipe-is-the-perfect-com",
     "title":  "This Arroz Caldo (Filipino Porridge) recipe is the perfect comfort dish. It is",
     "date":  "2022-01-20",
@@ -7513,7 +8994,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "simple-eggplant-parmigiana-dish",
     "title":  "Simple Eggplant Parmigiana dish.",
     "date":  "2022-01-18",
@@ -7553,7 +9034,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "chinese-chicken-and-broccoli",
     "title":  "Chinese Chicken and Broccoli.",
     "date":  "2022-01-08",
@@ -7605,7 +9086,7 @@ const RECIPES = [
                   "Serve with steamed rice. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "pan-seared-tilapia-loins-seasoned-with-traeger-s-summer-shan",
     "title":  "Pan seared Tilapia Loins, seasoned with Traeger’s Summer Shandy rub and topped",
     "date":  "2022-01-03",
@@ -7642,7 +9123,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-spaghetti-that-is-sweet-and-savory",
     "title":  "Filipino Spaghetti that is sweet and savory.",
     "date":  "2022-01-01",
@@ -7686,7 +9167,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-roasted-lechon-recipe-using-a-salt-crust-to-fry-and",
     "title":  "Filipino roasted Lechon recipe using a salt crust to fry and crisp the skin.",
     "date":  "2021-12-23",
@@ -7728,7 +9209,7 @@ const RECIPES = [
                   "Rest for a couple minutes and serve with Mang Tomas or Sawsawan (Soy Sauce/Vinegar sauce) ————————————————————————"
               ]
 },
-  {
+{
     "id":  "smoked-ribs-bacon-wrapped-asparagus-w-chicken-and-bacon-wrap",
     "title":  "Smoked Ribs, bacon wrapped asparagus w/ chicken, and bacon wrapped chicken all",
     "date":  "2021-12-13",
@@ -7757,7 +9238,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "bucatini-carbonara-combining-pancetta-or-guanciale-cured-por",
     "title":  "Bucatini Carbonara, combining pancetta or guanciale (cured pork jowl), egg",
     "date":  "2021-12-08",
@@ -7788,7 +9269,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "when-you-have-that-craving-for-some-hawaiian-shrimp-scampi",
     "title":  "When you have that craving for some Hawaiian Shrimp Scampi.",
     "date":  "2021-11-21",
@@ -7827,7 +9308,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "larb-thai-minced-pork-salad",
     "title":  "Larb (Thai minced pork salad).",
     "date":  "2021-11-17",
@@ -7881,7 +9362,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-islander-pork-bbq",
     "title":  "Filipino Islander Pork BBQ.",
     "date":  "2021-11-13",
@@ -7918,7 +9399,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "vietnamese-chicken-pho-soup",
     "title":  "Vietnamese Chicken Pho soup.",
     "date":  "2021-11-09",
@@ -7966,7 +9447,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-chicken-thighs-and-drumsticks-marinated-in-an-asian-m",
     "title":  "Smoked chicken thighs and drumsticks, marinated in an Asian marinade.",
     "date":  "2021-11-03",
@@ -8006,7 +9487,7 @@ const RECIPES = [
                   "Serve with steamed rice and enjoy! ————————————————————————"
               ]
 },
-  {
+{
     "id":  "mapo-tufo-w-steamed-broccolini-over-rice",
     "title":  "Mapo Tufo w/ steamed broccolini over rice.",
     "date":  "2021-10-25",
@@ -8060,7 +9541,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "birria-tacos-are",
     "title":  "Birria Tacos are .",
     "date":  "2021-10-23",
@@ -8107,7 +9588,7 @@ const RECIPES = [
                   "Serve with diced onions, chopped cilantro, guacamole, and tortillas. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "greek-chicken-wraps-and-koobideh-w-basmati-rice",
     "title":  "Greek Chicken Wraps and Koobideh w/ Basmati Rice.",
     "date":  "2021-10-21",
@@ -8146,7 +9627,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "filipino-pork-adobo-a-classic-dish-in-the-philippines",
     "title":  "Filipino Pork Adobo a classic dish in the Philippines.",
     "date":  "2021-10-12",
@@ -8190,7 +9671,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "soy-sauce-pan-fried-noodles-w-chicken",
     "title":  "Soy Sauce Pan Fried Noodles w/ Chicken",
     "date":  "2021-10-11",
@@ -8245,7 +9726,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-wings-for-dinner",
     "title":  "Smoked wings for dinner!!!",
     "date":  "2021-10-10",
@@ -8275,7 +9756,7 @@ const RECIPES = [
                   "Pull off grill and rest for 5 minutes. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "smoked-filipino-pork-bbq-pork-inihaw-na-baboy",
     "title":  "Smoked Filipino Pork BBQ (Pork Inihaw na Baboy).",
     "date":  "2021-10-07",
@@ -8312,7 +9793,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "instant-pot-vietnamese-pork-and-noodle-soup-h-ti-u-m",
     "title":  "Instant Pot Vietnamese Pork and Noodle Soup (Hủ Tiếu Mì).",
     "date":  "2021-10-05",
@@ -8354,7 +9835,7 @@ const RECIPES = [
                   "Add fried garlic, bean sprouts, eggs, cilantro, lotus root, and green onions. ————————————————————————"
               ]
 },
-  {
+{
     "id":  "one-of-my-favorite-filipino-comfort-food-called-sinigang",
     "title":  "One of my favorite Filipino comfort food called Sinigang.",
     "date":  "2021-09-30",
@@ -8399,7 +9880,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "smoked-asian-style-bbq-chicken-thighs",
     "title":  "Smoked Asian style BBQ Chicken Thighs.",
     "date":  "2021-09-28",
@@ -8439,45 +9920,7 @@ const RECIPES = [
                   "Serve with steamed rice and enjoy! ————————————————————————"
               ]
 },
-  {
-    "id":  "loaded-potato-salad",
-    "title":  "Loaded Potato Salad.",
-    "date":  "2021-09-28",
-    "category":  "Sides \u0026 Snacks",
-    "image":  "images/recipes/loaded-potato-salad.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Loaded Potato Salad. Baked Potato in a bowl loaded with bacon, cheese, and green onions in a sour cream and mayo dressing.\n \nIngredients \u0026 Recipe\n4 pounds russet potatoes\n1 stick of unsalted butter, melted\n2 tbsp apple cider vinegar\n1 cup mayonnaise\n1 cup sour cream\n1 tsp salt\n1 tsp fresh ground black pepper\n1 packet of bacon , cooked, cooled and chopped\n6 green onions, chopped\n1 1/2 cups shredded cheddar cheese\n\n1. Place the potatoes into a large pot and boil over high heat, then reduce heat to medium, and cook for about 15 minutes until soft. \n2. Remove the potatoes, and allow to cool. Once cooked, dice up potatoes into big chunks. \n3. Place the diced potatoes into a bowl with the bacon, and mix in the sour cream, mayonnaise, butter, Cheddar cheese, green onions, vinegar, salt, and pepper. Save some shredded cheese and green onions to use as garnish. \n4. Garnish salad with reserved green onions and shredded cheese. \n5. Refrigerate overnight before serving.\n\n ————————————————————————\n#yummy #instagood #foodporn #sweet #fresh #tasty #delish #delicious #eating #foodpics #hungry #foodgasm #backyardgrilling #bbq #smoked #homemadechef #homecooking #homecooks #sd #sdcook #btcooks #foodlover #easyrecipe #easyrecipes #potatosalad #loadedpotatosalad #comfortfood #bakedpotato #grilling #lowandslow",
-    "description":  "Loaded Potato Salad.",
-    "intro":  [
-
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "4 pounds russet potatoes",
-                                               "1 stick of unsalted butter, melted",
-                                               "2 tbsp apple cider vinegar",
-                                               "1 cup mayonnaise",
-                                               "1 cup sour cream",
-                                               "1 tsp salt",
-                                               "1 tsp fresh ground black pepper",
-                                               "1 packet of bacon , cooked, cooled and chopped",
-                                               "6 green onions, chopped",
-                                               "1 1/2 cups shredded cheddar cheese"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Place the potatoes into a large pot and boil over high heat, then reduce heat to medium, and cook for about 15 minutes until soft.",
-                  "Remove the potatoes, and allow to cool. Once cooked, dice up potatoes into big chunks.",
-                  "Place the diced potatoes into a bowl with the bacon, and mix in the sour cream, mayonnaise, butter, Cheddar cheese, green onions, vinegar, salt, and pepper. Save some shredded cheese and green onions to use as garnish.",
-                  "Garnish salad with reserved green onions and shredded cheese.",
-                  "Refrigerate overnight before serving.",
-                  ""
-              ]
-},
-  {
+{
     "id":  "bowl-of-chili-filled-with-italian-sausage-ground-beef-and-ve",
     "title":  "Bowl of chili filled with Italian sausage, ground beef, and veggies",
     "date":  "2021-09-28",
@@ -8526,7 +9969,45 @@ const RECIPES = [
                   "Serve hot, topping off with shredded cheese and green onions. ————————————————————————"
               ]
 },
-  {
+{
+    "id":  "loaded-potato-salad",
+    "title":  "Loaded Potato Salad.",
+    "date":  "2021-09-28",
+    "category":  "Sides \u0026 Snacks",
+    "image":  "images/recipes/loaded-potato-salad.jpg",
+    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
+    "caption":  "Loaded Potato Salad. Baked Potato in a bowl loaded with bacon, cheese, and green onions in a sour cream and mayo dressing.\n \nIngredients \u0026 Recipe\n4 pounds russet potatoes\n1 stick of unsalted butter, melted\n2 tbsp apple cider vinegar\n1 cup mayonnaise\n1 cup sour cream\n1 tsp salt\n1 tsp fresh ground black pepper\n1 packet of bacon , cooked, cooled and chopped\n6 green onions, chopped\n1 1/2 cups shredded cheddar cheese\n\n1. Place the potatoes into a large pot and boil over high heat, then reduce heat to medium, and cook for about 15 minutes until soft. \n2. Remove the potatoes, and allow to cool. Once cooked, dice up potatoes into big chunks. \n3. Place the diced potatoes into a bowl with the bacon, and mix in the sour cream, mayonnaise, butter, Cheddar cheese, green onions, vinegar, salt, and pepper. Save some shredded cheese and green onions to use as garnish. \n4. Garnish salad with reserved green onions and shredded cheese. \n5. Refrigerate overnight before serving.\n\n ————————————————————————\n#yummy #instagood #foodporn #sweet #fresh #tasty #delish #delicious #eating #foodpics #hungry #foodgasm #backyardgrilling #bbq #smoked #homemadechef #homecooking #homecooks #sd #sdcook #btcooks #foodlover #easyrecipe #easyrecipes #potatosalad #loadedpotatosalad #comfortfood #bakedpotato #grilling #lowandslow",
+    "description":  "Loaded Potato Salad.",
+    "intro":  [
+
+              ],
+    "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "4 pounds russet potatoes",
+                                               "1 stick of unsalted butter, melted",
+                                               "2 tbsp apple cider vinegar",
+                                               "1 cup mayonnaise",
+                                               "1 cup sour cream",
+                                               "1 tsp salt",
+                                               "1 tsp fresh ground black pepper",
+                                               "1 packet of bacon , cooked, cooled and chopped",
+                                               "6 green onions, chopped",
+                                               "1 1/2 cups shredded cheddar cheese"
+                                           ]
+                             }
+                         ],
+    "steps":  [
+                  "Place the potatoes into a large pot and boil over high heat, then reduce heat to medium, and cook for about 15 minutes until soft.",
+                  "Remove the potatoes, and allow to cool. Once cooked, dice up potatoes into big chunks.",
+                  "Place the diced potatoes into a bowl with the bacon, and mix in the sour cream, mayonnaise, butter, Cheddar cheese, green onions, vinegar, salt, and pepper. Save some shredded cheese and green onions to use as garnish.",
+                  "Garnish salad with reserved green onions and shredded cheese.",
+                  "Refrigerate overnight before serving.",
+                  ""
+              ]
+},
+{
     "id":  "sometimes-cooking-a-brisket-could-take-a-lot-of-time-and-wor",
     "title":  "Sometimes cooking a brisket could take a lot of time and work.",
     "date":  "2021-09-27",
@@ -8560,7 +10041,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "jangjorim-bibimbap-a-popular-korean-side-dish-that-consists",
     "title":  "Jangjorim Bibimbap, a popular Korean side dish that consists of meat that has",
     "date":  "2021-09-23",
@@ -8611,7 +10092,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "beef-pad-see-ew-thai-stir-fried-noodles-a-popular-thai-dish",
     "title":  "Beef Pad See Ew (Thai Stir Fried Noodles), a popular Thai dish served with",
     "date":  "2021-09-16",
@@ -8655,7 +10136,7 @@ const RECIPES = [
                   "Sprinkle fresh cilantro (optional) and serve! ————————————————————————"
               ]
 },
-  {
+{
     "id":  "chicken-katsudon-and-katsu",
     "title":  "Chicken Katsudon and Katsu.",
     "date":  "2021-09-15",
@@ -8705,7 +10186,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "spam-kimchi-fried-rice",
     "title":  "Spam \u0026 Kimchi Fried Rice.",
     "date":  "2021-09-11",
@@ -8750,7 +10231,7 @@ const RECIPES = [
                   ""
               ]
 },
-  {
+{
     "id":  "dr-pepper-jalape-o-beef-jerky",
     "title":  "Dr. Pepper Jalapeño Beef Jerky.",
     "date":  "2021-09-09",
@@ -8784,7 +10265,7 @@ const RECIPES = [
                   "Store in refrigerator and enjoy!!!————————————————————————"
               ]
 },
-  {
+{
     "id":  "air-fryer-buffalo-chicken-wings",
     "title":  "Air Fryer Buffalo Chicken Wings.",
     "date":  "2021-09-04",
@@ -8806,1486 +10287,6 @@ const RECIPES = [
                   "Melt butter in a sauce pan and add about hot sauce. Adjust more or less to liking.",
                   "Toss wings with hot sauce and serve with a side of ranch dressing (optional)",
                   ""
-              ]
-},
-  {
-    "id":  "bbq-chicken-tocino",
-    "title":  "BBQ Chicken Tocino",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/bbq-chicken-tocino.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "BBQ Chicken Tocino 🇵🇭🍗\n\nThis is a twist to the classic Filipino Tocino that is usually cooked with thin slices of marinated pork, pan fried and served with garlic rice. 🍻🤙🏽\n\nAll ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!! \n\nMarinade:\n3-4 lbs chicken thighs, boneless, skinless\n1/2 tbsp salt\n1 tbsp garlic powder\n1/2 tbsp chicken bouillon powder\n1 tbsp paprika\n1 tsp white pepper or ground black pepper\n1/2 cup brown sugar\n1/4 cup banana ketchup\n1 cup pineapple juice\n1 tbsp avocado oil\n\n1. In a bowl, add all the ingredients together and mix well. \n2. Add chicken into marinade, and refrigerate for 4-6 hours, preferably overnight. \n3. Set smoker to 225 and smoke for 30 minutes. \n4. Increase temp to 450 and cook for 30 minutes flipping half way through. \n5. Serve hot with a side of rice and grilled veggies. Enjoy!!!! \n\n————————————————————————\n#btcooks #outdoorcooking #food #easyrecipes #recipes #easyrecipes #filipinofood #grilledchicken #pinoyfood #marinaderecipe #chickenmarinade #tocino #chickentocino #marinatedmeat",
-    "description":  "This is a twist to the classic Filipino Tocino that is usually cooked with thin slices of marinated pork, pan fried and served",
-    "intro":  [
-                  "This is a twist to the classic Filipino Tocino that is usually cooked with thin slices of marinated pork, pan fried and served with garlic rice. 🍻🤙🏽 All ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!!"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "3-4 lbs chicken thighs, boneless, skinless",
-                                               "1/2 tbsp salt",
-                                               "1 tbsp garlic powder",
-                                               "1/2 tbsp chicken bouillon powder",
-                                               "1 tbsp paprika",
-                                               "1 tsp white pepper or ground black pepper",
-                                               "1/2 cup brown sugar",
-                                               "1/4 cup banana ketchup",
-                                               "1 cup pineapple juice",
-                                               "1 tbsp avocado oil"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "In a bowl, add all the ingredients together and mix well.",
-                  "Add chicken into marinade, and refrigerate for 4-6 hours, preferably overnight.",
-                  "Set smoker to 225 and smoke for 30 minutes.",
-                  "Increase temp to 450 and cook for 30 minutes flipping half way through.",
-                  "Serve hot with a side of rice and grilled veggies. Enjoy!!!!",
-                  ""
-              ]
-},
-  {
-    "id":  "bacon-wrapped-jalapeno-poppers",
-    "title":  "Bacon Wrapped Jalapeno Poppers ️",
-    "date":  null,
-    "category":  "Pork",
-    "image":  "images/recipes/bacon-wrapped-jalapeno-poppers.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Bacon Wrapped Jalapeno Poppers 🌶️🥓\n\nBacon wrapped Jalapeno’s poppers, inspired by @tfti.bbq . These may not be Texas twinkies, but they were so damn good. Jalapeños stuffed with left over smoked tritip, cream cheese, cheddar cheese, and seasoned with @blazingstarbbq Pork n Rub. \n\nIngredients \u0026 Recipe\n1 lb Jalapeno peppers, cut in half and cored\nSmoked tritip or any left over bbq meat\n1 8oz block Cream Cheese, room temp\n1 package Bacon\n1/2 cup Cheddar or Pepper Jack shredded cheese\nFavorite pork rub \nFavorite bbq sauce\n\n1. Combine meat, cream cheese, shredded cheese, and green onions in a bowl and mix well. \n2. Spoon in a generous layer of cheese mixture inside pepper. \n3. Wrap pepper with bacon. \n4. Lightly season with rub. \n5. Smoke indirect at 250° for 1 hour and 30 minutes. \n6. Lather your favorite bbq sauce on top and cook for another 5-10 minutes. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #popper #jalapenopoppers #bacon ##bbqsauce #tritip #teamred #Kamadojoe #appetizer",
-    "description":  "Bacon wrapped Jalapeno’s poppers, inspired by @tfti.bbq . These may not be Texas twinkies, but they were so damn good. Jalapeños",
-    "intro":  [
-                  "Bacon wrapped Jalapeno’s poppers, inspired by @tfti.bbq . These may not be Texas twinkies, but they were so damn good. Jalapeños stuffed with left over smoked tritip, cream cheese, cheddar cheese, and seasoned with @blazingstarbbq Pork n Rub."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 lb Jalapeno peppers, cut in half and cored",
-                                               "Smoked tritip or any left over bbq meat",
-                                               "1 8oz block Cream Cheese, room temp",
-                                               "1 package Bacon",
-                                               "1/2 cup Cheddar or Pepper Jack shredded cheese"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine meat, cream cheese, shredded cheese, and green onions in a bowl and mix well.",
-                  "Spoon in a generous layer of cheese mixture inside pepper.",
-                  "Wrap pepper with bacon.",
-                  "Lightly season with rub.",
-                  "Smoke indirect at 250° for 1 hour and 30 minutes.",
-                  "Lather your favorite bbq sauce on top and cook for another 5-10 minutes."
-              ]
-},
-  {
-    "id":  "asian-bang-chicken-wings",
-    "title":  "Asian Bang Chicken Wings",
-    "date":  null,
-    "category":  "Wings",
-    "image":  "images/recipes/asian-bang-chicken-wings.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Asian Bang Chicken Wings 🔥🪽\n\nAsian Style marinated chicken wings 🍻. Perfectly paired with steamed rice and your favorite veggies. \n\nVacuum sealed in my VacMaster VP95 to add that extra flavor. \n\nIngredients:\n3-4 lbs party wings\n1/4 cup @blazingstarbbq Asian Bang Sauce\n1/2 cup low sodium soy sauce\n1/4 cup Oyster sauce\n1/2 cup Banana Ketchup\n1/2 bottle of Beer (I used Modelo)\n1/2 lemon, juiced\n1 head garlic, crushed\n2 tsp chicken bouillon \n1/2 cup brown sugar\n1/2 tsp ground black pepper\n\n1. Combine all ingredients, but separate 1/4 cup of marinade on the side for basting. \n2. Add marinade to chicken and refrigerate for at least 4-6 hours, preferably overnight. \n3. Set grill for indirect grilling at 400 degrees. \n4. Grill wings for 30-45 minutes flipping half way through. \n5. Baste wings throughout cook. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Asian Bang Sauce\n🗃️ @vacmasterfresh VP95 Vacuum Chamber\n\n ————————————————————————\n#btcooks #instadaily #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #igfood #easyrecipes #delicious #foodvideo #recipes #foodreels #reelfood #reelsinstagram #bbqwings #asianbbq #asianfood #wings",
-    "description":  "Asian Style marinated chicken wings 🍻. Perfectly paired with steamed rice and your favorite veggies. Vacuum sealed in my",
-    "intro":  [
-                  "Asian Style marinated chicken wings 🍻. Perfectly paired with steamed rice and your favorite veggies. Vacuum sealed in my VacMaster VP95 to add that extra flavor."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "3-4 lbs party wings",
-                                               "1/4 cup @blazingstarbbq Asian Bang Sauce",
-                                               "1/2 cup low sodium soy sauce",
-                                               "1/4 cup Oyster sauce",
-                                               "1/2 cup Banana Ketchup",
-                                               "1/2 bottle of Beer (I used Modelo)",
-                                               "1/2 lemon, juiced",
-                                               "1 head garlic, crushed",
-                                               "2 tsp chicken bouillon",
-                                               "1/2 cup brown sugar",
-                                               "1/2 tsp ground black pepper"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all ingredients, but separate 1/4 cup of marinade on the side for basting.",
-                  "Add marinade to chicken and refrigerate for at least 4-6 hours, preferably overnight.",
-                  "Set grill for indirect grilling at 400 degrees.",
-                  "Grill wings for 30-45 minutes flipping half way through.",
-                  "Baste wings throughout cook."
-              ]
-},
-  {
-    "id":  "grilled-shrimp-tacos",
-    "title":  "Grilled Shrimp Tacos",
-    "date":  null,
-    "category":  "Seafood",
-    "image":  "images/recipes/grilled-shrimp-tacos.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Grilled Shrimp Tacos 🌮 \n\nQuick and easy shrimp tacos grilled over charcoal and served on warm corn tortillas, topped off with cabbage, avocados, cilantro, and crema. \n\n2-3 pounds of shrimp, peeled and deveined\n@blazingstarbbq All in One Seasoning\nCorn Tortillas\nRed cabbage, sliced thin\nAvocados, sliced\nCilantro\n\nChipotle Crema\n1 cup Mexican Crema or Sour Cream\n1/2 cup Mayonnaise \n2 tbsp Chipotle paste\n1 tbsp Smoked Paprika\n1 lime, juiced\n2 tsp salt\n\n🔥 @nomadgrills Portable Grill\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n\n#btcooks #homecooking #shrimp #tacos #shrimptacos #chipotle #fusion #bbq #baja #mexicanfood #nomadgrills",
-    "description":  "Quick and easy shrimp tacos grilled over charcoal and served on warm corn tortillas, topped off with cabbage, avocados,",
-    "intro":  [
-                  "Quick and easy shrimp tacos grilled over charcoal and served on warm corn tortillas, topped off with cabbage, avocados, cilantro, and crema. 2-3 pounds of shrimp, peeled and deveined @blazingstarbbq All in One Seasoning Corn Tortillas Red cabbage, sliced thin Avocados, sliced Cilantro Chipotle Crema"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1/2 cup Mayonnaise",
-                                               "2 tbsp Chipotle paste",
-                                               "1 tbsp Smoked Paprika",
-                                               "1 lime, juiced",
-                                               "2 tsp salt"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-
-              ]
-},
-  {
-    "id":  "lemongrass-chicken-thighs",
-    "title":  "Lemongrass Chicken Thighs",
-    "date":  null,
-    "category":  "Poultry",
-    "image":  "images/recipes/lemongrass-chicken-thighs.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Lemongrass Chicken Thighs 🍗\n\nFinally a break in the rain and quickly grilled up some of my favorite chicken thighs. Packed with so much flavor! Serve with a side of steamed rice and your favorite veggies. You gotta try this 🍻\n\nI picked up all these ingredients from our friends at @islandpacificmarket \n\n2-3 Ibs Boneless skinless chicken thighs\n4 tbsp Fish sauce\n2 tbsp Oyster Sauce\n2 tbsp Light soy sauce\n2 tbsp Banana Ketchup \n1/2 bottle of Beer (I used Modelo)\n4 Garlic cloves, minced\n3 stalks Green Onion, chopped\n4-5 stalks Lemon Grass, finely minced\n1 tbsp Sesame Oil\n3 tbsp Sugar\n1/4 cup Pineapple juice\n2 tsp Ground pepper\n\n1. Mix all ingredients together.\n2. Marinate for 2-3 hrs. or overnight in the refrigerator. \n3. Preheat the grill using lump charcoal and setup for direct grilling.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoak Lump Charcoal\n ————————————————————————\n#btcooks #chickenbbq #filipinobbq #vietnamesebbq #marinade #chicken #thighs #chickenthighs #filipinofood #vietnamesefood #islanderfood #asianfood #asianfusion #asianbbq #islanderbbq",
-    "description":  "Finally a break in the rain and quickly grilled up some of my favorite chicken thighs. Packed with so much flavor! Serve with a",
-    "intro":  [
-                  "Finally a break in the rain and quickly grilled up some of my favorite chicken thighs. Packed with so much flavor! Serve with a side of steamed rice and your favorite veggies. You gotta try this 🍻 I picked up all these ingredients from our friends at @islandpacificmarket 2-3 Ibs Boneless skinless chicken thighs"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 tbsp Oyster Sauce",
-                                               "2 tbsp Light soy sauce",
-                                               "2 tbsp Banana Ketchup",
-                                               "1/2 bottle of Beer (I used Modelo)",
-                                               "4 Garlic cloves, minced",
-                                               "3 stalks Green Onion, chopped",
-                                               "4-5 stalks Lemon Grass, finely minced",
-                                               "1 tbsp Sesame Oil",
-                                               "3 tbsp Sugar",
-                                               "1/4 cup Pineapple juice",
-                                               "2 tsp Ground pepper"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Mix all ingredients together.",
-                  "Marinate for 2-3 hrs. or overnight in the refrigerator.",
-                  "Preheat the grill using lump charcoal and setup for direct grilling."
-              ]
-},
-  {
-    "id":  "spaghetti-all-amatriciana",
-    "title":  "Spaghetti all’Amatriciana",
-    "date":  null,
-    "category":  "Pasta \u0026 Noodles",
-    "image":  "images/recipes/spaghetti-all-amatriciana.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Spaghetti all’Amatriciana 🍝\n\nJust a simple pasta dish with red onions and bite size pieces of Pancetta makes this so good! 🍻🤙🏽\n\nIngredients \u0026 Recipe\n1 packet of Spaghetti, cooked based on instructions \n4 ounces Pancetta, diced\n½ cup freshly-grated Pecorino Romano\n1 14oz canned San Marzano tomatoes\n¼ cup tomato paste\n1 medium red onion, cut lengthwise into small slices\n4 Garlic cloves, minced on\n1/3 cup chopped fresh Italian parsley\n¼ cup extra virgin olive oil\n2 teaspoons red pepper flakes\nSalt, to taste\n\n1. In a large pot cook pasta noodles according to packaging instructions. Once cooked, reserving about 1/4 cup of the pasta water.\n2. Combine the olive oil, Pancetta, and onion in another large pot. Cook over medium-high heat, until the Pancetta is lightly browned.\n3. Add garlic and cook for 2 minutes, making sure not to burn.\n4. Stir in the tomato paste and red pepper flakes, cook for about 1 minute.\n5. Add canned San Marzano tomatoes and mix well, smashing tomatoes into a sauce.\n6. Add the cooked pasta and 1/4 cup of the reserved pasta water to the Pancetta mixture.\n7. Stir in the cheese and parsley.\n8. Serve immediately with side of grated Pecorino Romano and parsley.\n\n🧤 @cleanspaceproject Black Nitril Gloves \n📜 @bbq_boards Cutting Board\n🔪 @spaceman_knives Triton Santoku \n ————————————————————————\n#btcooks #pasta #spaghetti #wetdays #raining #demascus #italian #italianfood #fresh #pancetta #cheese #homecooking #look #sogood",
-    "description":  "Just a simple pasta dish with red onions and bite size pieces of Pancetta makes this so good! 🍻🤙🏽",
-    "intro":  [
-                  "Just a simple pasta dish with red onions and bite size pieces of Pancetta makes this so good! 🍻🤙🏽"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 packet of Spaghetti, cooked based on instructions",
-                                               "4 ounces Pancetta, diced",
-                                               "cup freshly-grated Pecorino Romano",
-                                               "1 14oz canned San Marzano tomatoes",
-                                               "cup tomato paste",
-                                               "1 medium red onion, cut lengthwise into small slices",
-                                               "4 Garlic cloves, minced on",
-                                               "1/3 cup chopped fresh Italian parsley",
-                                               "cup extra virgin olive oil",
-                                               "2 teaspoons red pepper flakes",
-                                               "Salt, to taste"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "In a large pot cook pasta noodles according to packaging instructions. Once cooked, reserving about 1/4 cup of the pasta water.",
-                  "Combine the olive oil, Pancetta, and onion in another large pot. Cook over medium-high heat, until the Pancetta is lightly browned.",
-                  "Add garlic and cook for 2 minutes, making sure not to burn.",
-                  "Stir in the tomato paste and red pepper flakes, cook for about 1 minute.",
-                  "Add canned San Marzano tomatoes and mix well, smashing tomatoes into a sauce.",
-                  "Add the cooked pasta and 1/4 cup of the reserved pasta water to the Pancetta mixture.",
-                  "Stir in the cheese and parsley.",
-                  "Serve immediately with side of grated Pecorino Romano and parsley."
-              ]
-},
-  {
-    "id":  "grilled-lamb-chops",
-    "title":  "Grilled Lamb Chops",
-    "date":  null,
-    "category":  "Beef \u0026 Steak",
-    "image":  "images/recipes/grilled-lamb-chops.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Grilled Lamb Chops 🐑\n\nGrilled little meat sticks lightly seasoned with Salt, Pepper, and Garlic. \n\nGrilled at 300-350° to develop a crispy crust. I like my meat medium, so when internal temps hit 130° remove from grill and rest for 10 minutes. Slice between the bones and return back to the grill to give it a nice sear on all sides.\n\nTop off with a squeeze of lime juice and Al Frugoni’s Chimichurri mix. @alfrugoni \n\nIngredients:\nRack of lamb\nSalt, Pepper, and Garlic\nOlive oil, as a binder\nLime \nChimichurri sauce\n\n🔥 @nomadgrills Portable Grill \u0026 Smoker\n🪵 @thegoodcharcoal Super Briquettes\n🧤 @cleanspaceproject Nitrile Gloves \n🌡️ @meatermade Meater Block\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #grilledlamb #chops #lambchops #lamb #meater #chimichurri #cali",
-    "description":  "Grilled little meat sticks lightly seasoned with Salt, Pepper, and Garlic. Grilled at 300-350° to develop a crispy crust. I like",
-    "intro":  [
-                  "Grilled little meat sticks lightly seasoned with Salt, Pepper, and Garlic. Grilled at 300-350° to develop a crispy crust. I like my meat medium, so when internal temps hit 130° remove from grill and rest for 10 minutes. Slice between the bones and return back to the grill to give it a nice sear on all sides. Top off with a squeeze of lime juice and Al Frugoni’s Chimichurri mix. @alfrugoni"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Rack of lamb",
-                  "Salt, Pepper, and Garlic",
-                  "Olive oil, as a binder",
-                  "Lime",
-                  "Chimichurri sauce"
-              ]
-},
-  {
-    "id":  "reverse-seared-picanha",
-    "title":  "Reverse Seared Picanha",
-    "date":  null,
-    "category":  "Other",
-    "image":  "images/recipes/reverse-seared-picanha.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Reverse Seared Picanha 🥩 \n\nSlices of Picanha steaks seasoned with Blazing Star Beef Rub and All in One Seasoning!! Smoked over lump charcoal and Pecan wood chunks 💦💦💦\n\n1. Cut the steaks going with the grain into 2 inch thick slices.\n2. Lightly season steaks with Kosher salt to Dry brine overnight. \n3. Remove steaks from fridge 45 minutes before cooking and lightly season with salt or SPG. \n4. Smoke at 225 indirect IT hits about 115 degrees. About 35-40 minutes. \n5. Sear each steak for 1-2 minutes on each side. \n6. Let it rest for 10 minutes before slicing against the grain. \n\n🔥 @kamado Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Beef and All in One Seasoning\n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #picanha #topsirloin #steak #reversesear #churrasco #brazilianbbq #meat",
-    "description":  "Reverse Seared Picanha",
-    "intro":  [
-
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Cut the steaks going with the grain into 2 inch thick slices.",
-                  "Lightly season steaks with Kosher salt to Dry brine overnight.",
-                  "Remove steaks from fridge 45 minutes before cooking and lightly season with salt or SPG.",
-                  "Smoke at 225 indirect IT hits about 115 degrees. About 35-40 minutes.",
-                  "Sear each steak for 1-2 minutes on each side.",
-                  "Let it rest for 10 minutes before slicing against the grain."
-              ]
-},
-  {
-    "id":  "smoked-sinigang-ribs",
-    "title":  "Smoked Sinigang Ribs",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/smoked-sinigang-ribs.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Sinigang Ribs 🇵🇭🐖\n\nHot and fast baby back ribs seasoned with Tamarind powder (Sinigang) then topped off with a squeeze of fresh lime juice. \n\n1 packed Sinigang Powder\n1 rack Pork Back Ribs\nOlive oil\n1 lime\n\n1. Lather up with olive oil. \n2. Season ribs with Sinigang powder and let sit for 30 minutes. \n3. Set grill to 300° over direct charcoal. This will crisp up the bottom membrane and overall cook. \n4. Flip ribs every 30 minutes until internal temp hits 203°. Overall cook took about 3 hours. \n5. Let it rest for 10-15 minutes. \n6. Slice and squeeze lime juice. \n\nServe with side of steamed rice and spiced vinegar. \n\n🔥 @kamadojoe Big Joe Series III\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n🌡️ @meatermade Meater Block\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #pork #babybackribs #sinigangribs #sinigang #pinoy #filipinofood #meater #teamred #kamadojoe",
-    "description":  "Hot and fast baby back ribs seasoned with Tamarind powder (Sinigang) then topped off with a squeeze of fresh lime juice. 1",
-    "intro":  [
-                  "Hot and fast baby back ribs seasoned with Tamarind powder (Sinigang) then topped off with a squeeze of fresh lime juice. 1 packed Sinigang Powder 1 rack Pork Back Ribs Olive oil"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Lather up with olive oil.",
-                  "Season ribs with Sinigang powder and let sit for 30 minutes.",
-                  "Set grill to 300° over direct charcoal. This will crisp up the bottom membrane and overall cook.",
-                  "Flip ribs every 30 minutes until internal temp hits 203°. Overall cook took about 3 hours.",
-                  "Let it rest for 10-15 minutes.",
-                  "Slice and squeeze lime juice.",
-                  "Serve with side of steamed rice and spiced vinegar."
-              ]
-},
-  {
-    "id":  "bbq-reaper-pineapple-wings",
-    "title":  "BBQ Reaper Pineapple Wings",
-    "date":  null,
-    "category":  "Wings",
-    "image":  "images/recipes/bbq-reaper-pineapple-wings.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "BBQ Reaper Pineapple Wings 🔥🍗\n\nThese wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine Smokey BBQ sauce with Pineapple Syrup. Perfect balance of sweetness and spice. 🤙🏽\n\nIngredients:\n2-3 pounds chicken wings\nOlive Oil\nBlazing Star Reaper Seasoning\nRanch Seasoning\nDa Kine Hawaiian Smokey BBQ Sauce\nDa Kine Pineapple Syrup\n\n1. Add oil to chicken wings to serve as a binder. \n2. Liberally season with Reaper and Ranch Seasoning, and place in the fridge uncovered for 2-3 hours. \n3. Preheat grill to 400 degrees using Lump Charcoal. \n4. Place wings on grill for indirect cooking and cook each side for 15 minutes, with lid closed. \n5. Mix together 1/2 cup of BBQ sauce and 1/4 cup of syrup into a bowl. \n6. Drizzle over cooked chicken wings and enjoy.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Black Nitrile Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Reaper Seasoning\n@dkhawaiian Smokey BBQ Sauce and Pineapple Syrup\n@hidden.valley Ranch Seasoning\n ————————————————————————\n#btcooks #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #easyrecipes #delicious #foodvideo #recipes #bbqwings #wings #wingwednesday #reaper #smokedwings #bbqsauce",
-    "description":  "These wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine",
-    "intro":  [
-                  "These wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine Smokey BBQ sauce with Pineapple Syrup. Perfect balance of sweetness and spice. 🤙🏽"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2-3 pounds chicken wings",
-                                               "Olive Oil",
-                                               "Blazing Star Reaper Seasoning",
-                                               "Ranch Seasoning"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Da Kine Hawaiian Smokey BBQ Sauce",
-                  "Da Kine Pineapple Syrup",
-                  "Add oil to chicken wings to serve as a binder.",
-                  "Liberally season with Reaper and Ranch Seasoning, and place in the fridge uncovered for 2-3 hours.",
-                  "Preheat grill to 400 degrees using Lump Charcoal.",
-                  "Place wings on grill for indirect cooking and cook each side for 15 minutes, with lid closed.",
-                  "Mix together 1/2 cup of BBQ sauce and 1/4 cup of syrup into a bowl.",
-                  "Drizzle over cooked chicken wings and enjoy."
-              ]
-},
-  {
-    "id":  "fish-sauce-wings",
-    "title":  "Fish Sauce Wings",
-    "date":  null,
-    "category":  "Wings",
-    "image":  "images/recipes/fish-sauce-wings.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Fish Sauce Wings 🐟🍗\n\nFlavor packed wings full of umami. Smashing these up like umbrellas, inspo from my boy @tfti.bbq . \n\nIngredients:\n5-6 lbs Chicken wings\n1/2 cup Fish sauce\n1/2 cup Sugar\n2 tbsp Low Sodium Spy Sauce\n2 tbsp Black pepper\n1 tbsp Vinegar\n1 tbsp Vegetable oil\n8 Garlic cloves, minced\n1 Lemon, juiced \n1 Stalk Lemongrass or 1 knob of Ginger, minced\n\n1. Combine all ingredients in a ziplock bag and marinate for 4-6 hours. \n2. Heat grill to 375-400 degrees for indirect cooking. \n3. Place wings on indirect side and cook for about 45-60 minutes flipping half way through. \n4. Internal temp should be around 200 degrees. \n\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #easyrecipes #recipes #foodreels #patis #fishsauce #wings #fishsaucewings #asianbbq #islanderbbq #asianfood #vietnamesefood #wingwednesday #filipinobbq #pinoy #wingwednesday #spring",
-    "description":  "Flavor packed wings full of umami. Smashing these up like umbrellas, inspo from my boy @tfti.bbq .",
-    "intro":  [
-                  "Flavor packed wings full of umami. Smashing these up like umbrellas, inspo from my boy @tfti.bbq ."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "5-6 lbs Chicken wings",
-                                               "1/2 cup Fish sauce",
-                                               "1/2 cup Sugar",
-                                               "2 tbsp Low Sodium Spy Sauce",
-                                               "2 tbsp Black pepper",
-                                               "1 tbsp Vinegar",
-                                               "1 tbsp Vegetable oil",
-                                               "8 Garlic cloves, minced",
-                                               "1 Lemon, juiced",
-                                               "1 Stalk Lemongrass or 1 knob of Ginger, minced"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all ingredients in a ziplock bag and marinate for 4-6 hours.",
-                  "Heat grill to 375-400 degrees for indirect cooking.",
-                  "Place wings on indirect side and cook for about 45-60 minutes flipping half way through.",
-                  "Internal temp should be around 200 degrees."
-              ]
-},
-  {
-    "id":  "tocino-pulled-pork-tacos",
-    "title":  "Tocino pulled pork Tacos",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/tocino-pulled-pork-tacos.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Tocino pulled pork Tacos 🐖🌮\n\nThis recipe is taking a classic Filipino recipe and mixing it up. This Islander Mexican fusion reminds me of Yucatán tacos when we went to Cancun. 🤙🏽\n\nWe are going to cook this hot and fast at 300 degrees because I am hungry! 😉\n\n5-6 lbs pork shoulder\n1/2 tbsp salt\n5 garlic cloves, minced\n1/2 tbsp chicken bouillon powder\n1 tbsp paprika\n1 tsp white pepper or ground black pepper\n1/2 cup brown sugar\n1/4 cup banana ketchup\n1 cup pineapple juice\n1 tbsp oil\n\nGarnish:\nPickled Onions\nCheese\nCilantro\nCrema (optional)\n\nPickled Red Onions Ingredients:\n1 medium red onion, sliced\n1/2 cup rice vinegar\n1/4 cup water\u20281 1/2 tbs sugar\u20281/2 tbs salt\u20281-2 tsp chili flakes\n\nInstructions:\n1. Combine all marinade ingredients.\n2. Cover and marinate in the fridge for 48 hours.\n3. Pat dry then season with Blazing Star Pork N Rub. Do not discard Marinade, this will be used later to braise the pork. \n4. Setup grill for indirect cooking and smoke at 300 degrees until internal temp reaches 160-170 degrees, around 4-5 hours.\n5. Place pork in a foil pan and pour in leftover marinade. It should come up half way and if it does not, add a little pineapple juice. Cover with foil and place back on the smoker until internal temp reaches 200 degrees, or 2-3 hours. \n6. Remove from braising liquid and rest for 30-45 minutes before shredding. \n7. Shred pork and pour in 1/4 cup braising liquid if it is too dry. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Pork n Rub \n ————————————————————————\n#btcooks #tacos #fusion #filipino #pinoy #alpastor #conchintapibil #yucatan #cancun #pulledpork #tocino #tocinopulledpork #tocinotacos #tacotuesday #tocinotursday",
-    "description":  "This recipe is taking a classic Filipino recipe and mixing it up. This Islander Mexican fusion reminds me of Yucatán tacos when",
-    "intro":  [
-                  "This recipe is taking a classic Filipino recipe and mixing it up. This Islander Mexican fusion reminds me of Yucatán tacos when we went to Cancun. 🤙🏽 We are going to cook this hot and fast at 300 degrees because I am hungry! 😉"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1/2 tbsp salt",
-                                               "5 garlic cloves, minced",
-                                               "1/2 tbsp chicken bouillon powder",
-                                               "1 tbsp paprika",
-                                               "1 tsp white pepper or ground black pepper",
-                                               "1/2 cup brown sugar",
-                                               "1/4 cup banana ketchup",
-                                               "1 cup pineapple juice",
-                                               "1 tbsp oil"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Pickled Onions",
-                                 "items":  [
-                                               "Cheese",
-                                               "Cilantro",
-                                               "Crema (optional)"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "1 medium red onion, sliced",
-                  "1/2 cup rice vinegar",
-                  "1/4 cup water 1 1/2 tbs sugar 1/2 tbs salt 1-2 tsp chili flakes",
-                  "Combine all marinade ingredients.",
-                  "Cover and marinate in the fridge for 48 hours.",
-                  "Pat dry then season with Blazing Star Pork N Rub. Do not discard Marinade, this will be used later to braise the pork.",
-                  "Setup grill for indirect cooking and smoke at 300 degrees until internal temp reaches 160-170 degrees, around 4-5 hours.",
-                  "Place pork in a foil pan and pour in leftover marinade. It should come up half way and if it does not, add a little pineapple juice. Cover with foil and place back on the smoker until internal temp reaches 200 degrees, or 2-3 hours.",
-                  "Remove from braising liquid and rest for 30-45 minutes before shredding.",
-                  "Shred pork and pour in 1/4 cup braising liquid if it is too dry."
-              ]
-},
-  {
-    "id":  "over-the-top-chili",
-    "title":  "Over the top Chili",
-    "date":  null,
-    "category":  "Soups \u0026 Stews",
-    "image":  "images/recipes/over-the-top-chili.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Over the top Chili 🥣\n\nThis chili was packed with so much flavor. All that beef flavor dripping down into the veggies and smoked. All seasoned with @blazingstarbbq All in One and Beef Seasoning. \n\nSlicing all the ingredients was so easy with the @benchmadeknifecompany Station Knife. It is so sharp and my favorite tool in the kitchen. \n\n2lbs Sweet Italian Sausage\n3lbs Ground Beef\n1/4lb Bacon, chopped\n1 Green bell pepper, diced\n1 Red bell pepper, diced\n1 Orange bell pepper, diced\n1 Yellow Onion, diced\n6 Cloves of garlic, minced\n12oz Diced Tomato (1 can)\n25.4oz Tomato Sauce (1 can)\n1 tbsp Cumin\n1 tbsp Cayenne Pepper\n1 tbsp Black pepper\n2 tbsp Chili powder\n1 cup Beef broth\n\n1. Sauté bacon, peppers, onions, and garlic, then set aside. \n2. Season meat with Salt and Pepper. \n3. Place sautéed veggies in a pan. \n4. Set aside wire rack on top of pot and add ground beef and sausage links. \n5. Smoke indirect at 275°. \n6. Cook for 2 hours or until internal temperature of my @meatermade Meater Pro XL hits 150°. \n7. Break up the meat into small crumbles and add to the chili. \n8. Slice sausages into 1 inch thick pieces and add to chili. \n9. Add sliced bacon into chili. \n10. Add beef broth, tomato sauce, diced tomatoes, cumin, cayenne, black pepper, and chili powder. Season with Beef rub or Salt and Pepper. \n11. Cook an additional 2 hours or until chili is nice and thick. Do not add more wood for smoke. \n12. Skim off extra fat from the top and serve with diced onions, shredded cheese, and green onions. \n\n🔥 @kamadojoe Big Joe III\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🌡️ @meatermade Meater Pro XL \n\n#btcooks #chili #smokedchili #overthetopchili #teamread #Kamadojoe #meater",
-    "description":  "This chili was packed with so much flavor. All that beef flavor dripping down into the veggies and smoked. All seasoned with",
-    "intro":  [
-                  "This chili was packed with so much flavor. All that beef flavor dripping down into the veggies and smoked. All seasoned with @blazingstarbbq All in One and Beef Seasoning. Slicing all the ingredients was so easy with the @benchmadeknifecompany Station Knife. It is so sharp and my favorite tool in the kitchen. 2lbs Sweet Italian Sausage 3lbs Ground Beef 1/4lb Bacon, chopped"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 Red bell pepper, diced",
-                                               "1 Orange bell pepper, diced",
-                                               "1 Yellow Onion, diced",
-                                               "6 Cloves of garlic, minced",
-                                               "12oz Diced Tomato (1 can)",
-                                               "4oz Tomato Sauce (1 can)",
-                                               "1 tbsp Cumin",
-                                               "1 tbsp Cayenne Pepper",
-                                               "1 tbsp Black pepper",
-                                               "2 tbsp Chili powder",
-                                               "1 cup Beef broth"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Sauté bacon, peppers, onions, and garlic, then set aside.",
-                  "Season meat with Salt and Pepper.",
-                  "Place sautéed veggies in a pan.",
-                  "Set aside wire rack on top of pot and add ground beef and sausage links.",
-                  "Smoke indirect at 275°.",
-                  "Cook for 2 hours or until internal temperature of my @meatermade Meater Pro XL hits 150°.",
-                  "Break up the meat into small crumbles and add to the chili.",
-                  "Slice sausages into 1 inch thick pieces and add to chili.",
-                  "Add sliced bacon into chili.",
-                  "Add beef broth, tomato sauce, diced tomatoes, cumin, cayenne, black pepper, and chili powder. Season with Beef rub or Salt and Pepper.",
-                  "Cook an additional 2 hours or until chili is nice and thick. Do not add more wood for smoke.",
-                  "Skim off extra fat from the top and serve with diced onions, shredded cheese, and green onions."
-              ]
-},
-  {
-    "id":  "pig-shots-with-pog-bbq-sauce",
-    "title":  "Pig Shots with POG BBQ Sauce",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/pig-shots-with-pog-bbq-sauce.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Pig Shots with POG BBQ Sauce 🐷🥃\n\nSeasoned with Blazing Star Pork n Rub and Reaper seasoning, then topped off with Smokey BBQ sauce with POG Syrup from our friends at Da Kine Hawaiian. 🤙🏽\n\nIngredients\n8 oz cream cheese, softened at room temp\n¼ cup Shredded Triple Cheddar \n2 Jalapeños, diced\n1 tbsp Blazing Star Pork n Rub Seasoning \n1 tbsp Blazing Star Reaper Seasoning\n12 oz Andouille Sausage\n1 pack of bacon, sliced in half\n\nBBQ Sauce:\n1/2 cup Favorite BBQ sauce\n2-3 tbsp Da Kine Hawaiian POG Syrup\n\nInstructions\n1. Cut the Sausage into 1 inch pieces and wrap the bacon around the Sausage so it forms a shot glass. Take a toothpick and secure the bacon and the sausage.\n2. Take the softened cream cheese, triple cheddar, diced jalapeños and the bbq rubs and mix together in a bowl until well combine.\n3. Place the mixture into a piping bag or a ziplock bag. \n4. Pipe the mixture into the shot until it is just below the top of the bacon.\n5. Dust some extra Reaper seasoning over each pig shot. \n6. Set smoker to 350 and smoke for about 30-45 minutes.\n7. Mix together BBQ sauce and mop it over each shot, cook for another 5 minutes. \n8. Remove from grill and rest for 5-10 before serving. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Pork n Rub and Reaper Seasoning\n@dkhawaiian Smokey BBQ Sauce and POG Syrup\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #pigshots #bacon #sausage #pog #teamred #Kamadojoe #bites #gamedaybites #laborday #labordayweekend",
-    "description":  "Seasoned with Blazing Star Pork n Rub and Reaper seasoning, then topped off with Smokey BBQ sauce with POG Syrup from our",
-    "intro":  [
-                  "Seasoned with Blazing Star Pork n Rub and Reaper seasoning, then topped off with Smokey BBQ sauce with POG Syrup from our friends at Da Kine Hawaiian. 🤙🏽"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "8 oz cream cheese, softened at room temp",
-                                               "cup Shredded Triple Cheddar",
-                                               "2 Jalapeños, diced",
-                                               "1 tbsp Blazing Star Pork n Rub Seasoning",
-                                               "1 tbsp Blazing Star Reaper Seasoning",
-                                               "12 oz Andouille Sausage",
-                                               "1 pack of bacon, sliced in half"
-                                           ]
-                             },
-                             {
-                                 "heading":  "BBQ Sauce",
-                                 "items":  [
-                                               "1/2 cup Favorite BBQ sauce",
-                                               "2-3 tbsp Da Kine Hawaiian POG Syrup"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Cut the Sausage into 1 inch pieces and wrap the bacon around the Sausage so it forms a shot glass. Take a toothpick and secure the bacon and the sausage.",
-                  "Take the softened cream cheese, triple cheddar, diced jalapeños and the bbq rubs and mix together in a bowl until well combine.",
-                  "Place the mixture into a piping bag or a ziplock bag.",
-                  "Pipe the mixture into the shot until it is just below the top of the bacon.",
-                  "Dust some extra Reaper seasoning over each pig shot.",
-                  "Set smoker to 350 and smoke for about 30-45 minutes.",
-                  "Mix together BBQ sauce and mop it over each shot, cook for another 5 minutes.",
-                  "Remove from grill and rest for 5-10 before serving."
-              ]
-},
-  {
-    "id":  "miso-gochujang-pulled-pork-sliders",
-    "title":  "Miso \u0026 Gochujang Pulled Pork Sliders",
-    "date":  null,
-    "category":  "Pork",
-    "image":  "images/recipes/miso-gochujang-pulled-pork-sliders.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Miso \u0026 Gochujang Pulled Pork Sliders\n\nThis was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a slight umami flavor and a super bold bark. All seasoned with @blazingstarbbq Pork n Rub and damn this was FIYAH 🔥\n\nAdded the pork on some @kingshawaiian rolls with Kimchi, pickled onions, and chili crunch oil from @momofukugoods\n\nPulled Pork:\n1 Pork Butt\nMiso paste\nGochujang \n@blazingstarbbq Pork n Rub\n\nPickled Red Onions\n1 Medium Red Onion, sliced in 1/8th inch thick\n1/2 cup Red Wine Vinegar \u0026 1/2 cup Rice Vinegar\n1/2 cup Water\n2 tbsp Sugar\n1 Tsp Salt\n1 Bay Leaf\n1 Garlic Clove, Peeled and smashed\n1 tsp Pepper Corn\n\nSliders:\nMayonnaise \nKimchi\nPickled Onions\nChili Crunch Oil\n\n1. Lather on the Miso and Gochujang over the entire pork. \n2. Season with rub on all sides, then wrap in seran wrap and place in the refrigerator overnight. \n3. Preheat grill to 275° for indirect cooking and add your favorite wood chunks. I used oak from @countrycraftfirewood. \n4. Cook until IT of my @meatermade Pro XL hits about 165° or until you develop a nice bark. \n5. Wrap in foil and cook until IT hits 203° or probe tender. \n\n🔥 @kamadojoe Joe Jr. \n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n\n#btcooks #pulledpork #sliders #pulledporksliders #miso #gochujang #kimchi #fusion #porkbutt #porkshoulder #pickledonions #Kamadojoe #teamred #meater",
-    "description":  "This was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a",
-    "intro":  [
-                  "This was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a slight umami flavor and a super bold bark. All seasoned with @blazingstarbbq Pork n Rub and damn this was FIYAH 🔥 Added the pork on some @kingshawaiian rolls with Kimchi, pickled onions, and chili crunch oil from @momofukugoods Pulled Pork: 1 Pork Butt Miso paste Gochujang @blazingstarbbq Pork n Rub"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 Medium Red Onion, sliced in 1/8th inch thick",
-                                               "1/2 cup Red Wine Vinegar \u0026 1/2 cup Rice Vinegar",
-                                               "1/2 cup Water",
-                                               "2 tbsp Sugar",
-                                               "1 Tsp Salt",
-                                               "1 Bay Leaf",
-                                               "1 Garlic Clove, Peeled and smashed",
-                                               "1 tsp Pepper Corn"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Lather on the Miso and Gochujang over the entire pork.",
-                  "Season with rub on all sides, then wrap in seran wrap and place in the refrigerator overnight.",
-                  "Preheat grill to 275° for indirect cooking and add your favorite wood chunks. I used oak from @countrycraftfirewood.",
-                  "Cook until IT of my @meatermade Pro XL hits about 165° or until you develop a nice bark.",
-                  "Wrap in foil and cook until IT hits 203° or probe tender."
-              ]
-},
-  {
-    "id":  "scorpion-baby-back-ribs",
-    "title":  "Scorpion Baby Back Ribs",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/scorpion-baby-back-ribs.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Scorpion Baby Back Ribs 🐖\n\nCheck out this perfect bite! Smoked ribs using mustard as a binder then seasoned with Pork’n Rub and Scorpion Seasoning, giving the perfect sweetness and heat. Wrapped using POG syrup, brown sugar, butter. 💦💦 💦\n\n1. Smoke at 250 for 4 hours. \n2. Double wrap with foil and layer Brown sugar, butter, and POG syrup on both sides. Cook for another hour. \n3. Remove foil and lather up with your favorite BBQ sauce then return to the grill and cook for another 30 minutes. \n4. Let rest before serving. Enjoy! \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Pork’n Rub and Scorpion Seasoning\n@dkhawaiian Smokey BBQ Sauce and POG Syrup\n ————————————————————————\n#btcooks #outdoorcooking #food #smokedmeat #grilledfood #smoked #outdoor #backyardgrilling #foodporn #tasty #easyrecipes #foodvideo #recipes #ribs #babybackribs #rub #bbq #pork",
-    "description":  "Check out this perfect bite! Smoked ribs using mustard as a binder then seasoned with Pork’n Rub and Scorpion Seasoning, giving",
-    "intro":  [
-                  "Check out this perfect bite! Smoked ribs using mustard as a binder then seasoned with Pork’n Rub and Scorpion Seasoning, giving the perfect sweetness and heat. Wrapped using POG syrup, brown sugar, butter. 💦💦 💦"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Double wrap with foil and layer Brown sugar, butter, and POG syrup on both sides. Cook for another hour.",
-                  "Remove foil and lather up with your favorite BBQ sauce then return to the grill and cook for another 30 minutes.",
-                  "Let rest before serving. Enjoy!"
-              ]
-},
-  {
-    "id":  "chicken-chicharron",
-    "title":  "Chicken Chicharron",
-    "date":  null,
-    "category":  "Poultry",
-    "image":  "images/recipes/chicken-chicharron.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Chicken Chicharron 🐓\n\nDont let chicken skin trimmings go to waste. Whip up some easy chicken skin chicharron 🤙🏽\n\nIngredients provided fresh from\nOur friends at @islandpacificmarket \n\n1. Dry chicken skin and dust a little of your favorite seasoning. \n2. Set air fryer to 350 degrees for 15-20 minutes, flipping half way through. \n\n————————————————————————\n#btcooks #sogood #airfryer #airfried #chicharron #chililime #airfryerrecipes #chickenskin #sandiego #crispy #pinoy #filipino #islander #filipinosnack #snack #cholesterolfree #cholesterol #heathly #vegan #grilling #bbq",
-    "description":  "Dont let chicken skin trimmings go to waste. Whip up some easy chicken skin chicharron 🤙🏽",
-    "intro":  [
-                  "Dont let chicken skin trimmings go to waste. Whip up some easy chicken skin chicharron 🤙🏽"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Dry chicken skin and dust a little of your favorite seasoning.",
-                  "Set air fryer to 350 degrees for 15-20 minutes, flipping half way through.",
-                  ""
-              ]
-},
-  {
-    "id":  "adobo-ribs-or-chamorro-bbq-ribs",
-    "title":  "Adobo Ribs or Chamorro BBQ Ribs",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/adobo-ribs-or-chamorro-bbq-ribs.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Adobo Ribs or Chamorro BBQ Ribs 🇵🇭🇬🇺\n\nPork Adobo marinated ribs or Guamanian BBQ ribs. Call it what you want it’s the same ingredients but taste so damn good! 🍻🤙🏽\n\nSmoked on the @nomadgrills indirect at 250 degrees for 2 hours, then seared over lump charcoal and Guava Strawberry wood chunks. \n\nIngredients \n1 Rack Spareribs\n1/2 cup Soy Sauce\n1/2 cup Vinegar\n1 head garlic cloves, smashed \n1 Small onion, sliced\n1/2 Brown sugar\n1 tsp Chicken bouillon powder\n1 tsp Black pepper\n\nCombine all Ingredients together and marinate for at least 4-6 hours, preferably overnight. \n\n🔥 @nomadgrills Portable Grill \u0026 Smoker\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n ————————————————————————\n#btcooks #guamanianfood #filipinofood #porkadobo #chamorro #pinoy",
-    "description":  "Pork Adobo marinated ribs or Guamanian BBQ ribs. Call it what you want it’s the same ingredients but taste so damn good! 🍻🤙🏽",
-    "intro":  [
-                  "Pork Adobo marinated ribs or Guamanian BBQ ribs. Call it what you want it’s the same ingredients but taste so damn good! 🍻🤙🏽 Smoked on the @nomadgrills indirect at 250 degrees for 2 hours, then seared over lump charcoal and Guava Strawberry wood chunks."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 Rack Spareribs",
-                                               "1/2 cup Soy Sauce",
-                                               "1/2 cup Vinegar",
-                                               "1 head garlic cloves, smashed",
-                                               "1 Small onion, sliced",
-                                               "1/2 Brown sugar",
-                                               "1 tsp Chicken bouillon powder",
-                                               "1 tsp Black pepper"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all Ingredients together and marinate for at least 4-6 hours, preferably overnight."
-              ]
-},
-  {
-    "id":  "lemon-caper-chimichurri-grilled-salmon",
-    "title":  "Lemon Caper Chimichurri Grilled Salmon",
-    "date":  null,
-    "category":  "Seafood",
-    "image":  "images/recipes/lemon-caper-chimichurri-grilled-salmon.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Lemon Caper Chimichurri Grilled Salmon 🐟\n\nQuick and easy dish to prepare and the Lemon Caper Chimichurri is a must!!! \n\n4 salmon fillets\nSalt and pepper\n\nLemon Caper Chimichurri:\n4 tbsp Chimichurri seasoning\n2 tsp Capers, chopped\n1/2 Lemon, juiced\n4 tbsp Red wine vinegar \n4 tbsp Olive oil\n\n1. Season salmon fillets with salt and pepper. \n2. Grill directly over charcoal skin side down. \n3. After 3-5 minutes check to see if skin is stuck to the grates. If so, cook a little longer until it no longer sticks. \n4. Flip fillets and cook for another 3-5 minutes. \n5. Drizzle Chimichurri sauce over salmon fillets and serve with favorite salads or veggies. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🔪 @kumaknives Japanese Damascus Knife\n ————————————————————————\n#btcooks #salmon #grilledsalmon #Chimichurri #healthy #grilledfish #capers",
-    "description":  "Quick and easy dish to prepare and the Lemon Caper Chimichurri is a must!!! 4 salmon fillets Salt and pepper",
-    "intro":  [
-                  "Quick and easy dish to prepare and the Lemon Caper Chimichurri is a must!!! 4 salmon fillets Salt and pepper"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "4 tbsp Chimichurri seasoning",
-                                               "2 tsp Capers, chopped",
-                                               "1/2 Lemon, juiced",
-                                               "4 tbsp Red wine vinegar",
-                                               "4 tbsp Olive oil"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Season salmon fillets with salt and pepper.",
-                  "Grill directly over charcoal skin side down.",
-                  "After 3-5 minutes check to see if skin is stuck to the grates. If so, cook a little longer until it no longer sticks.",
-                  "Flip fillets and cook for another 3-5 minutes.",
-                  "Drizzle Chimichurri sauce over salmon fillets and serve with favorite salads or veggies."
-              ]
-},
-  {
-    "id":  "cheesesteak-w-smoked-queso",
-    "title":  "Cheesesteak w/ Smoked Queso",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/cheesesteak-w-smoked-queso.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Cheesesteak w/ Smoked Queso 🧀\n\nCheesesteaks with leftover queso elevated this sandwich. Thinly sliced ribeye seasoned with @blazingstarbbq Beef seasoning and topped off with red and green bell peppers, onions, and mushrooms all served on a sandwich roll. \n\nIngredients\n2 ribeyes, sliced thin\n1 red bell pepper\n1 green bell pepper\n1 onions, sliced\n1 packet of mushrooms\nLeftover queso or your favorite cheese\nSandwich rolls\n\n#btcooks #ribeye #cheesesteak #sandwhich #phillycheesesteak #queso #smokedqueso",
-    "description":  "Cheesesteaks with leftover queso elevated this sandwich. Thinly sliced ribeye seasoned with @blazingstarbbq Beef seasoning and",
-    "intro":  [
-                  "Cheesesteaks with leftover queso elevated this sandwich. Thinly sliced ribeye seasoned with @blazingstarbbq Beef seasoning and topped off with red and green bell peppers, onions, and mushrooms all served on a sandwich roll."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 ribeyes, sliced thin",
-                                               "1 red bell pepper",
-                                               "1 green bell pepper",
-                                               "1 onions, sliced",
-                                               "1 packet of mushrooms"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Leftover queso or your favorite cheese",
-                  "Sandwich rolls"
-              ]
-},
-  {
-    "id":  "smoked-oxtail-pho",
-    "title":  "Smoked Oxtail Pho",
-    "date":  null,
-    "category":  "Soups \u0026 Stews",
-    "image":  "images/recipes/smoked-oxtail-pho.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Oxtail Pho 🍲\n\nOxtails and Pho!!! Gotta give this a try. The smokiness from the meat combined with the savory broth is just perfect. \n\nIngredients:\n2-3 lbs beef Oxtails cut and trimmed\nFavorite Beef Seasoning\n\nBraising:\n2 cups Pho broth\n\n1. Season meat liberally with favorite seasoning and let sit for 1 hour before cooking. \n2. Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.\n3. Remove meat and place into a roasting pan. \n4. Add broth and cover with aluminum foil. \n5. Place back into smoker and cook for another 3 hours. \u2028\nBroth\n1 lb beef bones or marrow bones\u202812 cups water\n3 knobs ginger\n1 large onion, halved\n1 small daikon, peeled and cut into 1-inch thick slices\n2 carrots\n2 tbsp sugar or rock sugar\n2 tbsp beef bouillon powder\n2 tbsp fish sauce\n4 tbsp Pho Soup Base with seasoning packet (Quoc Viet Foods), add more as needed. \n\n1. Boil all ingredients in a large stock pot for 3 hours. \n2. Using a strainer, discard all solids. \n3. Serve with your favorite meat and noodles, garnish with thin sliced onions, green onions, bean sprouts, cilantro, jalapeños, and lime. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #grilledmeat #meatporn #meat #vietnamese #vietnamesefood #soup #broth #oxtailsoup #pho #comfortfood #noodles #teamred #kamadojoe",
-    "description":  "Oxtails and Pho!!! Gotta give this a try. The smokiness from the meat combined with the savory broth is just perfect.",
-    "intro":  [
-                  "Oxtails and Pho!!! Gotta give this a try. The smokiness from the meat combined with the savory broth is just perfect."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2-3 lbs beef Oxtails cut and trimmed"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Braising",
-                                 "items":  [
-                                               "2 cups Pho broth"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Season meat liberally with favorite seasoning and let sit for 1 hour before cooking.",
-                  "Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.",
-                  "Remove meat and place into a roasting pan.",
-                  "Add broth and cover with aluminum foil.",
-                  "Place back into smoker and cook for another 3 hours.",
-                  "Broth",
-                  "1 lb beef bones or marrow bones 12 cups water",
-                  "3 knobs ginger",
-                  "1 large onion, halved",
-                  "1 small daikon, peeled and cut into 1-inch thick slices",
-                  "2 carrots",
-                  "2 tbsp sugar or rock sugar",
-                  "2 tbsp beef bouillon powder",
-                  "2 tbsp fish sauce",
-                  "4 tbsp Pho Soup Base with seasoning packet (Quoc Viet Foods), add more as needed.",
-                  "Boil all ingredients in a large stock pot for 3 hours.",
-                  "Using a strainer, discard all solids.",
-                  "Serve with your favorite meat and noodles, garnish with thin sliced onions, green onions, bean sprouts, cilantro, jalapeños, and lime."
-              ]
-},
-  {
-    "id":  "smoked-tritip-queso-dip",
-    "title":  "Smoked Tritip Queso Dip",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/smoked-tritip-queso-dip.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Tritip Queso Dip 🧀\n\n* 1 block of cream cheese\n* 1 block of Velveeta cheese (32 oz) or your favorite cheese. \n* 1 can low sodium cream of mushroom\n* 1/4 cup milk \n* 2 tomatoes, diced\n* Favorite cooked protein (tritip, brisket, or ground beef)\n* 2 Jalapeños, cored and diced\n* 2 Green onions, chopped \n* @BlazingStarBBQ Pork n Rub\n\n1. Add cheese, cream of mushroom, milk, and protein into a pan. \n2. Lightly drizzle seasoning over cheese. \n3. Place on grill indirect and smoke at 300°, about 45 minutes or until cheese has melted. \n4. Add Jalapeños, tomatoes, and mix melted cheese together, cook for another 15 minutes. \n5. Top off with fresh green onions. \n6. Serve with tortilla chips and enjoy! 🍻\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🌡️ @meatermade Meater Pro XL\n🧤 @cleanspaceproject Nitrile Gloves\n ————————————————————————\n#btcooks #tritip #smokedqueso #dip #gameday #teamred #kamadojoe #meater",
-    "description":  "* 1 block of cream cheese",
-    "intro":  [
-                  "* 1 block of cream cheese"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "* 1 can low sodium cream of mushroom",
-                                               "* 1/4 cup milk",
-                                               "* 2 tomatoes, diced",
-                                               "* 2 Jalapeños, cored and diced"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "* 2 Green onions, chopped",
-                  "* @BlazingStarBBQ Pork n Rub",
-                  "Add cheese, cream of mushroom, milk, and protein into a pan.",
-                  "Lightly drizzle seasoning over cheese.",
-                  "Place on grill indirect and smoke at 300°, about 45 minutes or until cheese has melted.",
-                  "Add Jalapeños, tomatoes, and mix melted cheese together, cook for another 15 minutes.",
-                  "Top off with fresh green onions.",
-                  "Serve with tortilla chips and enjoy! 🍻"
-              ]
-},
-  {
-    "id":  "brisket-dishes",
-    "title":  "Brisket Dishes",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/brisket-dishes.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Brisket Dishes 🍴\n\nMultiple dishes made from the past brisket I made. \n\n1. Simple slices of brisket topped off with Chimichurri. \n2. Brisket sliders on Hawaiian bread, mayo, @blazingstarbbq BBQ sauce and pickled red onions. \n3. Brisket fried rice. \n\n#btcooks #homecooking #brisket #hotandfast #lowandslow #beef #smokedmeat #chimichurri #fusion #bbq #sliders #friedrice #Kamadojoe #teamred",
-    "description":  "Multiple dishes made from the past brisket I made.",
-    "intro":  [
-                  "Multiple dishes made from the past brisket I made."
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Brisket sliders on Hawaiian bread, mayo, @blazingstarbbq BBQ sauce and pickled red onions.",
-                  "Brisket fried rice."
-              ]
-},
-  {
-    "id":  "lumpia-shanghai-filipino-eggrolls",
-    "title":  "Lumpia Shanghai (Filipino Eggrolls)",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/lumpia-shanghai-filipino-eggrolls.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Lumpia Shanghai (Filipino Eggrolls) 🇵🇭\n\nYou should already know!!!! This is straight Filipino crack 🤣\n\n1/2 lb Ground beef\n1/2 lb Ground pork\n2-3 Carrots, grated\n1 Onion, finely chopped\n4 Garlic cloves, finely minced\n1 tbsp Sesame oil\n1 tbsp Fish sauce\n1 tbsp Low Sodium Soy sauce\n1/2 tsp Salt\n1/2 tsp White pepper\n1/2 tsp Ground pepper\n2 eggs (1 egg reserved to seal wrappers)\n25 pack Egg Roll Wrapper, cut in half\n\n1. Combine all ingredients into a bowl. \n2. 1 tbsp of filling per wrapper. \n3. Roll and seal with a dab of beaten egg. \n4. Heat oil to 375 degrees and fry until golden brown. \n5. Serve with sweet chilli or sweet and sour sauce. \n \n#btcooks #lumpia #lumpiashanghai #eggrolls #islanderfood #filipinofood #fingerfood #filipino #philippines #deepfried #homecooking",
-    "description":  "You should already know!!!! This is straight Filipino crack 🤣 1/2 lb Ground beef 1/2 lb Ground pork 2-3 Carrots, grated",
-    "intro":  [
-                  "You should already know!!!! This is straight Filipino crack 🤣 1/2 lb Ground beef 1/2 lb Ground pork 2-3 Carrots, grated"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "4 Garlic cloves, finely minced",
-                                               "1 tbsp Sesame oil",
-                                               "1 tbsp Fish sauce",
-                                               "1 tbsp Low Sodium Soy sauce",
-                                               "1/2 tsp Salt",
-                                               "1/2 tsp White pepper",
-                                               "1/2 tsp Ground pepper",
-                                               "2 eggs (1 egg reserved to seal wrappers)",
-                                               "25 pack Egg Roll Wrapper, cut in half"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all ingredients into a bowl.",
-                  "1 tbsp of filling per wrapper.",
-                  "Roll and seal with a dab of beaten egg.",
-                  "Heat oil to 375 degrees and fry until golden brown.",
-                  "Serve with sweet chilli or sweet and sour sauce."
-              ]
-},
-  {
-    "id":  "smoked-kalua-pork",
-    "title":  "Smoked Kalua Pork",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/smoked-kalua-pork.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Kalua Pork 🤙🏽\n\nEasy way to make Kalua pork on any smoker. Banana leaves are the key to making this Islander dish. \n\nKiawe or Mesquite Wood chunks\n4 lb pork shoulder, or Boston butt\n2-3 tbsp Hawaiian sea salt or regular sea salt \nBanana Leaves\nCabbage, chopped\n\n1. Preheat smoker to 250-300°. \n2. Rub the sea salt into the pork and wrap it in banana leaves.\n3. Add Kiawe or Mesquite wood chunks and smoke until it has reached an internal temperature of 203°. \n4. Remove the meat from the smoker and let it rest for 30-60 minutes before unwrapping and shredding. Discard any large chunks of fat before shredding. \n5. Add, chopped cabbage, salt to taste, and cover for 5-10 minutes. \n \n \n🧤 @cleanspaceproject Black Nitrile Gloves\n🌡️ @meatermade Meater Block\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n ————————————————————————\n#btcooks #yummyfood #tastyfood #homecooking #bbqlovers #bbqporn #outdoorcooking #bbq #backyardgrilling #grilledmeat #meatporn #meat #outdoorcooking #foodporn #recipes #islanderbbq #hawaii #aloha #lechon #roastedpig #pork #kaluapork #smokedpork #porkbutt #meater #teamred #kamadojoe",
-    "description":  "Easy way to make Kalua pork on any smoker. Banana leaves are the key to making this Islander dish. Kiawe or Mesquite Wood chunks",
-    "intro":  [
-                  "Easy way to make Kalua pork on any smoker. Banana leaves are the key to making this Islander dish. Kiawe or Mesquite Wood chunks"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2-3 tbsp Hawaiian sea salt or regular sea salt",
-                                               "Banana Leaves"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Preheat smoker to 250-300°.",
-                  "Rub the sea salt into the pork and wrap it in banana leaves.",
-                  "Add Kiawe or Mesquite wood chunks and smoke until it has reached an internal temperature of 203°.",
-                  "Remove the meat from the smoker and let it rest for 30-60 minutes before unwrapping and shredding. Discard any large chunks of fat before shredding.",
-                  "Add, chopped cabbage, salt to taste, and cover for 5-10 minutes."
-              ]
-},
-  {
-    "id":  "chicken-lettuce-wraps",
-    "title":  "Chicken Lettuce Wraps",
-    "date":  null,
-    "category":  "Poultry",
-    "image":  "images/recipes/chicken-lettuce-wraps.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Chicken Lettuce Wraps 🐓🌯\n\nLettuce wrap on the Kamado Joe! Straight cooked these right on the grill and it came out so good! \n\nIngredients:\n1 Tbs Olive Oil\n2 Pounds Ground chicken or ground turkey\n1 Medium Onion, diced\n1 8-ounce can water chestnut, diced\n1 Knob Fresh Ginger, minced\n3 Garlic cloves, minced\n3 Green onions, sliced\n2 Cups Shitake mushrooms, diced\nSalt and pepper\n\nSauce:\n1/3 Cup Oyster Sauce or Hoisin Sauce\n2 Tbs low sodium soy sauce\n1 Tbs Rice wine vinegar\n1 Tbs Chili Oil\n1 Tbs Sesame Oil\n\nDipping sauce:\n4 Tbs low sodium soy sauce\n2 Tbs Rice wine vinegar\n1 Tbs Sesame Oil\n1 Tbs Chili Oil\n\n1. Combine all of the sauce ingredients and set aside. \n2. Over high heat, heat your pot or large wok with Oil. \n3. Brown ground chicken and lightly season with salt and pepper. \n4. Add the remaining fresh ingredients and cook for 2-3 minutes.\n5. Add sauce and cook for another 3-5 minutes making sure to mix well. \n6. Serve with Butter Lettuce and top off with some dipping sauce. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n ————————————————————————\n#btcooks #chicken #lettucewraps #wok #kamadojoe #teamred",
-    "description":  "Lettuce wrap on the Kamado Joe! Straight cooked these right on the grill and it came out so good!",
-    "intro":  [
-                  "Lettuce wrap on the Kamado Joe! Straight cooked these right on the grill and it came out so good!"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 Tbs Olive Oil",
-                                               "2 Pounds Ground chicken or ground turkey",
-                                               "1 Medium Onion, diced",
-                                               "1 8-ounce can water chestnut, diced",
-                                               "1 Knob Fresh Ginger, minced",
-                                               "3 Garlic cloves, minced",
-                                               "3 Green onions, sliced",
-                                               "2 Cups Shitake mushrooms, diced"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Sauce",
-                                 "items":  [
-                                               "1/3 Cup Oyster Sauce or Hoisin Sauce",
-                                               "2 Tbs low sodium soy sauce",
-                                               "1 Tbs Rice wine vinegar",
-                                               "1 Tbs Chili Oil",
-                                               "1 Tbs Sesame Oil"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Dipping sauce",
-                                 "items":  [
-                                               "4 Tbs low sodium soy sauce",
-                                               "2 Tbs Rice wine vinegar",
-                                               "1 Tbs Sesame Oil",
-                                               "1 Tbs Chili Oil"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all of the sauce ingredients and set aside.",
-                  "Over high heat, heat your pot or large wok with Oil.",
-                  "Brown ground chicken and lightly season with salt and pepper.",
-                  "Add the remaining fresh ingredients and cook for 2-3 minutes.",
-                  "Add sauce and cook for another 3-5 minutes making sure to mix well.",
-                  "Serve with Butter Lettuce and top off with some dipping sauce."
-              ]
-},
-  {
-    "id":  "asian-bang-beef-rib-wraps",
-    "title":  "Asian Bang Beef Rib Wraps",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/asian-bang-beef-rib-wraps.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Asian Bang Beef Rib Wraps🐄\n\nAsian Bang Sauce used as a binder then seasoned with Beef seasoning all from Blazing Star BBQ. Wrapped in beef tallow making these ribs extra juicy. This combination is so damn good. 🍻🤙🏽\n\nIngredients\n1 4-rib rack beef short ribs, about 6 lbs\nAsian Bang Sauce\nBeef Seasoning\nWagyu Tallow\n\nInstructions\n1. Slather the ribs with the Asian Bang sauce, then apply the Beef rub. \n2. Preheat the smoker to about 250 degrees.\n3. Smoke ribs until the internal temperature reaches 160 or until you get a good bark.\n4. Wrap with butcher paper or foil lathering up with some Wagyu Tallow, grill until internal temp hits 203 and probe goes in like butter. \n5. Let it rest for 1 hour, then slice and wrap them in butter lettuce, kimchi, and pickled radish. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🧂Rubs and Sauces: \n@blazingstarbbq Beef Seasoning \u0026 Asian Bang Sauce\n@southchicagopacking Wagyu Tallow\n ————————————————————————\n#btcooks #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #easyrecipes #foodvideo #recipes #beef #beefribs #asianbbq #shortribs #tallow #smokedmeat #lettucewraps #kimchi #healthy #koreanbbq #kbbq",
-    "description":  "Asian Bang Sauce used as a binder then seasoned with Beef seasoning all from Blazing Star BBQ. Wrapped in beef tallow making",
-    "intro":  [
-                  "Asian Bang Sauce used as a binder then seasoned with Beef seasoning all from Blazing Star BBQ. Wrapped in beef tallow making these ribs extra juicy. This combination is so damn good. 🍻🤙🏽"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 4-rib rack beef short ribs, about 6 lbs",
-                                               "Asian Bang Sauce",
-                                               "Beef Seasoning",
-                                               "Wagyu Tallow"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Slather the ribs with the Asian Bang sauce, then apply the Beef rub.",
-                  "Preheat the smoker to about 250 degrees.",
-                  "Smoke ribs until the internal temperature reaches 160 or until you get a good bark.",
-                  "Wrap with butcher paper or foil lathering up with some Wagyu Tallow, grill until internal temp hits 203 and probe goes in like butter.",
-                  "Let it rest for 1 hour, then slice and wrap them in butter lettuce, kimchi, and pickled radish."
-              ]
-},
-  {
-    "id":  "creamy-chimichurri-ribeye-wraps",
-    "title":  "Creamy Chimichurri Ribeye Wraps",
-    "date":  null,
-    "category":  "Beef \u0026 Steak",
-    "image":  "images/recipes/creamy-chimichurri-ribeye-wraps.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Creamy Chimichurri Ribeye Wraps 🌯\n\nGive these wraps a try the next time you feel like having BBQ but don’t want to feel guilty 😂\n\nGrilled Ribeye steaks seasoned with W Sauce and Blazing Star All in One Seasoning, then wrapped with your favorite mixed greens, onions, tomatoes and a creamy Chimichurri sauce 🔥🔥🔥\n\nSteaks vacuum seal in my @vacmasterfresh VP95 to lock in those flavors 🍻\n\nIngredients:\n2 Ribeye Steaks\nWorcestershire sauce \nAll in One Seasoning\n\nCreamy Chimichurri:\n2 tbsp Chimichurri seasoning\n2 tbsp red wine vinegar\n2 tbsp olive oil\n2 tbsp mayonnaise \n\nWrap ingredients:\nBurrito size tortillas \nTomatoes\nRed onions\nMixed greens\nShredded cheese\n\n🪵 @thegoodcharcoal Super Briquettes \n🧤 @cleanspaceproject Gloves \n🔪 @kumaknives Japanese Damascus Knife\n🧂 Seasoning and Sauces: \n@blazingstarbbq All in One Seasoning\n@bearandburtons W Sauce\n@alfrugoni Chimichurri Seasoning\n ————————————————————————\n#btcooks #steak #steakwraps #ribeye #worcestershire #chimichurri #tortillas #healthyfood #grilled #fresh #salad #greens #homecook #bbq #foodporn #delicious #sogood #charcoal",
-    "description":  "Give these wraps a try the next time you feel like having BBQ but don’t want to feel guilty 😂 Grilled Ribeye steaks seasoned",
-    "intro":  [
-                  "Give these wraps a try the next time you feel like having BBQ but don’t want to feel guilty 😂 Grilled Ribeye steaks seasoned with W Sauce and Blazing Star All in One Seasoning, then wrapped with your favorite mixed greens, onions, tomatoes and a creamy Chimichurri sauce 🔥🔥🔥 Steaks vacuum seal in my @vacmasterfresh VP95 to lock in those flavors 🍻"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 Ribeye Steaks"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Creamy Chimichurri",
-                                 "items":  [
-                                               "2 tbsp Chimichurri seasoning",
-                                               "2 tbsp red wine vinegar",
-                                               "2 tbsp olive oil",
-                                               "2 tbsp mayonnaise"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Burrito size tortillas",
-                  "Tomatoes",
-                  "Red onions",
-                  "Mixed greens",
-                  "Shredded cheese"
-              ]
-},
-  {
-    "id":  "santa-maria-tri-tip-w-caper-chimichurri",
-    "title":  "Santa Maria Tri-Tip w/ Caper Chimichurri",
-    "date":  null,
-    "category":  "Beef \u0026 Steak",
-    "image":  "images/recipes/santa-maria-tri-tip-w-caper-chimichurri.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Santa Maria Tri-Tip w/ Caper Chimichurri\n\nReverse seared Santa Maria Tri-Tip from Costco, turned out quite delicious. Elevated this dish with a topping of homemade Caper Chimichurri, making it an ideal combination.\n\n3lb Tri-Tip pre marinated or seasoned with favorite rub\n\n1. Setup grill for indirect cooking at 225 degrees. \n2. Smoked steak until IT hits 130 degrees over lump charcoal and Pecan wood blocks. The end result will be about Medium. \n3. Increase heat to 500 degrees and sear both sides of steak. \n4. Let rest for 10-15 minutes before serving. \n\nChimichurri:\n1/2 bunch Italian parsley, finely chopped\n1/2 bunch Cilantro, finely chopped\n2 tbsp capers, finely chopped\n1-2 garlic cloves, minced\n1 tbsp Shallots, minced\n1 tsp salt\n1 tsp fresh ground black pepper\n1/2 tbsp red pepper flakes\n1/2 lime\n1/4 cup red wine vinegar\n1/4 cup olive oil\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🌡️ @themeatstickig ChefX\n🧤 @cleanspaceproject Black Nitril Gloves\n\n ————————————————————————\n#btcooks #kamadojoe #kamadogrill #instadaily #bbqlovers #smoker #bbqporn #bbq #grilling #backyardgrilling #foodporn #easyrecipes #foodvideo #recipes #foodreels #chimichurri #sauce #tritip #steak #reversesear #marinatedmeat #santamaria #meat",
-    "description":  "Reverse seared Santa Maria Tri-Tip from Costco, turned out quite delicious. Elevated this dish with a topping of homemade Caper",
-    "intro":  [
-                  "Reverse seared Santa Maria Tri-Tip from Costco, turned out quite delicious. Elevated this dish with a topping of homemade Caper Chimichurri, making it an ideal combination. 3lb Tri-Tip pre marinated or seasoned with favorite rub"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Smoked steak until IT hits 130 degrees over lump charcoal and Pecan wood blocks. The end result will be about Medium.",
-                  "Increase heat to 500 degrees and sear both sides of steak.",
-                  "Let rest for 10-15 minutes before serving.",
-                  "1/2 bunch Italian parsley, finely chopped",
-                  "1/2 bunch Cilantro, finely chopped",
-                  "2 tbsp capers, finely chopped",
-                  "1-2 garlic cloves, minced",
-                  "1 tbsp Shallots, minced",
-                  "1 tsp salt",
-                  "1 tsp fresh ground black pepper",
-                  "1/2 tbsp red pepper flakes",
-                  "1/2 lime",
-                  "1/4 cup red wine vinegar",
-                  "1/4 cup olive oil"
-              ]
-},
-  {
-    "id":  "grilled-longanisa-filipino-sausage",
-    "title":  "Grilled Longanisa (Filipino Sausage)",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/grilled-longanisa-filipino-sausage.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Grilled Longanisa (Filipino Sausage)🇵🇭\n\nSweet and Savory Filipino Sausages 😉Perfect meal for anytime of the day. Grilling these sausages is the way to go. Served with Garlic Rice, Fresh chopped Tomatoes, Fried Egg, and Vinegar Dipping sauce LFG!!! 🍻🤙🏽\n\nThis jam also hits the spot. Check out my boy @kusta408 for the drop 🤙🏽\n\nAll ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!! \n\nLonganisa Cooking Instructions:\n1 package of Longanisa\n\n1. Set grill to about 350-375. \n2. Cook for about 15 minutes, flipping half way through. \n3. After 15 minutes I like to cut them to flatten them a little and get a nice char to get that crunch all over. Cook for an additional 5 minutes. \n\nGarlic Rice\n2 cups uncooked rice\n1.5 cups water (just a guess since I’m Filipino and don’t measure my water 😉. You want your rice to cook on the dry side and not so mushy)\n6 Garlic cloves, minced\n1 tsp salt\n2 tbsp soy sauce\n\n1. Rinse your rice thoroughly and then add water and cook in rice cooker or stove top on low heat. Let it set for 30 minutes to an hour in room temp with lid off. \n2. In a large pan or wok, add about 1 tbsp of oil on medium high heat. \n3. Quickly fry the garlic for about a minute before careful not to burn it. \n4. Add the cooked rice, salt, and soy sauce. \n\nVinegar Dipping Sauce (Sawsawan)\n1/2 cup Vinegar or Spicy Vinegar\n1 tbsp Red Onion Chopped\n2 Garlic cloves, minced\n1 tsp Ground Black Pepper\n1 tbsp Soy sauce\n1 tbsp water\n\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n ————————————————————————\n#btcooks #outdoorcooking #foodporn #easyrecipes #recipes #longanisa #longsilog #garlicrice #filipinofood #pinoy #filipino #philippines #sausage #grilled #sd #socal #sandiego #islanderfood #breakfast #lunch #dinner",
-    "description":  "Sweet and Savory Filipino Sausages 😉Perfect meal for anytime of the day. Grilling these sausages is the way to go. Served with",
-    "intro":  [
-                  "Sweet and Savory Filipino Sausages 😉Perfect meal for anytime of the day. Grilling these sausages is the way to go. Served with Garlic Rice, Fresh chopped Tomatoes, Fried Egg, and Vinegar Dipping sauce LFG!!! 🍻🤙🏽 This jam also hits the spot. Check out my boy @kusta408 for the drop 🤙🏽 All ingredients fresh and brought to you by our friends at @islandpacificmarket Go check them out!!!"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 package of Longanisa"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Set grill to about 350-375.",
-                  "Cook for about 15 minutes, flipping half way through.",
-                  "After 15 minutes I like to cut them to flatten them a little and get a nice char to get that crunch all over. Cook for an additional 5 minutes.",
-                  "Garlic Rice",
-                  "2 cups uncooked rice",
-                  "5 cups water (just a guess since I’m Filipino and don’t measure my water 😉. You want your rice to cook on the dry side and not so mushy)",
-                  "6 Garlic cloves, minced",
-                  "1 tsp salt",
-                  "2 tbsp soy sauce",
-                  "Rinse your rice thoroughly and then add water and cook in rice cooker or stove top on low heat. Let it set for 30 minutes to an hour in room temp with lid off.",
-                  "In a large pan or wok, add about 1 tbsp of oil on medium high heat.",
-                  "Quickly fry the garlic for about a minute before careful not to burn it.",
-                  "Add the cooked rice, salt, and soy sauce.",
-                  "Vinegar Dipping Sauce (Sawsawan)",
-                  "1/2 cup Vinegar or Spicy Vinegar",
-                  "1 tbsp Red Onion Chopped",
-                  "2 Garlic cloves, minced",
-                  "1 tsp Ground Black Pepper",
-                  "1 tbsp Soy sauce",
-                  "1 tbsp water"
-              ]
-},
-  {
-    "id":  "brisket-style-tritip",
-    "title":  "Brisket style Tritip",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/brisket-style-tritip.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Brisket style Tritip 🔥\n\nSeasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. \n\nSliced to perfection using the @benchmadeknifecompany Station Kitchen Knife. This knife is so badass and cuts like butter!\n\n1 Tritip\nMayonnaise \nFavorite seasoning\n\n1. Set smoker to 275° for indirect cooking. \n2. Pull at 160-165° and wrap with butcher paper. \n3. Place back on the grill until internal temp hits 203° or once it is probe tender. \n4. Rest for an hour. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n\n#btcooks #tritip #brisket #trisket #meatermade #Kamadojoe #teamred",
-    "description":  "Seasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. Sliced to",
-    "intro":  [
-                  "Seasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. Sliced to perfection using the @benchmadeknifecompany Station Kitchen Knife. This knife is so badass and cuts like butter! 1 Tritip Mayonnaise Favorite seasoning"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Pull at 160-165° and wrap with butcher paper.",
-                  "Place back on the grill until internal temp hits 203° or once it is probe tender.",
-                  "Rest for an hour."
-              ]
-},
-  {
-    "id":  "bistek-tagalog-filipino-beef-steak",
-    "title":  "Bistek Tagalog - Filipino Beef Steak",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/bistek-tagalog-filipino-beef-steak.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Bistek Tagalog - Filipino Beef Steak 🇵🇭\n\nFilipino dish consisting of thinly sliced beef braised in soy sauce, calamansi juice, garlic, ground black pepper, and onions cut into rings. Served with steamed rice, So damn good 🍻🤙🏽\n\nIngredients \u0026 Recipe:\nMarinade\n3 lbs Chuck Steaks, sliced thinly\n1/4 cup juiced Calamansi or Lemon \n1 head garlic, peeled and crushed\n1/3 cup low sodium soy sauce\n1/2 tbsp Beef Bouillon \n1/2 tsp onion powder\n1/2 tsp black pepper\n\n2 tbsp Butter\n1 tbsp Olive Oil\n1 cup water\n1 large onion, peeled and sliced into rings\nSalt and pepper for seasoning, as needed\n\n1. Marinate sliced chuck steaks with calamansi or lemon juice, garlic, onion powder, beef bouillon, and soy sauce for 1-2 hours. \n2. In a pot under Medium heat, add water and entire contents of marinade. Cook for 45 minutes or until meat is tender. \n3. Strain liquid into a bowl and set aside. \n4. Heat pot under medium-high heat with butter and oil. \n5. Add strained contents into pot and sear meat until a crust is formed on each side. \n6. Add reserved marinade and water into pot, cover and simmer for about 5 minutes.\n7. Add sliced onion rings. Season with salt as needed, cover and cook for an additional 3-5 minutes. \n8. Serve with steamed rice. \n\n🥘 @hexclad 5.5qt Sauté Pan\n🧤 @cleanspaceproject Black Nitrile Gloves \n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #easyrecipes #recipes #filipinofood #pinoy #islanderfood #asianfood #umami #grilled #panseared #braised #beef #meat #chuckroast #steak #bistek #beefsteak #hexclad #meatlovers",
-    "description":  "Filipino dish consisting of thinly sliced beef braised in soy sauce, calamansi juice, garlic, ground black pepper, and onions",
-    "intro":  [
-                  "Filipino dish consisting of thinly sliced beef braised in soy sauce, calamansi juice, garlic, ground black pepper, and onions cut into rings. Served with steamed rice, So damn good 🍻🤙🏽"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  "Marinade",
-                                 "items":  [
-                                               "3 lbs Chuck Steaks, sliced thinly",
-                                               "1/4 cup juiced Calamansi or Lemon",
-                                               "1 head garlic, peeled and crushed",
-                                               "1/3 cup low sodium soy sauce",
-                                               "1/2 tbsp Beef Bouillon",
-                                               "1/2 tsp onion powder",
-                                               "1/2 tsp black pepper",
-                                               "2 tbsp Butter",
-                                               "1 tbsp Olive Oil",
-                                               "1 cup water",
-                                               "1 large onion, peeled and sliced into rings"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Marinate sliced chuck steaks with calamansi or lemon juice, garlic, onion powder, beef bouillon, and soy sauce for 1-2 hours.",
-                  "In a pot under Medium heat, add water and entire contents of marinade. Cook for 45 minutes or until meat is tender.",
-                  "Strain liquid into a bowl and set aside.",
-                  "Heat pot under medium-high heat with butter and oil.",
-                  "Add strained contents into pot and sear meat until a crust is formed on each side.",
-                  "Add reserved marinade and water into pot, cover and simmer for about 5 minutes.",
-                  "Add sliced onion rings. Season with salt as needed, cover and cook for an additional 3-5 minutes.",
-                  "Serve with steamed rice."
-              ]
-},
-  {
-    "id":  "bacon-wrapped-chicken-and-asparagus",
-    "title":  "Bacon Wrapped Chicken and Asparagus",
-    "date":  null,
-    "category":  "Pork",
-    "image":  "images/recipes/bacon-wrapped-chicken-and-asparagus.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Bacon Wrapped Chicken and Asparagus 🍗🥓\n\nLittle bite sized goodness seasoned with Blazing Star Pork n Rub and topped with sweet BBQ Sauce. \n\nIngredients:\n2 boneless and skinless chicken breast, sliced 1/2 thick. \n1 bunch fresh asparagus, cut in half\nFavorite sweet BBQ seasoning\n\nSauce:\nFavorite BBQ sauce\n1 tbsp brown sugar\n\n1. Season chicken with favorite rub. \n2. Wrap each piece of chicken with 3 pieces of asparagus with bacon, sprinkle a light dusting of seasoning. \n3. Set 375 and grill indirectly over charcoal for 30 minutes. \n4. Combine brown sugar and bbq sauce in a small bowl. \n5. Half way through cook, brush BBQ sauce \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Pork n Rub Seasoning\n🔪 @spaceman_knives Triton Santoku \n\n————————————————————————\n#btcooks #baconwrapped #bacon #chicken #asparagus #grilled #bbqsauce #usher #fox5sandiego #sandiego #bites #fingerfood #charcoal #bbqporn #smoker #foodporn",
-    "description":  "Little bite sized goodness seasoned with Blazing Star Pork n Rub and topped with sweet BBQ Sauce.",
-    "intro":  [
-                  "Little bite sized goodness seasoned with Blazing Star Pork n Rub and topped with sweet BBQ Sauce."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 boneless and skinless chicken breast, sliced 1/2 thick.",
-                                               "1 bunch fresh asparagus, cut in half"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Sauce",
-                                 "items":  [
-                                               "Favorite BBQ sauce",
-                                               "1 tbsp brown sugar"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Season chicken with favorite rub.",
-                  "Wrap each piece of chicken with 3 pieces of asparagus with bacon, sprinkle a light dusting of seasoning.",
-                  "Set 375 and grill indirectly over charcoal for 30 minutes.",
-                  "Combine brown sugar and bbq sauce in a small bowl.",
-                  "Half way through cook, brush BBQ sauce"
-              ]
-},
-  {
-    "id":  "smoked-tritip-stirfry-noodles",
-    "title":  "Smoked Tritip Stirfry Noodles",
-    "date":  null,
-    "category":  "Pasta \u0026 Noodles",
-    "image":  "images/recipes/smoked-tritip-stirfry-noodles.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Tritip Stirfry Noodles 🍝\n\nStirfry noodles with smoked Tritip was a big hit and all cooked on the Kamado Joe Series III. Seasoned meat with Blazing Star Beef rub and maintained perfect meat temps with the new Meater Pro XL 🍻\n\nThe new Meater Pro XL has some dope new features that include:\n• Built-in WiFi for whole-home coverage\n• Open flame grilling and high heat searing up to 1000°F\n• Perfect for deep frying and sous vide cooking\n\nIngredients\nSmoked tri tip\n18 oz thick chow mein noodles\n1/2 red onion, sliced\n1 large carrot, julienned \n1/4 cabbage, sliced\n2 stalks green onion\n1 cup bean sprouts\n4 tbsp cooking oil\n\nSauce\n2 tbsp oyster sauce\n2 tbsp soy sauce\n1 tsp sugar\n1 tsp chicken bouillon powder\n1 tbsp sesame oil\n\n1. Smoke tritip until IT hits 135°. Sear over direct heat to develop a nice crust. Let it rest for 10-15 minutes. \n2. Slice half of the tri tip into cubes and the other half into thin slices. \n3. In a wok, under medium-high heat, add 2 tbsp of oil then add red onions and cook until slightly soften.\n4. Add the cabbage and carrots and cook for 1-2 minutes.\n5. Add the remaining veggies and cook for 2-4 minutes. \n6. Remove stirfry mixture from wok and set aside. \n7. Add 2 tbsp of oil in wok and stir fry noodles. \n8. Add the sauce mixture and incorporate into noodles. \n9. Add veggies and tritip into wok and mix well. \n10. Serve hot with extra slices of tritip and garnish with green onions. \n\n🧤 @cleanspaceproject Black Nitrile Gloves\n🔥 @kamadojoe Big Joe Series III\n🪵 @thegoodcharcoal Lump Charcoal\n🌡️ @meatermade Meater Pro XL\n🧂 @blazingstarbbq Beef Rub \u0026 Seasoning\n ————————————————————————\n#btcooks #bbq #grilling #backyardgrilling #outdoorcooking #recipes #stirfrynoodles #noodles #tritip #asianfusion #chowmein #pancit #Kamadojoe #teamred #MEATER #MEATERmade #MEATERProXL",
-    "description":  "Stirfry noodles with smoked Tritip was a big hit and all cooked on the Kamado Joe Series III. Seasoned meat with Blazing Star",
-    "intro":  [
-                  "Stirfry noodles with smoked Tritip was a big hit and all cooked on the Kamado Joe Series III. Seasoned meat with Blazing Star Beef rub and maintained perfect meat temps with the new Meater Pro XL 🍻 The new Meater Pro XL has some dope new features that include: • Built-in WiFi for whole-home coverage • Open flame grilling and high heat searing up to 1000°F • Perfect for deep frying and sous vide cooking"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "Smoked tri tip",
-                                               "18 oz thick chow mein noodles",
-                                               "1/2 red onion, sliced",
-                                               "1 large carrot, julienned",
-                                               "1/4 cabbage, sliced",
-                                               "2 stalks green onion",
-                                               "1 cup bean sprouts",
-                                               "4 tbsp cooking oil"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Sauce",
-                                 "items":  [
-                                               "2 tbsp oyster sauce",
-                                               "2 tbsp soy sauce",
-                                               "1 tsp sugar",
-                                               "1 tsp chicken bouillon powder",
-                                               "1 tbsp sesame oil"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Smoke tritip until IT hits 135°. Sear over direct heat to develop a nice crust. Let it rest for 10-15 minutes.",
-                  "Slice half of the tri tip into cubes and the other half into thin slices.",
-                  "In a wok, under medium-high heat, add 2 tbsp of oil then add red onions and cook until slightly soften.",
-                  "Add the cabbage and carrots and cook for 1-2 minutes.",
-                  "Add the remaining veggies and cook for 2-4 minutes.",
-                  "Remove stirfry mixture from wok and set aside.",
-                  "Add 2 tbsp of oil in wok and stir fry noodles.",
-                  "Add the sauce mixture and incorporate into noodles.",
-                  "Add veggies and tritip into wok and mix well.",
-                  "Serve hot with extra slices of tritip and garnish with green onions."
-              ]
-},
-  {
-    "id":  "lemon-saffron-chicken",
-    "title":  "Lemon Saffron Chicken",
-    "date":  null,
-    "category":  "Poultry",
-    "image":  "images/recipes/lemon-saffron-chicken.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Lemon Saffron Chicken 🍋 🍗\n\nThis is an easy recipe if you are looking to change up your chicken meals. Perfects for salads, wraps, or even with just rice.\n\nIngredients\n2 pounds chicken breast, sliced\n2 tbs olive oil\n1 lemon juice, juiced\n3 tbs mayonnaise\n1 small yellow onion, diced\n3-4 garlic cloves, minced\n1 cup parsley, chopped\n1 cup cilantro, chopped\n1 pinch Saffron\n1 tsp red pepper flakes\n1 tbsp Chicken Bouillon\n1 tsp black pepper\n\n1. Combine all ingredients and let it marinade over night or at least 4-6 hours.\n2. Over direct heat, grill chicken.\n3. Serve with salad or as a healthy wrap.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n🔪 @spaceman_knives Triton Santoku\n📦 @vacmasterfresh VP95 Vacuum Chamber\n ————————————————————————\n\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #chicken #wraps #sandiego #homecooking #healthy #mediterranean #mediterraneanfood #chickenkabob #saffron #salad #diet #easyrecipe #foodporn #sandiego #spring",
-    "description":  "This is an easy recipe if you are looking to change up your chicken meals. Perfects for salads, wraps, or even with just rice.",
-    "intro":  [
-                  "This is an easy recipe if you are looking to change up your chicken meals. Perfects for salads, wraps, or even with just rice."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 pounds chicken breast, sliced",
-                                               "2 tbs olive oil",
-                                               "1 lemon juice, juiced",
-                                               "3 tbs mayonnaise",
-                                               "1 small yellow onion, diced",
-                                               "3-4 garlic cloves, minced",
-                                               "1 cup parsley, chopped",
-                                               "1 cup cilantro, chopped",
-                                               "1 pinch Saffron",
-                                               "1 tsp red pepper flakes",
-                                               "1 tbsp Chicken Bouillon",
-                                               "1 tsp black pepper"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all ingredients and let it marinade over night or at least 4-6 hours.",
-                  "Over direct heat, grill chicken.",
-                  "Serve with salad or as a healthy wrap."
-              ]
-},
-  {
-    "id":  "lemongrass-bbq-skewers",
-    "title":  "Lemongrass BBQ Skewers",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/lemongrass-bbq-skewers.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Lemongrass BBQ Skewers 🐖🐓\n\nThis recipe is a fusion between Filipino and Vietnamese BBQ. The lemongrass adds a little freshness while the fish sauce and banana ketchup provides that savory goodness. 🇵🇭🇻🇳 Served these up with a side of steamed rice and spiced vinegar (Suka). 🤙🏽\n\nPerfectly marinated using my VP95 vacuum chamber. 🍻\n\nAll ingredients brought to you by my friends at @islandpacificmarket \n\n2-3 Ibs skinless pork belly or chicken thighs (sliced thin)\n4 tbsp Fish sauce\n2 tbsp Oyster Sauce\n2 tbsp Light soy sauce\n2 tbsp Banana Ketchup \n4 Garlic cloves, minced\n3 stalks Green Onion, chopped\n4-5 stalks Lemon Grass\n1 tbsp Sesame Oil\n3 tbsp Sugar\n2 tbsp Honey \n1 tsp Ground pepper\n\n1. Mix all ingredients together.\n2. Marinate for 2-3 hrs or overnight in the refrigerator. \n3. Skewer the meat. \n4. Preheat the grill and setup for direct grilling over charcoal for best flavor.\n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Gloves \n🔪 @kumaknives Japanese Damascus Knife\n🛒 @islandpacificmarket Ingredients\n ————————————————————————\n#btcooks #porkbbq #chickenbbq #filipinobbq #vietnamesebbq #bbqskewers #marinade #pork #chicken #filipinofood #vietnamesefood #kabob #islanderfood #asianfood #asianfusion #pinoy #spicedvinegar #suka #foodporn #streetfood",
-    "description":  "This recipe is a fusion between Filipino and Vietnamese BBQ. The lemongrass adds a little freshness while the fish sauce and",
-    "intro":  [
-                  "This recipe is a fusion between Filipino and Vietnamese BBQ. The lemongrass adds a little freshness while the fish sauce and banana ketchup provides that savory goodness. 🇵🇭🇻🇳 Served these up with a side of steamed rice and spiced vinegar (Suka). 🤙🏽 Perfectly marinated using my VP95 vacuum chamber. 🍻 All ingredients brought to you by my friends at @islandpacificmarket 2-3 Ibs skinless pork belly or chicken thighs (sliced thin)"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 tbsp Oyster Sauce",
-                                               "2 tbsp Light soy sauce",
-                                               "2 tbsp Banana Ketchup",
-                                               "4 Garlic cloves, minced",
-                                               "3 stalks Green Onion, chopped",
-                                               "4-5 stalks Lemon Grass",
-                                               "1 tbsp Sesame Oil",
-                                               "3 tbsp Sugar",
-                                               "2 tbsp Honey",
-                                               "1 tsp Ground pepper"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Mix all ingredients together.",
-                  "Marinate for 2-3 hrs or overnight in the refrigerator.",
-                  "Skewer the meat.",
-                  "Preheat the grill and setup for direct grilling over charcoal for best flavor."
-              ]
-},
-  {
-    "id":  "braised-oxtails-and-chuck",
-    "title":  "Braised Oxtails and Chuck",
-    "date":  null,
-    "category":  "Beef \u0026 Steak",
-    "image":  "images/recipes/braised-oxtails-and-chuck.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Braised Oxtails and Chuck 🐄\n\nI can eat these all day! Smoked and then braised in beef stock with sliced onions and bell peppers. \n\nPlaced in my VacMaster VP95 vacuum chamber to add that extra flavor. 🔥\n\nIngredients:\n2-3 lbs beef Oxtails cut and trimmed\n2 lbs Chuck Roast cut into large cubes\nBlazing Star Beef Seasoning\nBlazing Star Reaper Seasoning\nW Sauce as a binder\n\nBraising:\n2 cups Beef broth, enough to cover half of meat\n1 Onion, sliced\n1 Green Bell pepper, sliced\u2028\n1. Season meat liberally with BBQ rub and let sit for 1 hour before cooking. \n2. Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.\n3. Remove meat and place into a roasting pan. \n4. Add beef broth, onions, and Bell Peppers, cover with aluminum foil. \n5. Place back into smoker and cook for another 3 hours. \u2028\nYou can braise it in the instant pot for 30 minutes high pressure. Then add the veggies, and pressure cook for an additional 10 minutes. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🗃️ @vacmasterfresh VP95 Vacuum Chamber\n🧤 @cleanspaceproject Nitrile Gloves \n🧂 Seasonings and Sauces:\n@blazingstarbbq Beef and Reaper Seasoning\n@wsauceofficial Worcestershire \n ————————————————————————\n#btcooks #food #foodporn #bbqporn #tasty #easyrecipes #foodvideo #recipes #oxtail #chuckroast #burntends #briased #meat #smoked #candyred #nuggets #smoker #fox5newssandiego #sandiego #grilled",
-    "description":  "I can eat these all day! Smoked and then braised in beef stock with sliced onions and bell peppers. Placed in my VacMaster VP95",
-    "intro":  [
-                  "I can eat these all day! Smoked and then braised in beef stock with sliced onions and bell peppers. Placed in my VacMaster VP95 vacuum chamber to add that extra flavor. 🔥"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2-3 lbs beef Oxtails cut and trimmed",
-                                               "2 lbs Chuck Roast cut into large cubes",
-                                               "Blazing Star Beef Seasoning",
-                                               "Blazing Star Reaper Seasoning",
-                                               "W Sauce as a binder"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "2 cups Beef broth, enough to cover half of meat",
-                  "1 Onion, sliced",
-                  "1 Green Bell pepper, sliced",
-                  "Season meat liberally with BBQ rub and let sit for 1 hour before cooking.",
-                  "Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.",
-                  "Remove meat and place into a roasting pan.",
-                  "Add beef broth, onions, and Bell Peppers, cover with aluminum foil.",
-                  "Place back into smoker and cook for another 3 hours.",
-                  "You can braise it in the instant pot for 30 minutes high pressure. Then add the veggies, and pressure cook for an additional 10 minutes."
-              ]
-},
-  {
-    "id":  "grilled-branzino-w-lemon-caper-dressing",
-    "title":  "Grilled Branzino w/Lemon Caper Dressing",
-    "date":  null,
-    "category":  "Seafood",
-    "image":  "images/recipes/grilled-branzino-w-lemon-caper-dressing.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Grilled Branzino w/Lemon Caper Dressing 🐟🍋\n\nThis Mediterranean style grilled Branzino was seasoned with Spanglish Asadero’s Surf and Turf Seasoning. Served with roasted broccoli and cilantro lime basmati rice 🔥. \n\nInspired by one of my wife’s favorite restaurants @kokkarisf \n\nIngredients\n1-2 Whole Branzino, scaled and gutted\nExtra virgin olive oil\nFavorite Surf and Turf seasoning or Sea salt and fresh ground pepper\n2-3 lemons — 1 lemon sliced and the rest for spreading the juice over fish\nFresh Thyme\n\nDressing\n6 tablespoons Extra virgin olive oil\n2 teaspoons Capers, minced\n2 teaspoons Shallots, minced\n1 teaspoon Garlic, minced\n1 tablespoon Italian parsley, minced\n½ teaspoon fresh Oregano, minced\nSalt and freshly ground black pepper\n1 Lemon, juiced\n\n1. In a small bowl, combine all the Dressing ingredients. Set aside\n2. Clean fish and make a lengthwise slit down the middle of each side, from the gill to the tail, slicing all the way to the bone.\n3. Lather extra virgin olive oil all over fish.\n4. Season with seasoning or Salt and fresh ground black pepper. \n5. Stuff slices of lemon and fresh Thyme into the belly.\n6. Heat grill to 500 degrees and setup up for direct cooking. \n7. Place fish over charcoal and cook for 15 minutes on each side.\n8. Transfer the fish to a plate a squeeze fresh lemon juice over fish. \n9. Season the fish lightly with salt and pepper, then spoon Dressing over it.\n\n🔥 @kamado Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @spanglishasadero_official Surf \u0026 Turf Seasoning\n ————————————————————————\n#btcooks #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #foodporn #easyrecipes #recipes #grilledfish #branzino #mediterraneandiet #mediterraneanfood #italianfood #healthy #dinner #fish #seafood",
-    "description":  "This Mediterranean style grilled Branzino was seasoned with Spanglish Asadero’s Surf and Turf Seasoning. Served with roasted",
-    "intro":  [
-                  "This Mediterranean style grilled Branzino was seasoned with Spanglish Asadero’s Surf and Turf Seasoning. Served with roasted broccoli and cilantro lime basmati rice 🔥. Inspired by one of my wife’s favorite restaurants @kokkarisf"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "2-3 lemons — 1 lemon sliced and the rest for spreading the juice over fish",
-                  "Fresh Thyme",
-                  "6 tablespoons Extra virgin olive oil",
-                  "2 teaspoons Capers, minced",
-                  "2 teaspoons Shallots, minced",
-                  "1 teaspoon Garlic, minced",
-                  "1 tablespoon Italian parsley, minced",
-                  "teaspoon fresh Oregano, minced",
-                  "Salt and freshly ground black pepper",
-                  "1 Lemon, juiced",
-                  "In a small bowl, combine all the Dressing ingredients. Set aside",
-                  "Clean fish and make a lengthwise slit down the middle of each side, from the gill to the tail, slicing all the way to the bone.",
-                  "Lather extra virgin olive oil all over fish.",
-                  "Season with seasoning or Salt and fresh ground black pepper.",
-                  "Stuff slices of lemon and fresh Thyme into the belly.",
-                  "Heat grill to 500 degrees and setup up for direct cooking.",
-                  "Place fish over charcoal and cook for 15 minutes on each side.",
-                  "Transfer the fish to a plate a squeeze fresh lemon juice over fish.",
-                  "Season the fish lightly with salt and pepper, then spoon Dressing over it."
-              ]
-},
-  {
-    "id":  "pork-tenderloin-w-prosciutto-provolone",
-    "title":  "Pork Tenderloin w/ Prosciutto \u0026 Provolone",
-    "date":  null,
-    "category":  "Pork",
-    "image":  "images/recipes/pork-tenderloin-w-prosciutto-provolone.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Pork Tenderloin w/ Prosciutto \u0026 Provolone 🧀\n\nGrilled these on the Joetisserie and basket over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. Came out juicy and so good! \n\nPork Tenderloin, sliced flat\n1 bunch Parsley, chopped\n1 bunch Cilantro, chopped\nLemon wedges\nCastelvetrano olives, sliced\nSalt\n\nDressing:\n12-15 Castelvetrano olives, chopped\n1 tbsp Calabrian chili paste\n2 tbsp Capers, optional\n4 tbsp Olive oil\n1 Shallot, chopped \n4 Garlic cloves, minced\n1 Lemon, skinned \u0026 chopped\n1 Lemon juice \u0026 Zest\nSalt and pepper \n\nGarnishing: \nGreen onions\nLemon zest\n\nGrilled over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. \n\n🔥 @kamadojoe Big Joe Series III\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🌡️ @meatermade Meater Pro XL\n🧂 @alfrugoni Grilling Salt\n\n#btcooks #homecooking #tenderloin #rotisserie #pork #chimichurri #fusion #bbq #teamred #kamadojoe #meater",
-    "description":  "Grilled these on the Joetisserie and basket over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. Came",
-    "intro":  [
-                  "Grilled these on the Joetisserie and basket over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour. Came out juicy and so good! Pork Tenderloin, sliced flat 1 bunch Parsley, chopped 1 bunch Cilantro, chopped Lemon wedges Castelvetrano olives, sliced Salt Dressing: 12-15 Castelvetrano olives, chopped"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 tbsp Capers, optional",
-                                               "4 tbsp Olive oil",
-                                               "1 Shallot, chopped",
-                                               "4 Garlic cloves, minced",
-                                               "1 Lemon, skinned \u0026 chopped",
-                                               "1 Lemon juice \u0026 Zest"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Salt and pepper",
-                  "Green onions",
-                  "Lemon zest",
-                  "Grilled over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour."
-              ]
-},
-  {
-    "id":  "smoked-salmon-tacos",
-    "title":  "Smoked Salmon Tacos",
-    "date":  null,
-    "category":  "Seafood",
-    "image":  "images/recipes/smoked-salmon-tacos.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Salmon Tacos 🌮 \n\nSmoked Salmon tacos served with pickled onions and bell peppers. Topped off with Cilantro Lime Chipotle crema and fresh Cilantro 🔥\n\n4 Salmon Fillets\nBlazing Star Pork n Rub Seasoning\nPickled onions and bell peppers\nCilantro Lime Chipotle Crema Sauce\nFresh Cilantro \n\n1. Season Salmon Fillets with seasoning, let it sit for about 10-15 minutes. \n2. Preheat grill to 180 degrees using lump charcoal and setup for indirect. \n3. Add your favorite wood chunks, I used Strawberry Guava from @firewoodhawaii \n4. Smoke fillets until internal temp hits 145. \n\n🔥 @nomadgrills Portable Grill \u0026 Smoker\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves\n🔪 @spaceman_knives Triton Santoku\n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #meat #sandiego #homecooking #fancy #salmon #baja #mexico #tj #salmontacos #tacos #grilledfish #fresh #seafood #sd #socal #fresh",
-    "description":  "Smoked Salmon tacos served with pickled onions and bell peppers. Topped off with Cilantro Lime Chipotle crema and fresh Cilantro",
-    "intro":  [
-                  "Smoked Salmon tacos served with pickled onions and bell peppers. Topped off with Cilantro Lime Chipotle crema and fresh Cilantro 🔥 4 Salmon Fillets Blazing Star Pork n Rub Seasoning Pickled onions and bell peppers Cilantro Lime Chipotle Crema Sauce Fresh Cilantro"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Preheat grill to 180 degrees using lump charcoal and setup for indirect.",
-                  "Add your favorite wood chunks, I used Strawberry Guava from @firewoodhawaii",
-                  "Smoke fillets until internal temp hits 145."
-              ]
-},
-  {
-    "id":  "smoked-corned-beef",
-    "title":  "Smoked Corned Beef ️",
-    "date":  null,
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/smoked-corned-beef.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Corned Beef ☘️\n\nYou have to try smoked corned beef. This brisket point was injected with Wagyu Tallow and seasoned with Blazing Star Beef Rub made this so damn good. \n\n3-4 pound Corned Beef, soaked in water over night to reduce saltiness\nBeef Rub\nWagyu Tallow\n\n1. Lightly season beef with beef rub and let it come to room temp. \n2. Inject with Wagyu Tallow. \n3. Grill over indirect heat at 275 degrees using charcoal and your favorite wood chunks. \n4. Once the internal temp hit 160 degrees, I wrapped in a foil boat and cooked it until it hit 200 degrees and probe tender. \n5. Remove from grill and wrap with foil and rest for 1 hour before slicing. \n\n🔥 @kamado Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal \n🧤 @cleanspaceproject Black Nitril Gloves \n🧂 @blazingstarbbq Beef Rub\n🛢️ @southchicagopacking Wagyu Tallow\n🔪 @spaceman_knives Triton Santoku \n🌡️ @themeatstickig MeatStick 4X\n ————————————————————————\n#btcooks #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #cornedbeef #brisket #steak #meat #beef #wagyu #tallow #stpatricksday #stpattysday #irish #leprechaun #green #cheers #sandiego",
-    "description":  "You have to try smoked corned beef. This brisket point was injected with Wagyu Tallow and seasoned with Blazing Star Beef Rub",
-    "intro":  [
-                  "You have to try smoked corned beef. This brisket point was injected with Wagyu Tallow and seasoned with Blazing Star Beef Rub made this so damn good. 3-4 pound Corned Beef, soaked in water over night to reduce saltiness Beef Rub Wagyu Tallow"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Inject with Wagyu Tallow.",
-                  "Grill over indirect heat at 275 degrees using charcoal and your favorite wood chunks.",
-                  "Once the internal temp hit 160 degrees, I wrapped in a foil boat and cooked it until it hit 200 degrees and probe tender.",
-                  "Remove from grill and wrap with foil and rest for 1 hour before slicing."
-              ]
-},
-  {
-    "id":  "grilled-chicken-sisig",
-    "title":  "Grilled Chicken Sisig",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/grilled-chicken-sisig.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Grilled Chicken Sisig 🐓🇵🇭\n\nTypically made with deep fried pork belly (Lechon Kawali), but made this batch with grilled BBQ Chicken. Perfect dish to go with a cold beer 🍻\n\nBBQ Chicken Marinade\n* 3-4 lbs Chicken thighs \n* 1/2 cup soy sauce\n* 4 cloves garlic, chopped\n* 2 tablespoon calamansi or 1 lemon juice\n* 1 tbsp chicken bouillon \n* 1/2 tbsp black pepper\n\nSisig Ingredients \n* BBQ Chicken, chopped\n* 1 medium red bell pepper, diced\n* 1 medium green bell pepper, diced\n* 4 stalks green onions, chopped\n* 1 red onion, diced\n* 1/4 cup calamansi or 2 lemons, juiced\n* 1 tbsp chicken bouillon\n* 1 tbsp low sodium soy sauce\n* 2 tbsp mayonnaise \n* 1/2 - 1 tbsp Dried chili flakes, (optional)\n* salt and pepper to taste\n\n1. Marinate chicken for 4-6 hours. \n2. Bbq chicken over charcoal. \n3. Once cooked, set aside then chop meat into chunks. \n4. In a skillet on medium high heat, add a tablespoon of olive oil and cook half of the chopped onions, bell peppers. \n5. Add the chicken back in and add calamansi or lemon juice, soy sauce, bouillon, and mayonnaise. \n6. Transfer to a plate excluding any liquid that may have developed in the pan and garnish with fresh onions, green onions, and chicharron. \n7. Serve with a side of steamed rice. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🍳 @hexclad 12” Wok\n ————————————————————————\n#btcooks #yummyfood #foodstagram #tastyfood #viral #homecooking #easyrecipes #recipes #asianfood #marinatedmeat #grilled #bbqporn #meatporn #chicken #thighs #meat #sisig #pinoy #filipinofood #islanderfood #philippines #grilledchicken #chickensisig #hexclad #teamred #Kamadojoe",
-    "description":  "Typically made with deep fried pork belly (Lechon Kawali), but made this batch with grilled BBQ Chicken. Perfect dish to go with",
-    "intro":  [
-                  "Typically made with deep fried pork belly (Lechon Kawali), but made this batch with grilled BBQ Chicken. Perfect dish to go with a cold beer 🍻 BBQ Chicken Marinade"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "* 1/2 cup soy sauce",
-                                               "* 4 cloves garlic, chopped",
-                                               "* 2 tablespoon calamansi or 1 lemon juice",
-                                               "* 1 tbsp chicken bouillon",
-                                               "* 1/2 tbsp black pepper",
-                                               "Sisig Ingredients",
-                                               "* BBQ Chicken, chopped",
-                                               "* 1 medium red bell pepper, diced"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "* 1 medium green bell pepper, diced",
-                  "* 4 stalks green onions, chopped",
-                  "* 1 red onion, diced",
-                  "* 1/4 cup calamansi or 2 lemons, juiced",
-                  "* 1 tbsp chicken bouillon",
-                  "* 1 tbsp low sodium soy sauce",
-                  "* 2 tbsp mayonnaise",
-                  "* 1/2 - 1 tbsp Dried chili flakes, (optional)",
-                  "* salt and pepper to taste",
-                  "Marinate chicken for 4-6 hours.",
-                  "Bbq chicken over charcoal.",
-                  "Once cooked, set aside then chop meat into chunks.",
-                  "In a skillet on medium high heat, add a tablespoon of olive oil and cook half of the chopped onions, bell peppers.",
-                  "Add the chicken back in and add calamansi or lemon juice, soy sauce, bouillon, and mayonnaise.",
-                  "Transfer to a plate excluding any liquid that may have developed in the pan and garnish with fresh onions, green onions, and chicharron.",
-                  "Serve with a side of steamed rice."
-              ]
-},
-  {
-    "id":  "filipino-pork-bbq-skewers",
-    "title":  "Filipino Pork BBQ Skewers",
-    "date":  null,
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/filipino-pork-bbq-skewers.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Filipino Pork BBQ Skewers 🇵🇭🐖\n\nThese skewers are so good and perfect for parties. Packed with flavor and so addicting. 🍻\n\nIngredients:\n3 lbs pork shoulder or belly, sliced 1/4 inch thick\n1/2 cup low sodium soy sauce\n1/4 cup Oyster sauce\n1/2 cup Banana Ketchup\n1/2 bottle of Beer (I used Modelo)\n1/2 cup Pineapple Juice\n1/2 lemon, juiced\n1 head garlic, crushed\n2 tsp chicken bouillon powder\n1/2 cup brown sugar\n1 tsp ground black pepper\nBamboo skewers, soaked in water for 30 min\n\n1. Combine all ingredients, but separate 1/4 cup of marinade on the side for basting. \n2. Add pork into marinade and refrigerate for at least 4 hours, preferably overnight. \n3. Skewer pork into soaked bamboo skewers. \n4. Grill over lump charcoal, turning every 1-2 minutes to prevent the sugar from burning. \n5. Baste skewers throughout cook. \n\n🔥 @kamadojoe Konnected Joe\n🪵 @thegoodcharcoak Lump Charcoal\n🧤 @cleanspaceproject Gloves \n ————————————————————————\n#btcooks #porkbbq #filipinobbq #bbqskewers #marinade #pork #filipinofood #kabobs #hawaiianfood #islanderfood",
-    "description":  "These skewers are so good and perfect for parties. Packed with flavor and so addicting. 🍻",
-    "intro":  [
-                  "These skewers are so good and perfect for parties. Packed with flavor and so addicting. 🍻"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "3 lbs pork shoulder or belly, sliced 1/4 inch thick",
-                                               "1/2 cup low sodium soy sauce",
-                                               "1/4 cup Oyster sauce",
-                                               "1/2 cup Banana Ketchup",
-                                               "1/2 bottle of Beer (I used Modelo)",
-                                               "1/2 cup Pineapple Juice",
-                                               "1/2 lemon, juiced",
-                                               "1 head garlic, crushed",
-                                               "2 tsp chicken bouillon powder",
-                                               "1/2 cup brown sugar",
-                                               "1 tsp ground black pepper"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all ingredients, but separate 1/4 cup of marinade on the side for basting.",
-                  "Add pork into marinade and refrigerate for at least 4 hours, preferably overnight.",
-                  "Skewer pork into soaked bamboo skewers.",
-                  "Grill over lump charcoal, turning every 1-2 minutes to prevent the sugar from burning.",
-                  "Baste skewers throughout cook."
               ]
 }
 ];

@@ -6609,42 +6609,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "easy-steak-marinade-that-goes-well-with-any-side",
-    "title":  "Easy steak marinade that goes well with any side.",
-    "date":  "2022-12-10",
-    "category":  "Beef \u0026 Steak",
-    "image":  "images/recipes/easy-steak-marinade-that-goes-well-with-any-side.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Easy steak marinade that goes well with any side. Serve with steamed rice and veggies ??????\n\n4 rib eye steaks \n? cup low sodium soy sauce\n½ cup olive oil \n? cup fresh lemon juice \n¼ cup Worcestershire sauce\n3-4 Garlic cloves, minced\n1 tablespoons dried basil \n1? tablespoons oregano \n1 teaspoon ground white pepper \n1 tablespoon chicken bouillon \n \n1. Combine all ingredients in a blender.\n2. Marinate meat for 3-4 hours.\n3. Grill on high heat for 5-6 minutes each side until medium tenderness. \n ————————————————————————\n#traegergrills #yum #homecooking #bbq #lowandslow #grilling #yummy #backyardgrilling #fitfamily #Foodie #meatlover #instafood #grilllife #foodlover #protein #meatlover #foodporn #meatporn #tasty #igfood #sd #sdcook #btcooks #easyrecipes #steaks #steakmarinade #marinade #corn #shishitopeppers #grilled #islandbbqcravings",
-    "description":  "Easy steak marinade that goes well with any side.",
-    "likes":  0,
-    "intro":  [
-
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "? cup low sodium soy sauce",
-                                               "cup olive oil",
-                                               "? cup fresh lemon juice",
-                                               "cup Worcestershire sauce",
-                                               "3-4 Garlic cloves, minced",
-                                               "1 tablespoons dried basil",
-                                               "1 tablespoons oregano",
-                                               "1 teaspoon ground white pepper",
-                                               "1 tablespoon chicken bouillon"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine all ingredients in a blender.",
-                  "Marinate meat for 3-4 hours.",
-                  "Grill on high heat for 5-6 minutes each side until medium tenderness.",
-                  ""
-              ]
-},
-{
     "id":  "japanese-bbq-is-probably-one-of-my-favorite-style-of-bbq",
     "title":  "Japanese BBQ is probably one of my favorite style of BBQ.",
     "date":  "2022-11-15",

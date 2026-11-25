@@ -40,11 +40,14 @@
   function heroHtml() {
     return `
       <section class="hero">
-        <img class="hero-bg" src="images/hero-braise.jpg" alt="Smoked and braised chuck roast with peppers and mushrooms" />
-        <div class="hero-overlay"></div>
         <div class="shell hero-content">
           <p class="hero-kicker">Home cooking &amp; backyard grilling</p>
-          <h1 class="hero-title">BT COOKS</h1>
+          <h1 class="hero-title">Real fire. Real flavor.<br/>Recipes worth making.</h1>
+          <p class="hero-copy">
+            Live-fire cooking from Emerson Bartolome &mdash; Next Level Chef Season 5
+            contestant and 2x Food Network feature. Every recipe is straight from
+            the @bt.cooks feed and written out so you can actually cook it.
+          </p>
           <p class="hero-sub">
             <span class="hero-badge">Next Level Chef S5 &middot; FOX</span>
             <span class="hero-badge">Featured 2x on Food Network</span>
@@ -110,13 +113,6 @@
               <img src="images/about/4th-of-july-1.jpg" alt="4th of July cookout" loading="lazy" onerror="this.closest('figure').remove()" />
               <figcaption><strong>4th of July</strong><span>Backyard cookout &middot; live fire</span></figcaption>
             </figure>
-          </div>
-        </div>
-        <div class="partners">
-          <h3>Brands he cooks with</h3>
-          <div class="partner-chips">
-            <span>Kamado Joe</span><span>The Good Charcoal</span><span>MEATER</span>
-            <span>Blazing Star BBQ</span><span>TFTI BBQ</span><span>Reserve Blends</span><span>Benchmade</span>
           </div>
         </div>
       </section>`;
@@ -225,6 +221,9 @@
       .join("");
 
     const steps = (r.steps || []).map((s) => `<li>${esc(s)}</li>`).join("");
+    const hasIngredients = groups.some((g) => (g.items || []).length > 0);
+    const hasSteps = steps.length > 0;
+    const needsFullCaption = !hasIngredients || !hasSteps;
     const tips = (r.tips || []).map((t) => `<li>${esc(t)}</li>`).join("");
     const gear = (r.gear || []).map((g) => `<li>${esc(g)}</li>`).join("");
     const nav = `
@@ -245,22 +244,25 @@
         <div class="fact-row">${facts}</div>
         <div class="recipe-hero"><img src="${esc(r.image)}" alt="${esc(r.title)}" /></div>
         ${intro}
-        <div class="recipe-columns">
-          <div class="panel">
-            <h3>Ingredients</h3>
-            ${ingredientHtml}
-          </div>
-          <div class="panel">
-            <h3>Instructions</h3>
-            <ol class="steps">${steps}</ol>
+        ${
+          hasIngredients || hasSteps
+            ? `<div class="recipe-columns">
+          ${hasIngredients ? `<div class="panel"><h3>Ingredients</h3>${ingredientHtml}</div>` : '<div class="panel"></div>'}
+          ${hasSteps ? `<div class="panel"><h3>Instructions</h3><ol class="steps">${steps}</ol>
             ${tips ? `<h3>Chef's Tips</h3><ul class="tips-list">${tips}</ul>` : ""}
             ${gear ? `<h3>Gear Used</h3><ul class="gear-list">${gear}</ul>` : ""}
-            ${r.notes ? `<h3>Notes</h3><div class="note-block">${esc(r.notes)}</div>` : ""}
-          </div>
-        </div>
+            ${r.notes ? `<h3>Notes</h3><div class="note-block">${esc(r.notes)}</div>` : ""}</div>` : '<div class="panel"></div>'}
+        </div>`
+            : ""
+        }
         ${
           short
             ? `<blockquote class="caption-block"><span class="caption-label">From the Instagram caption</span>${esc(short)}${r.instagramUrl ? ` <a href="${esc(r.instagramUrl)}" target="_blank" rel="noopener">Read the full post</a>` : ""}</blockquote>`
+            : ""
+        }
+        ${
+          needsFullCaption && r.caption
+            ? `<details class="caption-details"><summary>Read the full Instagram caption</summary><div class="caption-full">${esc(r.caption)}</div></details>`
             : ""
         }
         <section class="follow-cta">

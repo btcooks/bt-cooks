@@ -19,14 +19,28 @@
 
   function allCategories() {
     const cats = new Set(RECIPES.map((r) => r.category));
-    return ["All", ...[...cats].sort()];
+    return ["All", "Popular", ...[...cats].sort()];
+  }
+
+  function popularRecipes() {
+    return RECIPES.filter((r) => r.likes)
+      .sort((a, b) => b.likes - a.likes)
+      .slice(0, 12);
+  }
+
+  const POPULAR_IDS = new Set(popularRecipes().map((r) => r.id));
+
+  function fmtLikes(n) {
+    return n >= 1000 ? (n / 1000).toFixed(1).replace(/\.0$/, "") + "K" : String(n);
   }
 
   function filtered() {
     const q = state.query.trim().toLowerCase();
-    return RECIPES.filter((r) => {
-      const inCategory = state.category === "All" || r.category === state.category;
-      if (!inCategory) return false;
+    const base =
+      state.category === "Popular"
+        ? popularRecipes()
+        : RECIPES.filter((r) => state.category === "All" || r.category === state.category);
+    return base.filter((r) => {
       if (!q) return true;
       const haystack = [
         r.title, r.description, r.caption, r.category,
@@ -34,7 +48,9 @@
         ...(r.ingredientGroups || []).flatMap((g) => g.items || [])
       ].join(" ").toLowerCase();
       return haystack.includes(q);
-    }).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+    }).sort((a, b) =>
+      state.category === "Popular" ? b.likes - a.likes : (b.date || "").localeCompare(a.date || "")
+    );
   }
 
   function heroHtml() {
@@ -54,8 +70,6 @@
           </p>
           <div class="hero-cta">
             <button class="btn primary" data-scroll="#latest">Browse the recipes</button>
-            <a class="btn ghost" href="https://instagram.com/bt.cooks" target="_blank" rel="noopener">Follow @bt.cooks</a>
-            <a class="btn ghost" href="https://www.tiktok.com/@bt.cooks" target="_blank" rel="noopener">Follow on TikTok</a>
           </div>
         </div>
       </section>`;
@@ -107,7 +121,7 @@
               <figcaption><strong>Next Level Chef &middot; Set life</strong><span>In the apron &middot; high-pressure kitchen</span></figcaption>
             </figure>
             <figure class="highlight-card">
-              <img src="images/about/guys-grocery-games.jpg" alt="Guy's Grocery Games" loading="lazy" />
+              <img src="images/about/guys-grocery-games.jpg" alt="Emerson cooking with Guy Fieri on Guy's Grocery Games" loading="lazy" />
               <figcaption><strong>Guy's Grocery Games</strong><span>Self-Contestant &middot; 2 episodes, 2022</span></figcaption>
             </figure>
             <figure class="highlight-card">
@@ -121,10 +135,15 @@
 
   function cardHtml(r) {
     const meta = [r.date, r.cookTime ? `Cook ${r.cookTime}` : null].filter(Boolean).join(" \u00B7 ");
+    const star =
+      r.likes && POPULAR_IDS.has(r.id)
+        ? `<span class="star-badge" title="${r.likes} likes on Instagram">&#9733; ${fmtLikes(r.likes)}</span>`
+        : "";
     return `
       <a class="card" href="#/r/${encodeURIComponent(r.id)}">
         <div class="card-media">
           <img src="${esc(r.image)}" alt="${esc(r.title)}" loading="lazy" />
+          ${star}
           <span class="card-tag">${esc(r.category)}</span>
         </div>
         <div class="card-body">
@@ -137,6 +156,9 @@
 
   function feedView() {
     const recipes = filtered();
+    const pop = popularRecipes();
+    const showPopular = state.category === "All" && !state.query && pop.length > 0;
+    const latest = showPopular ? recipes.filter((r) => !POPULAR_IDS.has(r.id)) : recipes;
     const chips = allCategories()
       .map(
         (c) =>
@@ -147,6 +169,17 @@
     return `
       ${heroHtml()}
       ${aboutHtml()}
+      ${
+        showPopular
+          ? `<div class="shell" id="popular">
+              <div class="feed-head">
+                <h1>Most popular</h1>
+                <p>The recipes people keep coming back for &mdash; ranked by Instagram likes.</p>
+              </div>
+              <div class="grid">${pop.map(cardHtml).join("")}</div>
+            </div>`
+          : ""
+      }
       <div class="shell" id="latest">
         <div class="feed-head">
           <h1>Latest recipes</h1>
@@ -154,8 +187,8 @@
         </div>
         <div class="filters">${chips}</div>
         ${
-          recipes.length
-            ? `<div class="grid">${recipes.map(cardHtml).join("")}</div>`
+          latest.length
+            ? `<div class="grid">${latest.map(cardHtml).join("")}</div>`
             : `<div class="empty">No recipes match that search.</div>`
         }
       </div>

@@ -53,18 +53,6 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
   text-decoration: none;
   white-space: nowrap;
 }
-.profile-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 30px;
-  height: 30px;
-  border-radius: 999px;
-  border: 1px solid var(--line);
-  background: var(--surface);
-  color: var(--accent);
-}
-.profile-link:hover { border-color: var(--accent); }
 .search {
   flex: 1;
   max-width: 420px;
@@ -219,6 +207,7 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 .btn.primary:hover { background: #c94e2d; }
 .btn.ghost { background: transparent; color: #fff; border-color: rgba(255, 255, 255, 0.55); }
 .btn.ghost:hover { background: rgba(255, 255, 255, 0.12); }
+.btn svg { width: 16px; height: 16px; flex: none; }
 
 /* About */
 .about { padding: 48px 20px 64px; }
@@ -528,3 +517,5 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 .footer-row a { color: var(--accent); font-weight: 600; text-decoration: none; }
 .footer-row a:hover { text-decoration: underline; }
 .footer-links { display: flex; gap: 16px; align-items: center; }
+.footer-links a { display: inline-flex; align-items: center; gap: 6px; }
+.footer-links svg { width: 15px; height: 15px; flex: none; }

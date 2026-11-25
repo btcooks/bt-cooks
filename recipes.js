@@ -4128,41 +4128,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "bbq-reaper-pineapple-wings",
-    "title":  "BBQ Reaper Pineapple Wings",
-    "date":  "2023-12-27",
-    "category":  "Wings",
-    "image":  "images/recipes/bbq-reaper-pineapple-wings.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "BBQ Reaper Pineapple Wings ????\n\nThese wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine Smokey BBQ sauce with Pineapple Syrup. Perfect balance of sweetness and spice. ????\n\nIngredients:\n2-3 pounds chicken wings\nOlive Oil\nBlazing Star Reaper Seasoning\nRanch Seasoning\nDa Kine Hawaiian Smokey BBQ Sauce\nDa Kine Pineapple Syrup\n\n1. Add oil to chicken wings to serve as a binder. \n2. Liberally season with Reaper and Ranch Seasoning, and place in the fridge uncovered for 2-3 hours. \n3. Preheat grill to 400 degrees using Lump Charcoal. \n4. Place wings on grill for indirect cooking and cook each side for 15 minutes, with lid closed. \n5. Mix together 1/2 cup of BBQ sauce and 1/4 cup of syrup into a bowl. \n6. Drizzle over cooked chicken wings and enjoy.\n\n?? @kamadojoe Konnected Joe\n?? @thegoodcharcoal Lump Charcoal\n?? @cleanspaceproject Black Nitrile Gloves \n?? Seasonings and Sauces:\n@blazingstarbbq Reaper Seasoning\n@dkhawaiian Smokey BBQ Sauce and Pineapple Syrup\n@hidden.valley Ranch Seasoning\n ————————————————————————\n#btcooks #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #easyrecipes #delicious #foodvideo #recipes #bbqwings #wings #wingwednesday #reaper #smokedwings #bbqsauce",
-    "description":  "These wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine",
-    "likes":  0,
-    "intro":  [
-                  "These wings came out So Good!!! Seasoned with Blazing Star Reaper Seasoning and Ranch Seasoning, then topped off with Da Kine Smokey BBQ sauce with Pineapple Syrup. Perfect balance of sweetness and spice. ????"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2-3 pounds chicken wings",
-                                               "Olive Oil",
-                                               "Blazing Star Reaper Seasoning",
-                                               "Ranch Seasoning"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Da Kine Hawaiian Smokey BBQ Sauce",
-                  "Da Kine Pineapple Syrup",
-                  "Add oil to chicken wings to serve as a binder.",
-                  "Liberally season with Reaper and Ranch Seasoning, and place in the fridge uncovered for 2-3 hours.",
-                  "Preheat grill to 400 degrees using Lump Charcoal.",
-                  "Place wings on grill for indirect cooking and cook each side for 15 minutes, with lid closed.",
-                  "Mix together 1/2 cup of BBQ sauce and 1/4 cup of syrup into a bowl.",
-                  "Drizzle over cooked chicken wings and enjoy."
-              ]
-},
-{
     "id":  "asian-bang-chicken-wings",
     "title":  "Asian Bang Chicken Wings",
     "date":  "2023-12-07",

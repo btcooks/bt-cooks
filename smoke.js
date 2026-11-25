@@ -18,8 +18,8 @@
     off.width = off.height = size;
     const c = off.getContext("2d");
     const g = c.createRadialGradient(size / 2, size / 2, 0, size / 2, size / 2, size / 2);
-    g.addColorStop(0, "rgba(214, 212, 202, 0.85)");
-    g.addColorStop(0.45, "rgba(214, 212, 202, 0.3)");
+    g.addColorStop(0, "rgba(220, 218, 208, 0.9)");
+    g.addColorStop(0.45, "rgba(220, 218, 208, 0.38)");
     g.addColorStop(1, "rgba(214, 212, 202, 0)");
     c.fillStyle = g;
     c.fillRect(0, 0, size, size);
@@ -35,7 +35,7 @@
       r: 150 + Math.random() * 280,
       vx: -0.18 - Math.random() * 0.4,
       vy: -0.1 - Math.random() * 0.28,
-      alpha: 0.03 + Math.random() * 0.05,
+      alpha: 0.07 + Math.random() * 0.08,
       phase: Math.random() * Math.PI * 2,
       phaseSpeed: 0.0006 + Math.random() * 0.0012
     };
@@ -45,7 +45,7 @@
 
   function init() {
     resize();
-    const count = Math.min(26, Math.max(12, Math.floor(w / 55)));
+    const count = Math.min(34, Math.max(16, Math.floor(w / 45)));
     particles = [];
     for (let i = 0; i < count; i++) particles.push(spawn(true));
   }

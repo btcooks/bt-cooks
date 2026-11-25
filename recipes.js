@@ -4642,44 +4642,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "salmon-dynamite",
-    "title":  "Salmon Dynamite",
-    "date":  "2023-10-24",
-    "category":  "Seafood",
-    "image":  "images/recipes/salmon-dynamite.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Salmon Dynamite ????\n\nQuick and easy meal. Salmon fillets, topped with creamy crab dynamite, and a of drizzle of Bachan’s Miso BBQ sauce all over steamed rice. ??\n\nIngredients\n4 Salmon Fillets\n½ cup Japanese mayo or Regular Mayo with 2 tsp Sugar and 1 tsp Rice Vinegar\n1/4 cup cream cheese\n2 tbsp Sriracha \n1/2 lb Imitation Crab \nBachan’s Japanese BBQ Sauce with Miso\nFurikake\n2 green onions, sliced\n\n1. Lightly season Salmon with salt and pepper and pan sear over Medium/high heat. \n2. In a small bowl mix crab, mayonnaise, cream cheese, and Sriracha. \n3. Top each salmon with crab mixture. \n4. Heat grill or oven to 425-450 degrees. \n5. Once temp has been reached, place Salmon on grill and cook for 8-10 minutes with lid closed. \n6. Remove from grill and drizzle Japanese BBQ sauce, Furikake, and Green onions. \n7. Serve with side of steamed rice and enjoy ??\n\n@trybachans \n ————————————————————————\n\n#btcooks #instadaily #food #foodporn #tasty #igfood #easyrecipes #delicious #foodvideo #recipes #easyrecipes #foodreels #reelfood #reelsinstagram #salmon #panseared #salmondynamite #crabdynamite #immitationcrab #seafood #rice",
-    "description":  "Quick and easy meal. Salmon fillets, topped with creamy crab dynamite, and a of drizzle of Bachan’s Miso BBQ sauce all over",
-    "likes":  0,
-    "intro":  [
-                  "Quick and easy meal. Salmon fillets, topped with creamy crab dynamite, and a of drizzle of Bachan’s Miso BBQ sauce all over steamed rice. ??"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "4 Salmon Fillets",
-                                               "cup Japanese mayo or Regular Mayo with 2 tsp Sugar and 1 tsp Rice Vinegar",
-                                               "1/4 cup cream cheese",
-                                               "2 tbsp Sriracha",
-                                               "1/2 lb Imitation Crab",
-                                               "Bachan’s Japanese BBQ Sauce with Miso",
-                                               "Furikake",
-                                               "2 green onions, sliced"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Lightly season Salmon with salt and pepper and pan sear over Medium/high heat.",
-                  "In a small bowl mix crab, mayonnaise, cream cheese, and Sriracha.",
-                  "Top each salmon with crab mixture.",
-                  "Heat grill or oven to 425-450 degrees.",
-                  "Once temp has been reached, place Salmon on grill and cook for 8-10 minutes with lid closed.",
-                  "Remove from grill and drizzle Japanese BBQ sauce, Furikake, and Green onions.",
-                  "Serve with side of steamed rice and enjoy ??"
-              ]
-},
-{
     "id":  "garlic-parmesan-reaper-wings",
     "title":  "Garlic Parmesan Reaper Wings",
     "date":  "2023-10-19",

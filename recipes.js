@@ -4979,34 +4979,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "jalape-o-reaper-ranch-pickles",
-    "title":  "Jalapeño Reaper Ranch Pickles",
-    "date":  "2023-08-18",
-    "category":  "Sides \u0026 Snacks",
-    "image":  "images/recipes/jalape-o-reaper-ranch-pickles.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Jalapeño Reaper Ranch Pickles\n\nThese have to be my new favorite. I don’t think I can eat pickles any other way. ??\n\nMy boy Blazing Star made these pickles using his Reaper Seasoning and I saw WoodFire and Whiskey spin these off with his Jalapeño Ranch seasoning. I had to make it and they are ??????. \n\n1 tbsp Blazing Star Reaper Seasoning\n1 tbsp Ranch Seasoning\n1 tsp Jalapeño Purée \n1 24oz jar of your favorite Pickles\n\n1. Combine seasoning and purée into pickle jar and reseal. \n2. Refrigerate for 48 hours before serving. \n\n@blazingstarbbq \n@woodfire_whiskey \n@mtolivepickles \n@pepperexchange \n@hidden.valley \n ————————————————————————\n#btcooks #traeger #traegergrills #kamadojoe #kamadogrill #instadaily #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #igfood #easyrecipes #delicious #foodvideo #recipes #foodreels #reelfood #reelsinstagram #pickles #ranchseasoning #mtolive #picklejuice #pickleball #snack",
-    "description":  "These have to be my new favorite. I don’t think I can eat pickles any other way. ?? My boy Blazing Star made these pickles using",
-    "likes":  0,
-    "intro":  [
-                  "These have to be my new favorite. I don’t think I can eat pickles any other way. ?? My boy Blazing Star made these pickles using his Reaper Seasoning and I saw WoodFire and Whiskey spin these off with his Jalapeño Ranch seasoning. I had to make it and they are ??????."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 tbsp Ranch Seasoning",
-                                               "1 tsp Jalapeño Purée",
-                                               "1 24oz jar of your favorite Pickles"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Combine seasoning and purée into pickle jar and reseal.",
-                  "Refrigerate for 48 hours before serving."
-              ]
-},
-{
     "id":  "smoked-beef-ribs",
     "title":  "Smoked Beef Ribs",
     "date":  "2023-08-17",
@@ -5059,33 +5031,6 @@ const RECIPES = [
                   "Close lid and cook for 8-10 minutes.",
                   "Drizzle Miso BBQ sauce halfway through cook.",
                   "When done drizzle more sauce over fillets and serve with rice or salad."
-              ]
-},
-{
-    "id":  "filipino-eggplant-omelette",
-    "title":  "Filipino Eggplant Omelette",
-    "date":  "2023-08-02",
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/filipino-eggplant-omelette.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Filipino Eggplant Omelette ???? \n\n(Tortang Talong) Pan fried grilled eggplants dipped in eggs. A popular Filipino meal served for breakfast, lunch, or dinner with steamed rice and banana ketchup ????. \n\nRecipe:\n4 medium Japanese Eggplants\nSalt or Boars Night Out - Double Garlic White Lightning Seasoning\nPepper\n4 eggs\nOil for pan frying\n\n1. Grill eggplants on high heat until a char developed on all sides. \n2. Peel the skin off and flatten on a plate. \n3. Lightly season eggplant with salt and pepper. \n4. Combine eggs in a bowl and beat them until smooth. \n5. Pour 1/4 cup of eggs over eggplant and evenly coat. \n6. In a large pan, heat oil on Medium heat. \n7. Add eggplant slowly into pan keeping it flat. \n8. Cook until brown on both sides. \n9. Serve with steamed rice and ketchup. \n\n@boarsnightout \n@jufranofficial \n\n————————————————————————\n#btcooks #traeger #traegergrills #kamadojoe #kamadogrill #instadaily #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #igfood #easyrecipes #delicious #foodvideo #recipes #easyrecipes #foodreels #reelfood #reelsinstagram #eggplant #omlette #torta #filipinofood #ketchup #rice",
-    "description":  "(Tortang Talong) Pan fried grilled eggplants dipped in eggs. A popular Filipino meal served for breakfast, lunch, or dinner with",
-    "likes":  0,
-    "intro":  [
-                  "(Tortang Talong) Pan fried grilled eggplants dipped in eggs. A popular Filipino meal served for breakfast, lunch, or dinner with steamed rice and banana ketchup ????. Recipe: 4 medium Japanese Eggplants Salt or Boars Night Out - Double Garlic White Lightning Seasoning Pepper 4 eggs Oil for pan frying"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Peel the skin off and flatten on a plate.",
-                  "Lightly season eggplant with salt and pepper.",
-                  "Combine eggs in a bowl and beat them until smooth.",
-                  "Pour 1/4 cup of eggs over eggplant and evenly coat.",
-                  "In a large pan, heat oil on Medium heat.",
-                  "Add eggplant slowly into pan keeping it flat.",
-                  "Cook until brown on both sides.",
-                  "Serve with steamed rice and ketchup."
               ]
 },
 {

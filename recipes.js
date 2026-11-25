@@ -4183,44 +4183,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "creamy-chimichurri-ribeye-wraps",
-    "title":  "Creamy Chimichurri Ribeye Wraps",
-    "date":  "2024-01-26",
-    "category":  "Beef \u0026 Steak",
-    "image":  "images/recipes/creamy-chimichurri-ribeye-wraps.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Creamy Chimichurri Ribeye Wraps ??\n\nGive these wraps a try the next time you feel like having BBQ but don’t want to feel guilty ??\n\nGrilled Ribeye steaks seasoned with W Sauce and Blazing Star All in One Seasoning, then wrapped with your favorite mixed greens, onions, tomatoes and a creamy Chimichurri sauce ??????\n\nSteaks vacuum seal in my @vacmasterfresh VP95 to lock in those flavors ??\n\nIngredients:\n2 Ribeye Steaks\nWorcestershire sauce \nAll in One Seasoning\n\nCreamy Chimichurri:\n2 tbsp Chimichurri seasoning\n2 tbsp red wine vinegar\n2 tbsp olive oil\n2 tbsp mayonnaise \n\nWrap ingredients:\nBurrito size tortillas \nTomatoes\nRed onions\nMixed greens\nShredded cheese\n\n?? @thegoodcharcoal Super Briquettes \n?? @cleanspaceproject Gloves \n?? @kumaknives Japanese Damascus Knife\n?? Seasoning and Sauces: \n@blazingstarbbq All in One Seasoning\n@bearandburtons W Sauce\n@alfrugoni Chimichurri Seasoning\n ————————————————————————\n#btcooks #steak #steakwraps #ribeye #worcestershire #chimichurri #tortillas #healthyfood #grilled #fresh #salad #greens #homecook #bbq #foodporn #delicious #sogood #charcoal",
-    "description":  "Give these wraps a try the next time you feel like having BBQ but don’t want to feel guilty ?? Grilled Ribeye steaks seasoned",
-    "likes":  0,
-    "intro":  [
-                  "Give these wraps a try the next time you feel like having BBQ but don’t want to feel guilty ?? Grilled Ribeye steaks seasoned with W Sauce and Blazing Star All in One Seasoning, then wrapped with your favorite mixed greens, onions, tomatoes and a creamy Chimichurri sauce ?????? Steaks vacuum seal in my @vacmasterfresh VP95 to lock in those flavors ??"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 Ribeye Steaks"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Creamy Chimichurri",
-                                 "items":  [
-                                               "2 tbsp Chimichurri seasoning",
-                                               "2 tbsp red wine vinegar",
-                                               "2 tbsp olive oil",
-                                               "2 tbsp mayonnaise"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Burrito size tortillas",
-                  "Tomatoes",
-                  "Red onions",
-                  "Mixed greens",
-                  "Shredded cheese"
-              ]
-},
-{
     "id":  "lemongrass-bbq-skewers",
     "title":  "Lemongrass BBQ Skewers",
     "date":  "2024-01-23",

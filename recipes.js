@@ -2685,42 +2685,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "miso-gochujang-pulled-pork-sliders",
-    "title":  "Miso \u0026 Gochujang Pulled Pork Sliders",
-    "date":  "2024-11-07",
-    "category":  "Pork",
-    "image":  "images/recipes/miso-gochujang-pulled-pork-sliders.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Miso \u0026 Gochujang Pulled Pork Sliders\n\nThis was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a slight umami flavor and a super bold bark. All seasoned with @blazingstarbbq Pork n Rub and damn this was FIYAH ??\n\nAdded the pork on some @kingshawaiian rolls with Kimchi, pickled onions, and chili crunch oil from @momofukugoods\n\nPulled Pork:\n1 Pork Butt\nMiso paste\nGochujang \n@blazingstarbbq Pork n Rub\n\nPickled Red Onions\n1 Medium Red Onion, sliced in 1/8th inch thick\n1/2 cup Red Wine Vinegar \u0026 1/2 cup Rice Vinegar\n1/2 cup Water\n2 tbsp Sugar\n1 Tsp Salt\n1 Bay Leaf\n1 Garlic Clove, Peeled and smashed\n1 tsp Pepper Corn\n\nSliders:\nMayonnaise \nKimchi\nPickled Onions\nChili Crunch Oil\n\n1. Lather on the Miso and Gochujang over the entire pork. \n2. Season with rub on all sides, then wrap in seran wrap and place in the refrigerator overnight. \n3. Preheat grill to 275° for indirect cooking and add your favorite wood chunks. I used oak from @countrycraftfirewood. \n4. Cook until IT of my @meatermade Pro XL hits about 165° or until you develop a nice bark. \n5. Wrap in foil and cook until IT hits 203° or probe tender. \n\n?? @kamadojoe Joe Jr. \n?? @thegoodcharcoal Lump Charcoal\n?? @cleanspaceproject Nitrile Gloves \n\n#btcooks #pulledpork #sliders #pulledporksliders #miso #gochujang #kimchi #fusion #porkbutt #porkshoulder #pickledonions #Kamadojoe #teamred #meater",
-    "description":  "This was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a",
-    "likes":  0,
-    "intro":  [
-                  "This was inspired by my boys @tfti.bbq and @406_bbq using Miso paste as a binder. The combination of Miso and Gochujang adds a slight umami flavor and a super bold bark. All seasoned with @blazingstarbbq Pork n Rub and damn this was FIYAH ?? Added the pork on some @kingshawaiian rolls with Kimchi, pickled onions, and chili crunch oil from @momofukugoods Pulled Pork: 1 Pork Butt Miso paste Gochujang @blazingstarbbq Pork n Rub"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 Medium Red Onion, sliced in 1/8th inch thick",
-                                               "1/2 cup Red Wine Vinegar \u0026 1/2 cup Rice Vinegar",
-                                               "1/2 cup Water",
-                                               "2 tbsp Sugar",
-                                               "1 Tsp Salt",
-                                               "1 Bay Leaf",
-                                               "1 Garlic Clove, Peeled and smashed",
-                                               "1 tsp Pepper Corn"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Lather on the Miso and Gochujang over the entire pork.",
-                  "Season with rub on all sides, then wrap in seran wrap and place in the refrigerator overnight.",
-                  "Preheat grill to 275° for indirect cooking and add your favorite wood chunks. I used oak from @countrycraftfirewood.",
-                  "Cook until IT of my @meatermade Pro XL hits about 165° or until you develop a nice bark.",
-                  "Wrap in foil and cook until IT hits 203° or probe tender."
-              ]
-},
-{
     "id":  "cheesesteak-w-smoked-queso",
     "title":  "Cheesesteak w/ Smoked Queso",
     "date":  "2024-11-05",
@@ -2748,60 +2712,6 @@ const RECIPES = [
     "steps":  [
                   "Leftover queso or your favorite cheese",
                   "Sandwich rolls"
-              ]
-},
-{
-    "id":  "lechon-kare-kare",
-    "title":  "Lechon Kare Kare",
-    "date":  "2024-11-03",
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/lechon-kare-kare.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Lechon Kare Kare ??????\n\nCrispy pork belly served on top of a peanut butter base stew. Fresh eggplants, long beans, and bok choy all served with steamed rice and side of shrimp paste (Bagoong). ??\n\nLechon Ingredients:\n2 lbs pork belly\n1 onion (quartered)\n1 head garlic (smashed)\n4 bay leaves\n2 tbsp black peppercorns\n1 tbsp salt\n1 tbsp chicken bouillon \n1 tbsp soy sauce sauce\n4 cups water\n\n1. In a pot add pork belly, onions, garlic, bay leaves, peppercorns, salt, bouillon, and soy sauce.\n2. Bring to a boil and simmer for 30-45 minutes.\n3. Remove the pork belly and pat dry, letting it cool down to room temperature. \n4. Bake at 300 degrees for 1 hour or until the skin looks dry.\n5. Slice pork belly into 1 inch cubes. \n6. Deep fry at 375 degrees until golden brown and crispy.\n\nKare Kare Ingredients:\nLechon Kawali\n1/4-1/2 cup creamy Peanut butter\n4-5 String beans, cut 3-4 inches long\n6 Baby Bok choy, cut in half\n1 Japanese Eggplant\n2 cups Lechon Kawali Broth, strained\n2 cups Water\n1 tbsp Annatto Powder\n1 tbsp Bagoong (Shrimp Paste)\n2 tbsp Corn starch \u0026 4 tbsp water mixed together\n2 tbsp canola oil\n\n1. Add oil to large wok or pot. \n2. Saute´ string beans, bok choy, and eggplant for 5-7 minutes. \n3. Add Lechon broth, peanut butter, Bagoong, and Annatto powder. You want to have a hint of the peanut butter so add more or less as needed. \n4. Mix in corn starch slurry and stir until you have a slightly thick consistency. \n5. Serve over steamed rice and pieces of Lechon Kawali. Enjoy!!! ????\n\n??@cleanspaceproject\n ————————————————————————\n#btcooks #recipes #filipinofood #lechonkawali #lechon #karekare #fusion #pinoy #phillipines",
-    "description":  "Crispy pork belly served on top of a peanut butter base stew. Fresh eggplants, long beans, and bok choy all served with steamed",
-    "likes":  0,
-    "intro":  [
-                  "Crispy pork belly served on top of a peanut butter base stew. Fresh eggplants, long beans, and bok choy all served with steamed rice and side of shrimp paste (Bagoong). ??"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 lbs pork belly",
-                                               "1 onion (quartered)",
-                                               "1 head garlic (smashed)",
-                                               "4 bay leaves",
-                                               "2 tbsp black peppercorns",
-                                               "1 tbsp salt",
-                                               "1 tbsp chicken bouillon",
-                                               "1 tbsp soy sauce sauce",
-                                               "4 cups water"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "In a pot add pork belly, onions, garlic, bay leaves, peppercorns, salt, bouillon, and soy sauce.",
-                  "Bring to a boil and simmer for 30-45 minutes.",
-                  "Remove the pork belly and pat dry, letting it cool down to room temperature.",
-                  "Bake at 300 degrees for 1 hour or until the skin looks dry.",
-                  "Slice pork belly into 1 inch cubes.",
-                  "Deep fry at 375 degrees until golden brown and crispy.",
-                  "Lechon Kawali",
-                  "1/4-1/2 cup creamy Peanut butter",
-                  "4-5 String beans, cut 3-4 inches long",
-                  "6 Baby Bok choy, cut in half",
-                  "1 Japanese Eggplant",
-                  "2 cups Lechon Kawali Broth, strained",
-                  "2 cups Water",
-                  "1 tbsp Annatto Powder",
-                  "1 tbsp Bagoong (Shrimp Paste)",
-                  "2 tbsp Corn starch \u0026 4 tbsp water mixed together",
-                  "2 tbsp canola oil",
-                  "Add oil to large wok or pot.",
-                  "Saute´ string beans, bok choy, and eggplant for 5-7 minutes.",
-                  "Add Lechon broth, peanut butter, Bagoong, and Annatto powder. You want to have a hint of the peanut butter so add more or less as needed.",
-                  "Mix in corn starch slurry and stir until you have a slightly thick consistency.",
-                  "Serve over steamed rice and pieces of Lechon Kawali. Enjoy!!! ????"
               ]
 },
 {
@@ -2848,69 +2758,6 @@ const RECIPES = [
                   "Add beef broth, tomato sauce, diced tomatoes, cumin, cayenne, black pepper, and chili powder. Season with Beef rub or Salt and Pepper.",
                   "Cook an additional 2 hours or until chili is nice and thick. Do not add more wood for smoke.",
                   "Skim off extra fat from the top and serve with diced onions, shredded cheese, and green onions."
-              ]
-},
-{
-    "id":  "brisket-style-tritip",
-    "title":  "Brisket style Tritip",
-    "date":  "2024-10-23",
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/brisket-style-tritip.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Brisket style Tritip ??\n\nSeasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. \n\nSliced to perfection using the @benchmadeknifecompany Station Kitchen Knife. This knife is so badass and cuts like butter!\n\n1 Tritip\nMayonnaise \nFavorite seasoning\n\n1. Set smoker to 275° for indirect cooking. \n2. Pull at 160-165° and wrap with butcher paper. \n3. Place back on the grill until internal temp hits 203° or once it is probe tender. \n4. Rest for an hour. \n\n?? @kamadojoe Konnected Joe\n?? @thegoodcharcoal Lump Charcoal\n?? @cleanspaceproject Nitrile Gloves \n\n#btcooks #tritip #brisket #trisket #meatermade #Kamadojoe #teamred",
-    "description":  "Seasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. Sliced to",
-    "likes":  0,
-    "intro":  [
-                  "Seasoned with @boarsnightout White Lighting and @blazingstarbbq Beef seasoning. Smoked with @countrycraftfirewood Oak. Sliced to perfection using the @benchmadeknifecompany Station Kitchen Knife. This knife is so badass and cuts like butter! 1 Tritip Mayonnaise Favorite seasoning"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Pull at 160-165° and wrap with butcher paper.",
-                  "Place back on the grill until internal temp hits 203° or once it is probe tender.",
-                  "Rest for an hour."
-              ]
-},
-{
-    "id":  "smoked-queso-fries",
-    "title":  "Smoked Queso Fries",
-    "date":  "2024-10-21",
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/smoked-queso-fries.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Queso Fries ??\n\nSmoked Queso on top of fries is FIYAH. Seasoned ground beef with @blazingstarbbq All in One seasoning and fries with Pork n Rub. Smoked using @countrycraftfirewood Premium Oak ??\n\nIngredients\n2 Jalapeños, diced\n32 oz Velveeta cheese, cut into blocks\n8 oz Pepper Jack cheese, cut into chunks\n1 block Cream cheese, cut into quarters\n1 can Rotel Tomatoes \u0026 Chili\n16 oz Heavy cream\nFavorite protein (ground beef, brisket or tritip)\nFrench fries or Chips\n\nToppings:\nFavorite meat\nGreen onions, chopped\n2 Tomatoes, diced\n\n1. Add all ingredients into a pan, but save 1/4 of the meat for topping. \n2. Smoke between 280-300° for 1hr. Check at 30 minutes and stir cheese. \n3. Cook for another 30 minutes or until cheese has fully melted. \n4. Serve over French fries and top off with toppings. \n\n?? @kamadojoe Konnected Joe\n?? @thegoodcharcoal Lump Charcoal\n?? @cleanspaceproject Nitrile Gloves \n?? @hexclad 12” Frying Pan\n\n#btcooks #quesofries #queso #nachos #fries #meatermade #Kamadojoe #teamred #hexclad #recipe #gameday #mondaynightfootball",
-    "description":  "Smoked Queso on top of fries is FIYAH. Seasoned ground beef with @blazingstarbbq All in One seasoning and fries with Pork n Rub.",
-    "likes":  0,
-    "intro":  [
-                  "Smoked Queso on top of fries is FIYAH. Seasoned ground beef with @blazingstarbbq All in One seasoning and fries with Pork n Rub. Smoked using @countrycraftfirewood Premium Oak ??"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 Jalapeños, diced",
-                                               "32 oz Velveeta cheese, cut into blocks",
-                                               "8 oz Pepper Jack cheese, cut into chunks",
-                                               "1 block Cream cheese, cut into quarters",
-                                               "1 can Rotel Tomatoes \u0026 Chili",
-                                               "16 oz Heavy cream"
-                                           ]
-                             },
-                             {
-                                 "heading":  "Toppings",
-                                 "items":  [
-                                               "Favorite meat",
-                                               "Green onions, chopped",
-                                               "2 Tomatoes, diced"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Add all ingredients into a pan, but save 1/4 of the meat for topping.",
-                  "Smoke between 280-300° for 1hr. Check at 30 minutes and stir cheese.",
-                  "Cook for another 30 minutes or until cheese has fully melted.",
-                  "Serve over French fries and top off with toppings."
               ]
 },
 {

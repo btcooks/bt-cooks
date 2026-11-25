@@ -44,7 +44,7 @@
           <p class="hero-kicker">Home cooking &amp; backyard grilling</p>
           <h1 class="hero-title">Real fire. Real flavor.<br/>Recipes worth making.</h1>
           <p class="hero-copy">
-            Live-fire cooking from Emerson Bartolome &mdash; Next Level Chef Season 5
+            Home cooking and live-fire grilling from Emerson Bartolome &mdash; Next Level Chef Season 5
             contestant and 2x Food Network feature. Every recipe is straight from
             the @bt.cooks feed and written out so you can actually cook it.
           </p>
@@ -55,6 +55,7 @@
           <div class="hero-cta">
             <button class="btn primary" data-scroll="#latest">Browse the recipes</button>
             <a class="btn ghost" href="https://instagram.com/bt.cooks" target="_blank" rel="noopener">Follow @bt.cooks</a>
+            <a class="btn ghost" href="https://www.tiktok.com/@bt.cooks" target="_blank" rel="noopener">Follow on TikTok</a>
           </div>
         </div>
       </section>`;
@@ -188,6 +189,7 @@
           <div class="contact-actions">
             <a class="btn primary" href="mailto:bt.cooks@hotmail.com?subject=Inquiry%20for%20bt.cooks">bt.cooks@hotmail.com</a>
             <a class="btn ghost dark" href="https://instagram.com/bt.cooks" target="_blank" rel="noopener">DM on Instagram</a>
+            <a class="btn ghost dark" href="https://www.tiktok.com/@bt.cooks" target="_blank" rel="noopener">TikTok @bt.cooks</a>
           </div>
         </div>
       </section>`;

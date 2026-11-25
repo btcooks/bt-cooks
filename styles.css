@@ -44,10 +44,10 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
 }
-.header-row { display: flex; align-items: center; gap: 16px; padding-top: 14px; padding-bottom: 14px; }
+.header-row { display: flex; align-items: center; gap: 16px; padding-top: 5px; padding-bottom: 5px; }
 .brand {
   font-family: var(--font-display);
-  font-size: 22px;
+  font-size: 19px;
   font-weight: 700;
   color: var(--ink);
   text-decoration: none;
@@ -57,8 +57,8 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 38px;
-  height: 38px;
+  width: 30px;
+  height: 30px;
   border-radius: 999px;
   border: 1px solid var(--line);
   background: var(--surface);
@@ -69,7 +69,7 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
   flex: 1;
   max-width: 420px;
   margin-left: auto;
-  padding: 9px 14px;
+  padding: 6px 12px;
   border: 1px solid var(--line);
   border-radius: 999px;
   background: var(--surface);
@@ -78,6 +78,13 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
   font-size: 14px;
 }
 .search::placeholder { color: var(--ink-soft); }
+.contact-btn { padding: 6px 14px; font-size: 13px; white-space: nowrap; }
+.header-row { gap: 12px; }
+@media (max-width: 640px) {
+  .contact-btn { padding: 8px 13px; font-size: 13px; }
+  .header-row { gap: 8px; }
+  .search { min-width: 0; }
+}
 .search:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
 
 .feed-head { padding: 34px 0 10px; }
@@ -156,31 +163,10 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 
 /* Hero */
 .hero {
-  position: relative;
-  min-height: 480px;
-  display: flex;
-  align-items: flex-end;
-  overflow: hidden;
-  border-bottom: 1px solid var(--line);
-}
-.hero-bg {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center 40%;
-}
-.hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(180deg, rgba(15, 17, 13, 0.3) 0%, rgba(15, 17, 13, 0.6) 55%, rgba(19, 21, 17, 0.95) 100%);
+  padding: 64px 0 44px;
 }
 .hero-content {
-  position: relative;
   width: 100%;
-  padding-top: 56px;
-  padding-bottom: 46px;
   color: #fff;
 }
 .hero-kicker {
@@ -193,10 +179,17 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 }
 .hero-title {
   font-family: var(--font-display);
-  font-size: clamp(44px, 9vw, 84px);
-  line-height: 1;
+  font-size: clamp(34px, 6vw, 60px);
+  line-height: 1.08;
   letter-spacing: 0;
   margin: 0 0 16px;
+}
+.hero-copy {
+  margin: 0 0 18px;
+  max-width: 60ch;
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--ink-soft);
 }
 .hero-sub { margin: 0 0 22px; display: flex; flex-wrap: wrap; gap: 8px; }
 .hero-badge {
@@ -275,7 +268,7 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 }
 
 .tv-highlights { margin-top: 52px; }
-.tv-highlights h3, .partners h3 {
+.tv-highlights h3 {
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
@@ -305,18 +298,6 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 .highlight-card figcaption { padding: 12px 14px 14px; }
 .highlight-card strong { display: block; font-family: var(--font-display); font-size: 16px; font-weight: 600; }
 .highlight-card span { display: block; margin-top: 3px; font-size: 13px; color: var(--ink-soft); }
-
-.partners { margin-top: 44px; }
-.partner-chips { display: flex; flex-wrap: wrap; gap: 10px; }
-.partner-chips span {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 7px 16px;
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--ink-soft);
-}
 
 /* Recipe detail */
 .back-link {
@@ -451,6 +432,27 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 }
 .caption-block a { color: var(--accent); font-weight: 600; text-decoration: none; }
 .caption-block a:hover { text-decoration: underline; }
+.caption-details {
+  margin: 18px 0 0;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+.caption-details summary {
+  cursor: pointer;
+  padding: 14px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+}
+.caption-full {
+  padding: 0 18px 18px;
+  white-space: pre-line;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--ink);
+}
 
 .follow-cta {
   background: linear-gradient(135deg, #2c3325 0%, #1d2118 100%);

@@ -286,8 +286,6 @@ const RECIPES = [
     gear: ["Kamado Joe Big Joe III", "The Good Charcoal lump charcoal"],
     notes: "Cooked on the Kamado Joe Big Joe III with The Good Charcoal lump charcoal."
   },
-  {,
-{,
 {
     "id":  "this-iberico-pork-is-on-another-level",
     "title":  "This Iberico Pork Is on Another Level",

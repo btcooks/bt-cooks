@@ -15,7 +15,7 @@ const RECIPES = [
     title: "Rotisserie Herb & Citrus Turkey",
     date: "2026-11-21",
     category: "Holiday",
-    image: "images/recipes/rotisserie-herb-citrus-turkey.jpg?v=3",
+    image: "images/recipes/rotisserie-herb-citrus-turkey.jpg?v=4",
     instagramUrl: "https://www.instagram.com/bt.cooks/reel/DgA2hwqy6yf/",
     caption: "Rotisserie Herb & Citrus Turkey 🍊🔥🦃\n\nForget the oven. This turkey was made for the open fire!\n\nMarinated for 12–24 hours with fresh herbs, garlic, lemon, orange, and a blend of seasonings to soak up all that flavor. Then onto the Kamado Joe Joetisserie, slowly rotating over lump charcoal.\n\nHerb & Citrus Marinade\n13–14 lb turkey\n1 cup olive oil\n⅓ cup soy sauce\n1 onion, quartered (for inside the turkey)\nJuice of 1–2 lemons\nJuice of 1 large orange\n1 tsp lemon zest\n1 tsp orange zest\n½ cup finely chopped parsley\n¼ cup finely chopped sage\n2 tbsp finely chopped rosemary\n¼ cup finely chopped thyme\n2–3 green onions, sliced\n1 tbsp minced garlic\n2 tsp smoked paprika\n1 tsp paprika\n2 tsp salt\n1 tbsp chicken bouillon\n1 tsp black pepper\n\nInstructions\nMix all marinade ingredients until combined.\nGently loosen the turkey skin and work the marinade underneath and over the turkey.\nRefrigerate and marinate for 12–24 hours.\nSet up the Kamado Joe Joetisserie and cook at 350°F over lump charcoal.\nCook until the breast reaches 160°F and the thighs reach 170°F. Verify temperatures with a reliable thermometer and allow the turkey to rest before carving.\n\n#RotisserieTurkey #SmokedTurkey #ThanksgivingCooking #Thanksgiving #FoodReels",
     description: "Turkey marinated 12-24 hours in herb-citrus marinade, then rotisserie-roasted over lump charcoal.",

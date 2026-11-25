@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#131511" />
+  <title>bt.cooks - The Recipe Feed</title>
+  <meta name="description" content="Recipes from @bt.cooks — home cooking, backyard grilling, and live-fire cooking from the Next Level Chef Season 5 contestant, featured 2x on Food Network." />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="bt.cooks - Home Cooking & Backyard Grilling" />
+  <meta property="og:description" content="Recipes from the Next Level Chef Season 5 contestant, featured 2x on Food Network. Home cooking and live-fire backyard grilling." />
+  <meta property="og:image" content="images/hero-braise.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <canvas id="smoke-canvas" aria-hidden="true"></canvas>
+  <header class="site-header">
+    <div class="shell header-row">
+      <a class="brand" href="#/">bt.cooks</a>
+      <input id="search" class="search" type="search" placeholder="Search recipes..." autocomplete="off" />
+      <a class="profile-link" href="https://instagram.com/bt.cooks" target="_blank" rel="noopener" aria-label="Instagram profile">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <main id="app"></main>
+
+  <footer class="site-footer">
+    <div class="shell footer-row">
+      <span>Recipes by @bt.cooks</span>
+      <span class="footer-links">
+        <a href="mailto:bt.cooks@hotmail.com">bt.cooks@hotmail.com</a>
+        <a href="https://instagram.com/bt.cooks" target="_blank" rel="noopener">Instagram</a>
+      </span>
+    </div>
+  </footer>
+
+  <script src="recipes.js"></script>
+  <script src="smoke.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

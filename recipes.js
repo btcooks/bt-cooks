@@ -810,51 +810,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "pulled-pork-lumpia",
-    "title":  "Pulled Pork Lumpia",
-    "date":  "2026-01-26",
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/pulled-pork-lumpia.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Pulled Pork Lumpia ??????\n\nCrispy, golden, and seriously addictive. These lumpia get a smoky upgrade by swapping in smoked pulled pork for the usual ground meat. That subtle smoke takes them to another level, especially when dipped into your favorite sauce.\n\nPerfect as an appetizer, snack, or honestly… the whole plate.\n\nPulled Pork Ingredients:\n1 pork butt\nMiso paste\nGochujang\n@blazingstarbbq Pork n Rub\n\n1.\tCoat the pork with miso and gochujang on all sides. \n2.\tSeason generously with rub, wrap tightly in plastic wrap, and refrigerate overnight.\n3.\tPreheat grill to 275°F for indirect heat and add wood chunks.\n4.\tSmoke until internal temp reaches ~165°F or a good bark forms.\n5.\tWrap in foil and continue cooking until 203°F or probe tender.\n6.\tRest for 1 hour, then shred.\n\nLumpia Ingredients:\n2 cups pulled pork (or ground beef)\n2 tbsp oil\n4 cloves garlic, chopped\n1 medium onion, chopped\n1 cup carrots, shredded\n1 cup green beans, cubed\n2 cups green cabbage, shredded\n2 cups bean sprouts\n2–3 tbsp soy sauce\n1 tbsp oyster sauce\nSalt and pepper, to taste\n1 (50 ct) pack lumpia wrappers\n2 cups oil, for frying\n\n1.\tHeat oil over medium-high heat and sauté garlic and onions for 1–2 minutes.\n2.\tAdd carrots, green beans, cabbage, and pulled pork. Stir-fry for 3 minutes.\n3.\tAdd soy sauce and oyster sauce.\n4.\tFold in bean sprouts and season with salt and pepper.\n5.\tRemove from heat, strain excess liquid, and cool completely.\n6.\tAdd 1–2 tbsp filling to each wrapper, roll tight, and seal with water or egg wash.\n7.\tFry at 350°F until golden and crispy.\n8.\tServe with sweet chili sauce or spicy vinegar.\n\n#PulledPork #Lumpia #FilipinoFood #fusion",
-    "description":  "Crispy, golden, and seriously addictive. These lumpia get a smoky upgrade by swapping in smoked pulled pork for the usual ground",
-    "likes":  108,
-    "intro":  [
-                  "Crispy, golden, and seriously addictive. These lumpia get a smoky upgrade by swapping in smoked pulled pork for the usual ground meat. That subtle smoke takes them to another level, especially when dipped into your favorite sauce. Perfect as an appetizer, snack, or honestly… the whole plate. Pulled Pork Ingredients: 1 pork butt Miso paste Gochujang @blazingstarbbq Pork n Rub"
-              ],
-    "ingredientGroups":  [
-
-                         ],
-    "steps":  [
-                  "Season generously with rub, wrap tightly in plastic wrap, and refrigerate overnight.",
-                  "Preheat grill to 275°F for indirect heat and add wood chunks.",
-                  "Smoke until internal temp reaches ~165°F or a good bark forms.",
-                  "Wrap in foil and continue cooking until 203°F or probe tender.",
-                  "Rest for 1 hour, then shred.",
-                  "2 cups pulled pork (or ground beef)",
-                  "2 tbsp oil",
-                  "4 cloves garlic, chopped",
-                  "1 medium onion, chopped",
-                  "1 cup carrots, shredded",
-                  "1 cup green beans, cubed",
-                  "2 cups green cabbage, shredded",
-                  "2 cups bean sprouts",
-                  "2–3 tbsp soy sauce",
-                  "1 tbsp oyster sauce",
-                  "Salt and pepper, to taste",
-                  "1 (50 ct) pack lumpia wrappers",
-                  "2 cups oil, for frying",
-                  "Heat oil over medium-high heat and sauté garlic and onions for 1–2 minutes.",
-                  "Add carrots, green beans, cabbage, and pulled pork. Stir-fry for 3 minutes.",
-                  "Add soy sauce and oyster sauce.",
-                  "Fold in bean sprouts and season with salt and pepper.",
-                  "Remove from heat, strain excess liquid, and cool completely.",
-                  "Add 1–2 tbsp filling to each wrapper, roll tight, and seal with water or egg wash.",
-                  "Fry at 350°F until golden and crispy.",
-                  "Serve with sweet chili sauce or spicy vinegar."
-              ]
-},
-{
     "id":  "smoked-tri-tip-stir-fry-noodles",
     "title":  "Smoked Tri-Tip Stir-Fry Noodles",
     "date":  "2026-01-20",
@@ -2262,34 +2217,6 @@ const RECIPES = [
                   "Set your grill to medium high heat.",
                   "Grill for about 3 minutes on each side, looking for medium/rare to keep the meat tender.",
                   "Let rest for 5 minutes before serving with your favorite sides."
-              ]
-},
-{
-    "id":  "korean-style-pork-wraps",
-    "title":  "Korean Style Pork Wraps",
-    "date":  "2025-01-17",
-    "category":  "Pork",
-    "image":  "images/recipes/korean-style-pork-wraps.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Korean Style Pork Wraps??\n\nSmoked pork shoulder sliced and served with picked veggies then wrapped in lettuce.\n\nIngredients:\nBoneless Pork Shoulder, smoked at 225° for 3 hours. \n@blazingstarbbq Pork n Rub or your favorite sweet rub\n\nSides:\nRed leaf lettuce\nPickled Daikon\nKimchi \n\nDipping Sauce:\n2 Tbsp Sugar\n4 Tbsp Soy sauce\n4 Tbsp Water\n4 Tbsp rice vinegar or white vinegar\n\n?? @kamadojoe Konnected Joe\n?? @thegoodcharcoal Lump Charcoal\n?? @cleanspaceproject Nitrile Gloves\n\n#btcooks #koreanfood #bossam #smokedpork #lettucewraps #asianfusion #fusion #teamred #kamadojoe",
-    "description":  "Smoked pork shoulder sliced and served with picked veggies then wrapped in lettuce.",
-    "likes":  84,
-    "intro":  [
-                  "Smoked pork shoulder sliced and served with picked veggies then wrapped in lettuce."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  "Dipping Sauce",
-                                 "items":  [
-                                               "2 Tbsp Sugar",
-                                               "4 Tbsp Soy sauce",
-                                               "4 Tbsp Water",
-                                               "4 Tbsp rice vinegar or white vinegar"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-
               ]
 },
 {

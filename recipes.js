@@ -2237,45 +2237,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "brisket-sinigang",
-    "title":  "Brisket Sinigang",
-    "date":  "2025-01-26",
-    "category":  "Filipino \u0026 Islander",
-    "image":  "images/recipes/brisket-sinigang.jpg",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Brisket Sinigang 🥩💨\n\nThis is one of my favorite Filipino dishes growing up, but elevated this dish by adding tender slices of smoked Brisket making it the ultimate comfort meal.\n\nIf you want to keep it traditional, don’t throw in the smoked brisket, but if you have it you need to try it 🔥\n\nI used Miso as a binder and seasoned the brisket with @blazingstarbbq Beef Rub. Smoked at 250°-275° until it was probe tender at 205°\n\nSinigang Recipe:\n2-3 pounds of your favorite meat\n2 tbsp fish sauce\nHandful green beans or string beans, cut into 2-3”\n3 yellow peppers\n1 medium onion, sliced in half and quartered\n3 Roma tomatoes\n1 medium Daikon Radish, sliced\n1 head Bok Choy, sliced\n12 okras \n1 packet of Knorr Sinigang (Tamarind) powder\n8 cups of water\nSalt and Pepper\n\n1. Heat a large pot with 6 cups of water. \n2. Add the onions, daikon radish, and tomatoes. \n3. Add the meat and season with salt and fish sauce, yellow peppers, and entire packet of Sinigang powder. Cover and simmer for about 30-45 minutes or until meat is soft. \n4. Add the Bokchoy, green beans, eggplant, and okra. Cover the pot and cook for 5 minutes.\n5. Serve hot with a side of steamed rice. Enjoy!!!\n\n🔥 @kamadojoe Big Joe III\n🪵 @thegoodcharcoal Lump Charcoal\n🧤 @cleanspaceproject Nitrile Gloves \n🌡️ @meatermade Meater Pro Duo\n\n#btcook #sinigang #sinigangbrisket #filipinofood #pinoyfood #phillipines #fusion #brisket #Kamadojoe #teamred #meater",
-    "description":  "This is one of my favorite Filipino dishes growing up, but elevated this dish by adding tender slices of smoked Brisket making",
-    "likes":  2986,
-    "intro":  [
-                  "This is one of my favorite Filipino dishes growing up, but elevated this dish by adding tender slices of smoked Brisket making it the ultimate comfort meal. If you want to keep it traditional, don’t throw in the smoked brisket, but if you have it you need to try it 🔥 I used Miso as a binder and seasoned the brisket with @blazingstarbbq Beef Rub. Smoked at 250°-275° until it was probe tender at 205°"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2-3 pounds of your favorite meat",
-                                               "2 tbsp fish sauce",
-                                               "Handful green beans or string beans, cut into 2-3”",
-                                               "3 yellow peppers",
-                                               "1 medium onion, sliced in half and quartered",
-                                               "3 Roma tomatoes",
-                                               "1 medium Daikon Radish, sliced",
-                                               "1 head Bok Choy, sliced",
-                                               "12 okras",
-                                               "1 packet of Knorr Sinigang (Tamarind) powder",
-                                               "8 cups of water"
-                                           ]
-                             }
-                         ],
-    "steps":  [
-                  "Heat a large pot with 6 cups of water.",
-                  "Add the onions, daikon radish, and tomatoes.",
-                  "Add the meat and season with salt and fish sauce, yellow peppers, and entire packet of Sinigang powder. Cover and simmer for about 30-45 minutes or until meat is soft.",
-                  "Add the Bokchoy, green beans, eggplant, and okra. Cover the pot and cook for 5 minutes.",
-                  "Serve hot with a side of steamed rice. Enjoy!!!"
-              ]
-},
-{
     "id":  "korean-bbq-flap-meat",
     "title":  "Korean BBQ Flap Meat",
     "date":  "2025-01-20",

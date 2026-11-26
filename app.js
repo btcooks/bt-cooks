@@ -89,8 +89,8 @@
               Philippine-born, live-fire raised. Emerson grew up on the flavors,
               traditions, and family-centered food culture of the Philippines before
               moving to the United States, where he fused his heritage with American
-              barbecue technique. The result is @bt.cooks: bold seasoning, real fire,
-              and recipes people actually recreate in their own backyards.
+              barbecue technique. The results are bold seasoning, real fire, and
+              recipes people actually recreate in their own home.
             </p>
             <p>
               Television came calling because the food demanded it. Emerson competed

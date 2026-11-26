@@ -2618,30 +2618,30 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  null,
+                                 "heading":  "Brine",
                                  "items":  [
                                                "1 gallon chicken broth",
                                                "1 cup kosher salt",
-                                               "2-3 springs Fresh Rosemary",
-                                               "2-3 springs Fresh Sage",
-                                               "4 springs Fresh Thyme",
-                                               "2 Oranges Sliced",
+                                               "2-3 sprigs fresh rosemary",
+                                               "2-3 sprigs fresh sage",
+                                               "4 sprigs fresh thyme",
+                                               "2 oranges, sliced",
                                                "1 gallon ice water"
                                            ]
                          },
                              {
-                                 "heading":  "Garlic herb butter",
+                                 "heading":  "Garlic Herb Butter",
                                  "items":  [
                                                "1 cup unsalted butter, softened",
                                                "1 tbsp minced garlic, or more to taste",
                                                "1 tsp garlic salt, or more to taste",
                                                "1 tsp Italian seasoning",
-                                               "tsp ground black pepper",
-                                               "tsp ground paprika"
+                                               "1/2 tsp ground black pepper",
+                                               "1/4 tsp ground paprika"
                                            ]
                          },
                              {
-                                 "heading":  "Turkey Butter injection",
+                                 "heading":  "Turkey Butter Injection",
                                  "items":  [
                                                "1 cup water",
                                                "2 tbsp beef bouillon powder",
@@ -2652,8 +2652,13 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "Combine all ingredients in a pot and heat until all is combined.",
-                  "Cool and inject turkey."
+                  "Combine all of the brine ingredients in a pot and heat until the salt is dissolved, then cool completely.",
+                  "Brine the turkey for 48 hours, then rinse under cold water to remove the excess brine from the skin.",
+                  "Remove the spine and press the turkey flat on a table, cracking the chest bone so it cooks evenly.",
+                  "Work the garlic herb butter between the meat and the skin.",
+                  "Inject the turkey with the butter injection.",
+                  "Drizzle olive oil over the skin and season with your favorite rub.",
+                  "Smoke at 325°F until the breast probe hits 155°F and the thighs hit 165°F; the bird will carryover to 160-165°F while resting."
               ]
 },
 {

@@ -5995,13 +5995,13 @@ const RECIPES = [
 },
 {
     "id":  "proud-dad-moment-here",
-    "title":  "Proud Dad moment here!!!",
+    "title":  "Pork Sinigang",
     "date":  "2023-04-04",
     "category":  "Other",
     "image":  "images/recipes/proud-dad-moment-here.jpg?v=4",
     "instagramUrl":  "https://www.instagram.com/bt.cooks/",
     "caption":  "Proud Dad moment here!!! My daughter cooking up one of my favorite comfort dishes called Pork Sinigang. It is a pork stew seasoned with tamarind powder and fish sauce. She nailed it!!!! Ingredients & Recipe\n2-3 pounds of pork shoulder or pork ribs, cut into 2” cubes\n2 tbsp fish sauce\nHandful green beans or string beans, cut into 2-3”\n3 yellow peppers\n1 medium onion, sliced in half and quartered\n3 Roma tomatoes\n1 head Bok Choy or Romain Lettuce, chopped\n12 okras 1 packet of Knorr Sinigang (Tamarind) powder\n6-8 cups of water\n1 tbsp Salt 1. Heat a large pot with 6 cups of water. 2. Add the onions and tomatoes. 3. Add the pork and season with salt and fish sauce, yellow peppers, and entire packet of Sinigang powder. Cover and simmer for about 30-45 minutes or until meat is soft. 4. Add the Romain lettuce, green beans, and okra. Cover the pot and cook for 5 minutes.\n5. Serve hot with a side of steamed rice. Enjoy!!! ————————————————————————\n#homecooking #homecooks #sdcook #btcook #filipinofoodmovement #filipinocuisine #pinoycooking #philippines #foodlover #foodie #food #instagood #foodreels #reelsinstagram #filipinoamerican #comfortfood #soup #sinigang #filipinofood #veggies #soursoup #fishsauce #okra #daikon #asianfood #islanderfood",
-    "description":  "Proud Dad moment here!!!",
+    "description":  "Pork sinigang, a sour Filipino tamarind soup loaded with vegetables.",
     "likes":  0,
     "intro":  [
               ],

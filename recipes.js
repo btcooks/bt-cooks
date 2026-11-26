@@ -301,17 +301,29 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  null,
+                                 "heading":  "Wings",
                                  "items":  [
-                                               "cup sour cream",
+                                               "Chicken wings",
+                                               "Corn starch, for a crunch coat",
+                                               "Carne asada seasoning"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Lemon Chipotle Crema",
+                                 "items":  [
+                                               "1/2 cup sour cream",
                                                "1 tbsp chipotle powder",
-                                               "Juice + zest of ½ lemon",
+                                               "Juice and zest of 1/2 lemon",
                                                "1 garlic clove, minced",
-                                               "tbsp kosher salt"
+                                               "1/2 tbsp kosher salt"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Toss the wings in corn starch and season with the carne asada seasoning.",
+                  "Grill over lump charcoal at 375-400°F for 1 hour, flipping halfway through.",
+                  "Whisk the sour cream, chipotle powder, lemon juice and zest, garlic, and kosher salt together for the lemon chipotle crema.",
+                  "Serve the wings with the crema for dipping."
               ]
 },
 {
@@ -507,6 +519,17 @@ const RECIPES = [
                   "These ribs came out sticky, smoky, and packed with flavor. Seasoned with @tfti.bbq Cajun Honey Rub for that perfect balance of savory heat and sweetness, then smoked over oak on the @kamadojoe Konnected Big Joe at 275°F until the bark set just right. Wrapped in foil with butter, @zabs hot honey, brown sugar, and extra seasoning to braise and tenderize before going back on the grill to finish."
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 rack pork ribs",
+                                               "@tfti.bbq Cajun Honey Rub",
+                                               "Butter",
+                                               "@zabs hot honey",
+                                               "Brown sugar",
+                                               "Favorite seasoning, for the wrap"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Smoke over oak at 275°F for 2.5 hours.",
@@ -531,15 +554,33 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "* 1/4 cup ketchup",
-                                               "* 1/2 cup mayo",
-                                               "* 1 tbsp garlic powder",
-                                               "* 1 tbsp onion powder",
-                                               "* 2 tbsp relish"
+                                               "Ground beef, formed into patties",
+                                               "@blazingstarbbq Beef Rub",
+                                               "American cheese",
+                                               "Brioche buns",
+                                               "Grilled onions",
+                                               "Lettuce",
+                                               "Tomatoes"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Black Truffle Sauce",
+                                 "items":  [
+                                               "1/4 cup @melindasfoods Black Truffle Hot Sauce",
+                                               "1/4 cup ketchup",
+                                               "1/2 cup mayo",
+                                               "1 tbsp garlic powder",
+                                               "1 tbsp onion powder",
+                                               "2 tbsp relish"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Mix the black truffle sauce ingredients together and chill until serving.",
+                  "Smash the patties over high heat, seasoning with the beef rub, and cook until the edges are crispy.",
+                  "Flip, add the American cheese, and cook until melted.",
+                  "Toast the buns in butter on the griddle.",
+                  "Stack the burgers with grilled onions, lettuce, tomato, and the black truffle sauce."
               ]
 },
 {
@@ -630,17 +671,17 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "•\t1 whole chicken",
-                                               "•\t½ cup ground ají panca chili pepper",
-                                               "•\t1 head garlic, minced",
-                                               "•\t1 tbsp ground cumin",
-                                               "•\t1 tbsp sugar",
-                                               "•\t2 tsp smoked paprika",
-                                               "•\t2 tsp dried oregano",
-                                               "•\t½ cup soy sauce",
-                                               "•\t½ cup vegetable oil",
-                                               "•\t1 lime, juiced",
-                                               "•\t1 cup beer"
+                                               "1 whole chicken",
+                                               "½ cup ground ají panca chili pepper",
+                                               "1 head garlic, minced",
+                                               "1 tbsp ground cumin",
+                                               "1 tbsp sugar",
+                                               "2 tsp smoked paprika",
+                                               "2 tsp dried oregano",
+                                               "½ cup soy sauce",
+                                               "½ cup vegetable oil",
+                                               "1 lime, juiced",
+                                               "1 cup beer"
                                            ]
                          }
                          ],
@@ -666,18 +707,18 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "•\t2 lbs pork chops",
-                                               "•\t3 stalks green onions, chopped",
-                                               "•\t4 cloves garlic, finely chopped",
-                                               "•\t2 tbsp fresh ginger, finely chopped",
-                                               "•\t2 tbsp brown sugar",
-                                               "•\t2 tsp pepper",
-                                               "•\t2 tsp chicken bouillon powder",
-                                               "•\t1 tbsp oyster sauce",
-                                               "•\t1 tbsp fish sauce",
-                                               "•\t1 tbsp light soy sauce",
-                                               "•\t1 tbsp water",
-                                               "•\t1 tbsp cooking oil"
+                                               "2 lbs pork chops",
+                                               "3 stalks green onions, chopped",
+                                               "4 cloves garlic, finely chopped",
+                                               "2 tbsp fresh ginger, finely chopped",
+                                               "2 tbsp brown sugar",
+                                               "2 tsp pepper",
+                                               "2 tsp chicken bouillon powder",
+                                               "1 tbsp oyster sauce",
+                                               "1 tbsp fish sauce",
+                                               "1 tbsp light soy sauce",
+                                               "1 tbsp water",
+                                               "1 tbsp cooking oil"
                                            ]
                          }
                          ],
@@ -704,13 +745,13 @@ const RECIPES = [
                              {
                                  "heading":  "Queso Dip",
                                  "items":  [
-                                               "•\t2 jalapeños, diced",
-                                               "•\t32 oz Velveeta cheese, cubed",
-                                               "•\t8 oz pepper jack cheese, cut into chunks",
-                                               "•\t1 block cream cheese, quartered",
-                                               "•\t1 can Rotel tomatoes & chili",
-                                               "•\t16 oz heavy cream",
-                                               "•\tFavorite protein (ground beef, brisket, or tri-tip)"
+                                               "2 jalapeños, diced",
+                                               "32 oz Velveeta cheese, cubed",
+                                               "8 oz pepper jack cheese, cut into chunks",
+                                               "1 block cream cheese, quartered",
+                                               "1 can Rotel tomatoes & chili",
+                                               "16 oz heavy cream",
+                                               "Favorite protein (ground beef, brisket, or tri-tip)"
                                            ]
                          }
                          ],
@@ -738,20 +779,41 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "•\t1 tomahawk steak",
-                                               "•\tFavorite seasoning"
+                                               "1 tomahawk steak",
+                                               "Favorite seasoning"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Chimichurri Butter",
+                                 "items":  [
+                                               "1 stick butter",
+                                               "Chimichurri seasoning",
+                                               "1/2 tbsp red wine vinegar",
+                                               "Salt & pepper"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Asian-Style Chimichurri",
+                                 "items":  [
+                                               "1 cup parsley",
+                                               "1 cup cilantro",
+                                               "6 garlic cloves",
+                                               "1 shallot",
+                                               "1 cup olive oil",
+                                               "1/4 cup red wine vinegar",
+                                               "1 tbsp fish sauce",
+                                               "1 lemon, juiced",
+                                               "1 tbsp chili flakes",
+                                               "Salt & pepper to taste"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Chimichurri seasoning",
-                  "tbsp red wine vinegar",
-                  "Salt & pepper",
-                  "Asian-Style Chimichurri",
-                  "6 garlic cloves",
-                  "1 shallot",
-                  "cup red wine vinegar",
-                  "1 lemon, juiced"
+                  "Season the tomahawk generously on all sides.",
+                  "Reverse-sear at 275°F over lump charcoal until the internal temperature hits 125°F.",
+                  "Finish with a blazing hot sear to lock in the crust.",
+                  "Blend the parsley, cilantro, garlic, shallot, olive oil, red wine vinegar, fish sauce, lemon juice, and chili flakes for the Asian-style chimichurri.",
+                  "Top the steak with chimichurri butter and serve with the Asian-style chimichurri."
               ]
 },
 {
@@ -771,25 +833,23 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "•\t3–4 lbs chuck roast",
-                                               "•\tFavorite seasoning",
-                                               "•\t1 birria bomb",
-                                               "•\t4 cups water",
-                                               "•\tOnions",
-                                               "•\tCilantro",
-                                               "•\tAvocados",
-                                               "•\tQueso fresco",
-                                               "•\tCorn tortillas"
+                                               "3-4 lbs chuck roast",
+                                               "Favorite seasoning",
+                                               "1 birria bomb",
+                                               "4 cups water",
+                                               "Onions, diced",
+                                               "Cilantro",
+                                               "Avocados",
+                                               "Queso fresco",
+                                               "Corn tortillas"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Queso fresco",
-                  "Corn tortillas",
-                  "Season meat on all sides and sear over medium-high heat.",
-                  "Transfer to a pot and add water and birria bomb.",
-                  "Cook at 325°F for 3–4 hours until fork tender, adding water if needed.",
-                  "Assemble tacos with melted queso, shredded beef, onions, cilantro, and avocado slices."
+                  "Season the meat on all sides and sear over medium-high heat.",
+                  "Transfer to a pot and add the water and birria bomb.",
+                  "Cook at 325°F for 3-4 hours until fork tender, adding water if needed.",
+                  "Assemble the tacos with melted queso, shredded beef, onions, cilantro, and avocado slices."
               ]
 },
 {
@@ -811,12 +871,12 @@ const RECIPES = [
                                  "items":  [
                                                "3–4 lbs chicken wings",
                                                "Olive oil",
-                                               "Favorite seasoning"
+                                               "Favorite seasoning",
+                                               "6 cloves garlic, minced"
                                            ]
                          }
                          ],
     "steps":  [
-                  "6 cloves garlic, minced",
                   "Lightly coat wings with olive oil and season generously.",
                   "Grill wings over indirect heat at 375°F for about 1 hour, until cooked through and lightly crisped.",
                   "While wings cook, combine all glaze ingredients in a small pot and simmer until slightly thickened.",
@@ -891,10 +951,10 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "•\t2 (15 oz) cans corned beef",
-                                               "•\t1 large sweet onion, diced",
-                                               "•\t2 bags taro leaves or 1 (10 oz) bag spinach",
-                                               "•\t1 (15 oz) can coconut cream"
+                                               "2 (15 oz) cans corned beef",
+                                               "1 large sweet onion, diced",
+                                               "2 bags taro leaves or 1 (10 oz) bag spinach",
+                                               "1 (15 oz) can coconut cream"
                                            ]
                          }
                          ],
@@ -927,8 +987,8 @@ const RECIPES = [
                                                "1 cup brown sugar",
                                                "1 cup shoyu or low-sodium soy sauce",
                                                "6 cloves garlic, minced",
-                                               "•\t2 knobs ginger, sliced and smashed",
-                                               "•\tChili flakes (optional)",
+                                               "2 knobs ginger, sliced and smashed",
+                                               "Chili flakes (optional)",
                                                "Pan Fry",
                                                "1 tbsp oyster sauce"
                                            ]
@@ -957,20 +1017,34 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  "Flank Steak Tacos.",
+                                 "heading":  null,
                                  "items":  [
-                                               "Iberico Flank Steak",
+                                               "Iberico flank steak",
                                                "Favorite seasoning",
                                                "Lime"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Avocado Tomatillo Salsa",
+                                 "items":  [
+                                               "2 hass avocados",
+                                               "6 tomatillos",
+                                               "1/4 cup cilantro, chopped",
+                                               "1 lime, juiced",
+                                               "1 jalapeño pepper, sliced",
+                                               "1/4 cup onion, chopped",
+                                               "2 garlic cloves",
+                                               "Salt to taste"
                                            ]
                          }
                          ],
     "steps":  [
-                  "2 hass avocados",
-                  "6 tomatillos",
-                  "1 Lime, Juiced",
-                  "1 Jalapeño pepper, sliced",
-                  "2 garlic cloves"
+                  "Season the steak with your favorite seasoning.",
+                  "Grill over direct heat, about 1-2 minutes on each side, flipping throughout the cook.",
+                  "Halfway through the cook, drizzle fresh orange and lime juice over the top.",
+                  "While the steak is resting, grill the tomatillo, jalapeno, onion, and garlic.",
+                  "Combine all of the salsa ingredients in a blender and season with salt to taste.",
+                  "Assemble the tacos with sliced steak, tomatillo salsa, diced onion, and cilantro."
               ]
 },
 {
@@ -990,17 +1064,17 @@ const RECIPES = [
                              {
                                  "heading":  "These Pinwheels Came Out Insanely Good! Wrapped In Prosciutto, Hit With @Blazingstarbbq Scorpion Rub For That Sweet Heat, Then Finished With A Bright Citrus-Olive Dressing. Paired With A Mediterranean Side Salad…",
                                  "items":  [
-                                               "• Prosciutto (4 slices per pinwheel)",
-                                               "• Skinless salmon",
-                                               "• Parsley, chopped",
-                                               "• Cilantro, chopped",
-                                               "• Lemon wedges",
-                                               "• Castelvetrano olives, sliced"
+                                               "Prosciutto (4 slices per pinwheel)",
+                                               "Skinless salmon",
+                                               "Parsley, chopped",
+                                               "Cilantro, chopped",
+                                               "Lemon wedges",
+                                               "Castelvetrano olives, sliced",
+                                               "Lemon wedges"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Lemon wedges",
                   "Castelvetrano olives, sliced",
                   "Castelvetrano olives (12–15, chopped)",
                   "1 shallot, chopped",
@@ -1072,14 +1146,14 @@ const RECIPES = [
                              {
                                  "heading":  "Marinade",
                                  "items":  [
-                                               "• Favorite cut of pork (I used Secreto)",
-                                               "• 1/4 cup fish sauce",
-                                               "• 1 tbsp honey",
-                                               "• 2 tbsp sugar",
-                                               "• 4 green onions, chopped",
-                                               "• 2 garlic cloves, minced",
-                                               "• 1 knob of ginger, minced",
-                                               "• 1 tsp ground black pepper"
+                                               "Favorite cut of pork (I used Secreto)",
+                                               "1/4 cup fish sauce",
+                                               "1 tbsp honey",
+                                               "2 tbsp sugar",
+                                               "4 green onions, chopped",
+                                               "2 garlic cloves, minced",
+                                               "1 knob of ginger, minced",
+                                               "1 tsp ground black pepper"
                                            ]
                          }
                          ],
@@ -1174,7 +1248,14 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "1 tbsp Cajun Honey Seasoning",
+                                               "1 Iberico rib rack",
+                                               "@tfti.bbq Cajun Honey seasoning"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Cajun Honey Butter",
+                                 "items":  [
+                                               "1 tbsp Cajun Honey seasoning",
                                                "1 stick butter",
                                                "6 garlic cloves",
                                                "1 tbsp parsley"
@@ -1182,6 +1263,10 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
+                  "Season the rib rack heavily with Cajun Honey seasoning.",
+                  "Grill over lump charcoal until the internal temperature hits 135°F for juicy perfection.",
+                  "Blend the butter, Cajun Honey seasoning, garlic, and parsley together for the Cajun honey butter.",
+                  "Drizzle the Cajun honey butter over the ribs as they come off the grill, then rest briefly before slicing."
               ]
 },
 {
@@ -1201,24 +1286,37 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "1 packet Spaghetti",
-                                               "1 tablespoon grated Parmesan cheese"
+                                               "Wagyu bone-in ribeye",
+                                               "Salt"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Garlic Noodles",
+                                 "items":  [
+                                               "1 packet spaghetti",
+                                               "1 tbsp grated Parmesan cheese",
+                                               "Green onions"
                                            ]
                          },
                              {
                                  "heading":  "Garlic Sauce",
                                  "items":  [
                                                "1 stick unsalted butter",
-                                               "2 tablespoons garlic, minced (or more to taste)",
-                                               "1 tablespoon Maggi seasoning sauce",
-                                               "1 tablespoon oyster sauce",
-                                               "1 tablespoon sesame oil",
-                                               "1 tablespoon fish sauce",
-                                               "1 tablespoon sugar"
+                                               "2 tbsp garlic, minced, or more to taste",
+                                               "1 tbsp Maggi seasoning sauce",
+                                               "1 tbsp oyster sauce",
+                                               "1 tbsp sesame oil",
+                                               "1 tbsp fish sauce",
+                                               "1 tbsp sugar"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Season the wagyu simply with salt to bring out the flavor.",
+                  "Grill the ribeye over lump charcoal to your target temperature, then rest it.",
+                  "Melt the butter, then stir in the garlic, Maggi, oyster sauce, sesame oil, fish sauce, and sugar for the garlic sauce.",
+                  "Toss the cooked spaghetti in the garlic sauce and finish with Parmesan and green onions.",
+                  "Slice the ribeye and serve it over the garlic noodles."
               ]
 },
 {
@@ -1236,18 +1334,30 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
+                                 "heading":  null,
+                                 "items":  [
+                                               "Iberico St. Louis ribs",
+                                               "@blazingstarbbq All in One"
+                                           ]
+                         },
+                             {
                                  "heading":  "Adobo Glaze",
                                  "items":  [
-                                               "6 cloves garlic minced",
+                                               "6 garlic cloves, minced",
                                                "1/2 cup low sodium soy sauce",
                                                "1/4 cup cane vinegar",
-                                               "1/2 cup brown sugar or Hot honey",
+                                               "1/2 cup brown sugar or hot honey",
                                                "1 tsp black pepper",
                                                "2 bay leaves"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Season the ribs with the All in One.",
+                  "Cook on the Kamado at 275-300°F over lump charcoal, rib side down for 45 minutes.",
+                  "Flip and finish for another 30 minutes.",
+                  "Simmer the glaze ingredients together until sticky.",
+                  "Glaze the ribs and let them caramelize briefly before serving."
               ]
 },
 {
@@ -1306,7 +1416,8 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "4 Cups Water"
+                                               "4 Cups Water",
+                                               "2 packs Momofuku Sweet & Spicy Noodles"
                                            ]
                          }
                          ],
@@ -1315,7 +1426,6 @@ const RECIPES = [
                   "Place meat in a pot and combine water and Birria bomb.",
                   "Cook for 3–4 hours at 325°F until fork tender.",
                   "Assemble your taco with melted queso, shredded beef, onions, cilantro, and slices of avocado.",
-                  "2 packs Momofuku Sweet & Spicy Noodles",
                   "Hard Boiled Eggs",
                   "Cook noodles according to package.",
                   "Add Birria consume.",
@@ -1340,30 +1450,34 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "Spaghetti noodles (cooked per package)"
+                                               "Spaghetti noodles, cooked per package"
                                            ]
                          },
                              {
                                  "heading":  "Garlic Chili Oil Sauce",
                                  "items":  [
                                                "2 tbsp @momofukugoods Garlic Chili Crunch Oil",
-                                               "tbsp Light Soy Sauce",
-                                               "tsp Rice Vinegar",
-                                               "tsp Chicken Bouillon Powder",
-                                               "3 Garlic Cloves, minced"
+                                               "1/2 tbsp light soy sauce",
+                                               "1/2 tsp rice vinegar",
+                                               "1/2 tsp chicken bouillon powder",
+                                               "3 garlic cloves, minced",
+                                               "Cilantro or green onions, for garnish"
                                            ]
                          },
                              {
-                                 "heading":  "For the pork belly",
+                                 "heading":  "For the Pork Belly",
                                  "items":  [
+                                               "Iberico pork belly",
+                                               "Favorite seasoning, a simple savory rub"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Iberico Pork Belly",
-                  "Favorite seasoning (I used a simple savory rub)",
-                  "Grill at medium high heat.",
-                  "Toss noodles in the sauce and season with salt as needed, layer with pork, garnish, and enjoy that kick."
+                  "Season the pork belly with your favorite savory rub.",
+                  "Grill over medium-high heat until crispy and cooked through.",
+                  "Whisk the garlic chili oil sauce ingredients together.",
+                  "Toss the cooked noodles in the sauce and season with salt as needed.",
+                  "Layer the grilled pork belly over the noodles, garnish, and serve."
               ]
 },
 {
@@ -1398,7 +1512,6 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "French fries",
                   "1. Grill Iberico ~2–3 min/side. Rest it.",
                   "2. Stir-fry veggies in the wok ’til tender-crisp.",
                   "3. Toss in steak + sauces. Flash sear.",
@@ -1422,13 +1535,13 @@ const RECIPES = [
                              {
                                  "heading":  "",
                                  "items":  [
-                                               "•\t3 lbs Pork Butt, cut into 1.5” cubes",
-                                               "•\tOxtail (regular or smoked)",
-                                               "•\tBlack Cod (Butterfish)",
-                                               "•\tHawaiian Salt",
-                                               "•\tTaro Leaves (luau leaves), stems trimmed & peeled",
-                                               "•\tTi Leaves (or foil for wrapping)",
-                                               "•\tWater (for steaming or Instant Pot)"
+                                               "3 lbs Pork Butt, cut into 1.5” cubes",
+                                               "Oxtail (regular or smoked)",
+                                               "Black Cod (Butterfish)",
+                                               "Hawaiian Salt",
+                                               "Taro Leaves (luau leaves), stems trimmed & peeled",
+                                               "Ti Leaves (or foil for wrapping)",
+                                               "Water (for steaming or Instant Pot)"
                                            ]
                          }
                          ],
@@ -1460,18 +1573,30 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "1½ sticks of butter",
+                                               "1 Iberico presa, rolled into steak rolls"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Cowboy Butter",
+                                 "items":  [
+                                               "1 1/2 sticks butter",
                                                "6 garlic cloves, minced",
                                                "1 medium shallot, minced",
                                                "2 tbsp fresh parsley, chopped",
                                                "2 tbsp scallions, minced",
-                                               "½ tsp chipotle pepper",
-                                               "½ tsp smoked paprika",
-                                               "1 tbsp Dijon mustard"
+                                               "1/2 tsp chipotle pepper",
+                                               "1/2 tsp smoked paprika",
+                                               "1 tbsp Dijon mustard",
+                                               "1/2 lemon, juiced",
+                                               "Salt to taste"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Roll and tie the butterflied presa into steak rolls, then season.",
+                  "Sear the rolls on all sides over lump charcoal and cook to your target temperature.",
+                  "Blend the cowboy butter ingredients together.",
+                  "Serve the sliced rolls with the cowboy butter for dipping or pouring over the top."
               ]
 },
 {
@@ -1491,16 +1616,27 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
+                                               "1 rack Iberico St. Louis ribs",
+                                               "@reservablends Ancho Chili seasoning"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Garlic Lemon Butter Sauce",
+                                 "items":  [
                                                "1 stick butter",
-                                               "6 cloves garlic, minced",
+                                               "6 garlic cloves, minced",
                                                "1/2 bunch fresh parsley",
-                                               "• Juice of 1 lemon",
-                                               "• Salt + pepper to taste",
-                                               "Slice, drizzle, and dive in. These ribs don’t play around. Would you take a bite?"
+                                               "Juice of 1 lemon",
+                                               "Salt and pepper to taste"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Season the ribs with the Ancho Chili seasoning for a deep, smoky kick.",
+                  "Cook directly over lump charcoal at 275°F, 1 hour on one side.",
+                  "Flip and cook another 45 minutes until just right.",
+                  "Melt the butter and stir in the garlic, parsley, lemon juice, salt, and pepper for the sauce.",
+                  "Slice, drizzle with the garlic lemon butter, and serve."
               ]
 },
 {
@@ -1520,12 +1656,12 @@ const RECIPES = [
                              {
                                  "heading":  "Adobo Glaze",
                                  "items":  [
-                                               "• 6 cloves garlic, minced",
-                                               "• 4 tbsp hot honey (or regular honey)",
-                                               "• 4 tbsp low sodium soy sauce",
-                                               "• 2 tbsp cane vinegar",
-                                               "• ½ tsp black pepper",
-                                               "• 1 bay leaf"
+                                               "6 cloves garlic, minced",
+                                               "4 tbsp hot honey (or regular honey)",
+                                               "4 tbsp low sodium soy sauce",
+                                               "2 tbsp cane vinegar",
+                                               "½ tsp black pepper",
+                                               "1 bay leaf"
                                            ]
                          }
                          ],
@@ -1593,9 +1729,10 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "1 Chicken, cut into pieces",
-                                               "4 stalks green onions, chopped 1/2 onion, chopped",
-                                               "1 Lemon, juiced",
+                                               "1 chicken, cut into pieces",
+                                               "4 stalks green onions, chopped",
+                                               "1/2 onion, chopped",
+                                               "1 lemon, juiced",
                                                "1-2 tbsp lemon powder, add more or less based on sourness",
                                                "1 tbsp salt",
                                                "1 tbsp chili flakes",
@@ -1604,6 +1741,10 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
+                  "Grill the chicken pieces over lump charcoal until fully cooked and smoky.",
+                  "Chop or shred the grilled chicken into small pieces.",
+                  "Mix the chicken with lemon juice, lemon powder, salt, chili flakes, onions, green onions, and grated coconut.",
+                  "Let it rest briefly so the flavors come together, then serve."
               ]
 },
 {
@@ -1620,8 +1761,30 @@ const RECIPES = [
                   "Today we’re throwing down some next-level wings using @reservablends Carne Asada Seasoning, and these are insanely good. We’re giving them a light corn starch coat for that extra crunch, seasoning them up generously, then grilling on the Kamado at 375-400°F for an hour — flipping halfway through for that perfect char. No sauce needed, but if you want to level up even more, hit ’em with this Lemon Chipotle Crema:"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "Chicken wings",
+                                               "@reservablends Carne Asada Seasoning",
+                                               "Corn starch, light coat"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Lemon Chipotle Crema",
+                                 "items":  [
+                                               "1/2 cup sour cream",
+                                               "1 tbsp chipotle powder",
+                                               "Juice and zest of 1/2 lemon",
+                                               "1 garlic clove, minced",
+                                               "1/2 tbsp kosher salt"
+                                           ]
+                         }
                          ],
     "steps":  [
+                  "Give the wings a light corn starch coat and season generously with the carne asada seasoning.",
+                  "Grill on the Kamado at 375-400°F for an hour, flipping halfway through for even char.",
+                  "Whisk the crema ingredients together.",
+                  "Serve the wings with the lemon chipotle crema for dipping."
               ]
 },
 {
@@ -1641,7 +1804,7 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "2 lbs pork belly",
+                                               "2 lbs pork belly, thick cut",
                                                "1 head of garlic, chopped",
                                                "5 bay leaves",
                                                "1/2 cup soy sauce",
@@ -1654,6 +1817,11 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
+                  "Sear the pork belly in a cast iron pot over live fire until browned.",
+                  "Add the garlic, soy sauce, bay leaves, peppercorns, brown sugar, and water.",
+                  "Braise for about an hour, then hit it with the cane vinegar for that signature adobo tang.",
+                  "Continue cooking until the pork is tender.",
+                  "Pan-fry the tender chunks at the end for crispy, carnitas-style bites."
               ]
 },
 {
@@ -1718,12 +1886,12 @@ const RECIPES = [
                              {
                                  "heading":  "Saltado Ingredients",
                                  "items":  [
-                                               "Soy sauce, Maggi, salt + pepper"
+                                               "Soy sauce, Maggi, salt + pepper",
+                                               "Fries (crispy ones!)"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Fries (crispy ones!)",
                   "Grill steak ~2-3 min/side. Rest.",
                   "Stir-fry veggies in that wok ‘til tender-crisp.",
                   "Toss in steak, garlic, herbs, sauces. Quick sear.",
@@ -1820,38 +1988,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "iberico-presa-rolls-w-cowboy-butter",
-    "title":  "Iberico Presa Rolls w/ Cowboy Butter",
-    "date":  "2025-04-08",
-    "category":  "Other",
-    "image":  "images/recipes/iberico-presa-rolls-w-cowboy-butter.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Iberico Presa Rolls w/ Cowboy Butter. Cowboy Butter Ingredients:\n1 1/2 Sticks of Butter\n6 Garlic Cloves, minced\n1 Medium Shallot, minced\n2 Tbsp Fresh Parsley, chopped\n2 Tbsp Scallions, minced\n1/2 Tsp Chipotle Pepper\n1/2 Tsp Smoked Paprika\n1 Tbsp Dijon Mustard\n1/2 Lemon, juiced\nSalt to taste. @kamadojoe Big Joe III. @thegoodcharcoal Lump Charcoal. @meatermade MEATER PRO. @bbq_boards Premium Cutting Board #btcooks #BBQ #GrillLife #ibericopork #presasteak #cowboybutter #KamadoJoe #teamred #meater",
-    "description":  "Iberico Presa Rolls w/ Cowboy Butter",
-    "likes":  133,
-    "intro":  [
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  "Cowboy Butter",
-                                 "items":  [
-                                               "1 1/2 Sticks of Butter",
-                                               "6 Garlic Cloves, minced",
-                                               "1 Medium Shallot, minced",
-                                               "2 Tbsp Fresh Parsley, chopped",
-                                               "2 Tbsp Scallions, minced",
-                                               "1/2 Tsp Chipotle Pepper",
-                                               "1/2 Tsp Smoked Paprika",
-                                               "1 Tbsp Dijon Mustard",
-                                               "1/2 Lemon, juiced",
-                                               "Salt to taste"
-                                           ]
-                         }
-                         ],
-    "steps":  [
-              ]
-},
-{
     "id":  "huli-huli-chicken",
     "title":  "Huli Huli Chicken",
     "date":  "2025-04-03",
@@ -1916,6 +2052,8 @@ const RECIPES = [
                              {
                                  "heading":  "Seasoning",
                                  "items":  [
+                                               "Fresh ground pepper",
+                                               "Garlic powder"
                                            ]
                          }
                          ],
@@ -1940,6 +2078,25 @@ const RECIPES = [
                   "Crispy, buttery, and packed with bold lemon-pepper flavor—these wings disappeared fast! The tangy citrus, rich butter, and perfect seasoning make for an unbeatable combo. Here’s how to make them: 5 lbs chicken wings @blazingstarbbq All in One Seasoning Olive oil. Lemon Pepper Sauce: 1 stick butter @sucklebuster Lemon Pepper Seasoning 3 cloves garlic, minced 1 lemon, juiced Zest from 1 lemon"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "5 lbs chicken wings",
+                                               "@blazingstarbbq All in One seasoning",
+                                               "Olive oil"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Lemon Pepper Sauce",
+                                 "items":  [
+                                               "1 stick butter",
+                                               "@sucklebuster Lemon Pepper Seasoning",
+                                               "3 garlic cloves, minced",
+                                               "1 lemon, juiced",
+                                               "Zest from 1 lemon",
+                                               "1 tbsp sriracha"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Let the wings dry out in the fridge for 4-6 hours. This makes them extra crispy!",
@@ -1966,18 +2123,31 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "French Baguette",
-                                               "A5 Wagyu",
-                                               "Carmelized onions",
+                                               "French baguette",
+                                               "A5 wagyu",
+                                               "Caramelized onions",
                                                "Micro greens",
                                                "Aioli sauce"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Cilantro Lime Aioli",
+                                 "items":  [
+                                               "1 cup mayonnaise",
+                                               "1/4 cup chopped cilantro",
+                                               "2-3 garlic cloves",
+                                               "1 lime, zest and juice",
+                                               "Salt and pepper to taste"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Micro greens",
-                  "2-3 gloves garlic",
-                  "1 lime, zest and juice"
+                  "Whisk the mayonnaise, cilantro, garlic, lime zest and juice, salt, and pepper together for the aioli, then chill until serving.",
+                  "Slice the baguette and toast the pieces until crisp.",
+                  "Lightly season the A5 wagyu with salt.",
+                  "Sear the wagyu about 5 minutes on each side, then rest for 5-10 minutes.",
+                  "Thinly slice the wagyu against the grain.",
+                  "Top each crostini with aioli, caramelized onions, wagyu slices, and micro greens."
               ]
 },
 {
@@ -1997,24 +2167,32 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "@eat.campogrande Iberico Flank Steak",
+                                               "@eat.campogrande Iberico flank steak",
                                                "Favorite seasoning",
                                                "Lime"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Avocado Tomatillo Salsa",
+                                 "items":  [
+                                               "2 hass avocados",
+                                               "6 tomatillos",
+                                               "1/4 cup cilantro, chopped",
+                                               "1 lime, juiced",
+                                               "1 jalapeño pepper, sliced",
+                                               "1/4 cup onion, chopped",
+                                               "2 garlic cloves",
+                                               "Salt to taste"
                                            ]
                          }
                          ],
     "steps":  [
-                  "2 hass avocados",
-                  "6 tomatillos",
-                  "1 Lime, Juiced",
-                  "1 Jalapeño pepper, sliced",
-                  "2 garlic cloves",
-                  "Season steak with your favorite seasoning, I used @blazingstarbbq All in One.",
+                  "Season the steak with your favorite seasoning, I used @blazingstarbbq All in One.",
                   "Grill over direct heat, about 1-2 minutes on each side, flipping throughout the cook.",
-                  "Halfway through the cook drizzle fresh orange and lime juice over the top.",
-                  "While the steak is resting grill the Tomatillo, Jalapeño, Onion, and Garlic.",
-                  "Combine all of the tomatillo ingredients in a blender. Season with salt to taste.",
-                  "Assemble your tacos by adding slices of pork, layered with Tomatillo salsa, diced Onions and Cilantro. Enjoy"
+                  "Halfway through the cook, drizzle fresh orange and lime juice over the top.",
+                  "While the steak is resting, grill the tomatillo, jalapeno, onion, and garlic.",
+                  "Combine all of the salsa ingredients in a blender and season with salt to taste.",
+                  "Assemble the tacos with sliced steak, tomatillo salsa, diced onion, and cilantro."
               ]
 },
 {
@@ -2031,6 +2209,26 @@ const RECIPES = [
                   "Another flavor packed Banh mi sandwich that is straight FIYAH. Pork bellies prepared and cooked like a brisket. Super tender and melt in your mouth. 3-4 lb skin off pork belly slab @blazingstarbbq Scorpion Rub @lilliesq Umami Boost"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "3-4 lb skin-off pork belly slab",
+                                               "@blazingstarbbq Scorpion Rub",
+                                               "@lilliesq Umami Boost"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Sandwich",
+                                 "items":  [
+                                               "French bread",
+                                               "Pate",
+                                               "Cucumbers and onions",
+                                               "Pickled daikon and carrots",
+                                               "Jalapeños",
+                                               "Cilantro",
+                                               "Maggi seasoning"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Wrap in butcher paper and cook until internal temp hits 203° and probe tender.",
@@ -2089,30 +2287,34 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  null,
+                                 "heading":  "Short Ribs",
                                  "items":  [
-                                               "1 cup of Kikkoman Soy Sauce",
-                                               "1 cup Vinegar",
-                                               "1 Onion, sliced",
+                                               "1 cup Kikkoman soy sauce",
+                                               "1 cup vinegar",
+                                               "1 onion, sliced",
                                                "1 head of garlic, minced",
-                                               "1 tsp Black pepper",
-                                               "1/2 cup Brown Sugar (optional)"
+                                               "1 tsp black pepper",
+                                               "1/2 cup brown sugar (optional)"
                                            ]
                          },
                              {
                                  "heading":  "Finadene Sauce",
                                  "items":  [
-                                               "1/2 cup Soy sauce",
-                                               "1/2 cup Vinegar",
-                                               "1/4 cup Lemon juice or Calamansi",
-                                               "4 Thai Chili Peppers or 2 Serrano Chili, sliced",
-                                               "4 Stalks Green onions",
-                                               "1/4 Onion, chopped",
-                                               "1/2 Cup Cherry tomatoes"
+                                               "1/2 cup soy sauce",
+                                               "1/2 cup vinegar",
+                                               "1/4 cup lemon juice or calamansi",
+                                               "4 Thai chili peppers or 2 serrano chilies, sliced",
+                                               "4 stalks green onions",
+                                               "1/4 onion, chopped",
+                                               "1/2 cup cherry tomatoes"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Marinate the short ribs in the soy sauce, vinegar, onion, garlic, pepper, and brown sugar.",
+                  "Grill the ribs over charcoal until tender and caramelized.",
+                  "Mix the finadene sauce ingredients together.",
+                  "Serve the short ribs with the finadene sauce and steamed rice."
               ]
 },
 {
@@ -2130,25 +2332,34 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  "Sliders Using @Kingshawaiian Has To Be My Favorite. Adding Tritip From @Santacarotabeef And Seasoned With @Blazingstarbbq Beef Rub, Then Adding Cilantro, Onions, And Beer To Marinate Overnight.",
+                                 "heading":  null,
                                  "items":  [
-                                               "Kings Hawaiian Bread",
+                                               "Kings Hawaiian bread",
                                                "Tritip",
-                                               "Favorite Beef Seasoning",
+                                               "Favorite beef seasoning",
                                                "Cilantro",
                                                "Onions",
                                                "Beer",
                                                "2 red bell peppers",
                                                "Mixed greens"
                                            ]
+                         },
+                             {
+                                 "heading":  "Garlic Aioli",
+                                 "items":  [
+                                               "1/2 cup mayonnaise",
+                                               "4 garlic cloves, finely minced",
+                                               "1 lemon, juiced",
+                                               "Salt and pepper to taste"
+                                           ]
                          }
                          ],
     "steps":  [
-                  "2 red bell peppers",
-                  "Mixed greens",
-                  "Garlic Aioli Sauce",
-                  "4 cloves Garlic, finely minced",
-                  "1 Lemon, juiced"
+                  "Season the tritip with the beef seasoning, then marinate overnight with cilantro, onions, and beer.",
+                  "Roast the red bell peppers over direct heat until charred, then peel and slice.",
+                  "Whisk the mayonnaise, garlic, lemon juice, salt, and pepper together for the garlic aioli.",
+                  "Grill the tritip to your target temperature and rest before slicing.",
+                  "Build the sliders with sliced tritip, roasted peppers, mixed greens, and garlic aioli."
               ]
 },
 {
@@ -2165,12 +2376,20 @@ const RECIPES = [
                   "I love the flavor profile of simple South American style BBQ. No fancy sauces or rubs, but just a nice meaty taste with fresh citrus squeezed over. 1 rack St Louis Ribs Salt or your favorite seasoning"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 rack St. Louis ribs",
+                                               "Salt or your favorite seasoning",
+                                               "2 limes"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Lightly season your ribs and let it sit for 20-30 minutes.",
                   "Heat up the Kamado Joe using a small amount of charcoal and adding splits of Oak. Aiming for a temp of 250-275°",
                   "Place your ribs on one side of the grill. This will provide you with easy access to add more wood if needed.",
-                  "While the ribs squeeze half a lime over the ribs.",
+                  "While the ribs cook, squeeze half a lime over them.",
                   "After an hour, flip the ribs and squeeze the other half of the lime. Cook for 1 more hour and rest covered in foil for 30 minutes.",
                   "Slice into individual pieces and drizzle more lime juice right before serving."
               ]
@@ -2291,10 +2510,10 @@ const RECIPES = [
                                  "items":  [
                                                "1 bunch Cilantro, chopped",
                                                "1 bunch Parsley, chopped",
-                                               "•\t1 shallot, chopped",
+                                               "1 shallot, chopped",
                                                "1/2 cup Olive Oil",
                                                "1 tbsp Fish Sauce",
-                                               "•\t6 Calamansi, juiced",
+                                               "6 Calamansi, juiced",
                                                "1 tbsp Capers, chopped",
                                                "1 tbsp Garlic Chili Crunch"
                                            ]
@@ -2322,6 +2541,25 @@ const RECIPES = [
                   "The holidays are here, and it’s time to level up your Christmas feast with this Double Smoked Ham, glazed with a Cherry POG Whiskey Reduction."
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 spiral-cut ham",
+                                               "Miso paste, as a binder",
+                                               "@blazingstarbbq Pork n Rub"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Cherry POG Glaze",
+                                 "items":  [
+                                               "2 sticks butter",
+                                               "1/2 cup whiskey",
+                                               "1 1/2 cups light brown sugar",
+                                               "1 cup cherry jam",
+                                               "1 1/2 cups POG juice",
+                                               "1 orange, zest and juice"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Take a spiral-cut ham and slather it with miso paste as a binder.",
@@ -2359,7 +2597,6 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "Salt & Pepper",
                   "Slice chicken breast in half and pound thin.",
                   "Add 1 slice of prosciutto and mozzarella.",
                   "Dip in flour, egg, and panko crumbs.",
@@ -2438,16 +2675,28 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "2 tbsp Apple cider vinegar",
-                                               "1 tbsp Brown Sugar",
-                                               "2 tbsp Sinigang Powder",
-                                               "1/2 tsp Fish Sauce",
+                                               "NY steaks",
+                                               "@blazingstarbbq Beef Rub"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Filipino White Sauce",
+                                 "items":  [
+                                               "1 cup mayonnaise",
+                                               "2 tbsp apple cider vinegar",
+                                               "1 tbsp brown sugar",
+                                               "2 tbsp sinigang powder",
+                                               "1/2 tsp fish sauce",
                                                "1/2 tsp black pepper",
-                                               "1 tbsp Sriracha"
+                                               "1 tbsp sriracha"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Season the NY steaks with the beef rub.",
+                  "Grill over direct heat until the internal temperature hits 120°F, then rest.",
+                  "Whisk the white sauce ingredients together.",
+                  "Slice the steaks and serve with the Filipino white sauce for dipping."
               ]
 },
 {
@@ -2499,13 +2748,28 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "1/2 cup Favorite BBQ Sauce",
-                                               "2 tbsp Brown sugar",
-                                               "1 tbsp Miso paste"
+                                               "1 rack baby back ribs",
+                                               "@blazingstarbbq Pork n Rub",
+                                               "Miso paste, as a binder",
+                                               "Butter",
+                                               "Brown sugar",
+                                               "Favorite BBQ sauce"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Miso BBQ Sauce",
+                                 "items":  [
+                                               "1/2 cup favorite BBQ sauce",
+                                               "2 tbsp brown sugar",
+                                               "1 tbsp miso paste"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Slather the ribs with miso paste as a binder and season with the Pork n Rub.",
+                  "Cook at 250°F for 3 hours.",
+                  "Wrap in foil with butter, brown sugar, and BBQ sauce, then return to the grill for another hour.",
+                  "Lather on the miso BBQ sauce and serve."
               ]
 },
 {
@@ -2526,16 +2790,18 @@ const RECIPES = [
                                  "heading":  null,
                                  "items":  [
                                                "Rack of lamb",
-                                               "Sinigang Powder",
+                                               "Sinigang powder",
                                                "Olive oil, as a binder",
                                                "Lime"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Rack of lamb",
-                  "Sinigang Powder",
-                  "Olive oil, as a binder"
+                  "Rub the lamb with olive oil and season generously with sinigang powder.",
+                  "Grill at 300-350°F over direct heat to develop a crispy crust.",
+                  "Cook until the internal temperature hits 140°F, then remove from the grill and rest for 10 minutes.",
+                  "Slice between the bones and return to the grill to sear all sides.",
+                  "Finish with freshly squeezed lime juice."
               ]
 },
 {
@@ -2719,6 +2985,18 @@ const RECIPES = [
                   "These little appetizers are addicting. Took some smoked pulled pork and replaced the ground beef that I would normally use. Love the slight smokiness and even better with your favorite dipping sauce. Pulled Pork Recipe: 1 Pork Butt Miso paste Gochujang @blazingstarbbq Pork n Rub"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2 Cups Pulled pork or Ground beef",
+                                               "4 cloves Garlic, chopped",
+                                               "1 cup Carrots, or shredded",
+                                               "2 cups Green Cabbage, shredded",
+                                               "2 cups Bean Sprouts",
+                                               "2-3 tbsp Soy Sauce",
+                                               "2 cups Oil, for deep-frying"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Season with rub on all sides, then wrap in seran wrap and place in the refrigerator overnight.",
@@ -2726,16 +3004,9 @@ const RECIPES = [
                   "Cook until IT hits about 165° or until you develop a nice bark.",
                   "Wrap in foil and cook until IT hits 203° or probe tender.",
                   "Let it rest for about an hour before shredding.",
-                  "2 Cups Pulled pork or Ground beef",
-                  "4 cloves Garlic, chopped",
                   "1 medium Onion, chopped",
-                  "1 cup Carrots, or shredded",
-                  "2 cups Green Cabbage, shredded",
-                  "2 cups Bean Sprouts",
-                  "2-3 tbsp Soy Sauce",
                   "Salt and Pepper, to taste",
                   "1 50ct pack Lumpia/Spring Roll wrappers",
-                  "2 cups Oil, for deep-frying",
                   "Heat the oil in medium high heat and saute the garlic and onions for 1-2 minutes.",
                   "Add the carrots, green beans, cabbage, and pulled pork. Stir-fry for about 3 minutes.",
                   "Add soy sauce and oyster sauce.",
@@ -2766,16 +3037,18 @@ const RECIPES = [
                                                "2 ribeyes, sliced thin",
                                                "1 red bell pepper",
                                                "1 green bell pepper",
-                                               "1 onions, sliced",
-                                               "1 packet of mushrooms",
+                                               "1 onion, sliced",
+                                               "1 packet mushrooms",
                                                "Leftover queso or your favorite cheese",
                                                "Sandwich rolls"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Leftover queso or your favorite cheese",
-                  "Sandwich rolls"
+                  "Season the thinly sliced ribeye with the beef seasoning.",
+                  "Saute the bell peppers, onions, and mushrooms until soft.",
+                  "Grill or griddle the ribeye slices until browned.",
+                  "Melt the queso over the meat and pile everything onto toasted sandwich rolls."
               ]
 },
 {
@@ -2800,13 +3073,13 @@ const RECIPES = [
                                                "1 Shallot, chopped",
                                                "4 Garlic cloves, minced",
                                                "1 Lemon, skinned & chopped",
-                                               "1 Lemon juice & Zest"
+                                               "1 Lemon juice & Zest",
+                                               "Salt and pepper",
+                                               "Green onions"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Salt and pepper",
-                  "Green onions",
                   "Lemon zest",
                   "Grilled over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour."
               ]
@@ -2828,15 +3101,32 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "1/2 cup Mayonnaise",
-                                               "2 tbsp Chipotle paste",
-                                               "1 tbsp Smoked Paprika",
+                                               "2-3 lbs shrimp, peeled and deveined",
+                                               "@blazingstarbbq All in One seasoning",
+                                               "Corn tortillas",
+                                               "Red cabbage, sliced thin",
+                                               "Avocados, sliced",
+                                               "Cilantro"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Chipotle Crema",
+                                 "items":  [
+                                               "1 cup Mexican crema or sour cream",
+                                               "1/2 cup mayonnaise",
+                                               "2 tbsp chipotle paste",
+                                               "1 tbsp smoked paprika",
                                                "1 lime, juiced",
                                                "2 tsp salt"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Season the shrimp with the All in One seasoning.",
+                  "Whisk all of the chipotle crema ingredients together and chill until serving.",
+                  "Grill the shrimp over direct heat, about 1-2 minutes per side, until pink and opaque.",
+                  "Warm the corn tortillas on the grill.",
+                  "Assemble the tacos with shrimp, cabbage, avocado, cilantro, and a drizzle of chipotle crema."
               ]
 },
 {
@@ -2864,13 +3154,13 @@ const RECIPES = [
                                                "1/2 tsp White pepper",
                                                "1/2 tsp Ground pepper",
                                                "2 eggs (1 egg reserved to seal wrappers)",
-                                               "25 pack Egg Roll Wrapper, cut in half"
+                                               "25 pack Egg Roll Wrapper, cut in half",
+                                               "1 tbsp of filling per wrapper."
                                            ]
                          }
                          ],
     "steps":  [
                   "Combine all ingredients into a bowl.",
-                  "1 tbsp of filling per wrapper.",
                   "Roll and seal with a dab of beaten egg.",
                   "Heat oil to 375 degrees and fry until golden brown.",
                   "Serve with sweet chilli or sweet and sour sauce."
@@ -2941,17 +3231,25 @@ const RECIPES = [
                                                "@blazingstarbbq Scorpion Rub",
                                                "Olive oil"
                                            ]
+                         },
+                             {
+                                 "heading":  "Cilantro Dressing",
+                                 "items":  [
+                                               "1 bundle cilantro",
+                                               "1 cup mayonnaise",
+                                               "1 garlic clove",
+                                               "1/2 tbsp salt",
+                                               "1 tsp black pepper",
+                                               "1 lime, juiced"
+                                           ]
                          }
                          ],
     "steps":  [
-                  "Combine all ingredients.",
-                  "Spray chicken with cooking oil before placing on the grill.",
-                  "Grill indirect at 350° for 30-45 minutes",
-                  "Bump up heat to 400° and spread coals directly under and cook until crispy.",
-                  "Bundle of Cilantro",
-                  "1 garlic clove",
-                  "1 lime, juiced",
-                  "Combine all ingredients in a blender until smooth."
+                  "Combine all of the wing ingredients.",
+                  "Spray the chicken with cooking oil before placing it on the grill.",
+                  "Grill indirect at 350°F for 30-45 minutes.",
+                  "Bump up the heat to 400°F, spread the coals directly under the wings, and cook until crispy.",
+                  "Combine all of the dressing ingredients in a blender until smooth."
               ]
 },
 {
@@ -3148,34 +3446,41 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "2-3 lbs beef Oxtails cut and trimmed",
-                                               "1 lb beef bones or marrow bones 12 cups water",
-                                               "2 tbsp sugar or rock sugar",
-                                               "2 tbsp beef bouillon powder",
-                                               "2 tbsp fish sauce"
+                                               "2-3 lbs beef oxtails, cut and trimmed",
+                                               "Favorite beef seasoning"
                                            ]
                          },
                              {
                                  "heading":  "Braising",
                                  "items":  [
-                                               "2 cups Pho broth"
+                                               "2 cups pho broth"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Broth",
+                                 "items":  [
+                                               "1 lb beef bones or marrow bones",
+                                               "12 cups water",
+                                               "3 knobs ginger",
+                                               "1 large onion, halved",
+                                               "1 small daikon, peeled and cut into 1-inch slices",
+                                               "2 carrots",
+                                               "2 tbsp sugar or rock sugar",
+                                               "2 tbsp beef bouillon powder",
+                                               "2 tbsp fish sauce",
+                                               "4 tbsp pho soup base with seasoning packet, plus more as needed"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Season meat liberally with favorite seasoning and let sit for 1 hour before cooking.",
-                  "Preheat your grill to 250 and smoke meat for 3-4 hours or until IT hits 200-203.",
-                  "Remove meat and place into a roasting pan.",
-                  "Add broth and cover with aluminum foil.",
-                  "Place back into smoker and cook for another 3 hours.",
-                  "3 knobs ginger",
-                  "1 large onion, halved",
-                  "1 small daikon, peeled and cut into 1-inch thick slices",
-                  "2 carrots",
-                  "4 tbsp Pho Soup Base with seasoning packet (Quoc Viet Foods), add more as needed.",
-                  "Boil all ingredients in a large stock pot for 3 hours.",
-                  "Using a strainer, discard all solids.",
-                  "Serve with your favorite meat and noodles, garnish with thin sliced onions, green onions, bean sprouts, cilantro, jalapeños, and lime."
+                  "Season the meat liberally with your favorite seasoning and let it sit for 1 hour before cooking.",
+                  "Preheat the grill to 250°F and smoke the meat for 3-4 hours, or until the internal temperature hits 200-203°F.",
+                  "Remove the meat and place it into a roasting pan.",
+                  "Add the broth and cover with aluminum foil.",
+                  "Place it back into the smoker and cook for another 3 hours.",
+                  "Boil all of the broth ingredients in a large stock pot for 3 hours.",
+                  "Using a strainer, discard the solids.",
+                  "Serve with your favorite meat and noodles, garnished with thin sliced onions, green onions, bean sprouts, cilantro, jalapenos, and lime."
               ]
 },
 {
@@ -3192,6 +3497,15 @@ const RECIPES = [
                   "Hot and fast baby back ribs seasoned with Tamarind powder (Sinigang) then topped off with a squeeze of fresh lime juice. 1 packed Sinigang Powder 1 rack Pork Back Ribs Olive oil"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 rack pork back ribs",
+                                               "1 packet sinigang powder",
+                                               "Olive oil",
+                                               "1 lime"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Lather up with olive oil.",
@@ -3371,10 +3685,10 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  "Top Off With A Squeeze Of Lime Juice And Al Frugoni’S Chimichurri Mix. @Alfrugoni",
+                                 "heading":  null,
                                  "items":  [
                                                "Rack of lamb",
-                                               "Salt, Pepper, and Garlic",
+                                               "Salt, pepper, and garlic",
                                                "Olive oil, as a binder",
                                                "Lime",
                                                "Chimichurri sauce"
@@ -3382,10 +3696,11 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "Rack of lamb",
-                  "Salt, Pepper, and Garlic",
-                  "Olive oil, as a binder",
-                  "Chimichurri sauce"
+                  "Rub the lamb with olive oil and season with salt, pepper, and garlic.",
+                  "Grill at 300-350°F over direct heat to develop a crispy crust.",
+                  "Cook until the internal temperature hits 130°F for medium, then rest for 10 minutes.",
+                  "Slice between the bones and return to the grill to sear all sides.",
+                  "Top with a squeeze of lime juice and chimichurri."
               ]
 },
 {
@@ -3452,12 +3767,12 @@ const RECIPES = [
                                                "1 Shallot, chopped",
                                                "4 Garlic cloves, minced",
                                                "1 Lemon, skinned & chopped",
-                                               "1 Lemon juice & Zest"
+                                               "1 Lemon juice & Zest",
+                                               "Salt and pepper"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Salt and pepper",
                   "Lemon zest",
                   "Grill over lump charcoal at 350° until my @meatermade probe hit 140°."
               ]
@@ -3514,11 +3829,22 @@ const RECIPES = [
                   "Smoked Salmon tacos served with pickled onions and bell peppers. Topped off with Cilantro Lime Chipotle crema and fresh Cilantro. 4 Salmon Fillets Blazing Star Pork n Rub Seasoning Pickled onions and bell peppers Cilantro Lime Chipotle Crema Sauce Fresh Cilantro"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "4 salmon fillets",
+                                               "Blazing Star Pork n Rub seasoning",
+                                               "Pickled onions and bell peppers",
+                                               "Cilantro Lime Chipotle Crema",
+                                               "Fresh cilantro"
+                                           ]
+                         }
                          ],
     "steps":  [
-                  "Preheat grill to 180 degrees using lump charcoal and setup for indirect.",
-                  "Add your favorite wood chunks, I used Strawberry Guava from @firewoodhawaii",
-                  "Smoke fillets until internal temp hits 145."
+                  "Season the salmon fillets with the seasoning and let them sit for about 10-15 minutes.",
+                  "Preheat the grill to 180°F using lump charcoal and set it up for indirect cooking.",
+                  "Add your favorite wood chunks, I used strawberry guava.",
+                  "Smoke the fillets until the internal temperature hits 145°F."
               ]
 },
 {
@@ -3559,8 +3885,7 @@ const RECIPES = [
                   "In large frying pan add oil and set heat to medium.",
                   "Scoop a ladle full of beef mixture into pan and flatten.",
                   "Cook for 2-3 minutes then flip. Repeat same time for the other side.",
-                  "Serve with steamed rice and ketchup.",
-                  ""
+                  "Serve with steamed rice and ketchup."
               ]
 },
 {
@@ -3587,7 +3912,9 @@ const RECIPES = [
                                                "1 tbsp Red Onion Chopped",
                                                "1 tsp Ground Black Pepper",
                                                "1 tbsp Soy sauce",
-                                               "1 tbsp water"
+                                               "1 tbsp water",
+                                               "Garlic Rice",
+                                               "2 cups uncooked rice"
                                            ]
                          }
                          ],
@@ -3595,9 +3922,7 @@ const RECIPES = [
                   "Set grill to about 350-375.",
                   "Cook for about 15 minutes, flipping half way through.",
                   "After 15 minutes I like to cut them to flatten them a little and get a nice char to get that crunch all over. Cook for an additional 5 minutes.",
-                  "Garlic Rice",
-                  "2 cups uncooked rice",
-                  "5 cups water (just a guess since I’m Filipino and don’t measure my water. You want your rice to cook on the dry side and not so mushy)",
+                  "Cook the rice with about 5 cups of water, keeping it on the dry side so it is not mushy.",
                   "6 Garlic cloves, minced",
                   "Rinse your rice thoroughly and then add water and cook in rice cooker or stove top on low heat. Let it set for 30 minutes to an hour in room temp with lid off.",
                   "In a large pan or wok, add about 1 tbsp of oil on medium high heat.",
@@ -3688,6 +4013,28 @@ const RECIPES = [
                   "Reverse seared Santa Maria Tri-Tip from Costco, turned out quite delicious. Elevated this dish with a topping of homemade Caper Chimichurri, making it an ideal combination. 3lb Tri-Tip pre marinated or seasoned with favorite rub"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "3 lb tri-tip, pre-marinated or seasoned with favorite rub"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Caper Chimichurri",
+                                 "items":  [
+                                               "1/2 bunch Italian parsley, finely chopped",
+                                               "1/2 bunch cilantro, finely chopped",
+                                               "2 tbsp capers, finely chopped",
+                                               "1-2 garlic cloves, minced",
+                                               "1 tbsp shallots, minced",
+                                               "1 tsp salt",
+                                               "1 tsp fresh ground black pepper",
+                                               "1/2 tbsp red pepper flakes",
+                                               "1/2 lime",
+                                               "1/4 cup red wine vinegar",
+                                               "1/4 cup olive oil"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Smoked steak until IT hits 130 degrees over lump charcoal and Pecan wood blocks. The end result will be about Medium.",
@@ -3713,32 +4060,37 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "1-2 Whole Branzino, scaled and gutted",
+                                               "1-2 whole branzino, scaled and gutted",
                                                "Extra virgin olive oil",
-                                               "Favorite Surf and Turf seasoning or Sea salt and fresh ground pepper",
-                                               "2-3 lemons — 1 lemon sliced and the rest for spreading the juice over fish",
-                                               "Fresh Thyme"
+                                               "Favorite surf and turf seasoning or sea salt and fresh ground pepper",
+                                               "2-3 lemons, 1 sliced and the rest for squeezing over the fish",
+                                               "Fresh thyme"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Dressing",
+                                 "items":  [
+                                               "6 tbsp extra virgin olive oil",
+                                               "2 tsp capers, minced",
+                                               "2 tsp shallots, minced",
+                                               "1 tsp garlic, minced",
+                                               "1 tbsp Italian parsley, minced",
+                                               "1/2 tsp fresh oregano, minced",
+                                               "Salt and freshly ground black pepper",
+                                               "1 lemon, juiced"
                                            ]
                          }
                          ],
     "steps":  [
-                  "2-3 lemons — 1 lemon sliced and the rest for spreading the juice over fish",
-                  "Fresh Thyme",
-                  "6 tablespoons Extra virgin olive oil",
-                  "2 teaspoons Capers, minced",
-                  "2 teaspoons Shallots, minced",
-                  "teaspoon fresh Oregano, minced",
-                  "Salt and freshly ground black pepper",
-                  "1 Lemon, juiced",
-                  "In a small bowl, combine all the Dressing ingredients. Set aside",
-                  "Clean fish and make a lengthwise slit down the middle of each side, from the gill to the tail, slicing all the way to the bone.",
-                  "Lather extra virgin olive oil all over fish.",
-                  "Season with seasoning or Salt and fresh ground black pepper.",
-                  "Stuff slices of lemon and fresh Thyme into the belly.",
-                  "Heat grill to 500 degrees and setup up for direct cooking.",
-                  "Place fish over charcoal and cook for 15 minutes on each side.",
-                  "Transfer the fish to a plate a squeeze fresh lemon juice over fish.",
-                  "Season the fish lightly with salt and pepper, then spoon Dressing over it."
+                  "In a small bowl, combine all of the dressing ingredients and set aside.",
+                  "Clean the fish and make a lengthwise slit down the middle of each side, from the gill to the tail, slicing all the way to the bone.",
+                  "Lather extra virgin olive oil all over the fish.",
+                  "Season with the seasoning or salt and fresh ground black pepper.",
+                  "Stuff slices of lemon and fresh thyme into the belly.",
+                  "Heat the grill to 500°F and set up for direct cooking.",
+                  "Place the fish over the charcoal and cook for 15 minutes on each side.",
+                  "Transfer the fish to a plate and squeeze fresh lemon juice over it.",
+                  "Season the fish lightly with salt and pepper, then spoon the dressing over it."
               ]
 },
 {
@@ -3762,12 +4114,12 @@ const RECIPES = [
                                                "2 lbs Chuck Roast cut into large cubes",
                                                "Blazing Star Beef Seasoning",
                                                "Blazing Star Reaper Seasoning",
-                                               "W Sauce as a binder"
+                                               "W Sauce as a binder",
+                                               "2 cups Beef broth, enough to cover half of meat"
                                            ]
                          }
                          ],
     "steps":  [
-                  "2 cups Beef broth, enough to cover half of meat",
                   "1 Onion, sliced",
                   "1 Green Bell pepper, sliced",
                   "Season meat liberally with BBQ rub and let sit for 1 hour before cooking.",
@@ -3907,6 +4259,14 @@ const RECIPES = [
     "intro":  [
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "Picanha, sliced with the grain into 2-inch steaks",
+                                               "Kosher salt",
+                                               "Salt or SPG, for finishing"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Cut the steaks going with the grain into 2 inch thick slices.",
@@ -3932,8 +4292,9 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  null,
+                                 "heading":  "Marinade",
                                  "items":  [
+                                               "5-6 lbs pork shoulder",
                                                "1/2 tbsp salt",
                                                "5 garlic cloves, minced",
                                                "1/2 tbsp chicken bouillon powder",
@@ -3942,34 +4303,39 @@ const RECIPES = [
                                                "1/2 cup brown sugar",
                                                "1/4 cup banana ketchup",
                                                "1 cup pineapple juice",
-                                               "1 tbsp oil",
-                                               "1/2 cup rice vinegar",
-                                               "1/4 cup water 1 1/2 tbs sugar 1/2 tbs salt 1-2 tsp chili flakes"
+                                               "1 tbsp oil"
                                            ]
                          },
                              {
                                  "heading":  "Garnish",
                                  "items":  [
-                                           ]
-                         },
-                             {
-                                 "heading":  "Pickled Onions",
-                                 "items":  [
+                                               "Pickled onions",
                                                "Cheese",
                                                "Cilantro",
                                                "Crema (optional)"
                                            ]
+                         },
+                             {
+                                 "heading":  "Pickled Red Onions",
+                                 "items":  [
+                                               "1 medium red onion, sliced",
+                                               "1/2 cup rice vinegar",
+                                               "1/4 cup water",
+                                               "1 1/2 tbsp sugar",
+                                               "1/2 tbsp salt",
+                                               "1-2 tsp chili flakes"
+                                           ]
                          }
                          ],
     "steps":  [
-                  "1 medium red onion, sliced",
-                  "Combine all marinade ingredients.",
+                  "Combine all of the marinade ingredients.",
                   "Cover and marinate in the fridge for 48 hours.",
-                  "Pat dry then season with Blazing Star Pork N Rub. Do not discard Marinade, this will be used later to braise the pork.",
-                  "Setup grill for indirect cooking and smoke at 300 degrees until internal temp reaches 160-170 degrees, around 4-5 hours.",
-                  "Place pork in a foil pan and pour in leftover marinade. It should come up half way and if it does not, add a little pineapple juice. Cover with foil and place back on the smoker until internal temp reaches 200 degrees, or 2-3 hours.",
-                  "Remove from braising liquid and rest for 30-45 minutes before shredding.",
-                  "Shred pork and pour in 1/4 cup braising liquid if it is too dry."
+                  "Pat dry, then season with Blazing Star Pork N Rub. Do not discard the marinade; it will be used later to braise the pork.",
+                  "Set up the grill for indirect cooking and smoke at 300°F until the internal temperature reaches 160-170°F, around 4-5 hours.",
+                  "Place the pork in a foil pan and pour in the leftover marinade so it comes up halfway, adding a little pineapple juice if needed. Cover with foil and return to the smoker until the internal temperature reaches 200°F, about 2-3 hours.",
+                  "Remove from the braising liquid and rest for 30-45 minutes before shredding.",
+                  "Shred the pork and pour in 1/4 cup of the braising liquid if it is too dry.",
+                  "For the pickled red onions, combine the onion, vinegar, water, sugar, salt, and chili flakes and let them sit while the pork cooks."
               ]
 },
 {
@@ -4056,12 +4422,21 @@ const RECIPES = [
                   "This Birria was so easy to make using @ezbombsfood Birria Bombs. Love supporting small businesses and giving a shout out to these folks for coming up with a dope idea. Thanks @bellagtz_e for hooking us up. 2-3 lbs Beef Chuck 1 Birria Bomb Salt, Pepper, and Garlic seasoning"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2-3 lbs beef chuck",
+                                               "1 birria bomb",
+                                               "Salt, pepper, and garlic seasoning"
+                                           ]
+                         }
                          ],
     "steps":  [
-                  "Using an Instant Pot, set it to Sauté and sear both sides of the beef until you develop a nice crust. Around 3-5 minutes on each side.",
-                  "Pour in 4 cups of water and Birria Bomb.",
-                  "Pressure cook on high for 1 hour and 30-45 minutes, depending on the size of your meat.",
-                  "Serve with diced onions, cilantro, and a side of tortilla."
+                  "Season the beef on all sides.",
+                  "Using an Instant Pot, set it to Sauté and sear both sides of the beef until you develop a nice crust, around 3-5 minutes on each side.",
+                  "Pour in 4 cups of water and add the Birria Bomb.",
+                  "Pressure cook on high for 1 hour and 30-45 minutes, depending on the size of the meat.",
+                  "Serve with diced onions, cilantro, and a side of tortillas."
               ]
 },
 {
@@ -4139,8 +4514,7 @@ const RECIPES = [
                   "Add chicken into marinade, and refrigerate for 4-6 hours, preferably overnight.",
                   "Set smoker to 225 and smoke for 30 minutes.",
                   "Increase temp to 450 and cook for 30 minutes flipping half way through.",
-                  "Serve hot with a side of rice and grilled veggies. Enjoy!!!!",
-                  ""
+                  "Serve hot with a side of rice and grilled veggies. Enjoy!!!!"
               ]
 },
 {
@@ -4252,6 +4626,8 @@ const RECIPES = [
                              {
                                  "heading":  "Garnish",
                                  "items":  [
+                                               "Green onions, chopped",
+                                               "Lemon wedges or calamansi"
                                            ]
                          }
                          ],
@@ -4309,7 +4685,7 @@ const RECIPES = [
                   "Loosen the skin of the turkey to separate from meat and add the marinade.",
                   "Marinade for 12-24 hours.",
                   "Smoke turkey at 250 degrees. The Turkey will take 30 minutes per pound to cook.",
-                  "Cook until the breast temperature reaches 165 degrees on the breast and the thighs reaches 175 degrees. ————————————————————————"
+                  "Cook until the breast temperature reaches 165 degrees on the breast and the thighs reaches 175 degrees."
               ]
 },
 {
@@ -4329,31 +4705,40 @@ const RECIPES = [
                              {
                                  "heading":  "Marinade",
                                  "items":  [
-                                               "3 pounds Flap Meat or Skirt Steak",
+                                               "3 pounds flap meat or skirt steak",
                                                "Blazing Star All in One Seasoning",
-                                               "Knorr Beef Flavor Bouillon Powder",
-                                               "1 Lime, juiced",
-                                               "4 tbsp Soy sauce",
-                                               "1 bottle of Mexican lager",
-                                               "1/2 Red Onion, thinly sliced",
-                                               "1/2 Bunch of cilantro",
-                                               "1 Jalapeño, thinly sliced (optional)"
+                                               "Knorr beef flavor bouillon powder",
+                                               "1 lime, juiced",
+                                               "4 tbsp soy sauce",
+                                               "1 bottle Mexican lager",
+                                               "1/2 red onion, thinly sliced",
+                                               "1/2 bunch cilantro",
+                                               "1 jalapeño, thinly sliced (optional)"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Avocado Tomatillo Salsa",
+                                 "items":  [
+                                               "4 tomatillos, cut in half",
+                                               "1 avocado",
+                                               "3 garlic cloves, peeled",
+                                               "1/4 cup cilantro",
+                                               "1/4 red onion",
+                                               "1 jalapeño pepper",
+                                               "1/4 cup water",
+                                               "1 lime, juiced",
+                                               "Salt to taste"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Season meat with seasoning on all sides.",
-                  "Lightly season meat with beef bouillon powder.",
-                  "Add the rest of the ingredients and marinate meat for 4-6 hours.",
-                  "Grill over direct heat using @bbcharcoal Lump Oak charcoal.",
-                  "Serve with corn tortillas, queso fresco, chopped up onions, and cilantro. Enjoy!!!",
-                  "4 Tomatillos, cut in half",
-                  "1 Avocado",
-                  "3 Garlic cloves, peeled",
-                  "1 Jalapeño pepper",
-                  "1 Lime juiced",
-                  "Roast all ingredients except for Avocado on a hot grill or skillet.",
-                  "Place all in a blender and blend until semi chunky and smooth."
+                  "Season the meat with the seasoning on all sides.",
+                  "Lightly season the meat with the beef bouillon powder.",
+                  "Add the rest of the marinade ingredients and marinate the meat for 4-6 hours.",
+                  "Grill over direct heat using lump oak charcoal.",
+                  "Roast all of the salsa ingredients except the avocado on a hot grill or skillet.",
+                  "Place everything in a blender and blend until semi-chunky and smooth.",
+                  "Serve with corn tortillas, queso fresco, chopped onions, and cilantro."
               ]
 },
 {
@@ -4426,7 +4811,6 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "Garlic Parmesan Dressing",
                   "Add oil to chicken wings to act as a binder.",
                   "Season with All in One and Reaper Seasoning, and place in the fridge uncovered for 2-3 hours.",
                   "Preheat grill to 400 degrees.",
@@ -4492,7 +4876,8 @@ const RECIPES = [
                                                "1 tsp Ground Black Pepper",
                                                "1/4 cup Toyomanci",
                                                "1/4 cup Spiced Vinegar",
-                                               "1 tsp Sugar"
+                                               "1 tsp Sugar",
+                                               "Ground pepper"
                                            ]
                          }
                          ],
@@ -4500,7 +4885,6 @@ const RECIPES = [
                   "Combine all ingredients, setting aside 1/4 cup of marinade for basting. Marinate pork for 4-6 hours, preferably overnight.",
                   "Heat grill to 400-425 degrees and grill pork over direct heat for about 8 minutes on each side. Flip and baste each side.",
                   "Serve with dipping sauce (sawsawan).",
-                  "Ground pepper",
                   "1 small red onion, finely diced"
               ]
 },
@@ -4517,6 +4901,14 @@ const RECIPES = [
     "intro":  [
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "Sirloin cap (picanha), sliced into steaks",
+                                               "Kosher salt",
+                                               "Salt or SPG, for finishing"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Cut the steaks going with the grain into 2 inch thick slices.",
@@ -4542,21 +4934,32 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  "Chicken Cutlets Pounded, Then Seasoned With @Blazingstarbbq Beef Rub, Oh Yeah!!! Topped With Homemade Katsu Sauce Using @Dkhawaiian Hot Soy Sauce.",
+                                 "heading":  null,
                                  "items":  [
-                                               "3-4 chicken breast cut in half",
-                                               "Blazing Star Beef Rub or Salt and Pepper",
+                                               "3-4 chicken breasts, cut in half",
+                                               "Blazing Star Beef Rub or salt and pepper",
                                                "Flour",
-                                               "3 Eggs",
-                                               "Panko Crust",
+                                               "3 eggs",
+                                               "Panko",
                                                "Oil for pan frying"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Katsu Sauce",
+                                 "items":  [
+                                               "1/4 cup ketchup",
+                                               "1/2 tbsp Da Kine Hawaiian Hot Soy Sauce",
+                                               "1/2 tbsp oyster sauce",
+                                               "1/2 tbsp sugar"
                                            ]
                          }
                          ],
     "steps":  [
-                  "3 Eggs",
-                  "Panko Crust",
-                  "Oil for pan frying"
+                  "Pound the chicken cutlets to an even thickness and season them.",
+                  "Set up a breading station with the flour, beaten eggs, and panko.",
+                  "Dredge each cutlet in flour, dip it in egg, and coat it with panko.",
+                  "Pan fry in oil until golden brown on both sides and cooked through.",
+                  "Mix the katsu sauce ingredients together and serve it with the sliced chicken katsu."
               ]
 },
 {
@@ -4621,22 +5024,29 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "4 French Rolls",
-                                               "1 small Onion, sliced",
-                                               "1 Green Bell Pepper",
-                                               "1 Red Bell Pepper"
+                                               "4 Italian sausages",
+                                               "4 French rolls",
+                                               "1 small onion, sliced",
+                                               "1 green bell pepper",
+                                               "1 red bell pepper",
+                                               "Kinders Whiskey Apple seasoning",
+                                               "Mozzarella cheese"
                                            ]
                          },
                              {
-                                 "heading":  "Crema Sauce",
+                                 "heading":  "French Onion Crema",
                                  "items":  [
-                                               "Kinders French Onion Seasoning",
+                                               "Kinders French Onion seasoning",
                                                "Sour cream",
                                                "1 lemon"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Cook the Italian sausages on the griddle with the sliced onions and bell peppers, seasoned with the whiskey apple seasoning.",
+                  "Mix the French onion seasoning with sour cream and lemon juice for the crema.",
+                  "Toast the French rolls on the griddle.",
+                  "Build the rolls with the sausages, peppers and onions, mozzarella, and a lather of French onion crema."
               ]
 },
 {
@@ -4788,14 +5198,25 @@ const RECIPES = [
                   "This miso glazed salmon is sweet, savory, and full of flavor. @trybachans new Miso Japanese BBQ sauce provided the perfect caramelization on the outside and was flaky/moist in the middle. Fillets were seasoned with @boarsnightout - White Lightning with Double Garlic. Grilled on the @kamadojoe using @thegoodcharcoal Lump Charcoal and Pecan chunks. 4 Salmon Fillets 1 Lemon, sliced Bachan’s Miso BBQ Sauce Salt and Pepper or favorite seasoning Mayonnaise"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "4 salmon fillets",
+                                               "1 lemon, sliced",
+                                               "Bachan's Miso BBQ sauce",
+                                               "Salt and pepper or favorite seasoning",
+                                               "Mayonnaise"
+                                           ]
+                         }
                          ],
     "steps":  [
-                  "Season both sides of fillets with salt and pepper or favorite seasoning.",
-                  "Lather top side of fillet with mayonnaise.",
-                  "Place 2 slices of lemon for each fillet on grill, then fillets on top.",
-                  "Close lid and cook for 8-10 minutes.",
-                  "Drizzle Miso BBQ sauce halfway through cook.",
-                  "When done drizzle more sauce over fillets and serve with rice or salad."
+                  "Preheat the grill to 450°F for indirect cooking.",
+                  "Season both sides of the fillets with salt and pepper or your favorite seasoning.",
+                  "Lather the top side of each fillet with mayonnaise.",
+                  "Place 2 slices of lemon on the grill for each fillet, then the fillets on top.",
+                  "Close the lid and cook for 8-10 minutes.",
+                  "Drizzle the miso BBQ sauce halfway through the cook.",
+                  "When done, drizzle more sauce over the fillets and serve with rice or salad."
               ]
 },
 {
@@ -5023,17 +5444,22 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  "Cooked On The @Kamadojoe Konnected Joe At 300 Degrees Indirect For About 45 Minutes. Used @Jealousdevilcharcoal Lump Charcoal And Pecan Wood Chunks For Some Added Smoke. Mopped Some Bbq Sauce At The End Of The Cook.",
+                                 "heading":  null,
                                  "items":  [
-                                               "12 Serrano Chilis, sliced in half and cored",
-                                               "12 medium sized peeled shrimps, sliced in half and deveined",
+                                               "12 serrano chilis, sliced in half and cored",
+                                               "12 medium peeled shrimp, sliced in half and deveined",
                                                "1 block cream cheese",
-                                               "Favorite BBQ Rub",
-                                               "Favorite BBQ Sauce with 2 tbsp brown sugar (optional)"
+                                               "Favorite BBQ rub",
+                                               "Favorite BBQ sauce with 2 tbsp brown sugar (optional)"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Stuff each serrano half with cream cheese and a shrimp half.",
+                  "Wrap with bacon and secure with a toothpick.",
+                  "Season with the Surf and Turf and Sweet Hog rubs.",
+                  "Cook indirect at 300°F for about 45 minutes, with pecan wood for added smoke.",
+                  "Mop with BBQ sauce at the end of the cook."
               ]
 },
 {
@@ -5049,12 +5475,25 @@ const RECIPES = [
     "intro":  [
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 rack baby back ribs",
+                                               "@littlelusbbq Pork Rub",
+                                               "Brown sugar",
+                                               "Butter",
+                                               "Favorite BBQ sauce",
+                                               "Chipotle puree",
+                                               "Whiskey"
+                                           ]
+                         }
                          ],
     "steps":  [
-                  "Double wrap with butcher paper and layer Brown sugar, butter, and bbq rub on both sides.",
-                  "Increase temp to 275 and cook for 1.5 hours.",
-                  "Remove paper and cook for an additional 30 minutes to tighten up the meat.",
-                  "Lather up your favorite bbq sauce and cook for 10 more minutes.",
+                  "Smoke at 225°F for 3 hours.",
+                  "Double wrap with butcher paper and layer brown sugar, butter, and BBQ rub on both sides.",
+                  "Increase the temp to 275°F and cook for 1.5 hours.",
+                  "Remove the paper and cook for an additional 30 minutes to tighten up the meat.",
+                  "Lather up your favorite BBQ sauce and cook for 10 more minutes.",
                   "Let rest before serving."
               ]
 },
@@ -5164,8 +5603,7 @@ const RECIPES = [
                   "Add 2 eggs and scramble. Combine eggs and veggies and stir fry until all combined.",
                   "Add the remaining oil and throw in the rice noodles and the soy sauce mixture and stir fry for 2-3 minutes, until noodles loosen up.",
                   "Continue stir frying until ingredients are combined.",
-                  "Sprinkle fresh cilantro (optional) and serve!",
-                  ""
+                  "Sprinkle fresh cilantro (optional) and serve!"
               ]
 },
 {
@@ -5214,6 +5652,14 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
+                                 "heading":  null,
+                                 "items":  [
+                                               "Aidells chicken and apple sausages",
+                                               "Kings Hawaiian bread",
+                                               "BBQ sauce, for drizzling"
+                                           ]
+                         },
+                             {
                                  "heading":  "Pineapple Salsa",
                                  "items":  [
                                                "1 can pineapple, diced",
@@ -5223,12 +5669,16 @@ const RECIPES = [
                                                "1/3 cup chopped cilantro",
                                                "1/4 cup minced red onion",
                                                "2 limes, juiced",
-                                               "1/2 teaspoon black pepper",
-                                               "1 teaspoon salt"
+                                               "1/2 tsp black pepper",
+                                               "1 tsp salt"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Grill the sausages until cooked through.",
+                  "Toss the pineapple, bell pepper, tomatoes, jalapeno, cilantro, and red onion with lime juice, pepper, and salt for the salsa.",
+                  "Toast the Kings Hawaiian bread on the griddle.",
+                  "Build the sliders with sausage, pineapple salsa, and a drizzle of BBQ sauce."
               ]
 },
 {
@@ -5312,8 +5762,7 @@ const RECIPES = [
                   "Add chicken bouillon and fish sauce. Cook for 2 minutes.",
                   "Reduce to medium heat, add water, rice, and saffron. Place lid and let cook for 45-60 minutes on or until rice is soft.",
                   "Add additional salt if needed. May also add more water if it gets too thick, at 1 cup at a time.",
-                  "Serve hot with garnishing and enjoy.",
-                  ""
+                  "Serve hot with garnishing and enjoy."
               ]
 },
 {
@@ -5500,12 +5949,24 @@ const RECIPES = [
     "intro":  [
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "1 rack ribs",
+                                               "@sucklebuster Honey BBQ Rub",
+                                               "Buttery steakhouse seasoning",
+                                               "@weekendatthecottage BBQ sauce",
+                                               "Brown sugar",
+                                               "Butter"
+                                           ]
+                         }
                          ],
     "steps":  [
-                  "Double wrap with butcher paper and layer Brown sugar, butter, and bbq rub on both sides.",
-                  "Increase temp to 275 and cook for 1.5 hours.",
-                  "Remove paper and cook for an additional 30 minutes to tighten up the meat.",
-                  "Lather up your favorite bbq sauce and cook for 10 more minutes.",
+                  "Smoke at 225°F for 3 hours.",
+                  "Double wrap with butcher paper and layer brown sugar, butter, and BBQ rub on both sides.",
+                  "Increase the temp to 275°F and cook for 1.5 hours.",
+                  "Remove the paper and cook for an additional 30 minutes to tighten up the meat.",
+                  "Lather up your favorite BBQ sauce and cook for 10 more minutes.",
                   "Let rest before serving."
               ]
 },
@@ -5561,8 +6022,7 @@ const RECIPES = [
                   "Cook for about 20 minutes uncovered.",
                   "Remove pan from heat and cover pan with a lid or foil.",
                   "Rest for 10 minutes before serving.",
-                  "Garnish with lemon wedges and the rest of the chopped parsley.",
-                  ""
+                  "Garnish with lemon wedges and the rest of the chopped parsley."
               ]
 },
 {
@@ -5600,8 +6060,7 @@ const RECIPES = [
                   "Add the onions and tomatoes.",
                   "Add the pork and season with salt and fish sauce, yellow peppers, and entire packet of Sinigang powder. Cover and simmer for about 30-45 minutes or until meat is soft.",
                   "Add the Romain lettuce, green beans, and okra. Cover the pot and cook for 5 minutes.",
-                  "Serve hot with a side of steamed rice. Enjoy!!!",
-                  ""
+                  "Serve hot with a side of steamed rice. Enjoy!!!"
               ]
 },
 {
@@ -5645,7 +6104,7 @@ const RECIPES = [
                   "Preheat your smoker to 250, cook until IT hits 200. Spritzing every hour.",
                   "Remove Oxtails and place into a roasting pan.",
                   "Add beef broth, onions, and Bell Peppers, cover with aluminum foil.",
-                  "Place back into smoker and cook for another 2 hours. ————————————————————————"
+                  "Place back into smoker and cook for another 2 hours."
               ]
 },
 {
@@ -5674,7 +6133,7 @@ const RECIPES = [
                   "In a zip lock bag combine short ribs, garlic, green onions, and marinade.",
                   "Marinate for 4-6 hours. No more than 6 hours.",
                   "Grill over medium-high heat. Don’t over cook since the sugar can easily char.",
-                  "Best served medium/rare or medium. ————————————————————————"
+                  "Best served medium/rare or medium."
               ]
 },
 {
@@ -5705,8 +6164,7 @@ const RECIPES = [
                   "Set smoker to 225 degrees and cook for 30 minutes.",
                   "Whole chicken is cooking, add BBQ sauce and Brown Sugar in a bowl and mix together.",
                   "Increase temp to 375 degrees for another 45 minutes.",
-                  "After 30 minutes, brush BBQ sauce and cook for an additional 15 minutes.",
-                  ""
+                  "After 30 minutes, brush BBQ sauce and cook for an additional 15 minutes."
               ]
 },
 {
@@ -5736,8 +6194,7 @@ const RECIPES = [
                   "Set smoker to 300 and place meat on small rack, cook for 20 min.",
                   "Transfer to a pan and add butter, brown sugar, and bbq sauce.",
                   "Cover with foil and place back on the grill. Cook for 30 minutes.",
-                  "Remove from grill and mix everything together. Enjoy!!!!",
-                  ""
+                  "Remove from grill and mix everything together. Enjoy!!!!"
               ]
 },
 {
@@ -5768,8 +6225,7 @@ const RECIPES = [
                   "Set smoker to 225 and smoke until IT hits 170 degrees. Spritzing meat with beef stock every 30 minutes.",
                   "Once meat reaches 170 degrees, double wrap in butcher paper.",
                   "Place meat back into smoker and cook until IT hits 195 degrees.",
-                  "Remove chuck roast and place in a cooler or oven to rest for 1 hour. You can also leave it in your smoker at 180 with lid closed during resting period.",
-                  ""
+                  "Remove chuck roast and place in a cooler or oven to rest for 1 hour. You can also leave it in your smoker at 180 with lid closed during resting period."
               ]
 },
 {
@@ -5800,18 +6256,17 @@ const RECIPES = [
                                  "items":  [
                                                "Favorite Marinara Sauce",
                                                "Shredded Mozzarella",
-                                               "Fresh Parsley"
+                                               "Fresh Parsley",
+                                               "Premade Italian Meatballs or frozen meatballs"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Premade Italian Meatballs or frozen meatballs",
                   "Preheat smoker to 375 and cook meatballs until internal temperature hits 160, around 25 -30 minutes.",
                   "Combine all garlic bread ingredients in a bowl then apply a thin layer over French Bread.",
                   "Cook in oven or toaster at 400 degrees until golden brown.",
                   "Assemble by adding meatballs, marinara sauce, and mozzarella cheese.",
-                  "Return into oven for 2 minutes.",
-                  ""
+                  "Return into oven for 2 minutes."
               ]
 },
 {
@@ -5846,8 +6301,7 @@ const RECIPES = [
                   "Rinse Corned Beef to remove excess brine, then add it to pot with the remaining ingredients, except for the cabbage.",
                   "Set to low and cook 8 hours or on high for 5-6 hours.",
                   "1 hour before cook time add Cabbage.",
-                  "Serve with a side of steamed rice or a small bowl of soup. Enjoy!",
-                  ""
+                  "Serve with a side of steamed rice or a small bowl of soup. Enjoy!"
               ]
 },
 {
@@ -5886,7 +6340,7 @@ const RECIPES = [
                   "Place chicken and marinade in a zip lock bag. Refrigerate for at least 4-6 hours, overnight is preferable.",
                   "Set smoker to 225 and smoke for 30 minutes.",
                   "Increase temp to 375 and cook for about 30 - 45 minutes, until skin is crispy.",
-                  "Serve with steamed rice and enjoy! ————————————————————————"
+                  "Serve with steamed rice and enjoy!"
               ]
 },
 {
@@ -5923,8 +6377,7 @@ const RECIPES = [
                   "Sear steaks for 1 minute on each side.",
                   "Thinly slice steaks (Steaks have already rested while cooking the Fajita mixture)",
                   "Add to fajita mixture.",
-                  "Serve with warm tortillas.",
-                  ""
+                  "Serve with warm tortillas."
               ]
 },
 {
@@ -5959,8 +6412,7 @@ const RECIPES = [
                   "Set smoker to 275 and place meat on a cast iron pan. Cook for 1 hour.",
                   "Heat a separate pan on medium/high heat, adding about 2 tbsp Avocado or Canola oil.",
                   "Sear steaks until browned, be careful not to burn garlic.",
-                  "Serve with steamed rice or salad.",
-                  ""
+                  "Serve with steamed rice or salad."
               ]
 },
 {
@@ -5986,8 +6438,7 @@ const RECIPES = [
                          ],
     "steps":  [
                   "Combine all ingredients into a bowl.",
-                  "Refrigerate over night.",
-                  ""
+                  "Refrigerate over night."
               ]
 },
 {
@@ -6027,7 +6478,7 @@ const RECIPES = [
                   "Add tomatoes and and season with salt and fresh ground pepper, cook for another 7-8 minutes.",
                   "Add basil and shrimp back into pot.",
                   "Add pasta and pasta water, mix well.",
-                  "Adjust seasoning as needed. Enjoy!!! ————————————————————————"
+                  "Adjust seasoning as needed. Enjoy!!!"
               ]
 },
 {
@@ -6056,8 +6507,7 @@ const RECIPES = [
     "steps":  [
                   "Combine all ingredients into a bowl or zip lock bag and marinate for 4-6 hours. Preferably overnight.",
                   "Smoke wings for 30 minutes, then increase heat to 450.",
-                  "Cook for 30 minutes until golden brown and skin is crispy",
-                  ""
+                  "Cook for 30 minutes until golden brown and skin is crispy"
               ]
 },
 {
@@ -6097,7 +6547,7 @@ const RECIPES = [
                   "Strain liquid into a bowl and separating the meat from the liquid. Do not discard liquid.",
                   "In a large pot, heat oil under medium high heat.",
                   "Add meat into pot and fry until golden brown.",
-                  "Serve with a side of steamed rice, pouring liquid on top of rice like a gravy. Enjoy!!! ————————————————————————"
+                  "Serve with a side of steamed rice, pouring liquid on top of rice like a gravy. Enjoy!!!"
               ]
 },
 {
@@ -6156,8 +6606,7 @@ const RECIPES = [
                   "Remove beef and shred.",
                   "Skim top layer of oil and discard.",
                   "Add beef back into pot.",
-                  "Serve hot with sliced onions, cilantro, and lime.",
-                  ""
+                  "Serve hot with sliced onions, cilantro, and lime."
               ]
 },
 {
@@ -6176,20 +6625,27 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "3 cups uncooked rice, cooked with less water for dryer consistency",
+                                               "3 cups uncooked rice, cooked with less water for a dryer consistency",
                                                "1 can Spam, diced",
+                                               "Kimchi",
                                                "4 garlic cloves, minced",
                                                "3 stalks green onions",
                                                "3 eggs",
                                                "2 tbsp fish sauce",
                                                "1 tbsp sesame oil",
                                                "1 tbsp low sodium soy sauce",
-                                               "1 tbsp Gochujang paste",
-                                               "————————————————————————"
+                                               "1 tbsp gochujang paste"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Cook the rice with less water for a drier consistency and let it cool.",
+                  "Dice the Spam and fry it in a hot wok until crispy at the edges.",
+                  "Add the garlic and cook until fragrant.",
+                  "Stir in the kimchi, gochujang, fish sauce, soy sauce, and sesame oil.",
+                  "Add the rice and toss until every grain is coated and lightly fried.",
+                  "Push everything to one side, scramble the eggs, then fold everything together.",
+                  "Finish with green onions and serve."
               ]
 },
 {
@@ -6224,8 +6680,7 @@ const RECIPES = [
                   "Combine cream cheese, shredded cheese, ranch seasoning, Worcestershire, and thyme in a bowl.",
                   "Stuff each breast with cheese mixture.",
                   "Bake chicken in oven at 450 degrees until internal temperature hits 165 degrees.",
-                  "Brush chicken breast with butter halfway through cook.",
-                  ""
+                  "Brush chicken breast with butter halfway through cook."
               ]
 },
 {
@@ -6264,8 +6719,7 @@ const RECIPES = [
                   "Combine all ingredients and marinate chicken for at least 6-8 hours, preferably overnight.",
                   "Smoke at 225 for 30 minutes.",
                   "Increase heat to 375 and cook until IT hits 165.",
-                  "Optional - Brush butter all over when IT hits 150 to make it extra crispy.",
-                  ""
+                  "Optional - Brush butter all over when IT hits 150 to make it extra crispy."
               ]
 },
 {
@@ -6311,8 +6765,7 @@ const RECIPES = [
                   "In a zip lock bag combine short ribs, garlic, green onions, wine, and marinade.",
                   "Marinade for 4-6 hours.",
                   "Grill over medium-high heat. Don’t over cook since the sugar can easily char.",
-                  "Best served medium/rare or medium.",
-                  ""
+                  "Best served medium/rare or medium."
               ]
 },
 {
@@ -6344,7 +6797,7 @@ const RECIPES = [
                          ],
     "steps":  [
                   "Combine all ingredients in a zip lock back and marinate for 4-6 hours, preferably overnight.",
-                  "Grill until internal temp hits 165 degrees over charcoal or wood for optimal flavor. ————————————————————————"
+                  "Grill until internal temp hits 165 degrees over charcoal or wood for optimal flavor."
               ]
 },
 {
@@ -6360,6 +6813,22 @@ const RECIPES = [
     "intro":  [
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "4-5 salmon fillets",
+                                               "Salt, pepper, and garlic powder",
+                                               "Olive oil"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Bang Bang Sauce",
+                                 "items":  [
+                                               "1/3 cup mayonnaise",
+                                               "1/3 cup sweet chili sauce",
+                                               "1/3 cup sriracha"
+                                           ]
+                         }
                          ],
     "steps":  [
                   "Olive oil",
@@ -6368,8 +6837,7 @@ const RECIPES = [
                   "In a frying pan, heat olive oil on medium/high heat.",
                   "Pan sear salmon on all sides until golden brown. You can also Airfry it at 400 degrees for 10 minutes or until brown and crispy.",
                   "Mix together all ingredients for sauce.",
-                  "Serve salmon with steamed rice and favorite veggies, drizzling sauce over salmon. Enjoy!!!!",
-                  ""
+                  "Serve salmon with steamed rice and favorite veggies, drizzling sauce over salmon. Enjoy!!!!"
               ]
 },
 {
@@ -6412,8 +6880,7 @@ const RECIPES = [
                   "Scoop and discard the scums and oil on the soup.",
                   "Add the chayote and cover and cook for 5 minutes.",
                   "Add the spinach leaves and cook for 2 minutes.",
-                  "Transfer to a serving bowl and serve with steamed rice. Enjoy!",
-                  ""
+                  "Transfer to a serving bowl and serve with steamed rice. Enjoy!"
               ]
 },
 {
@@ -6456,8 +6923,7 @@ const RECIPES = [
                   "Add meat into pot and pan fry until golden brown on all sides, about 2-3 minutes on each side.",
                   "Pour liquid back into pot with meat and heat for about 2 minutes.",
                   "Taste. If too salty add a little bit of water and add salt as needed.",
-                  "Serve with a side of steamed rice, pouring liquid on top of rice like a gravy. Enjoy!!!",
-                  ""
+                  "Serve with a side of steamed rice, pouring liquid on top of rice like a gravy. Enjoy!!!"
               ]
 },
 {
@@ -6493,8 +6959,7 @@ const RECIPES = [
                   "Add the gochujang paste and cook for another 1-2 minutes stirring frequently.",
                   "Add heavy cream and mix together until paste and cream incorporate together.",
                   "Add the cooked pasta, shrimp, and reserved pasta water and stir to combine.",
-                  "Turn the heat to low then add remaining butter, parmesan cheese, and 1/4 cup of chopped parsley. Saving the remaining parsley as garnish.",
-                  ""
+                  "Turn the heat to low then add remaining butter, parmesan cheese, and 1/4 cup of chopped parsley. Saving the remaining parsley as garnish."
               ]
 },
 {
@@ -6530,8 +6995,7 @@ const RECIPES = [
                   "Mash apples",
                   "Add more water if it is too thick.",
                   "Add sugar if you want it a little sweeter, depending on the apples you used.",
-                  "Serve warm or cold.",
-                  ""
+                  "Serve warm or cold."
               ]
 },
 {
@@ -6565,7 +7029,6 @@ const RECIPES = [
                   "Combine broccoli with furikake, sesame oil, garlic, and season with salt.",
                   "Place in the fridge for at least 1 hour.",
                   "Serve with your favorite BBQ.",
-                  "",
                   "#yummy #foodporn #quickmeals #recipes #fresh #tasty #delicious #eating #foodpics #hungry #foodgasm #homemadechef #homecooking #homecooks #sd #sdcook #btcooks #foodlover #easyrecipe #easyrecipes #koreanbbq #sesamebroccoli #broccoli #appetizer #veggies #fresh #greens"
               ]
 },
@@ -6598,7 +7061,7 @@ const RECIPES = [
                   "Spoon in a thin layer of cheese mixture inside pepper.",
                   "Wrap pepper with bacon.",
                   "Lightly season with favorite rub.",
-                  "Smoke for 30 minutes then grill at high heat or 375 for another 30 minutes. ————————————————————————"
+                  "Smoke for 30 minutes then grill at high heat or 375 for another 30 minutes."
               ]
 },
 {
@@ -6645,8 +7108,7 @@ const RECIPES = [
                   "Add celery, carrots, and macaroni cooking for an additional 7 minutes.",
                   "Add cabbage and milk, cooking for an additional 5 minutes.",
                   "Season with additional salt and pepper as needed.",
-                  "Serve immediately.",
-                  ""
+                  "Serve immediately."
               ]
 },
 {
@@ -6684,8 +7146,7 @@ const RECIPES = [
                   "Set oven to 425 and place chicken in a non stick pan, spooning in a thin layer of sauce over the chicken.",
                   "Bake for 30 min - 45 min, rotating chicken half way through.",
                   "Keep left over sauce to drizzle over rice.",
-                  "Serve with hard boiled eggs and steamed rice",
-                  ""
+                  "Serve with hard boiled eggs and steamed rice"
               ]
 },
 {
@@ -6724,8 +7185,7 @@ const RECIPES = [
                   "Add the diced tomatoes, salt, pepper, red pepper flakes, and white wine. Cook for about 5-7 minutes until alcohol has burned off.",
                   "Add the shrimp and cook, stirring frequently, until the shrimp turns pink.",
                   "Add butter and basil and mix together until the butter melts.",
-                  "Toss in the cooked cooked pasta. Mix everything together and serve immediately.",
-                  ""
+                  "Toss in the cooked cooked pasta. Mix everything together and serve immediately."
               ]
 },
 {
@@ -6765,7 +7225,7 @@ const RECIPES = [
                   "In a large bowl, combine chicken, bell pepper, onions, and chili flakes.",
                   "Add calamansi or lemon juice, soy sauce, and bouillon.",
                   "Season with salt and pepper to taste.",
-                  "Toss together and serve immediately ————————————————————————"
+                  "Toss together and serve immediately"
               ]
 },
 {
@@ -6806,8 +7266,7 @@ const RECIPES = [
                   "Add tomatoes, bay leaves, ketchup, and soy sauce. With lid on, cook for 20 minutes. Stir occasionally.",
                   "Add bell peppers and with lid on, cook for another 30 minutes or until meat is tender. Stir occasionally.",
                   "Taste and add salt as needed. If too salty, add 1/4 cup of water to dilute.",
-                  "Serve with a side of steamed rice and fried potatoes.",
-                  ""
+                  "Serve with a side of steamed rice and fried potatoes."
               ]
 },
 {
@@ -6840,8 +7299,7 @@ const RECIPES = [
     "steps":  [
                   "Combine all ingredients in a zip lock back and marinate for 2-3 hours.",
                   "Grill steaks and let rest for 5 minutes.",
-                  "Serve with rice",
-                  ""
+                  "Serve with rice"
               ]
 },
 {
@@ -6873,8 +7331,7 @@ const RECIPES = [
                   "Add lime juice and mix into Ahi. Fish will start to turn white. Let stand for about 5 minutes.",
                   "Add cucumber, tomato, and onions into bowl and mix together.",
                   "Add coconut milk and mix everything with love!!!",
-                  "Refrigerate for 1-2 hours before serving.",
-                  ""
+                  "Refrigerate for 1-2 hours before serving."
               ]
 },
 {
@@ -6906,8 +7363,7 @@ const RECIPES = [
                   "Add canned San Marzano tomatoes and mix well, smashing tomatoes into a sauce.",
                   "Add the cooked pasta and 1/4 cup of the reserved pasta water to the Pancetta mixture.",
                   "Stir in the cheese and parsley.",
-                  "Serve immediately with side of grated Pecorino Romano and parsley.",
-                  ""
+                  "Serve immediately with side of grated Pecorino Romano and parsley."
               ]
 },
 {
@@ -6971,8 +7427,7 @@ const RECIPES = [
                   "Add entire mixture sauce into pot and mix together for 2-3 minutes.",
                   "Add green onions and remove from heat.",
                   "Take 1/4 cup of reserved mixture and add mustard and vinegar.",
-                  "Serve spoonful of chicken onto lettuce and drizzle with sauce. Enjoy!",
-                  ""
+                  "Serve spoonful of chicken onto lettuce and drizzle with sauce. Enjoy!"
               ]
 },
 {
@@ -7000,7 +7455,7 @@ const RECIPES = [
                   "Heat a large wok or pan with 2 tbsp of canola or vegetable oil over medium-high heat.",
                   "Add an even layer of beef and allow to sear for about 2 minutes per side.",
                   "Cook all in batches to cook all the beef evenly.",
-                  "Serve with steamed rice. ————————————————————————"
+                  "Serve with steamed rice."
               ]
 },
 {
@@ -7036,8 +7491,7 @@ const RECIPES = [
                   "Combine pork with all ingredients. Marinade the pork for at least 4 hours, preferably overnight.",
                   "Set smoker to 160 and smoke for 30 minutes.",
                   "Increase heat to 375 and grill for another 20 minutes or until fully cooked.",
-                  "Serve with steamed rice and a bowl of soy sauce with a squeeze of lemon juice for dipping.",
-                  ""
+                  "Serve with steamed rice and a bowl of soy sauce with a squeeze of lemon juice for dipping."
               ]
 },
 {
@@ -7075,8 +7529,7 @@ const RECIPES = [
                   "Place fillets on a non stick baking dish.",
                   "Bake for 5-8 minutes.",
                   "Brush reserved marinade on top of each fillet, then broil for 1-2 minutes, until the top is golden brown.",
-                  "Serve with steamed rice and favorite veggies.",
-                  ""
+                  "Serve with steamed rice and favorite veggies."
               ]
 },
 {
@@ -7180,8 +7633,7 @@ const RECIPES = [
                   "Add meat back into wok and mix together.",
                   "Add broccoli and stir in cooking for 1-2 minutes.",
                   "Add gravy sauce mixture into wok and consistently mix to ensure an even coat.",
-                  "Taste to adjust the flavors and serve with a side of brown or white rice!!!",
-                  ""
+                  "Taste to adjust the flavors and serve with a side of brown or white rice!!!"
               ]
 },
 {
@@ -7222,8 +7674,7 @@ const RECIPES = [
                   "Add strained contents into pot and sear meat until a crust is formed on each side. About 4-5 minutes each side.",
                   "Return liquid back into pot and add sliced onion rings. Season with salt as needed.",
                   "Cover and cook for an additional 2-4 minutes to soften onions a bit.",
-                  "Serve with steamed rice.",
-                  ""
+                  "Serve with steamed rice."
               ]
 },
 {
@@ -7255,8 +7706,7 @@ const RECIPES = [
                   "Add canned San Marzano tomatoes and mix well, smashing tomatoes into a sauce.",
                   "Add the cooked pasta and 1/4 cup of the reserved pasta water to the Pancetta mixture.",
                   "Stir in the cheese and parsley.",
-                  "Serve immediately with side of grated Pecorino Romano and parsley.",
-                  ""
+                  "Serve immediately with side of grated Pecorino Romano and parsley."
               ]
 },
 {
@@ -7287,19 +7737,18 @@ const RECIPES = [
                                                "1/4 tsp garlic powder",
                                                "1/4 tsp onion powder",
                                                "1/4 tsp chili powder",
-                                               "1 tbsp avocado oil"
+                                               "1 tbsp avocado oil",
+                                               "Air fried Chickpeas",
+                                               "1 15oz can Garbanzo Beans"
                                            ]
                          }
                          ],
     "steps":  [
                   "Mix all ingredients together in a small bowl.",
                   "Spread over mixed greens or store in an air tight container in a refrigerator for up to a week.",
-                  "Air fried Chickpeas",
-                  "1 15oz can Garbanzo Beans",
                   "Drain, rinse, and dry chickpeas.",
                   "Place chickpeas in a bowl and add all ingredients mixing well.",
-                  "Set air fryer to 390 degrees and cook for 10-12 minutes.",
-                  ""
+                  "Set air fryer to 390 degrees and cook for 10-12 minutes."
               ]
 },
 {
@@ -7330,7 +7779,8 @@ const RECIPES = [
                                                "1/2 tbsp Salt",
                                                "1/2 Sour cream 1/2 mayonnaise",
                                                "1 tsp Salt",
-                                               "1 can chipotle in adobo"
+                                               "1 can chipotle in adobo",
+                                               "Chipotle Crema"
                                            ]
                          }
                          ],
@@ -7339,12 +7789,10 @@ const RECIPES = [
                   "Season with additional salt as needed.",
                   "Refrigerate for at least an hour.",
                   "Serve with your favorite tortilla chips.",
-                  "Chipotle Crema",
                   "1 lime, juiced",
                   "Add 4 pieces of chipotle into a blender.",
                   "Add all remaining ingredients and blend until smooth.",
-                  "Taste and add salt as needed.",
-                  ""
+                  "Taste and add salt as needed."
               ]
 },
 {
@@ -7383,8 +7831,7 @@ const RECIPES = [
                   "In a small bowl whisk 1 egg to use as a sealer for egg rolls. Set aside.",
                   "Take 2 tbsp of pork mixture and place even layer on bottom/center of egg roll wrapper and roll, using whisked eggs as a seal at the end of each egg roll wrapper.",
                   "Fry in deep fryer at 325 degrees until golden brown.",
-                  "Serve with a side of your favorite sweet and sour dipping sauce.",
-                  ""
+                  "Serve with a side of your favorite sweet and sour dipping sauce."
               ]
 },
 {
@@ -7419,7 +7866,11 @@ const RECIPES = [
                                                "1/4 tsp garlic powder",
                                                "1/4 tsp onion powder",
                                                "1/4 tsp chili powder",
-                                               "1 tbsp avocado oil"
+                                               "1 tbsp avocado oil",
+                                               "2 cloves garlic, finely minced",
+                                               "4 cups mixed greens",
+                                               "Air fried Chickpeas",
+                                               "1 15oz can Garbanzo Beans"
                                            ]
                          }
                          ],
@@ -7429,16 +7880,11 @@ const RECIPES = [
                   "Set rice cooker to cook",
                   "After rice is done cooking, let sit for an extra 5-10 minutes before serving.",
                   "Ginger & Garlic Tahini Dressing and Salad",
-                  "2 cloves garlic, finely minced",
-                  "4 cups mixed greens",
                   "Mix all ingredients together in a small bowl.",
                   "Spread over mixed greens or store in an air tight container in a refrigerator for up to a week.",
-                  "Air fried Chickpeas",
-                  "1 15oz can Garbanzo Beans",
                   "Drain, rinse, and dry chickpeas.",
                   "Place chickpeas in a bowl and add all ingredients mixing well.",
-                  "Set air fryer to 390 degrees and cook for 10-12 minutes.",
-                  ""
+                  "Set air fryer to 390 degrees and cook for 10-12 minutes."
               ]
 },
 {
@@ -7475,8 +7921,7 @@ const RECIPES = [
                   "Toast or grill slices of bread and set aside.",
                   "In a large non stick pan heat olive oil over medium heat.",
                   "Fry eggs to your liking, preferably sunny side up.",
-                  "Assemble your sandwich by spreading garlic mayo on bread, topping off with mixed greens, tomato slices, 2 slices of prosciutto, 1 egg, and season with fresh ground pepper.",
-                  ""
+                  "Assemble your sandwich by spreading garlic mayo on bread, topping off with mixed greens, tomato slices, 2 slices of prosciutto, 1 egg, and season with fresh ground pepper."
               ]
 },
 {
@@ -7507,14 +7952,14 @@ const RECIPES = [
                                                "1 tbsp vinegar",
                                                "1/2 tbsp brown sugar",
                                                "1/2 tsp pepper",
-                                               "1 tbsp water"
+                                               "1 tbsp water",
+                                               "Mixed greens",
+                                               "Salt and pepper"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Mixed greens",
                   "Avocados, sliced",
-                  "Salt and pepper",
                   "Slice salmon fillets into 1/2 slices and lightly seasoned with salt and pepper.",
                   "Heat olive oil on a pan under medium heat.",
                   "Add salmon slices and cook for 3-4 minutes on each side until browned. Set aside and let cool, about 5-10 minutes.",
@@ -7525,8 +7970,7 @@ const RECIPES = [
                   "Dipping sauce",
                   "Shallots, minced",
                   "Cilantro, chopped",
-                  "Combine all ingredients in a bowl and serve with spring rolls.",
-                  ""
+                  "Combine all ingredients in a bowl and serve with spring rolls."
               ]
 },
 {
@@ -7544,48 +7988,55 @@ const RECIPES = [
               ],
     "ingredientGroups":  [
                              {
-                                 "heading":  null,
+                                 "heading":  "Piccata",
                                  "items":  [
-                                               "salt and pepper to taste",
+                                               "2 boneless, skinless chicken breasts, split in half",
+                                               "Salt and pepper to taste",
                                                "1 cup all purpose flour",
-                                               "2 Tbsp Butter",
-                                               "2 Tbsp Olive Oil",
+                                               "2 tbsp butter",
+                                               "2 tbsp olive oil",
                                                "1/2 cup white wine",
                                                "1 cup chicken broth",
-                                               "1 Lemon juiced",
-                                               "1/2 cup Heavy Cream",
-                                               "1/3 cup capers",
+                                               "1 lemon, juiced",
+                                               "1/2 cup heavy cream",
+                                               "1/3 cup capers"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Risotto",
+                                 "items":  [
+                                               "6 cups chicken broth",
                                                "1 tbsp chicken bouillon",
-                                               "2 tbsp olive oil, for mushrooms",
-                                               "2 tbsp olive oil, for sauté shallots",
+                                               "2 tbsp olive oil, for the mushrooms",
+                                               "2 tbsp olive oil, for the shallots",
                                                "4 tbsp butter",
+                                               "2 lbs cremini mushrooms",
+                                               "2 shallots, diced",
+                                               "1 1/2 cups Arborio rice",
+                                               "1/2 cup white wine",
+                                               "Salt and pepper to taste",
+                                               "2 stalks green onions, chopped",
                                                "1/3 cup freshly grated Parmesan cheese"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Heat butter and oil in a large skillet over medium high heat.",
-                  "Season chicken with salt and pepper on each side and dredge in the flour.",
-                  "Put the chicken breasts in the skillet and cook for about 3-4 minutes on each side. Remove from the skillet and set aside on a plate.",
-                  "Keep all chicken bits in the pan and add wine. Cook for 3 minutes under medium heat.",
-                  "Add broth, lemon juice, heavy cream, and capers. Cook for 5 minutes under medium heat.",
+                  "Heat the butter and oil in a large skillet over medium-high heat.",
+                  "Season the chicken with salt and pepper on each side and dredge it in the flour.",
+                  "Cook the chicken for about 3-4 minutes on each side, then remove it from the skillet and set it aside.",
+                  "Keep the browned bits in the pan, add the wine, and cook for 3 minutes over medium heat.",
+                  "Add the broth, lemon juice, heavy cream, and capers, and cook for 5 minutes over medium heat.",
                   "Season with salt and pepper as needed.",
-                  "Serve the chicken with Risotto and spoon the sauce over chicken.",
-                  "6 cups chicken broth",
-                  "2 pounds cremini mushrooms",
-                  "2 shallots, diced",
-                  "5 cups Arborio rice",
-                  "2 stalks green onions, chopped",
-                  "In a saucepan,heat the broth and bouillon over low heat.",
+                  "In a saucepan, heat the broth and bouillon over low heat.",
                   "Heat olive oil in a large saucepan over medium-high heat.",
-                  "Add mushrooms and cook for 5 minutes. Remove mushrooms and set aside.",
-                  "Add olive oil to skillet, and stir in the shallots, cooking for 3-4 minutes.",
-                  "Add rice and mix together shallots.",
-                  "Add wine mixing until the wine is fully absorbed.",
-                  "Add 1 cup broth to the rice, and stir until the broth is absorbed. Continue adding broth 1 cup at a time, stirring continuously, until the liquid is absorbed and the rice is al dente, about 15 to 20 minutes.",
-                  "Add in mushrooms, butter, green onions, and parmesan.",
+                  "Add the mushrooms and cook for 5 minutes, then remove them and set them aside.",
+                  "Add olive oil to the skillet and stir in the shallots, cooking for 3-4 minutes.",
+                  "Add the rice and mix it together with the shallots.",
+                  "Add the wine, mixing until it is fully absorbed.",
+                  "Add the broth 1 cup at a time, stirring continuously, until the liquid is absorbed and the rice is al dente, about 15-20 minutes.",
+                  "Stir in the mushrooms, butter, green onions, and Parmesan.",
                   "Season with salt and pepper to taste.",
-                  "Serve immediately with chicken piccata. Enjoy."
+                  "Serve the chicken piccata over the risotto and spoon the sauce over the chicken."
               ]
 },
 {
@@ -7632,8 +8083,7 @@ const RECIPES = [
                   "Add garbanzo beans, carrots, liverwurst, hot dogs, red bell peppers, tomatoes, and tomato paste. Simmer for 15 minutes in medium heat with lid on, stirring occasionally.",
                   "Add sugar and green peas then simmer for 10 more minutes.",
                   "Add additional salt and pepper if needed.",
-                  "Serve hot with a side of steamed rice.",
-                  ""
+                  "Serve hot with a side of steamed rice."
               ]
 },
 {
@@ -7672,8 +8122,7 @@ const RECIPES = [
                   "In a square casserole dish, spoon a thin layer of tomato sauce on the bottom.",
                   "Place a single layer of fried eggplant slices, followed by a layer of sauce, mozzarella slices, and Parmesan. Do this for 2 layers.",
                   "Bake in 350 F oven for 25 minutes or until the cheese is well melted and slightly brown.",
-                  "Serve with pasta noodles and garnish with extra parsley. Enjoy!",
-                  ""
+                  "Serve with pasta noodles and garnish with extra parsley. Enjoy!"
               ]
 },
 {
@@ -7725,7 +8174,7 @@ const RECIPES = [
                   "On medium-high heat add additional olive oil (2 tbsp) to sauté garlic and ginger. Cook for 1 minute.",
                   "Add the sauce mixture and it will thicken after just a few seconds.",
                   "Add the chicken and broccoli into the wok combining mixture. Cook for 2-4 minutes on high heat while stirring.",
-                  "Serve with steamed rice. ————————————————————————"
+                  "Serve with steamed rice."
               ]
 },
 {
@@ -7761,8 +8210,7 @@ const RECIPES = [
                   "Remove Tilapia from pan and set aside.",
                   "Using the same pan, deglaze with white wine and lemon juice, cook for 2-3 minutes on Medium heat.",
                   "Add bouillon and capers, cook for another minute then add heavy cream stirring and reducing to thicken.",
-                  "Serve tilapia with rice or mashed potatoes and your favorite veggies. Pour the sauce over the tilapia before serving.",
-                  ""
+                  "Serve tilapia with rice or mashed potatoes and your favorite veggies. Pour the sauce over the tilapia before serving."
               ]
 },
 {
@@ -7805,8 +8253,7 @@ const RECIPES = [
                   "Add hot dogs and cook for 3 minutes.",
                   "Add pasta sauce, banana ketchup, bay leaves, and sugar. Cook for 10-15 on low/medium heat. Taste and add additional sugar for desired sweetness.",
                   "Add cheese and cook for another 5 minutes or until cheese is fully melted.",
-                  "Combine the noodles and the sauce in a large pot or mixing bowl.",
-                  ""
+                  "Combine the noodles and the sauce in a large pot or mixing bowl."
               ]
 },
 {
@@ -7848,7 +8295,7 @@ const RECIPES = [
                   "Bake for about 40 minutes until meat looks cooked.",
                   "Remove the pork from oven and discard the salt crust. Wipe off any excess salt left behind.",
                   "Increase oven to 465°F and cook for another 30 minutes or until skin is crispy.",
-                  "Rest for a couple minutes and serve with Mang Tomas or Sawsawan (Soy Sauce/Vinegar sauce) ————————————————————————"
+                  "Rest for a couple minutes and serve with Mang Tomas or Sawsawan (Soy Sauce/Vinegar sauce)"
               ]
 },
 {
@@ -7868,16 +8315,30 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "3 tbsp Salt",
-                                               "1/4 cup Smoked Paprika",
-                                               "3 tsp Ground pepper",
-                                               "1 tsp Chipotle pepper",
-                                               "2 tsp Garlic powder",
-                                               "2 tsp Onion powder"
+                                               "Smoked ribs",
+                                               "Asparagus, for bacon wrapping",
+                                               "Bacon",
+                                               "Chicken, for bacon wrapping",
+                                               "Favorite BBQ sauce"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Pork Rub",
+                                 "items":  [
+                                               "1 cup brown sugar",
+                                               "3 tbsp salt",
+                                               "1/4 cup smoked paprika",
+                                               "3 tsp ground pepper",
+                                               "1 tsp chipotle pepper",
+                                               "2 tsp garlic powder",
+                                               "2 tsp onion powder"
                                            ]
                          }
                          ],
     "steps":  [
+                  "Mix all of the pork rub ingredients together.",
+                  "Season the smoked ribs, bacon wrapped asparagus, and bacon wrapped chicken with the house rub.",
+                  "Smoke everything low and slow, then finish with your favorite BBQ sauce."
               ]
 },
 {
@@ -7907,8 +8368,7 @@ const RECIPES = [
                   "In a mixing bowl, whisk together the eggs, cheese, cream, and freshly-ground black pepper.",
                   "Add the pasta, cooked Pancetta, and peas to the sauté pan, tossing for a minute so that it is evenly distributed.",
                   "Remove the pan from the heat and add the egg and cheese mixture, evenly coating the sauce with the pasta.",
-                  "Garnish with parsley and serve immediately.",
-                  ""
+                  "Garnish with parsley and serve immediately."
               ]
 },
 {
@@ -7946,8 +8406,7 @@ const RECIPES = [
                   "Add the shrimp in a single layer. Cook for 3-4 minutes on one side, then turn the shrimp and add chopped garlic.",
                   "Cook for 3-4 minutes on the other side until shrimp is fully cooked.",
                   "Squeeze a little bit of fresh lemon juice over the shrimp.",
-                  "Serve with a side of white rice and a lemon wedge.",
-                  ""
+                  "Serve with a side of white rice and a lemon wedge."
               ]
 },
 {
@@ -8000,8 +8459,7 @@ const RECIPES = [
                   "In a small bowl, combine the ingredients for the dressing and stir until sugar is dissolved.",
                   "Combine veggies, toppings, and pork in a bowl and mix well.",
                   "Add the dressing to the pork and veggie mixture.",
-                  "Serve with your choice of lettuce cups, cabbage cups, or cucumbers.",
-                  ""
+                  "Serve with your choice of lettuce cups, cabbage cups, or cucumbers."
               ]
 },
 {
@@ -8037,8 +8495,7 @@ const RECIPES = [
                   "Combine pork with all ingredients. Marinade the pork for at least 4 hours, preferably overnight.",
                   "Set smoker to 160 and cook for 30 minutes.",
                   "Increase heat to 375 and grill for another 20 minutes or until fully cooked.",
-                  "Serve with steamed rice and a side soy sauce with a squeeze of lemon juice.",
-                  ""
+                  "Serve with steamed rice and a side soy sauce with a squeeze of lemon juice."
               ]
 },
 {
@@ -8073,6 +8530,8 @@ const RECIPES = [
                              {
                                  "heading":  "Garnish",
                                  "items":  [
+                                               "2-3 green onions, chopped",
+                                               "Cilantro"
                                            ]
                          }
                          ],
@@ -8083,7 +8542,7 @@ const RECIPES = [
                   "Set smoker to 160 and smoke for 30 minutes.",
                   "Increase temp to 350 for about 30 minutes and until internal temp reaches 160.",
                   "Transfer to plate and garnish with green onions and cilantro.",
-                  "Serve with steamed rice and enjoy! ————————————————————————"
+                  "Serve with steamed rice and enjoy!"
               ]
 },
 {
@@ -8136,8 +8595,7 @@ const RECIPES = [
                   "Add sauce mixture and cook 2-3 minute stirring occasionally until sauce thickens.",
                   "Add tofu and mix together.",
                   "Top off with prices of cilantro.",
-                  "Serve with rice and Broccolini.",
-                  ""
+                  "Serve with rice and Broccolini."
               ]
 },
 {
@@ -8184,7 +8642,7 @@ const RECIPES = [
                   "Add the 4 cups of water or enough water to cover the meat.",
                   "Set Instant Pot to pressure cook for 45 minutes and NPR for 15 minutes.",
                   "Shred beef.",
-                  "Serve with diced onions, chopped cilantro, guacamole, and tortillas. ————————————————————————"
+                  "Serve with diced onions, chopped cilantro, guacamole, and tortillas."
               ]
 },
 {
@@ -8222,8 +8680,7 @@ const RECIPES = [
                   "Divide the meat into 8 portions.",
                   "Portion each one around a long metal skewers and shape evenly.",
                   "Place the skewers on a hot grill on medium high heat. You can also grill on the Traeger at 350 degrees for 25-30 minutes or until IT reaches 160 degrees.",
-                  "Turn frequently to brown and then cook each side for a few minutes.",
-                  ""
+                  "Turn frequently to brown and then cook each side for a few minutes."
               ]
 },
 {
@@ -8277,8 +8734,7 @@ const RECIPES = [
                   "Add green onions and yellow onions to the pan and cook for about 15 seconds.",
                   "Add the noodles back into to the wok and mix well.",
                   "Add the sauce mixture and toss all ingredients together.",
-                  "Add the bean sprouts, combining everything together. You want the sprouts to be cooked but still crunchy. Enjoy",
-                  ""
+                  "Add the bean sprouts, combining everything together. You want the sprouts to be cooked but still crunchy. Enjoy"
               ]
 },
 {
@@ -8308,7 +8764,7 @@ const RECIPES = [
                   "Combine all ingredients in a zip lock back and marinate for at least an hour.",
                   "Set smoker to 160 and smoke for about 30 minutes.",
                   "Increase heat to 375 and cook for another 30 minutes checking for internal temperature of 165.",
-                  "Pull off grill and rest for 5 minutes. ————————————————————————"
+                  "Pull off grill and rest for 5 minutes."
               ]
 },
 {
@@ -8344,8 +8800,7 @@ const RECIPES = [
                   "Combine pork with all ingredients. Marinade the pork for at least 4 hours, preferably overnight.",
                   "Set smoker to 160 and cook for 30 minutes.",
                   "Increase heat to 375 and grill for another 20 minutes or until fully cooked.",
-                  "Serve with steamed rice and a side soy sauce with a squeeze of lemon juice.",
-                  ""
+                  "Serve with steamed rice and a side soy sauce with a squeeze of lemon juice."
               ]
 },
 {
@@ -8372,21 +8827,21 @@ const RECIPES = [
                                                "6 tbsp of Quoc Viet Hu Tieu Soup Base",
                                                "Toppings",
                                                "Quail Eggs",
-                                               "Cooked Shrimp"
+                                               "Cooked Shrimp",
+                                               "Fried Garlic",
+                                               "Lotus root"
                                            ]
                          }
                          ],
     "steps":  [
                   "Fish Cake, sliced",
                   "Yellow Egg noodles (thin, yellow), Blanch in boiling water for 1 min.",
-                  "Fried Garlic",
-                  "Lotus root",
                   "Chopped green onion",
                   "Place all broth ingredients into an instant pot and add 6 cups of water. Set Pressure Cook for 25 minutes high pressure, with 25 minutes NPR.",
                   "Once the 25 minutes NPR is reached, Remove and discard onion, daikon and carrot. Add an additional 4 cups of water and set to sauté to heat.",
                   "Serve in a large bowl, add noodles, meat, shrimp, and fish cakes.",
                   "Add hot broth directly into the bowl.",
-                  "Add fried garlic, bean sprouts, eggs, cilantro, lotus root, and green onions. ————————————————————————"
+                  "Add fried garlic, bean sprouts, eggs, cilantro, lotus root, and green onions."
               ]
 },
 {
@@ -8430,8 +8885,7 @@ const RECIPES = [
                   "Add the Kangkong leaves and simmer for 5 minutes.",
                   "Add the green beans, eggplant, and okra. Cover the pot and cook for 5 minutes.",
                   "Add more Sinigang powder if you want it more sour.",
-                  "Serve hot with a side of steamed rice.",
-                  ""
+                  "Serve hot with a side of steamed rice."
               ]
 },
 {
@@ -8480,7 +8934,7 @@ const RECIPES = [
                   "Add diced tomatoes and tomato sauce. Cook for 10 minutes.",
                   "Add sausages and cook for another 30 minutes.",
                   "Skim off oil.",
-                  "Serve hot, topping off with shredded cheese and green onions. ————————————————————————"
+                  "Serve hot, topping off with shredded cheese and green onions."
               ]
 },
 {
@@ -8517,8 +8971,7 @@ const RECIPES = [
                   "Remove the potatoes, and allow to cool. Once cooked, dice up potatoes into big chunks.",
                   "Place the diced potatoes into a bowl with the bacon, and mix in the sour cream, mayonnaise, butter, Cheddar cheese, green onions, vinegar, salt, and pepper. Save some shredded cheese and green onions to use as garnish.",
                   "Garnish salad with reserved green onions and shredded cheese.",
-                  "Refrigerate overnight before serving.",
-                  ""
+                  "Refrigerate overnight before serving."
               ]
 },
 {
@@ -8551,8 +9004,7 @@ const RECIPES = [
                   "Remove from grill, add butter, and tightly wrap with foil.",
                   "Add back to grill and cook until internal temp reached 203. Start probing the roast to check for tenderness. The Probe Thermometer should go into the meat with very little tension. If the meat still seems tough just continue cooking.",
                   "Remove from grill and let it rest for about 30 minutes. (DO NOT OPEN FOIL)",
-                  "Slice and serve.",
-                  ""
+                  "Slice and serve."
               ]
 },
 {
@@ -8602,8 +9054,7 @@ const RECIPES = [
                   "Remove the meat and strain the cooking liquid into a large bowl, and then add 2-3 cups of the liquid back to the pot.",
                   "Add the meat, sauce ingredients, and optional eggs to the pot. Bring it to a boil over medium heat and cook for another 20 minutes.",
                   "Shred beef and serve over rice, adding pieces of shishito peppers, shiitake mushrooms, and slice of butter.",
-                  "Drizzle some sauce over entire bowl and serve with some chopped up scallions.",
-                  ""
+                  "Drizzle some sauce over entire bowl and serve with some chopped up scallions."
               ]
 },
 {
@@ -8647,7 +9098,7 @@ const RECIPES = [
                   "Add 2 eggs and scramble. Combine eggs and veggies and mix well for about a minute then set aside.",
                   "Add the remaining oil and throw in the rice noodles. Pour in the soy sauce mixture and stir fry for 2-3 minutes, until noodles loosen up.",
                   "Toss in the carrot, Chinese broccoli, eggs, and cooked beef. Keep mixing until ingredients are combined.",
-                  "Sprinkle fresh cilantro (optional) and serve! ————————————————————————"
+                  "Sprinkle fresh cilantro (optional) and serve!"
               ]
 },
 {
@@ -8697,8 +9148,7 @@ const RECIPES = [
                   "Add the rest of ingredients for the katsudon sauce. Cover and bring it to a boil over medium heat. Once boiling, lower the heat to medium and cook the onion, covered for about 5 minutes.",
                   "Add chicken katsu over the onion. Evenly distribute the beaten egg over the chicken katsu and onion. Cover to cook until the egg is set to your liking, roughly 1-2 minutes.",
                   "Sprinkle green onions.",
-                  "Serve with steamed rice.",
-                  ""
+                  "Serve with steamed rice."
               ]
 },
 {
@@ -8742,8 +9192,7 @@ const RECIPES = [
                   "Add about 2-3 tablespoon of kimchi sauce",
                   "Add half of the chopped scallions and save the other half as garnish",
                   "Add cooked eggs and Add red chili flakes (optional), mix well.",
-                  "Taste and add salt as needed. Enjoy!",
-                  ""
+                  "Taste and add salt as needed. Enjoy!"
               ]
 },
 {
@@ -8777,7 +9226,7 @@ const RECIPES = [
                   "Marinate the beef by adding the sliced beef to a large zip lock bag and pour in the marinade. Mix well and refrigerate for 48 hours for best taste. You can do overnight, but the longer the better.",
                   "Set your smoker to 160 degrees or smoke settings and smoke for 3-4 hours checking that the meat is drying evenly. Meat is done when it is dry, bendable, but not soft.",
                   "Remove meat from grill and place into a zip lock bag to add back some moisture back to the meat.",
-                  "Store in refrigerator and enjoy!!!————————————————————————"
+                  "Store in refrigerator and enjoy!!!"
               ]
 },
 {
@@ -8794,14 +9243,24 @@ const RECIPES = [
                   "2-3 pounds of party chicken wings Salt and pepper 1/2-1 stick of butter 1/2 cup favorite Hot sauce Ranch dressing"
               ],
     "ingredientGroups":  [
+                             {
+                                 "heading":  null,
+                                 "items":  [
+                                               "2-3 lbs party chicken wings",
+                                               "Salt and pepper",
+                                               "1/2-1 stick butter",
+                                               "1/2 cup favorite hot sauce",
+                                               "Ranch dressing, for serving"
+                                           ]
+                         }
                          ],
     "steps":  [
-                  "Set air fryer to 360 degrees and cook chicken for 12 minutes.",
-                  "Flip chicken and cook for another 12 minutes.",
-                  "Set air fryer to 390 degrees and cook for another 5-6 minutes adding more time for extra crispy.",
-                  "Melt butter in a sauce pan and add about hot sauce. Adjust more or less to liking.",
-                  "Toss wings with hot sauce and serve with a side of ranch dressing (optional)",
-                  ""
+                  "Lightly season the chicken with salt and pepper.",
+                  "Set the air fryer to 360°F and cook the chicken for 12 minutes.",
+                  "Flip the chicken and cook for another 12 minutes.",
+                  "Set the air fryer to 390°F and cook for another 5-6 minutes, adding more time for extra crispiness.",
+                  "Melt the butter in a saucepan and add the hot sauce, adjusting to taste.",
+                  "Toss the wings with the hot sauce and serve with a side of ranch dressing (optional)."
               ]
 }
 ];

@@ -1075,7 +1075,6 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "Castelvetrano olives, sliced",
                   "Castelvetrano olives (12–15, chopped)",
                   "1 shallot, chopped",
                   "4 garlic cloves, minced",
@@ -1118,7 +1117,6 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "1 small cabbage, chopped",
                   "Blanch noodles in boiling water with soy sauce & salt. Set aside.",
                   "Season & sear Iberico flank steak (1–2 min per side). Set aside.",
                   "Cook Chinese sausage & shrimp (1 min per side). Remove.",
@@ -4039,8 +4037,7 @@ const RECIPES = [
     "steps":  [
                   "Smoked steak until IT hits 130 degrees over lump charcoal and Pecan wood blocks. The end result will be about Medium.",
                   "Increase heat to 500 degrees and sear both sides of steak.",
-                  "Let rest for 10-15 minutes before serving.",
-                  "1-2 garlic cloves, minced"
+                  "Let rest for 10-15 minutes before serving."
               ]
 },
 {
@@ -6831,7 +6828,6 @@ const RECIPES = [
                          }
                          ],
     "steps":  [
-                  "Olive oil",
                   "Cut salmon into 2 inch cubes",
                   "Season salmon with salt, pepper, and garlic powder.",
                   "In a frying pan, heat olive oil on medium/high heat.",
@@ -7941,36 +7937,40 @@ const RECIPES = [
                                  "heading":  null,
                                  "items":  [
                                                "Salmon rolls",
-                                               "Three Ladies Rice Paper",
-                                               "2 Salmon fillets, sliced 1/2” thick",
+                                               "Three Ladies rice paper",
+                                               "2 salmon fillets, sliced 1/2-inch thick",
+                                               "Avocados, sliced",
                                                "Cilantro, separated",
                                                "Jalapeño, sliced",
-                                               "Green onions, sliced into 2”",
-                                               "2 tbsp Olive oil",
-                                               "1 clove garlic, minced",
+                                               "Green onions, sliced into 2-inch pieces",
+                                               "Mixed greens",
+                                               "Salt and pepper",
+                                               "2 tbsp olive oil"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Dipping Sauce",
+                                 "items":  [
                                                "2 tbsp soy sauce",
                                                "1 tbsp vinegar",
                                                "1/2 tbsp brown sugar",
                                                "1/2 tsp pepper",
+                                               "1 clove garlic, minced",
                                                "1 tbsp water",
-                                               "Mixed greens",
-                                               "Salt and pepper"
+                                               "1 shallot, minced",
+                                               "1 tbsp cilantro, chopped"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Avocados, sliced",
-                  "Slice salmon fillets into 1/2 slices and lightly seasoned with salt and pepper.",
-                  "Heat olive oil on a pan under medium heat.",
-                  "Add salmon slices and cook for 3-4 minutes on each side until browned. Set aside and let cool, about 5-10 minutes.",
-                  "In large plate or large shallow dish, add warm water. This will be used to dip the rice paper to assemble the rolls.",
-                  "Dip rice paper into water and soak for 10 seconds and place on a cutting board.",
-                  "Add salmon, avocado, jalapeños, green onions, cilantro, and small amount of mixed greens on top of rice paper. Roll and set aside.",
-                  "Serve with dipping sauce sauce.",
-                  "Dipping sauce",
-                  "Shallots, minced",
-                  "Cilantro, chopped",
-                  "Combine all ingredients in a bowl and serve with spring rolls."
+                  "Slice the salmon fillets into 1/2-inch slices and lightly season with salt and pepper.",
+                  "Heat the olive oil in a pan over medium heat.",
+                  "Add the salmon slices and cook for 3-4 minutes on each side until browned. Set aside and let cool, about 5-10 minutes.",
+                  "In a large shallow dish, add warm water; this will be used to soften the rice paper.",
+                  "Dip the rice paper into the water for about 10 seconds and place it on a cutting board.",
+                  "Add the salmon, avocado, jalapeños, green onions, cilantro, and a small amount of mixed greens on top of the rice paper, then roll and set aside.",
+                  "Whisk all of the dipping sauce ingredients together in a bowl.",
+                  "Serve the rolls with the dipping sauce."
               ]
 },
 {

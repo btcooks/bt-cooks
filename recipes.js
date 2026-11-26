@@ -3200,57 +3200,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "crispy-scorpion-wings",
-    "title":  "Crispy Scorpion Wings",
-    "date":  "2024-09-25",
-    "category":  "Wings",
-    "image":  "images/recipes/crispy-scorpion-wings.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Crispy Scorpion Wings. Rotisserie wings are FIYAH. All cooked on the Kamado Joe using the Joetisserie and basket. Ingredients:\n3-4 pounds chicken wings\n1 1/2 cups all-purpose flour\n2 tsp cornstarch\n1 tsp baking powder\n2 tsp smoked paprika\n1 tsp Italian seasoning\n1 tbsp salt\n1/2 tsp garlic powder\n1/2 tsp onion powder\n1/2 tsp black pepper\n@blazingstarbbq Scorpion Rub\nOlive oil 1. Combine all ingredients. 2. Spray chicken with cooking oil before placing on the grill.\n3. Grill indirect at 350° for 30-45 minutes\n4. Bump up heat to 400° and spread coals directly under and cook until crispy. Cilantro Dressing:\nBundle of Cilantro\n1 cup of Mayonnaise 1 garlic clove\n1/2 tbsp salt\n1 tsp back pepper\n1 lime, juiced 1. Combine all ingredients in a blender until smooth. @kamadojoe Konnected Joe. @thegoodcharcoal Lump Charcoal. @cleanspaceproject Nitrile Gloves ————————————————————————\n#btcooks #rotisserie #chickenwings #rotisseriewings #teamred #kamadojoe",
-    "description":  "Rotisserie wings are FIYAH. All cooked on the Kamado Joe using the Joetisserie and basket.",
-    "likes":  0,
-    "intro":  [
-                  "Rotisserie wings are FIYAH. All cooked on the Kamado Joe using the Joetisserie and basket."
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "3-4 pounds chicken wings",
-                                               "1 1/2 cups all-purpose flour",
-                                               "2 tsp cornstarch",
-                                               "1 tsp baking powder",
-                                               "2 tsp smoked paprika",
-                                               "1 tsp Italian seasoning",
-                                               "1 tbsp salt",
-                                               "1/2 tsp garlic powder",
-                                               "1/2 tsp onion powder",
-                                               "1/2 tsp black pepper",
-                                               "@blazingstarbbq Scorpion Rub",
-                                               "Olive oil"
-                                           ]
-                         },
-                             {
-                                 "heading":  "Cilantro Dressing",
-                                 "items":  [
-                                               "1 bundle cilantro",
-                                               "1 cup mayonnaise",
-                                               "1 garlic clove",
-                                               "1/2 tbsp salt",
-                                               "1 tsp black pepper",
-                                               "1 lime, juiced"
-                                           ]
-                         }
-                         ],
-    "steps":  [
-                  "Combine all of the wing ingredients.",
-                  "Spray the chicken with cooking oil before placing it on the grill.",
-                  "Grill indirect at 350°F for 30-45 minutes.",
-                  "Bump up the heat to 400°F, spread the coals directly under the wings, and cook until crispy.",
-                  "Combine all of the dressing ingredients in a blender until smooth."
-              ]
-},
-{
     "id":  "adobo-ribs-or-chamorro-bbq-ribs",
     "title":  "Adobo Ribs or Chamorro BBQ Ribs",
     "date":  "2024-09-20",

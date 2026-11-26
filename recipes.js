@@ -5121,35 +5121,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "pog-citrus-cooler",
-    "title":  "POG Citrus Cooler",
-    "date":  "2023-08-23",
-    "category":  "Other",
-    "image":  "images/recipes/pog-citrus-cooler.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "POG Citrus Cooler. This drink is dangerous. My friends at @dkhawaiian have a perfect POG syrup that can be used for anything, especially for this drink to cool you down during these hot summer days. Paired with @titosvodka and citrus sparkling water, it’s like sipping on juice. 2 shots of Vodka 2 shots of POG Syrup 4oz Citrus sparkling water\nHandful ice cubes Combine together and enjoy! @dkhawaiian @titosvodka ————————————————————————\n#btcooks #traeger #traegergrills #kamadojoe #kamadogrill #instadaily #bbqlovers #smoker #bbqporn #outdoorcooking #bbq #grilling #backyardgrilling #food #foodporn #tasty #igfood #easyrecipes #delicious #foodvideo #recipes #foodreels #reelfood #reelsinstagram #alcohol #mixeddrinks #vodka #pog #drunk #drinks",
-    "description":  "POG Citrus Cooler",
-    "likes":  0,
-    "intro":  [
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "2 shots of Vodka",
-                                               "2 shots of POG Syrup",
-                                               "4oz Citrus sparkling water",
-                                               "Handful ice cubes"
-                                           ]
-                         }
-                         ],
-    "steps":  [
-                  "Fill a glass with ice.",
-                  "Add the vodka and POG syrup, then top with citrus sparkling water.",
-                  "Stir gently and enjoy."
-              ]
-},
-{
     "id":  "smoked-beef-ribs",
     "title":  "Smoked Beef Ribs",
     "date":  "2023-08-17",

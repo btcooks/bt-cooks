@@ -3165,41 +3165,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "smoked-tritip-queso-dip",
-    "title":  "Smoked Tritip Queso Dip",
-    "date":  "2024-09-30",
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/smoked-tritip-queso-dip.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Smoked Tritip Queso Dip. * 1 block of cream cheese\n* 1 block of Velveeta cheese (32 oz) or your favorite cheese. * 1 can low sodium cream of mushroom\n* 1/4 cup milk * 2 tomatoes, diced\n* Favorite cooked protein (tritip, brisket, or ground beef)\n* 2 Jalapeños, cored and diced\n* 2 Green onions, chopped * @BlazingStarBBQ Pork n Rub 1. Add cheese, cream of mushroom, milk, and protein into a pan. 2. Lightly drizzle seasoning over cheese. 3. Place on grill indirect and smoke at 300°, about 45 minutes or until cheese has melted. 4. Add Jalapeños, tomatoes, and mix melted cheese together, cook for another 15 minutes. 5. Top off with fresh green onions. 6. Serve with tortilla chips and enjoy!. @kamadojoe Konnected Joe. @thegoodcharcoal Lump Charcoal. @meatermade Meater Pro XL. @cleanspaceproject Nitrile Gloves ————————————————————————\n#btcooks #tritip #smokedqueso #dip #gameday #teamred #kamadojoe #meater",
-    "description":  "* 1 block of cream cheese",
-    "likes":  0,
-    "intro":  [
-                  "* 1 block of cream cheese"
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "* 1 can low sodium cream of mushroom",
-                                               "* 1/4 cup milk",
-                                               "* 2 tomatoes, diced",
-                                               "* 2 Jalapeños, cored and diced",
-                                               "2 Green onions, chopped",
-                                               "@BlazingStarBBQ Pork n Rub"
-                                           ]
-                         }
-                         ],
-    "steps":  [
-                  "Add cheese, cream of mushroom, milk, and protein into a pan.",
-                  "Lightly drizzle seasoning over cheese.",
-                  "Place on grill indirect and smoke at 300°, about 45 minutes or until cheese has melted.",
-                  "Add Jalapeños, tomatoes, and mix melted cheese together, cook for another 15 minutes.",
-                  "Top off with fresh green onions.",
-                  "Serve with tortilla chips and enjoy!"
-              ]
-},
-{
     "id":  "adobo-ribs-or-chamorro-bbq-ribs",
     "title":  "Adobo Ribs or Chamorro BBQ Ribs",
     "date":  "2024-09-20",

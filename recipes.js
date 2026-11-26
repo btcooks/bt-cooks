@@ -8600,13 +8600,13 @@ const RECIPES = [
 },
 {
     "id":  "birria-tacos-are",
-    "title":  "Birria Tacos are .",
+    "title":  "Birria Tacos",
     "date":  "2021-10-23",
     "category":  "Beef \u0026 Steak",
     "image":  "images/recipes/birria-tacos-are.jpg?v=4",
     "instagramUrl":  "https://www.instagram.com/bt.cooks/",
     "caption":  "Birria Tacos are. Taking the shredded beef from this Mexican stew and stuffing it into warm corn tortillas with cheese adding guacamole, onions, and cilantro. Dipping it all into the broth while you eat. Ingredients & Recipe\n4 lbs chuck roast 4 cups water\n5 dried chile guajillo\n2 dried chile ancho\n2 garlic cloves\n1 teaspoon dried oregano\n1 teaspoon dried thyme\n1 clove\n¼ whole cinnamon stick\n1 tablespoon Knorr Beef Bouillon\n2 laurel leaves (or bay leaves)\n2 tablespoons oil\nSalt and pepper 1. Heat a pan and toast the chiles on the griddle for 2-3 minutes. Turning frequently and making sure they do not burn.\n2. Once toasted, transfer to a bowl.\n3. Add 1 cup hot water and let the chiles soak for 5 minutes, or until soft.\n4. Remove seeds and devein the chiles, saving the water.\n5. Add the saved water, the chiles, garlic, oregano, thyme, clove, cinnamon, bouillon into a blender and blend until smooth. Set aside.\n6. In a large pot, heat two tablespoons oil.\n7. Season beef liberally with salt and pepper. 8. Sear the beef on all sides.\n9. Once the meat is brown, transfer to the Instant Pot.\n10. Add the chile mixture from the blender and bay leaves. 11. Add the 4 cups of water or enough water to cover the meat.\n12. Set Instant Pot to pressure cook for 45 minutes and NPR for 15 minutes. 13. Shred beef.\n14. Serve with diced onions, chopped cilantro, guacamole, and tortillas. ————————————————————————\n#yummy #foodporn #sweet #fresh #tasty #delish #delicious #eating #foodpics #hungry #foodgasm #homemadechef #homecooking #homecooks #sd #sdcook #btcooks #foodlover #easyrecipe #easyrecipes #birria #birriatacos #instantpot #beefstew #comfortfood #mexicanfood #tacos #streettacos #guacamole",
-    "description":  "Birria Tacos are.",
+    "description":  "Shredded beef birria tacos with melted cheese, guacamole, onions, and cilantro, dipped in the broth.",
     "likes":  39,
     "intro":  [
               ],

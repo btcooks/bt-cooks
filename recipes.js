@@ -3066,20 +3066,45 @@ const RECIPES = [
                              {
                                  "heading":  null,
                                  "items":  [
-                                               "2 tbsp Capers, optional",
-                                               "4 tbsp Olive oil",
-                                               "1 Shallot, chopped",
-                                               "4 Garlic cloves, minced",
-                                               "1 Lemon, skinned & chopped",
-                                               "1 Lemon juice & Zest",
-                                               "Salt and pepper",
-                                               "Green onions"
+                                               "Pork tenderloin, sliced flat",
+                                               "Prosciutto",
+                                               "Provolone cheese",
+                                               "1 bunch parsley, chopped",
+                                               "1 bunch cilantro, chopped",
+                                               "Lemon wedges",
+                                               "Castelvetrano olives, sliced",
+                                               "Salt"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Dressing",
+                                 "items":  [
+                                               "12-15 Castelvetrano olives, chopped",
+                                               "1 tbsp Calabrian chili paste",
+                                               "2 tbsp capers, optional",
+                                               "4 tbsp olive oil",
+                                               "1 shallot, chopped",
+                                               "4 garlic cloves, minced",
+                                               "1 lemon, skinned and chopped",
+                                               "1 lemon, juiced and zested",
+                                               "Salt and pepper"
+                                           ]
+                         },
+                             {
+                                 "heading":  "Garnishing",
+                                 "items":  [
+                                               "Green onions",
+                                               "Lemon zest"
                                            ]
                          }
                          ],
     "steps":  [
-                  "Lemon zest",
-                  "Grilled over lump charcoal at 350° until my @meatermade Pro XL hit 145°. About an hour."
+                  "Slice the pork tenderloin flat and season with the grilling salt.",
+                  "Layer with prosciutto and provolone, then roll and secure it on the Joetisserie or in the basket.",
+                  "Grill over lump charcoal at 350°F until the internal temperature hits 145°F, about an hour.",
+                  "Mix the chopped olives, Calabrian chili paste, capers, olive oil, shallot, garlic, and lemon together for the dressing.",
+                  "Rest the tenderloin, then slice and spoon the dressing over the top.",
+                  "Garnish with green onions, lemon zest, parsley, cilantro, sliced olives, and lemon wedges."
               ]
 },
 {

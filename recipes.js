@@ -6596,45 +6596,6 @@ const RECIPES = [
               ]
 },
 {
-    "id":  "marinated-smoked-spatchcock-chicken",
-    "title":  "Marinated smoked spatchcock chicken.",
-    "date":  "2023-01-02",
-    "category":  "BBQ \u0026 Smoked",
-    "image":  "images/recipes/marinated-smoked-spatchcock-chicken.jpg?v=4",
-    "instagramUrl":  "https://www.instagram.com/bt.cooks/",
-    "caption":  "Marinated smoked spatchcock chicken. This bird was juicy and packed with flavor. Marinade:\n1 whole Chicken, spatchcocked 1/2 cup olive oil\n1/3 cup soy sauce\n1/2 onion quartered, sliced\n1/2 lemon, juiced\n1/2 orange, juiced\n1 stalk green onions, sliced\n4 cloves garlic, minced\n2 tbsp Italian seasoning 1 tsp smoked paprika\n1 tsp paprika\n1 tbsp Knorr Chicken Bouillon 1 tsp black pepper 1. Combine all ingredients and marinate chicken for at least 6-8 hours, preferably overnight. 2. Smoke at 225 for 30 minutes. 3. Increase heat to 375 and cook until IT hits 165. 4. Optional - Brush butter all over when IT hits 150 to make it extra crispy. ————————————————————————\n#traegergrills #TheMeatStick #homecooking #bbq #lowandslow #backyardgrilling #fitfamily #Foodie #meatlover #instafood #grilllife #foodlover #protein #foodporn #meatporn #tasty #igfood #sd #sdcook #btcooks #easyrecipes #spatchcock #smokedchicken #bbqchicken #marinatedchicken",
-    "description":  "Marinated smoked spatchcock chicken.",
-    "likes":  0,
-    "intro":  [
-              ],
-    "ingredientGroups":  [
-                             {
-                                 "heading":  null,
-                                 "items":  [
-                                               "1 whole Chicken, spatchcocked",
-                                               "1/2 cup olive oil",
-                                               "1/3 cup soy sauce",
-                                               "1/2 onion quartered, sliced",
-                                               "1/2 lemon, juiced",
-                                               "1/2 orange, juiced",
-                                               "1 stalk green onions, sliced",
-                                               "4 cloves garlic, minced",
-                                               "2 tbsp Italian seasoning",
-                                               "1 tsp smoked paprika",
-                                               "1 tsp paprika",
-                                               "1 tbsp Knorr Chicken Bouillon",
-                                               "1 tsp black pepper"
-                                           ]
-                         }
-                         ],
-    "steps":  [
-                  "Combine all ingredients and marinate chicken for at least 6-8 hours, preferably overnight.",
-                  "Smoke at 225 for 30 minutes.",
-                  "Increase heat to 375 and cook until IT hits 165.",
-                  "Optional - Brush butter all over when IT hits 150 to make it extra crispy."
-              ]
-},
-{
     "id":  "beef-marinade-that-i-use-on-mostly-all-my-beef",
     "title":  "Beef marinade that I use on mostly all my beef.",
     "date":  "2022-12-19",
